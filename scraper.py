@@ -93,4 +93,62 @@ def leggi(stato):
 
 def carica(path):
     try:
-        return json.loads(path.read_text(encoding="utf-8"))
+        return json.loads(path.read_text(encoding="utf-8")).get("lotti", [])
+    except (OSError, ValueError):
+        return []
+
+
+def salva(path, lotti):
+    if carica(path) == lotti:
+        print(f"{path.name}: nessuna novità.")
+        return
+    DATA.mkdir(exist_ok=True)
+    path.write_text(
+        json.dumps(
+            {"aggiornato": datetime.now(timezone.utc).isoformat(timespec="seconds"), "lotti": lotti},
+            ensure_ascii=False,
+            indent=1,
+        ),
+        encoding="utf-8",
+    )
+    print(f"{path.name}: scritti {len(lotti)} lotti.")
+
+
+def main():
+    errori = 0
+
+    # 1) vendite attive: sostituiscono il file precedente
+    try:
+        attive = leggi(1)
+        if attive:
+            salva(DATA / "lotti.json", attive)
+        else:
+            print("Nessun lotto attivo letto: lascio lotti.json com'è.", file=sys.stderr)
+            errori += 1
+    except Exception as e:  # noqa: BLE001
+        print("Errore vendite attive:", e, file=sys.stderr)
+        errori += 1
+
+    # 2) vendite concluse: si accumulano nell'archivio
+    try:
+        concluse = leggi(2) + leggi(3)
+        if concluse:
+            archivio = {l["id"]: l for l in carica(DATA / "archivio.json")}
+            for l in concluse:
+                archivio[l["id"]] = l
+            # dalla più recente alla più vecchia (data di termine gg/mm/aaaa hh:mm)
+            def chiave(l):
+                g = re.match(r"(\d+)/(\d+)/(\d+)\s+(\d+):(\d+)", l.get("termine", ""))
+                return tuple(int(x) for x in (g.group(3), g.group(2), g.group(1), g.group(4), g.group(5))) if g else (0,)
+            salva(DATA / "archivio.json", sorted(archivio.values(), key=chiave, reverse=True))
+        else:
+            print("Nessuna vendita conclusa letta: lascio archivio.json com'è.", file=sys.stderr)
+    except Exception as e:  # noqa: BLE001
+        print("Errore archivio:", e, file=sys.stderr)
+        errori += 1
+
+    sys.exit(1 if errori else 0)
+
+
+if __name__ == "__main__":
+    main()
