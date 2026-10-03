@@ -163,7 +163,18 @@ def carica(path):
         return []
 
 
+def pulisci(lotti):
+    """Tiene solo link e foto https (difesa se i dati venissero alterati)."""
+    for l in lotti:
+        for k in ("url", "foto"):
+            v = l.get(k) or ""
+            if v and not re.match(r"^https://[^\s\"'<>]+$", v):
+                l[k] = ""
+    return lotti
+
+
 def salva(path, lotti):
+    lotti = pulisci(lotti)
     if carica(path) == lotti:
         print(f"{path.name}: nessuna novità.")
         return
@@ -189,7 +200,11 @@ def main():
     # 1) vendite attive: sostituiscono il file precedente
     try:
         attive = leggi(1)
-        if attive:
+        prec = len(carica(DATA / "lotti.json"))
+        if attive and prec >= 10 and len(attive) < prec * 0.5:
+            print(f"Lettura sospetta ({len(attive)} contro {prec}): lascio lotti.json com'è.", file=sys.stderr)
+            errori += 1
+        elif attive:
             salva(DATA / "lotti.json", arricchisci(attive, cache, budget))
         else:
             print("Nessun lotto attivo letto: lascio lotti.json com'è.", file=sys.stderr)
