@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-03T10:29:54+00:00",
+ "aggiornato": "2026-10-03T10:39:51+00:00",
  "lotti": [
   {
    "id": "1680859",
@@ -19,6 +19,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "31/08/2026 17:33",
    "dett": true
   },
   {
@@ -39,6 +40,7 @@
    "prezzo_minimo": 402000.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:24",
    "dett": true
   },
   {
@@ -59,6 +61,7 @@
    "prezzo_minimo": 3822.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:26",
    "dett": true
   },
   {
@@ -79,6 +82,7 @@
    "prezzo_minimo": 7837.5,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:27",
    "dett": true
   },
   {
@@ -99,6 +103,7 @@
    "prezzo_minimo": 2301.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:29",
    "dett": true
   },
   {
@@ -119,6 +124,7 @@
    "prezzo_minimo": 33697.5,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:30",
    "dett": true
   },
   {
@@ -139,6 +145,7 @@
    "prezzo_minimo": 37533.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:30",
    "dett": true
   },
   {
@@ -159,6 +166,7 @@
    "prezzo_minimo": 34944.5,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:31",
    "dett": true
   },
   {
@@ -179,6 +187,7 @@
    "prezzo_minimo": null,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:33",
    "dett": true
   },
   {
@@ -199,6 +208,7 @@
    "prezzo_minimo": 3120.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:34",
    "dett": true
   },
   {
@@ -219,6 +229,7 @@
    "prezzo_minimo": 18360.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:37",
    "dett": true
   },
   {
@@ -239,6 +250,7 @@
    "prezzo_minimo": 17800.0,
    "termine_carta": "",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:38",
    "dett": true
   },
   {
@@ -259,6 +271,7 @@
    "prezzo_minimo": 1463.12,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:49",
    "dett": true
   },
   {
@@ -279,6 +292,7 @@
    "prezzo_minimo": 209.02,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:50",
    "dett": true
   },
   {
@@ -299,6 +313,7 @@
    "prezzo_minimo": 418.04,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:53",
    "dett": true
   },
   {
@@ -319,6 +334,7 @@
    "prezzo_minimo": 836.06,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:54",
    "dett": true
   },
   {
@@ -339,6 +355,7 @@
    "prezzo_minimo": 2090.17,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:56",
    "dett": true
   },
   {
@@ -359,6 +376,7 @@
    "prezzo_minimo": 2340.98,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:57",
    "dett": true
   },
   {
@@ -379,6 +397,7 @@
    "prezzo_minimo": 1254.1,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:59",
    "dett": true
   },
   {
@@ -399,6 +418,7 @@
    "prezzo_minimo": 2863.52,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:01",
    "dett": true
   },
   {
@@ -419,6 +439,7 @@
    "prezzo_minimo": 739.92,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:02",
    "dett": true
   },
   {
@@ -439,6 +460,7 @@
    "prezzo_minimo": 5016.39,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:03",
    "dett": true
   },
   {
@@ -459,6 +481,7 @@
    "prezzo_minimo": 1028.36,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:47",
    "dett": true
   },
   {
@@ -479,6 +502,7 @@
    "prezzo_minimo": 2069.27,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:48",
    "dett": true
   },
   {
@@ -499,6 +523,7 @@
    "prezzo_minimo": 1672.13,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:50",
    "dett": true
   },
   {
@@ -519,6 +544,7 @@
    "prezzo_minimo": 1463.12,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:52",
    "dett": true
   },
   {
@@ -539,6 +565,7 @@
    "prezzo_minimo": 543.44,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:53",
    "dett": true
   },
   {
@@ -559,6 +586,7 @@
    "prezzo_minimo": 1881.15,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:55",
    "dett": true
   },
   {
@@ -579,6 +607,7 @@
    "prezzo_minimo": 627.05,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:56",
    "dett": true
   },
   {
@@ -599,6 +628,7 @@
    "prezzo_minimo": 10450.82,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:58",
    "dett": true
   },
   {
@@ -619,6 +649,7 @@
    "prezzo_minimo": 877.87,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:00",
    "dett": true
   },
   {
@@ -639,6 +670,7 @@
    "prezzo_minimo": 1672.13,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:02",
    "dett": true
   },
   {
@@ -659,6 +691,7 @@
    "prezzo_minimo": 10450.82,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:03",
    "dett": true
   },
   {
@@ -679,6 +712,7 @@
    "prezzo_minimo": 877.87,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:04",
    "dett": true
   },
   {
@@ -699,6 +733,7 @@
    "prezzo_minimo": 1672.13,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:05",
    "dett": true
   },
   {
@@ -719,6 +754,7 @@
    "prezzo_minimo": 5267.21,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:06",
    "dett": true
   },
   {
@@ -739,6 +775,7 @@
    "prezzo_minimo": 9363.94,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:07",
    "dett": true
   },
   {
@@ -759,6 +796,7 @@
    "prezzo_minimo": 8360.66,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:09",
    "dett": true
   },
   {
@@ -779,6 +817,7 @@
    "prezzo_minimo": 961.48,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:10",
    "dett": true
   },
   {
@@ -799,6 +838,7 @@
    "prezzo_minimo": 1128.69,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:12",
    "dett": true
   },
   {
@@ -819,6 +859,7 @@
    "prezzo_minimo": 668.85,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:12",
    "dett": true
   },
   {
@@ -839,6 +880,7 @@
    "prezzo_minimo": 627.05,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:14",
    "dett": true
   },
   {
@@ -859,6 +901,7 @@
    "prezzo_minimo": 1045.08,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:15",
    "dett": true
   },
   {
@@ -879,6 +922,7 @@
    "prezzo_minimo": 627.05,
    "termine_carta": "08/10/2026 13:00",
    "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:17",
    "dett": true
   },
   {
@@ -899,6 +943,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 12:47",
    "dett": true
   },
   {
@@ -919,6 +964,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:52",
    "dett": true
   },
   {
@@ -939,6 +985,7 @@
    "prezzo_minimo": 36750.0,
    "termine_carta": "",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "27/07/2026 18:30",
    "dett": true
   },
   {
@@ -959,6 +1006,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "22/09/2026 15:53",
    "dett": true
   },
   {
@@ -979,6 +1027,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "22/09/2026 15:53",
    "dett": true
   },
   {
@@ -999,6 +1048,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "22/09/2026 15:54",
    "dett": true
   },
   {
@@ -1019,6 +1069,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "22/09/2026 15:55",
    "dett": true
   },
   {
@@ -1039,6 +1090,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "25/08/2026 11:25",
    "dett": true
   },
   {
@@ -1059,6 +1111,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:53",
    "dett": true
   },
   {
@@ -1079,6 +1132,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:55",
    "dett": true
   },
   {
@@ -1099,6 +1153,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:56",
    "dett": true
   },
   {
@@ -1119,6 +1174,7 @@
    "prezzo_minimo": null,
    "termine_carta": "05/10/2026 13:00",
    "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:58",
    "dett": true
   },
   {
@@ -1139,6 +1195,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "10/09/2026 16:02",
    "dett": true
   },
   {
@@ -1159,6 +1216,7 @@
    "prezzo_minimo": null,
    "termine_carta": "12/10/2026 13:00",
    "termine_bonifico": "12/10/2026 13:00",
+   "pubblicata": "10/09/2026 16:04",
    "dett": true
   },
   {
@@ -1179,6 +1237,7 @@
    "prezzo_minimo": 55992.36,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "28/08/2026 18:24",
    "dett": true
   },
   {
@@ -1199,6 +1258,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:10",
    "dett": true
   },
   {
@@ -1219,6 +1279,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:10",
    "dett": true
   },
   {
@@ -1239,6 +1300,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:11",
    "dett": true
   },
   {
@@ -1259,6 +1321,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:12",
    "dett": true
   },
   {
@@ -1279,6 +1342,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:12",
    "dett": true
   },
   {
@@ -1299,6 +1363,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:24",
    "dett": true
   },
   {
@@ -1319,6 +1384,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:25",
    "dett": true
   },
   {
@@ -1339,6 +1405,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:26",
    "dett": true
   },
   {
@@ -1359,6 +1426,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:27",
    "dett": true
   },
   {
@@ -1379,6 +1447,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:28",
    "dett": true
   },
   {
@@ -1399,6 +1468,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:29",
    "dett": true
   },
   {
@@ -1419,6 +1489,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:29",
    "dett": true
   },
   {
@@ -1439,6 +1510,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:30",
    "dett": true
   },
   {
@@ -1459,6 +1531,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:31",
    "dett": true
   },
   {
@@ -1479,6 +1552,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:32",
    "dett": true
   },
   {
@@ -1499,6 +1573,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:32",
    "dett": true
   },
   {
@@ -1519,6 +1594,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:35",
    "dett": true
   },
   {
@@ -1539,6 +1615,7 @@
    "prezzo_minimo": null,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:36",
    "dett": true
   },
   {
@@ -1559,6 +1636,7 @@
    "prezzo_minimo": 156.76,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:19",
    "dett": true
   },
   {
@@ -1579,6 +1657,7 @@
    "prezzo_minimo": 188.11,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:17",
    "dett": true
   },
   {
@@ -1599,6 +1678,7 @@
    "prezzo_minimo": 163.03,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:12",
    "dett": true
   },
   {
@@ -1619,6 +1699,7 @@
    "prezzo_minimo": 94.06,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:06",
    "dett": true
   },
   {
@@ -1639,6 +1720,7 @@
    "prezzo_minimo": 266.5,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:09",
    "dett": true
   },
   {
@@ -1659,6 +1741,7 @@
    "prezzo_minimo": 56.43,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:27",
    "dett": true
   },
   {
@@ -1679,6 +1762,7 @@
    "prezzo_minimo": 22921.88,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 13:58",
    "dett": true
   },
   {
@@ -1699,6 +1783,7 @@
    "prezzo_minimo": 62.7,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:30",
    "dett": true
   },
   {
@@ -1719,6 +1804,7 @@
    "prezzo_minimo": 43.89,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:37",
    "dett": true
   },
   {
@@ -1739,6 +1825,7 @@
    "prezzo_minimo": 62.7,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:40",
    "dett": true
   },
   {
@@ -1759,6 +1846,7 @@
    "prezzo_minimo": 94.06,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:41",
    "dett": true
   },
   {
@@ -1779,6 +1867,7 @@
    "prezzo_minimo": 94.06,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:45",
    "dett": true
   },
   {
@@ -1799,6 +1888,7 @@
    "prezzo_minimo": 78.38,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:55",
    "dett": true
   },
   {
@@ -1819,6 +1909,7 @@
    "prezzo_minimo": 82.14,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 14:58",
    "dett": true
   },
   {
@@ -1839,6 +1930,7 @@
    "prezzo_minimo": 169.3,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:05",
    "dett": true
   },
   {
@@ -1859,6 +1951,7 @@
    "prezzo_minimo": 141.09,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:06",
    "dett": true
   },
   {
@@ -1879,6 +1972,7 @@
    "prezzo_minimo": 156.76,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:07",
    "dett": true
   },
   {
@@ -1899,6 +1993,7 @@
    "prezzo_minimo": 62.7,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:10",
    "dett": true
   },
   {
@@ -1919,6 +2014,7 @@
    "prezzo_minimo": 199.09,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:12",
    "dett": true
   },
   {
@@ -1939,6 +2035,7 @@
    "prezzo_minimo": 78.38,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:14",
    "dett": true
   },
   {
@@ -1959,6 +2056,7 @@
    "prezzo_minimo": 62.7,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:15",
    "dett": true
   },
   {
@@ -1979,6 +2077,7 @@
    "prezzo_minimo": 62.7,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:17",
    "dett": true
   },
   {
@@ -1999,6 +2098,7 @@
    "prezzo_minimo": 62.55,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:21",
    "dett": true
   },
   {
@@ -2019,6 +2119,7 @@
    "prezzo_minimo": 43.89,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:24",
    "dett": true
   },
   {
@@ -2039,6 +2140,7 @@
    "prezzo_minimo": 783.81,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:25",
    "dett": true
   },
   {
@@ -2059,6 +2161,7 @@
    "prezzo_minimo": 184.98,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:27",
    "dett": true
   },
   {
@@ -2079,6 +2182,7 @@
    "prezzo_minimo": 149.85,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:29",
    "dett": true
   },
   {
@@ -2099,6 +2203,7 @@
    "prezzo_minimo": 134.5,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:30",
    "dett": true
   },
   {
@@ -2119,6 +2224,7 @@
    "prezzo_minimo": 109.73,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:31",
    "dett": true
   },
   {
@@ -2139,6 +2245,7 @@
    "prezzo_minimo": 109.73,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:33",
    "dett": true
   },
   {
@@ -2159,6 +2266,7 @@
    "prezzo_minimo": 94.06,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:34",
    "dett": true
   },
   {
@@ -2179,6 +2287,7 @@
    "prezzo_minimo": 94.06,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:35",
    "dett": true
   },
   {
@@ -2199,6 +2308,7 @@
    "prezzo_minimo": 77.44,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:37",
    "dett": true
   },
   {
@@ -2219,6 +2329,7 @@
    "prezzo_minimo": 84.65,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:38",
    "dett": true
   },
   {
@@ -2239,6 +2350,7 @@
    "prezzo_minimo": 156.76,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:40",
    "dett": true
   },
   {
@@ -2259,6 +2371,7 @@
    "prezzo_minimo": 57540.94,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:42",
    "dett": true
   },
   {
@@ -2279,6 +2392,7 @@
    "prezzo_minimo": 843.75,
    "termine_carta": "19/10/2026 13:00",
    "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "21/09/2026 08:54",
    "dett": true
   },
   {
@@ -2299,6 +2413,7 @@
    "prezzo_minimo": 25800.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 09:58",
    "dett": true
   },
   {
@@ -2319,6 +2434,7 @@
    "prezzo_minimo": 108388.05,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 09:59",
    "dett": true
   },
   {
@@ -2339,6 +2455,7 @@
    "prezzo_minimo": 55365.6,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:01",
    "dett": true
   },
   {
@@ -2359,6 +2476,7 @@
    "prezzo_minimo": 58881.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:02",
    "dett": true
   },
   {
@@ -2379,6 +2497,7 @@
    "prezzo_minimo": 70688.7,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:03",
    "dett": true
   },
   {
@@ -2399,6 +2518,7 @@
    "prezzo_minimo": 62076.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:05",
    "dett": true
   },
   {
@@ -2419,6 +2539,7 @@
    "prezzo_minimo": 82764.3,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:07",
    "dett": true
   },
   {
@@ -2439,6 +2560,7 @@
    "prezzo_minimo": 7372.56,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "03/09/2026 10:13",
    "dett": true
   },
   {
@@ -2459,6 +2581,7 @@
    "prezzo_minimo": 2121886.36,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "11/09/2026 16:32",
    "dett": true
   },
   {
@@ -2479,6 +2602,7 @@
    "prezzo_minimo": 9999.71,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:13",
    "dett": true
   },
   {
@@ -2499,6 +2623,7 @@
    "prezzo_minimo": 28236.45,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:14",
    "dett": true
   },
   {
@@ -2519,6 +2644,7 @@
    "prezzo_minimo": 16411.64,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:19",
    "dett": true
   },
   {
@@ -2539,6 +2665,7 @@
    "prezzo_minimo": 3645.7,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:21",
    "dett": true
   },
   {
@@ -2559,6 +2686,7 @@
    "prezzo_minimo": 3645.7,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:22",
    "dett": true
   },
   {
@@ -2579,6 +2707,7 @@
    "prezzo_minimo": 3645.7,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:24",
    "dett": true
   },
   {
@@ -2599,6 +2728,7 @@
    "prezzo_minimo": 3645.7,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:26",
    "dett": true
   },
   {
@@ -2619,6 +2749,7 @@
    "prezzo_minimo": 2996.06,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:29",
    "dett": true
   },
   {
@@ -2639,6 +2770,7 @@
    "prezzo_minimo": 3167.58,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:30",
    "dett": true
   },
   {
@@ -2659,6 +2791,7 @@
    "prezzo_minimo": 3645.7,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:32",
    "dett": true
   },
   {
@@ -2679,6 +2812,7 @@
    "prezzo_minimo": 2847.81,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:34",
    "dett": true
   },
   {
@@ -2699,6 +2833,7 @@
    "prezzo_minimo": 2928.52,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:36",
    "dett": true
   },
   {
@@ -2719,6 +2854,7 @@
    "prezzo_minimo": 3585.74,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:38",
    "dett": true
   },
   {
@@ -2739,6 +2875,7 @@
    "prezzo_minimo": 3765.23,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:39",
    "dett": true
   },
   {
@@ -2759,6 +2896,7 @@
    "prezzo_minimo": 36751.61,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:41",
    "dett": true
   },
   {
@@ -2779,6 +2917,7 @@
    "prezzo_minimo": 37142.48,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:43",
    "dett": true
   },
   {
@@ -2799,6 +2938,7 @@
    "prezzo_minimo": 35307.73,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:44",
    "dett": true
   },
   {
@@ -2819,6 +2959,7 @@
    "prezzo_minimo": 36834.25,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:46",
    "dett": true
   },
   {
@@ -2839,6 +2980,7 @@
    "prezzo_minimo": 41872.75,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:47",
    "dett": true
   },
   {
@@ -2859,6 +3001,7 @@
    "prezzo_minimo": 19125.0,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:49",
    "dett": true
   },
   {
@@ -2879,6 +3022,7 @@
    "prezzo_minimo": 20678.91,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:51",
    "dett": true
   },
   {
@@ -2899,6 +3043,7 @@
    "prezzo_minimo": 2764.16,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:52",
    "dett": true
   },
   {
@@ -2919,6 +3064,7 @@
    "prezzo_minimo": 2764.16,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:54",
    "dett": true
   },
   {
@@ -2939,6 +3085,7 @@
    "prezzo_minimo": 2079.84,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:56",
    "dett": true
   },
   {
@@ -2959,6 +3106,7 @@
    "prezzo_minimo": 688.3,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:58",
    "dett": true
   },
   {
@@ -2979,6 +3127,7 @@
    "prezzo_minimo": 1026.62,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:59",
    "dett": true
   },
   {
@@ -2999,6 +3148,7 @@
    "prezzo_minimo": 59062.5,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 19:05",
    "dett": true
   },
   {
@@ -3019,6 +3169,7 @@
    "prezzo_minimo": 16593.75,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 19:06",
    "dett": true
   },
   {
@@ -3039,6 +3190,7 @@
    "prezzo_minimo": 61875.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 19:08",
    "dett": true
   },
   {
@@ -3059,6 +3211,7 @@
    "prezzo_minimo": 42187.5,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 19:09",
    "dett": true
   },
   {
@@ -3079,6 +3232,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "22/09/2026 12:16",
    "dett": true
   },
   {
@@ -3099,6 +3253,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "22/09/2026 12:23",
    "dett": true
   },
   {
@@ -3119,6 +3274,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "22/09/2026 12:24",
    "dett": true
   },
   {
@@ -3139,6 +3295,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "28/08/2026 18:09",
    "dett": true
   },
   {
@@ -3159,6 +3316,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "21/09/2026 08:59",
    "dett": true
   },
   {
@@ -3179,6 +3337,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 17:08",
    "dett": true
   },
   {
@@ -3199,6 +3358,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 16:30",
    "dett": true
   },
   {
@@ -3219,6 +3379,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 16:32",
    "dett": true
   },
   {
@@ -3239,6 +3400,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 16:33",
    "dett": true
   },
   {
@@ -3259,6 +3421,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 16:36",
    "dett": true
   },
   {
@@ -3279,6 +3442,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 16:37",
    "dett": true
   },
   {
@@ -3299,6 +3463,7 @@
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "25/09/2026 17:50",
    "dett": true
   },
   {
@@ -3319,6 +3484,7 @@
    "prezzo_minimo": 33636.38,
    "termine_carta": "",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "09/09/2026 09:31",
    "dett": true
   },
   {
@@ -3339,6 +3505,7 @@
    "prezzo_minimo": 5357.08,
    "termine_carta": "",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "09/09/2026 09:32",
    "dett": true
   },
   {
@@ -3359,6 +3526,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:09",
    "dett": true
   },
   {
@@ -3379,6 +3547,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:11",
    "dett": true
   },
   {
@@ -3399,6 +3568,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:13",
    "dett": true
   },
   {
@@ -3419,6 +3589,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:15",
    "dett": true
   },
   {
@@ -3439,6 +3610,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:18",
    "dett": true
   },
   {
@@ -3459,6 +3631,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:19",
    "dett": true
   },
   {
@@ -3479,6 +3652,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:20",
    "dett": true
   },
   {
@@ -3499,6 +3673,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 11:23",
    "dett": true
   },
   {
@@ -3519,6 +3694,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:09",
    "dett": true
   },
   {
@@ -3539,6 +3715,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:11",
    "dett": true
   },
   {
@@ -3559,6 +3736,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:13",
    "dett": true
   },
   {
@@ -3579,6 +3757,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:16",
    "dett": true
   },
   {
@@ -3599,6 +3778,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:18",
    "dett": true
   },
   {
@@ -3619,6 +3799,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:19",
    "dett": true
   },
   {
@@ -3639,6 +3820,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:20",
    "dett": true
   },
   {
@@ -3659,6 +3841,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:22",
    "dett": true
   },
   {
@@ -3679,6 +3862,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:23",
    "dett": true
   },
   {
@@ -3699,6 +3883,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "29/09/2026 17:24",
    "dett": true
   },
   {
@@ -3719,6 +3904,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:42",
    "dett": true
   },
   {
@@ -3739,6 +3925,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:44",
    "dett": true
   },
   {
@@ -3759,6 +3946,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:45",
    "dett": true
   },
   {
@@ -3779,6 +3967,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:46",
    "dett": true
   },
   {
@@ -3799,6 +3988,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:47",
    "dett": true
   },
   {
@@ -3819,6 +4009,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:48",
    "dett": true
   },
   {
@@ -3839,6 +4030,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:52",
    "dett": true
   },
   {
@@ -3859,6 +4051,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "30/09/2026 09:54",
    "dett": true
   },
   {
@@ -3879,6 +4072,7 @@
    "prezzo_minimo": null,
    "termine_carta": "",
    "termine_bonifico": "09/11/2026 13:00",
+   "pubblicata": "08/06/2026 18:25",
    "dett": true
   },
   {
@@ -3899,6 +4093,7 @@
    "prezzo_minimo": 2601.69,
    "termine_carta": "09/11/2026 13:00",
    "termine_bonifico": "09/11/2026 13:00",
+   "pubblicata": "25/09/2026 17:19",
    "dett": true
   },
   {
@@ -3919,6 +4114,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:01",
    "dett": true
   },
   {
@@ -3939,6 +4135,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:06",
    "dett": true
   },
   {
@@ -3959,6 +4156,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:07",
    "dett": true
   },
   {
@@ -3979,6 +4177,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:08",
    "dett": true
   },
   {
@@ -3999,6 +4198,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:10",
    "dett": true
   },
   {
@@ -4019,6 +4219,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:11",
    "dett": true
   },
   {
@@ -4039,6 +4240,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:12",
    "dett": true
   },
   {
@@ -4059,6 +4261,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:13",
    "dett": true
   },
   {
@@ -4079,6 +4282,7 @@
    "prezzo_minimo": null,
    "termine_carta": "02/11/2026 13:00",
    "termine_bonifico": "02/11/2026 13:00",
+   "pubblicata": "01/10/2026 10:14",
    "dett": true
   },
   {
@@ -4099,6 +4303,7 @@
    "prezzo_minimo": 12150.0,
    "termine_carta": "",
    "termine_bonifico": "23/11/2026 13:00",
+   "pubblicata": "24/08/2026 11:12",
    "dett": true
   },
   {
@@ -4119,6 +4324,7 @@
    "prezzo_minimo": null,
    "termine_carta": "27/11/2026 12:00",
    "termine_bonifico": "27/11/2026 12:00",
+   "pubblicata": "01/10/2026 17:48",
    "dett": true
   },
   {
@@ -4139,6 +4345,7 @@
    "prezzo_minimo": null,
    "termine_carta": "27/11/2026 12:00",
    "termine_bonifico": "27/11/2026 12:00",
+   "pubblicata": "01/10/2026 17:48",
    "dett": true
   }
  ]
