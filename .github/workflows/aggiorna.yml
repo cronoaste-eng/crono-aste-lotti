@@ -7,9 +7,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: aggiorna-lotti
+  cancel-in-progress: false
+
 jobs:
   aggiorna:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
