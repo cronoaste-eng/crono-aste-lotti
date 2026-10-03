@@ -5,6 +5,9 @@ Scrive due file:
   data/lotti.json     vendite attive (sostituito a ogni lettura)
   data/archivio.json  vendite concluse (si accumula: un lotto già archiviato non viene mai perso)
 
+Per ogni lotto legge anche la pagina del bene (una sola volta, poi il dato resta salvato) per
+prendere "Prezzo minimo" e "Termine presentazione offerte" (con carta / con bonifico).
+
 Viene eseguito da GitHub Actions (vedi .github/workflows/aggiorna.yml).
 Se una lettura fallisce, il file corrispondente resta com'è.
 """
@@ -25,7 +28,10 @@ STATI = {1: "attiva", 2: "conclusa", 3: "conclusa"}
 ESITO = {2: "con offerte", 3: "senza offerte"}
 DATA = Path(__file__).parent / "data"
 MAX_PAGES = 60
+MAX_DETTAGLI = 400  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
+CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "dett")
+DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
 def text(node):
@@ -76,6 +82,61 @@ def parse_cards(html, stato):
     return lotti
 
 
+def parse_dettagli(html):
+    """Dalla pagina di un bene: prezzo minimo e termine di presentazione delle offerte."""
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    t = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
+    out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": ""}
+
+    m = re.search(r"Prezzo minimo\s*€?\s*:?\s*€?\s*(\d[\d.]*,\d{2})", t, re.I)
+    if m:
+        out["prezzo_minimo"] = float(m.group(1).replace(".", "").replace(",", "."))
+
+    m = re.search(
+        r"Termine presentazione offerte\s*:?(.*?)(?:Termine visita|Data vendita|Termine vendita|ID inserzione|$)",
+        t,
+        re.I,
+    )
+    if m:
+        seg = m.group(1)
+        c = re.search(r"con\s+Carta\s*:?\s*" + DATA_ORA, seg, re.I)
+        b = re.search(r"con\s+Bonifico\s*:?\s*" + DATA_ORA, seg, re.I)
+        if c:
+            out["termine_carta"] = f"{c.group(1)} {c.group(2)}"
+        if b:
+            out["termine_bonifico"] = f"{b.group(1)} {b.group(2)}"
+        if not c and not b:  # una sola data senza etichetta
+            d = re.search(DATA_ORA, seg)
+            if d:
+                out["termine_carta"] = out["termine_bonifico"] = f"{d.group(1)} {d.group(2)}"
+    return out
+
+
+def arricchisci(lotti, cache, budget):
+    """Aggiunge i dettagli ai lotti: li riusa se già letti, altrimenti apre la pagina del bene."""
+    for l in lotti:
+        vecchio = cache.get(l["id"])
+        if vecchio and vecchio.get("dett"):
+            for k in CHIAVI_DETTAGLIO:
+                if k in vecchio:
+                    l[k] = vecchio[k]
+            continue
+        if budget[0] <= 0:
+            continue
+        budget[0] -= 1
+        try:
+            r = requests.get(l["url"], headers=HEADERS, timeout=30)
+            r.raise_for_status()
+            l.update(parse_dettagli(r.text))
+            l["dett"] = True
+        except Exception as e:  # noqa: BLE001
+            print(f"Dettagli non letti per {l['id']}: {e}", file=sys.stderr)
+        time.sleep(1)  # gentile con il server
+    return lotti
+
+
 def leggi(stato):
     """Scorre tutte le pagine di uno stato e restituisce i lotti trovati."""
     tutti, visti = [], set()
@@ -116,12 +177,16 @@ def salva(path, lotti):
 
 def main():
     errori = 0
+    budget = [MAX_DETTAGLI]
+    # dettagli già letti in passato (lotti attivi + archivio), per non rileggere le stesse pagine
+    cache = {l["id"]: l for l in carica(DATA / "archivio.json")}
+    cache.update({l["id"]: l for l in carica(DATA / "lotti.json")})
 
     # 1) vendite attive: sostituiscono il file precedente
     try:
         attive = leggi(1)
         if attive:
-            salva(DATA / "lotti.json", attive)
+            salva(DATA / "lotti.json", arricchisci(attive, cache, budget))
         else:
             print("Nessun lotto attivo letto: lascio lotti.json com'è.", file=sys.stderr)
             errori += 1
@@ -133,6 +198,7 @@ def main():
     try:
         concluse = leggi(2) + leggi(3)
         if concluse:
+            concluse = arricchisci(concluse, cache, budget)
             archivio = {l["id"]: l for l in carica(DATA / "archivio.json")}
             for l in concluse:
                 archivio[l["id"]] = l
