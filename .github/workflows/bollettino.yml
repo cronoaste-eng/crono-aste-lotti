@@ -1,0 +1,68 @@
+name: Bollettino settimanale
+
+on:
+  schedule:
+    # Mercoledi: due orari UTC (ora legale e ora solare). Lo script invia solo se in Italia sono le 8-9.
+    - cron: '5 6 * * 3'
+    - cron: '5 7 * * 3'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'dry = solo anteprima, test = prova a te, send = invio vero'
+        default: 'dry'
+      force:
+        description: '1 = ignora giorno e ora (solo per prove)'
+        default: '0'
+
+concurrency:
+  group: bollettino
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  bollettino:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Installa librerie
+        run: pip install reportlab pillow
+
+      - name: Prepara e invia
+        env:
+          NEWSLETTER_MODE: ${{ inputs.mode || vars.NEWSLETTER_MODE || 'dry' }}
+          NEWSLETTER_FORCE: ${{ inputs.force || '0' }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
+          SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
+          SENDER_NAME: ${{ vars.SENDER_NAME }}
+          REPLY_TO: ${{ vars.REPLY_TO }}
+          TEST_EMAIL: ${{ vars.TEST_EMAIL }}
+          SEDE_LEGALE: ${{ vars.SEDE_LEGALE }}
+          PARTITA_IVA: ${{ vars.PARTITA_IVA }}
+        run: python newsletter.py
+
+      - name: Salva l'archivio
+        if: ${{ (inputs.mode || vars.NEWSLETTER_MODE) == 'send' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/bollettini data/newsletter_stato.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Archivio bollettino"
+          git pull --rebase
+          git push
+
+      - name: Anteprima (email e PDF)
+        uses: actions/upload-artifact@v4
+        with:
+          name: anteprima-bollettino
+          path: out/
+          retention-days: 7
