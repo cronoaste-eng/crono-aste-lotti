@@ -22,10 +22,17 @@ jobs:
           python-version: "3.12"
       - run: pip install requests beautifulsoup4
       - run: python scraper.py
+      - name: Invia beni nuovi su Telegram
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python invia_telegram.py
       - name: Salva se cambiato
         if: always()
         run: |
           git config user.name "aggiornamento-lotti"
           git config user.email "actions@users.noreply.github.com"
           git add data/lotti.json data/archivio.json || true
+          git add data/inviati.json || true
           git diff --staged --quiet || (git commit -m "Aggiorna lotti" && git push)
