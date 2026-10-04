@@ -231,7 +231,7 @@ def email_html(b, totale, unsub="{{ unsubscribe }}"):
 <table role="presentation" width="600" cellpadding="0" cellspacing="0" style="width:100%;max-width:600px;background:#ffffff;border-radius:12px">
 <tr><td style="background:{NAVY};padding:20px 24px;border-radius:12px 12px 0 0"><span style="display:inline-block;width:32px;height:32px;line-height:32px;text-align:center;border-radius:8px;background:#ffffff;color:{NAVY};font-weight:bold">C</span>
 <span style="color:#ffffff;font-size:18px;font-weight:bold;margin-left:8px;vertical-align:middle">Crono Aste</span></td></tr>
-<tr><td style="padding:24px 24px 4px"><div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:{TEAL_D};font-weight:bold">Newsletter del {esc(b["data_lunga"])}</div>
+<tr><td style="padding:24px 24px 4px"><div style="font-size:12px;letter-spacing:.06em;text-transform:uppercase;color:{TEAL_D};font-weight:bold">Bollettino {esc(b["numero"])} - {esc(b["data_lunga"])}</div>
 <div style="font-size:22px;line-height:1.3;font-weight:bold;margin:6px 0 8px">Le novit\u00e0 della settimana</div>
 <div style="font-size:15px;line-height:1.6;color:{INK2}">{esc(intro)}</div></td></tr>
 {"".join(parti)}
@@ -262,9 +262,9 @@ def pdf_a4(b, totale, path):
     from reportlab.lib.utils import ImageReader
 
     navy, teal = colors.HexColor(NAVY), colors.HexColor(TEAL)
-    s_t = ParagraphStyle("t", fontName="Helvetica-Bold", fontSize=20, leading=24, textColor=navy)
+    s_t = ParagraphStyle("t", fontName="Helvetica-Bold", fontSize=18, leading=22, textColor=navy)
     s_k = ParagraphStyle("k", fontName="Helvetica-Bold", fontSize=8, leading=10, textColor=colors.HexColor(TEAL_D))
-    s_h = ParagraphStyle("h", fontName="Helvetica-Bold", fontSize=12, leading=15, textColor=navy, spaceBefore=12, spaceAfter=4)
+    s_h = ParagraphStyle("h", fontName="Helvetica-Bold", fontSize=12, leading=15, textColor=navy, spaceBefore=8, spaceAfter=3)
     s_b = ParagraphStyle("b", fontName="Helvetica", fontSize=9, leading=12, textColor=colors.HexColor("#14325c"))
     s_s = ParagraphStyle("s", fontName="Helvetica", fontSize=8, leading=10.5, textColor=colors.HexColor(INK2))
     s_p = ParagraphStyle("p", fontName="Helvetica-Bold", fontSize=10, leading=12, textColor=navy, alignment=2)
@@ -276,7 +276,7 @@ def pdf_a4(b, totale, path):
             try:
                 ir = ImageReader(io.BytesIO(raw))
                 w, h = ir.getSize()
-                bw, bh = 22 * mm, 16 * mm
+                bw, bh = 20 * mm, 13 * mm
                 k = min(bw / w, bh / h)
                 return Image(io.BytesIO(raw), width=w * k, height=h * k)
             except Exception:
@@ -293,7 +293,7 @@ def pdf_a4(b, totale, path):
         t = Table([riga(d, extra) for d in ds], colWidths=[25 * mm, 118 * mm, 33 * mm])
         t.setStyle(TableStyle([("VALIGN", (0, 0), (-1, -1), "MIDDLE"),
                                ("LINEBELOW", (0, 0), (-1, -1), 0.4, colors.HexColor(LINE)),
-                               ("TOPPADDING", (0, 0), (-1, -1), 4), ("BOTTOMPADDING", (0, 0), (-1, -1), 4)]))
+                               ("TOPPADDING", (0, 0), (-1, -1), 2.5), ("BOTTOMPADDING", (0, 0), (-1, -1), 2.5)]))
         return t
 
     def piede(c, doc):
@@ -304,7 +304,7 @@ def pdf_a4(b, totale, path):
         c.drawRightString(195 * mm, 9 * mm, "Pagina %d" % doc.page)
         c.restoreState()
 
-    st = [Paragraph("CRONO ASTE - BOLLETTINO DEL %s" % b["data_lunga"].upper(), s_k),
+    st = [Paragraph("CRONO ASTE - BOLLETTINO %s DEL %s" % (b["numero"].upper(), b["data_lunga"].upper()), s_k),
           Paragraph("%s" % esc(b["titolo_pdf"]), s_t), Spacer(1, 4)]
     if b["nuovi"]:
         st += [Paragraph("Nuovi beni", s_h), tabella(b["nuovi"])]
@@ -312,10 +312,10 @@ def pdf_a4(b, totale, path):
         st += [Paragraph("In scadenza nei prossimi giorni", s_h), tabella(b["scadenze"])]
     if b["altri"]:
         st += [Paragraph("Altri beni in vendita", s_h), tabella(b["altri"])]
-    st += [Spacer(1, 10),
+    st += [Spacer(1, 6),
            Paragraph("Dati aggiornati al %s. Prezzi e termini possono cambiare: per i beni ancora in vendita consulta %s "
                      "(tutti i %d beni)." % (b["data_lunga"], esc(VETRINA), totale), s_f)]
-    SimpleDocTemplate(path, pagesize=A4, leftMargin=15 * mm, rightMargin=15 * mm, topMargin=14 * mm, bottomMargin=16 * mm,
+    SimpleDocTemplate(path, pagesize=A4, leftMargin=15 * mm, rightMargin=15 * mm, topMargin=11 * mm, bottomMargin=15 * mm,
                       title="Bollettino Crono Aste " + b["data"], author="Crono Aste").build(st, onFirstPage=piede, onLaterPages=piede)
 
 
@@ -333,7 +333,7 @@ def brevo(metodo, path, corpo=None):
         raise
 
 def crea_campagna(b, htm):
-    corpo = {"name": "Bollettino " + b["data"], "subject": b["oggetto"],
+    corpo = {"name": "Bollettino " + b["numero"].replace("/", "-") + " " + b["data"], "subject": b["oggetto"],
              "sender": {"name": SENDER_NAME, "email": SENDER_EMAIL}, "type": "classic",
              "htmlContent": htm, "recipients": {"listIds": [int(BREVO_LIST)]}}
     if REPLY_TO:
@@ -378,6 +378,8 @@ def main():
         return 0
 
     dl = "%d %s %d" % (ora.day, MESI[ora.month - 1], ora.year)
+    iso = ora.isocalendar()
+    numero = "n. %d/%d" % (iso[1], iso[0])
     p = []
     if nuovi_tot:
         p.append("%d %s" % (nuovi_tot, "novit\u00e0" if nuovi_tot != 1 else "novit\u00e0"))
@@ -385,8 +387,8 @@ def main():
         p.append("%d scadenz%s" % (len(scad), "e" if len(scad) != 1 else "a"))
     if altri:
         p.append("altri %d beni" % len(altri))
-    oggetto = "Beni all'asta: " + ", ".join(p[:-1]) + (" e " if len(p) > 1 else "") + p[-1]
-    b = {"data": oggi, "data_lunga": dl, "oggetto": oggetto,
+    oggetto = "Bollettino " + numero + " - Beni all'asta: " + ", ".join(p[:-1]) + (" e " if len(p) > 1 else "") + p[-1]
+    b = {"data": oggi, "data_lunga": dl, "numero": numero, "oggetto": oggetto,
          "anteprima": "Cosa \u00e8 stato pubblicato questa settimana e cosa scade a breve",
          "titolo_pdf": "Le novit\u00e0 della settimana",
          "nuovi_tot": nuovi_tot,
@@ -428,7 +430,7 @@ def main():
         with open(os.path.join(OUT, "bollettino.pdf"), "rb") as f, open(os.path.join(ARCH, oggi + ".pdf"), "wb") as g:
             g.write(f.read())
         indice = [x for x in indice if x.get("data") != oggi]
-        indice.insert(0, {"data": oggi, "data_lunga": dl, "oggetto": oggetto, "nuovi": nuovi_tot,
+        indice.insert(0, {"data": oggi, "data_lunga": dl, "numero": numero, "oggetto": oggetto, "nuovi": nuovi_tot,
                           "scadenze": len(scad), "altri": len(altri), "totale": totale})
         salva(os.path.join(ARCH, "index.json"), indice)
         m = stato.get("mostrati", {})
