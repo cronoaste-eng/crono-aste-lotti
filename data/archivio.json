@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-05T04:35:14+00:00",
+ "aggiornato": "2026-10-05T05:35:47+00:00",
  "lotti": [
   {
    "id": "1637848",
@@ -35,7 +35,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/77/55/0176775555.jpg",
-   "visite": 2463,
+   "visite": 2464,
    "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-berlina-quattro-porte-marca-alfa-romeo-modello-giulia-versione-nuova-super-1300-colore-bianco-data-immatricolazione-il-20-1644952.html",
    "prezzo_minimo": null,
    "termine_carta": "28/09/2026 13:00",
@@ -539,7 +539,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/42/33/42/0142334248.jpg",
-   "visite": 160,
+   "visite": 161,
    "url": "https://cronoaste.fallcoaste.it/vendita/deposito-in-via-malfitano-20-in-siracusa-1644935.html",
    "prezzo_minimo": null,
    "termine_carta": "",
@@ -1526,7 +1526,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/26/19/0178261962.jpg",
-   "visite": 222,
+   "visite": 223,
    "url": "https://cronoaste.fallcoaste.it/vendita/calcio-balilla-f-3-montato-1668683.html",
    "prezzo_minimo": 33.75,
    "termine_carta": "07/09/2026 13:00",
