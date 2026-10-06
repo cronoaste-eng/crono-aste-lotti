@@ -1,6 +1,27 @@
 {
- "aggiornato": "2026-10-06T06:38:49+00:00",
+ "aggiornato": "2026-10-06T07:33:15+00:00",
  "lotti": [
+  {
+   "id": "1679792",
+   "titolo": "Motoveicolo, marca Honda, modello RD15.1.1., Tg. DT****, immatricolata 05/01/2012, cilindrata 6...",
+   "tribunale": "Catania",
+   "procedura": "2185/2024",
+   "tipo": "Asincrona telematica",
+   "prezzo": 2250.0,
+   "etichetta": "Prezzo base",
+   "inizio": "06/10/2026 08:34",
+   "termine": "06/10/2026 08:34",
+   "stato": "conclusa",
+   "esito": "senza offerte",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981807.jpg",
+   "visite": 667,
+   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-honda-modello-rd15-1-1-tg-dt-immatricolata-05-01-2012-cilindrata-680-cm3-kw-44-10-1679792.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:56",
+   "dett": true
+  },
   {
    "id": "1637848",
    "titolo": "Appartamento ubicato a Teramo (TE) - Piazza B. Cellini n.8 adibito a civile abitazione, posto a...",
@@ -1862,7 +1883,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/21/66/0176216642.png",
-   "visite": 219,
+   "visite": 220,
    "url": "https://cronoaste.fallcoaste.it/vendita/materiale-edile-come-da-verbale-di-inventario-costituito-da-pavimentazione-in-gres-porcellanato-di-varie-misure-80x80-30x60-60x60-1634287.html",
    "prezzo_minimo": 11586.09,
    "termine_carta": "07/09/2026 13:00",
