@@ -1,0 +1,37 @@
+name: Notifica nuovi iscritti
+
+on:
+  schedule:
+    - cron: "40 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: notifica-iscritti
+  cancel-in-progress: false
+
+jobs:
+  notifica:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ripristina elenco iscritti noti
+        uses: actions/cache@v4
+        with:
+          path: state
+          key: iscritti-${{ github.run_id }}
+          restore-keys: |
+            iscritti-
+
+      - name: Controlla iscritti e avvisa
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          BREVO_LIST_ID: ${{ vars.BREVO_LIST_ID }}
+          SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
+          SENDER_NAME: ${{ vars.SENDER_NAME }}
+          NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+        run: python3 notifica_iscritti.py
