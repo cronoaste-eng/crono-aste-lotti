@@ -141,12 +141,28 @@ def arricchisci(lotti, cache, budget):
     return lotti
 
 
+def scarica(url):
+    """GET con 3 tentativi: riprova se il sito risponde con errore passeggero (5xx) o non risponde."""
+    ultimo = None
+    for tentativo in range(3):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=30)
+            if r.status_code < 500:
+                r.raise_for_status()
+                return r
+            ultimo = requests.HTTPError("%s Server Error per %s" % (r.status_code, url))
+        except (requests.ConnectionError, requests.Timeout) as e:
+            ultimo = e
+        if tentativo < 2:
+            time.sleep(5 * (tentativo + 1) * 2)  # attese di 10 e 20 secondi
+    raise ultimo
+
+
 def leggi(stato):
     """Scorre tutte le pagine di uno stato e restituisce i lotti trovati."""
     tutti, visti = [], set()
     for page in range(1, MAX_PAGES + 1):
-        r = requests.get(SEARCH.format(stato=stato, page=page), headers=HEADERS, timeout=30)
-        r.raise_for_status()
+        r = scarica(SEARCH.format(stato=stato, page=page))
         nuovi = [l for l in parse_cards(r.text, stato) if l["id"] and l["id"] not in visti]
         if not nuovi:
             break
