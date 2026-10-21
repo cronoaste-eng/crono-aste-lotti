@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T07:54:36+00:00",
+ "aggiornato": "2026-10-21T08:53:42+00:00",
  "lotti": [
   {
    "id": "1714807",
@@ -14,12 +14,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/29/02/0181290267.jpg",
-   "visite": 73,
+   "visite": 74,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-hero-elite-long-turn-taglia-162cm-rosso-e-bianco-raddr02-dr02d-look-fcic006-spx-1714807.html",
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:54",
+   "lotto": "Lotto 38",
    "dett": true
   },
   {
@@ -35,12 +36,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/35/0179333590.png",
-   "visite": 374,
+   "visite": 375,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-commerciale-negozio-posto-al-piano-terra-z-c-1-cat-c-1-cl-1682542.html",
    "prezzo_minimo": 25800.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 09:58",
+   "lotto": "Lotto 1",
    "dett": true
   },
   {
@@ -56,12 +58,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/36/0179333659.png",
-   "visite": 456,
+   "visite": 459,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682543.html",
    "prezzo_minimo": 108388.05,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 09:59",
+   "lotto": "Lotto 2",
    "dett": true
   },
   {
@@ -77,12 +80,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/37/0179333755.png",
-   "visite": 381,
+   "visite": 383,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682544.html",
    "prezzo_minimo": 55365.6,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:01",
+   "lotto": "Lotto 3",
    "dett": true
   },
   {
@@ -98,12 +102,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/38/0179333838.png",
-   "visite": 244,
+   "visite": 247,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682545.html",
    "prezzo_minimo": 58881.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:02",
+   "lotto": "Lotto 4",
    "dett": true
   },
   {
@@ -119,12 +124,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/39/0179333900.png",
-   "visite": 273,
+   "visite": 277,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682547.html",
    "prezzo_minimo": 70688.7,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:03",
+   "lotto": "Lotto 5",
    "dett": true
   },
   {
@@ -140,12 +146,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/40/0179334009.png",
-   "visite": 302,
+   "visite": 307,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682550.html",
    "prezzo_minimo": 62076.0,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:05",
+   "lotto": "Lotto 6",
    "dett": true
   },
   {
@@ -161,12 +168,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/42/0179334211.png",
-   "visite": 377,
+   "visite": 381,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682552.html",
    "prezzo_minimo": 82764.3,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:07",
+   "lotto": "Lotto 7",
    "dett": true
   },
   {
@@ -182,12 +190,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/45/0179334526.png",
-   "visite": 127,
+   "visite": 128,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-beni-mobili-quali-arredo-e-complementi-di-arredo-come-da-stimaalla-quale-espressamente-si-rinvia-vedasi-1682556.html",
    "prezzo_minimo": 7372.56,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:13",
+   "lotto": "Lotto 8",
    "dett": true
   },
   {
@@ -209,6 +218,7 @@
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "11/09/2026 16:32",
+   "lotto": "Lotto 1",
    "dett": true
   },
   {
@@ -230,6 +240,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:13",
+   "lotto": "Lotto 3",
    "dett": true
   },
   {
@@ -251,6 +262,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:14",
+   "lotto": "Lotto 4",
    "dett": true
   },
   {
@@ -272,6 +284,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:19",
+   "lotto": "Lotto 5",
    "dett": true
   },
   {
@@ -293,6 +306,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:21",
+   "lotto": "Lotto 6",
    "dett": true
   },
   {
@@ -314,6 +328,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:22",
+   "lotto": "Lotto 7",
    "dett": true
   },
   {
@@ -335,6 +350,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:24",
+   "lotto": "Lotto 8",
    "dett": true
   },
   {
@@ -356,6 +372,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:26",
+   "lotto": "Lotto 9",
    "dett": true
   },
   {
@@ -377,6 +394,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:29",
+   "lotto": "Lotto 10",
    "dett": true
   },
   {
@@ -398,6 +416,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:30",
+   "lotto": "Lotto 11",
    "dett": true
   },
   {
@@ -419,6 +438,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:32",
+   "lotto": "Lotto 12",
    "dett": true
   },
   {
@@ -434,12 +454,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/81/0180218194.jpg",
-   "visite": 114,
+   "visite": 115,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx209kf-imm-01-08-2005-valore-del-lotto-5-1699603.html",
    "prezzo_minimo": 2847.81,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:34",
+   "lotto": "Lotto 13",
    "dett": true
   },
   {
@@ -461,6 +482,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:36",
+   "lotto": "Lotto 14",
    "dett": true
   },
   {
@@ -482,6 +504,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:38",
+   "lotto": "Lotto 15",
    "dett": true
   },
   {
@@ -503,6 +526,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:39",
+   "lotto": "Lotto 16",
    "dett": true
   },
   {
@@ -524,6 +548,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:41",
+   "lotto": "Lotto 17",
    "dett": true
   },
   {
@@ -545,6 +570,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:43",
+   "lotto": "Lotto 18",
    "dett": true
   },
   {
@@ -566,6 +592,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:44",
+   "lotto": "Lotto 19",
    "dett": true
   },
   {
@@ -587,6 +614,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:46",
+   "lotto": "Lotto 20",
    "dett": true
   },
   {
@@ -608,6 +636,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:47",
+   "lotto": "Lotto 21",
    "dett": true
   },
   {
@@ -629,6 +658,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:49",
+   "lotto": "Lotto 22",
    "dett": true
   },
   {
@@ -650,6 +680,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:51",
+   "lotto": "Lotto 23",
    "dett": true
   },
   {
@@ -671,6 +702,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:52",
+   "lotto": "Lotto 24",
    "dett": true
   },
   {
@@ -692,6 +724,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:54",
+   "lotto": "Lotto 25",
    "dett": true
   },
   {
@@ -707,12 +740,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/91/0180219108.jpg",
-   "visite": 341,
+   "visite": 342,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-iveco-modello-a50c31cng-tg-ge503tg-imm-28-09-2007-valore-del-lotto-3-697-50-1699634.html",
    "prezzo_minimo": 2079.84,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:56",
+   "lotto": "Lotto 26",
    "dett": true
   },
   {
@@ -734,6 +768,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:58",
+   "lotto": "Lotto 27",
    "dett": true
   },
   {
@@ -755,6 +790,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:59",
+   "lotto": "Lotto 28",
    "dett": true
   },
   {
@@ -776,6 +812,7 @@
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:05",
+   "lotto": "Lotto 1",
    "dett": true
   },
   {
@@ -797,6 +834,7 @@
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:06",
+   "lotto": "Lotto 2",
    "dett": true
   },
   {
@@ -818,6 +856,7 @@
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:08",
+   "lotto": "Lotto 3",
    "dett": true
   },
   {
@@ -833,12 +872,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/97/0180219730.png",
-   "visite": 64,
+   "visite": 65,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-dell-immobile-sito-a-cosenza-in-viale-dellarepubblica-nr-140g-e-140f-riportato-nel-catasto-1699644.html",
    "prezzo_minimo": 42187.5,
    "termine_carta": "",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:09",
+   "lotto": "Lotto 4",
    "dett": true
   },
   {
@@ -860,6 +900,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:16",
+   "lotto": "Lotto 3",
    "dett": true
   },
   {
@@ -881,6 +922,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:23",
+   "lotto": "Lotto 4",
    "dett": true
   },
   {
@@ -896,12 +938,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/50/90/0180509091.jpg",
-   "visite": 237,
+   "visite": 238,
    "url": "https://cronoaste.fallcoaste.it/vendita/furgone-di-colore-bianco-marca-renault-modello-trafic-versione-dci-115-targato-gf634mc-telaio-vf1fla1a6cy434260-immatricolato-il-11-07-1701131.html",
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:24",
+   "lotto": "Lotto 5",
    "dett": true
   },
   {
@@ -923,6 +966,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:09",
+   "lotto": "Lotto 12",
    "dett": true
   },
   {
@@ -944,6 +988,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:15",
+   "lotto": "Lotto 15",
    "dett": true
   },
   {
@@ -965,6 +1010,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:16",
+   "lotto": "Lotto 20",
    "dett": true
   },
   {
@@ -980,12 +1026,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/12/0181281207.jpg",
-   "visite": 39,
+   "visite": 40,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-jk-fitness-power-station-jk-6096-toorx-step-training-nero-grigio-1714781.html",
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:20",
+   "lotto": "Lotto 16",
    "dett": true
   },
   {
@@ -1007,6 +1054,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:22",
+   "lotto": "Lotto 41",
    "dett": true
   },
   {
@@ -1028,6 +1076,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:24",
+   "lotto": "Lotto 56",
    "dett": true
   },
   {
@@ -1049,6 +1098,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:25",
+   "lotto": "Lotto 39",
    "dett": true
   },
   {
@@ -1070,6 +1120,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:27",
+   "lotto": "Lotto 21",
    "dett": true
   },
   {
@@ -1091,6 +1142,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:28",
+   "lotto": "Lotto 57",
    "dett": true
   },
   {
@@ -1112,6 +1164,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:29",
+   "lotto": "Lotto 14",
    "dett": true
   },
   {
@@ -1133,6 +1186,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:30",
+   "lotto": "Lotto 37",
    "dett": true
   },
   {
@@ -1154,6 +1208,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:32",
+   "lotto": "Lotto 60",
    "dett": true
   },
   {
@@ -1175,6 +1230,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:33",
+   "lotto": "Lotto 58",
    "dett": true
   },
   {
@@ -1196,6 +1252,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:35",
+   "lotto": "Lotto 64",
    "dett": true
   },
   {
@@ -1211,12 +1268,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/25/0181282599.jpg",
-   "visite": 43,
+   "visite": 44,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-games-gear-150-attacco-snow-1714792.html",
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:37",
+   "lotto": "Lotto 66",
    "dett": true
   },
   {
@@ -1238,6 +1296,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:40",
+   "lotto": "Lotto 40",
    "dett": true
   },
   {
@@ -1259,6 +1318,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:43",
+   "lotto": "Lotto 3",
    "dett": true
   },
   {
@@ -1280,6 +1340,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:44",
+   "lotto": "Lotto 43",
    "dett": true
   },
   {
@@ -1301,6 +1362,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:45",
+   "lotto": "Lotto 46",
    "dett": true
   },
   {
@@ -1322,6 +1384,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:47",
+   "lotto": "Lotto 63",
    "dett": true
   },
   {
@@ -1343,6 +1406,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:48",
+   "lotto": "Lotto 29",
    "dett": true
   },
   {
@@ -1364,6 +1428,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:50",
+   "lotto": "Lotto 30",
    "dett": true
   },
   {
@@ -1385,6 +1450,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:51",
+   "lotto": "Lotto 59",
    "dett": true
   },
   {
@@ -1400,12 +1466,13 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/39/0181283901.jpg",
-   "visite": 35,
+   "visite": 36,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-scarponi-sci-bianco-grigio-888341177151-nordica-skiboots-misura-uk8-colore-nero-lucida-8033311965487-nordica-skiboots-1714803.html",
    "prezzo_minimo": null,
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:52",
+   "lotto": "Lotto 62",
    "dett": true
   },
   {
@@ -1427,6 +1494,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:54",
+   "lotto": "Lotto 61",
    "dett": true
   },
   {
@@ -1448,6 +1516,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:55",
+   "lotto": "Lotto 17",
    "dett": true
   },
   {
@@ -1469,6 +1538,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:56",
+   "lotto": "Lotto 19",
    "dett": true
   },
   {
@@ -1490,6 +1560,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:53",
+   "lotto": "Lotto 50",
    "dett": true
   },
   {
@@ -1511,6 +1582,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:51",
+   "lotto": "Lotto 65",
    "dett": true
   },
   {
@@ -1532,6 +1604,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:50",
+   "lotto": "Lotto 51",
    "dett": true
   },
   {
@@ -1553,6 +1626,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:49",
+   "lotto": "Lotto 45",
    "dett": true
   },
   {
@@ -1574,6 +1648,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:17",
+   "lotto": "Lotto 44",
    "dett": true
   },
   {
@@ -1595,6 +1670,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:16",
+   "lotto": "Lotto 47",
    "dett": true
   },
   {
@@ -1616,6 +1692,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:14",
+   "lotto": "Lotto 8",
    "dett": true
   },
   {
@@ -1637,6 +1714,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:13",
+   "lotto": "Lotto 54",
    "dett": true
   },
   {
@@ -1658,6 +1736,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:12",
+   "lotto": "Lotto 22",
    "dett": true
   },
   {
@@ -1679,6 +1758,7 @@
    "termine_carta": "26/10/2026 13:00",
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:10",
+   "lotto": "Lotto 42",
    "dett": true
   },
   {
@@ -1695,12 +1775,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/43/0181284317.png",
    "visite": 34,
-   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714818.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 11:02",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714818.html"
   },
   {
    "id": "1714819",
@@ -1716,12 +1791,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/42/0181284283.png",
    "visite": 33,
-   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-welly-e-plus-minibike-elettrica-bianco-azzura-1714819.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 11:01",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-welly-e-plus-minibike-elettrica-bianco-azzura-1714819.html"
   },
   {
    "id": "1714820",
@@ -1737,12 +1807,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/41/0181284161.jpg",
    "visite": 34,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costiuito-da-jk-fitness-jk-6096-power-tower-bene-gia-montato-jk-fitness-jk-5002-aerobic-step-1714820.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:58",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costiuito-da-jk-fitness-jk-6096-power-tower-bene-gia-montato-jk-fitness-jk-5002-aerobic-step-1714820.html"
   },
   {
    "id": "1714821",
@@ -1758,12 +1823,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/38/0181283866.jpg",
    "visite": 52,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-toorx-kit-sacco-wbx-70-sacco-box-1714821.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:52",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-toorx-kit-sacco-wbx-70-sacco-box-1714821.html"
   },
   {
    "id": "1714822",
@@ -1779,12 +1839,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/37/0181283758.jpg",
    "visite": 36,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-x104-140k-x45-b76-116cm-raejv05jc05-rossignol-rcek081-41-10-09-2015-1714822.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:50",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-x104-140k-x45-b76-116cm-raejv05jc05-rossignol-rcek081-41-10-09-2015-1714822.html"
   },
   {
    "id": "1714823",
@@ -1800,12 +1855,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/35/0181283548.jpg",
    "visite": 41,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-gia-assemblato-toorx-step-training-nero-e-grigio-senza-scatola-1714823.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:49",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-gia-assemblato-toorx-step-training-nero-e-grigio-senza-scatola-1714823.html"
   },
   {
    "id": "1714824",
@@ -1821,12 +1871,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/34/0181283412.jpg",
    "visite": 33,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-everfit-step-up-mini-stepper-1714824.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:48",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-everfit-step-up-mini-stepper-1714824.html"
   },
   {
    "id": "1714825",
@@ -1842,12 +1887,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/33/0181283315.png",
    "visite": 35,
-   "url": "https://cronoaste.fallcoaste.it/vendita/toorx-brx-3000-cyclette-orizzontale-nero-grigio-1714825.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:47",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/toorx-brx-3000-cyclette-orizzontale-nero-grigio-1714825.html"
   },
   {
    "id": "1714826",
@@ -1863,12 +1903,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/32/0181283237.jpg",
    "visite": 37,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-1714826.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:45",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-1714826.html"
   },
   {
    "id": "1714827",
@@ -1884,12 +1919,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/30/0181283040.png",
    "visite": 41,
-   "url": "https://cronoaste.fallcoaste.it/vendita/toorx-msx-60-stazione-multifunzione-bene-da-assemblare-composto-da-n-4-scatole-1714827.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:44",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/toorx-msx-60-stazione-multifunzione-bene-da-assemblare-composto-da-n-4-scatole-1714827.html"
   },
   {
    "id": "1714828",
@@ -1905,12 +1935,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/28/0181282857.png",
    "visite": 63,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714828.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:43",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714828.html"
   },
   {
    "id": "1714829",
@@ -1926,12 +1951,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/27/0181282780.png",
    "visite": 58,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-tapis-roulant-zfit-everfit-step-up-training-bianco-nero-1714829.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:40",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-tapis-roulant-zfit-everfit-step-up-training-bianco-nero-1714829.html"
   },
   {
    "id": "1714830",
@@ -1947,12 +1967,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/23/0181282371.png",
    "visite": 54,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714830.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:37",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714830.html"
   },
   {
    "id": "1714831",
@@ -1968,12 +1983,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/21/0181282114.png",
    "visite": 44,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-sci-nero-verde-oliva-8033311970542-alpine-ski-bindings-tyrolia-nero-a-no-1691153-nordica-scarponi-1714831.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:33",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-sci-nero-verde-oliva-8033311970542-alpine-ski-bindings-tyrolia-nero-a-no-1691153-nordica-scarponi-1714831.html"
   },
   {
    "id": "1714832",
@@ -1989,12 +1999,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/20/0181282016.jpg",
    "visite": 37,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-x104-140k-x45-b76-taglia-128cm-raejc05ic05-rossignol-attacco-per-sci-rcek081-1714832.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:32",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-x104-140k-x45-b76-taglia-128cm-raejc05ic05-rossignol-attacco-per-sci-rcek081-1714832.html"
   },
   {
    "id": "1714833",
@@ -2010,12 +2015,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/13/0181281398.jpg",
    "visite": 45,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-conquer-xbi-ct-taglia-170cm-verde-0a1070001a6-8126131701-nordica-attacco-per-sci-0c0014018f4-nero-nordica-1714833.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:22",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-conquer-xbi-ct-taglia-170cm-verde-0a1070001a6-8126131701-nordica-attacco-per-sci-0c0014018f4-nero-nordica-1714833.html"
   },
   {
    "id": "1714834",
@@ -2031,12 +2031,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/11/0181281139.jpg",
    "visite": 50,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-146sw-snowboard-9900000403768-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-firefly-mod-1714834.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:20",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-146sw-snowboard-9900000403768-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-firefly-mod-1714834.html"
   },
   {
    "id": "1680592",
@@ -2052,12 +2047,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/04/24/0179042497.jpg",
    "visite": 501,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-bene-n-1-autocarro-fiat-iveco-con-cassone-centinato-modello-turbo-daily-35-10-tg-ek-1680592.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "28/08/2026 18:09",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-bene-n-1-autocarro-fiat-iveco-con-cassone-centinato-modello-turbo-daily-35-10-tg-ek-1680592.html"
   },
   {
    "id": "1699978",
@@ -2073,12 +2063,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/42/73/0180427382.jpg",
    "visite": 110,
-   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-strumentazione-ed-attrezzatura-per-negozi-di-abbigliamento-costituito-da-n-7-banconi-espositori-n-70-mensole-in-alluminio-1699978.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "21/09/2026 08:59",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-strumentazione-ed-attrezzatura-per-negozi-di-abbigliamento-costituito-da-n-7-banconi-espositori-n-70-mensole-in-alluminio-1699978.html"
   },
   {
    "id": "1714795",
@@ -2094,12 +2079,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/28/0181282830.png",
    "visite": 34,
-   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714795.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "07/10/2026 10:41",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714795.html"
   },
   {
    "id": "1703895",
@@ -2115,12 +2095,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/73/0180737371.jpg",
    "visite": 113,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-25-gemme-preziose-dal-peso-complessivo-di-6-grammi-equivalenti-a-30-carati-valore-di-8-700-00-1703895.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 17:08",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-25-gemme-preziose-dal-peso-complessivo-di-6-grammi-equivalenti-a-30-carati-valore-di-8-700-00-1703895.html"
   },
   {
    "id": "1703790",
@@ -2136,12 +2111,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/53/0180735389.jpg",
    "visite": 74,
-   "url": "https://cronoaste.fallcoaste.it/vendita/pastorizzatrice-marca-pastochef-modello-rtx-capacita-litri-12-in-acciaio-funzionante-valore-di-2-000-00-1703790.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 16:30",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/pastorizzatrice-marca-pastochef-modello-rtx-capacita-litri-12-in-acciaio-funzionante-valore-di-2-000-00-1703790.html"
   },
   {
    "id": "1703802",
@@ -2157,12 +2127,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/55/0180735561.jpg",
    "visite": 78,
-   "url": "https://cronoaste.fallcoaste.it/vendita/gelatiera-industriale-marca-frigomat-modello-vibe-in-acciaio-capacita-litri-3-funzionante-valore-di-1-000-00-1703802.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 16:32",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/gelatiera-industriale-marca-frigomat-modello-vibe-in-acciaio-capacita-litri-3-funzionante-valore-di-1-000-00-1703802.html"
   },
   {
    "id": "1703808",
@@ -2178,12 +2143,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/56/0180735677.jpg",
    "visite": 63,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-3-celle-frigorifere-marca-aspes-altezza-circa-2-mt-per-80-cm-di-larghezza-codici-seriali-1702101157p-1705253287p-1703808.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 16:33",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-3-celle-frigorifere-marca-aspes-altezza-circa-2-mt-per-80-cm-di-larghezza-codici-seriali-1702101157p-1705253287p-1703808.html"
   },
   {
    "id": "1703814",
@@ -2199,12 +2159,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/58/0180735819.jpg",
    "visite": 58,
-   "url": "https://cronoaste.fallcoaste.it/vendita/forno-industriale-tecnoinox-dimensioni-1-mt-per-1-mt-da-8-ripiani-in-acciaio-inox-funzionante-valore-di-5-1703814.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 16:36",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/forno-industriale-tecnoinox-dimensioni-1-mt-per-1-mt-da-8-ripiani-in-acciaio-inox-funzionante-valore-di-5-1703814.html"
   },
   {
    "id": "1703855",
@@ -2220,12 +2175,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/58/0180735898.png",
    "visite": 65,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-10-tavolini-quadrati-in-plastica-di-colore-grigio-completo-di-sedie-in-plastica-di-colore-grigio-valore-di-1703855.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 16:37",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-10-tavolini-quadrati-in-plastica-di-colore-grigio-completo-di-sedie-in-plastica-di-colore-grigio-valore-di-1703855.html"
   },
   {
    "id": "1703929",
@@ -2241,12 +2191,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/96/0180739645.jpg",
    "visite": 72,
-   "url": "https://cronoaste.fallcoaste.it/vendita/50-cinquanta-abiti-da-cerimonia-contrassegnati-dal-marchio-impero-modelli-e-colori-assortiti-misure-varie-valore-di-12-000-1703929.html",
-   "prezzo_minimo": null,
-   "termine_carta": "26/10/2026 13:00",
-   "termine_bonifico": "26/10/2026 13:00",
-   "pubblicata": "25/09/2026 17:50",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/50-cinquanta-abiti-da-cerimonia-contrassegnati-dal-marchio-impero-modelli-e-colori-assortiti-misure-varie-valore-di-12-000-1703929.html"
   },
   {
    "id": "1685918",
@@ -2262,12 +2207,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/67/78/0179677890.jpg",
    "visite": 72,
-   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-per-1000-1000-di-immobile-sito-in-mendicino-viale-omero-50-piano-t-1-foglio-21-p-1685918.html",
-   "prezzo_minimo": 33636.38,
-   "termine_carta": "",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "09/09/2026 09:31",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-per-1000-1000-di-immobile-sito-in-mendicino-viale-omero-50-piano-t-1-foglio-21-p-1685918.html"
   },
   {
    "id": "1685920",
@@ -2283,12 +2223,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/67/80/0179678010.jpg",
    "visite": 98,
-   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-per-1000-1000-di-terreno-edificabile-sito-in-mendicino-foglio-21-p-lla-539-seminativo-arboreo-classe-1685920.html",
-   "prezzo_minimo": 5357.08,
-   "termine_carta": "",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "09/09/2026 09:32",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-per-1000-1000-di-terreno-edificabile-sito-in-mendicino-foglio-21-p-lla-539-seminativo-arboreo-classe-1685920.html"
   },
   {
    "id": "1705988",
@@ -2304,12 +2239,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/59/0181035938.jpg",
    "visite": 49,
-   "url": "https://cronoaste.fallcoaste.it/vendita/11-manichini-bambino-a-e-ragazzo-a-colori-ed-altezze-varie-n-4-sgabelli-con-struttura-in-metallo-con-1705988.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:09",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/11-manichini-bambino-a-e-ragazzo-a-colori-ed-altezze-varie-n-4-sgabelli-con-struttura-in-metallo-con-1705988.html"
   },
   {
    "id": "1705993",
@@ -2325,12 +2255,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/60/0181036017.jpg",
    "visite": 50,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-aspirapolvere-a-traino-con-sacco-marca-rowenta-modello-ro6455ea-n-1-scaletta-a-due-gradini-in-metallo-1705993.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:11",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-aspirapolvere-a-traino-con-sacco-marca-rowenta-modello-ro6455ea-n-1-scaletta-a-due-gradini-in-metallo-1705993.html"
   },
   {
    "id": "1705996",
@@ -2346,12 +2271,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/60/0181036086.jpg",
    "visite": 60,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-monitor-di-cui-uno-marca-asus-modello-vw180-e-l-altro-marca-dell-n-2-tastiere-di-1705996.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:13",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-monitor-di-cui-uno-marca-asus-modello-vw180-e-l-altro-marca-dell-n-2-tastiere-di-1705996.html"
   },
   {
    "id": "1705999",
@@ -2367,12 +2287,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/62/0181036210.jpg",
    "visite": 83,
-   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-0-16-neonato-a-bambino-a-e-ragazzo-a-di-collezioni-autunno-inverno-e-primavera-estate-1705999.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:15",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-0-16-neonato-a-bambino-a-e-ragazzo-a-di-collezioni-autunno-inverno-e-primavera-estate-1705999.html"
   },
   {
    "id": "1706001",
@@ -2388,12 +2303,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/63/0181036351.jpg",
    "visite": 68,
-   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-bambino-a-e-ragazzo-a-sono-di-collezioni-autunno-inverno-e-primavera-estate-di-anni-passati-1706001.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:18",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-bambino-a-e-ragazzo-a-sono-di-collezioni-autunno-inverno-e-primavera-estate-di-anni-passati-1706001.html"
   },
   {
    "id": "1706003",
@@ -2409,12 +2319,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/64/0181036425.jpg",
    "visite": 88,
-   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-elettronica-varia-pc-tastiere-monitor-gruppi-di-continuita-rilevatore-banconote-false-ecc-il-tutto-come-meglio-descritto-nella-1706003.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:19",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-elettronica-varia-pc-tastiere-monitor-gruppi-di-continuita-rilevatore-banconote-false-ecc-il-tutto-come-meglio-descritto-nella-1706003.html"
   },
   {
    "id": "1706005",
@@ -2430,12 +2335,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/65/0181036527.jpg",
    "visite": 68,
-   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-varia-telecamere-faretti-impianti-di-videosorveglianza-sensori-di-presenza-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-1706005.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:20",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-varia-telecamere-faretti-impianti-di-videosorveglianza-sensori-di-presenza-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-1706005.html"
   },
   {
    "id": "1706010",
@@ -2451,12 +2351,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/66/0181036668.jpg",
    "visite": 52,
-   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-vario-tavoli-espositivi-armadi-espositori-banconi-cassettiere-sedie-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-quale-1706010.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:23",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-vario-tavoli-espositivi-armadi-espositori-banconi-cassettiere-sedie-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-quale-1706010.html"
   },
   {
    "id": "1704626",
@@ -2472,12 +2367,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/11/0180961163.jpg",
    "visite": 77,
-   "url": "https://cronoaste.fallcoaste.it/vendita/attrezzatura-varia-viti-bulloni-manometri-prese-elettriche-trasformatori-etc-valore-di-800-00-1704626.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:09",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/attrezzatura-varia-viti-bulloni-manometri-prese-elettriche-trasformatori-etc-valore-di-800-00-1704626.html"
   },
   {
    "id": "1704630",
@@ -2493,12 +2383,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/12/0180961229.jpg",
    "visite": 58,
-   "url": "https://cronoaste.fallcoaste.it/vendita/carrello-valore-di-20-00-1704630.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:11",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/carrello-valore-di-20-00-1704630.html"
   },
   {
    "id": "1704640",
@@ -2514,12 +2399,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/12/0180961292.jpg",
    "visite": 70,
-   "url": "https://cronoaste.fallcoaste.it/vendita/compressore-valore-di-50-00-1704640.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:13",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/compressore-valore-di-50-00-1704640.html"
   },
   {
    "id": "1704644",
@@ -2535,12 +2415,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/14/0180961441.jpg",
    "visite": 77,
-   "url": "https://cronoaste.fallcoaste.it/vendita/macchinario-apparentemente-non-funzionante-e-qualificato-come-materiale-ferroso-valore-di-800-00-1704644.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:16",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/macchinario-apparentemente-non-funzionante-e-qualificato-come-materiale-ferroso-valore-di-800-00-1704644.html"
   },
   {
    "id": "1704652",
@@ -2556,12 +2431,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/15/0180961536.png",
    "visite": 72,
-   "url": "https://cronoaste.fallcoaste.it/vendita/sollevatore-caterpillar-16-valore-di-3-000-00-1704652.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:18",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/sollevatore-caterpillar-16-valore-di-3-000-00-1704652.html"
   },
   {
    "id": "1704655",
@@ -2577,12 +2447,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/15/0180961582.jpg",
    "visite": 47,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-fari-a-soffitto-valore-di-100-00-1704655.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:19",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-fari-a-soffitto-valore-di-100-00-1704655.html"
   },
   {
    "id": "1704660",
@@ -2598,12 +2463,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/16/0180961619.png",
    "visite": 52,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-bilancia-valore-di-20-00-1704660.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:20",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-bilancia-valore-di-20-00-1704660.html"
   },
   {
    "id": "1704661",
@@ -2619,12 +2479,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/17/0180961702.jpg",
    "visite": 53,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-serbatoi-in-acciaio-valore-di-100-00-1704661.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:22",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-serbatoi-in-acciaio-valore-di-100-00-1704661.html"
   },
   {
    "id": "1704663",
@@ -2640,12 +2495,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/17/0180961792.png",
    "visite": 95,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-saldatrice-valore-di-500-00-1704663.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:23",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-saldatrice-valore-di-500-00-1704663.html"
   },
   {
    "id": "1704672",
@@ -2661,12 +2511,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/18/0180961835.jpg",
    "visite": 57,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-sabbiatrice-valore-di-500-00-1704672.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "29/09/2026 17:24",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-sabbiatrice-valore-di-500-00-1704672.html"
   },
   {
    "id": "1704708",
@@ -2682,12 +2527,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/41/0180984160.jpg",
    "visite": 48,
-   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-impastatrice-pietro-berto-modello-p-60-planetaria-da-60-litri-valore-di-4-000-00-1704708.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:42",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-impastatrice-pietro-berto-modello-p-60-planetaria-da-60-litri-valore-di-4-000-00-1704708.html"
   },
   {
    "id": "1704709",
@@ -2703,12 +2543,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/41/0180984196.jpg",
    "visite": 55,
-   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-impastatrice-pietro-berto-la-vittoria-12c-120-litri-valore-di-8-000-00-1704709.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:44",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-impastatrice-pietro-berto-la-vittoria-12c-120-litri-valore-di-8-000-00-1704709.html"
   },
   {
    "id": "1704710",
@@ -2724,12 +2559,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/42/0180984234.png",
    "visite": 41,
-   "url": "https://cronoaste.fallcoaste.it/vendita/spirale-80-chili-pietro-berto-valore-di-4-000-00-1704710.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:45",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/spirale-80-chili-pietro-berto-valore-di-4-000-00-1704710.html"
   },
   {
    "id": "1704714",
@@ -2745,12 +2575,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/43/0180984310.png",
    "visite": 51,
-   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-spezzatrice-marca-polin-valore-di-10-000-00-1704714.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:46",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/macchina-spezzatrice-marca-polin-valore-di-10-000-00-1704714.html"
   },
   {
    "id": "1704715",
@@ -2766,12 +2591,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/43/0180984374.jpg",
    "visite": 47,
-   "url": "https://cronoaste.fallcoaste.it/vendita/forno-elettrico-marca-morello-forni-4-camere-valore-di-17-000-00-1704715.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:47",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/forno-elettrico-marca-morello-forni-4-camere-valore-di-17-000-00-1704715.html"
   },
   {
    "id": "1704716",
@@ -2787,12 +2607,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/44/0180984408.png",
    "visite": 40,
-   "url": "https://cronoaste.fallcoaste.it/vendita/cella-fermalievito-da-4-carrelli-marca-alaska-elettrica-valore-di-6-000-00-1704716.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:48",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/cella-fermalievito-da-4-carrelli-marca-alaska-elettrica-valore-di-6-000-00-1704716.html"
   },
   {
    "id": "1704722",
@@ -2808,12 +2623,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/46/0180984614.jpg",
    "visite": 101,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-8-titoli-della-politica-agricola-comune-titoli-pac-agea-per-la-campagna-2026-1704722.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:52",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-8-titoli-della-politica-agricola-comune-titoli-pac-agea-per-la-campagna-2026-1704722.html"
   },
   {
    "id": "1704725",
@@ -2828,13 +2638,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/46/0180984675.jpg",
-   "visite": 667,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-audi-q3-tg-ek-immatricolata-10-11-2011-cilindrata-1968-kw-130-k-m-315-873-alimentazione-1704725.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "30/09/2026 09:54",
-   "dett": true
+   "visite": 668,
+   "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-audi-q3-tg-ek-immatricolata-10-11-2011-cilindrata-1968-kw-130-k-m-315-873-alimentazione-1704725.html"
   },
   {
    "id": "1609379",
@@ -2850,12 +2655,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/17/43/0175174354.jpg",
    "visite": 43,
-   "url": "https://cronoaste.fallcoaste.it/vendita/quota-indivisa-pari-a-1-9-del-diritto-di-piena-proprieta-dell-immobile-sito-in-rende-cs-c-dasaporito-1609379.html",
-   "prezzo_minimo": null,
-   "termine_carta": "",
-   "termine_bonifico": "09/11/2026 13:00",
-   "pubblicata": "08/06/2026 18:25",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/quota-indivisa-pari-a-1-9-del-diritto-di-piena-proprieta-dell-immobile-sito-in-rende-cs-c-dasaporito-1609379.html"
   },
   {
    "id": "1703906",
@@ -2871,12 +2671,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/79/0180737990.jpg",
    "visite": 73,
-   "url": "https://cronoaste.fallcoaste.it/vendita/gru-marca-alfagru-a-torre-tradizionale-con-cuspide-e-tiranti-con-torre-a-montaggio-rapido-con-rotazione-in-alto-1703906.html",
-   "prezzo_minimo": 2601.69,
-   "termine_carta": "09/11/2026 13:00",
-   "termine_bonifico": "09/11/2026 13:00",
-   "pubblicata": "25/09/2026 17:19",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/gru-marca-alfagru-a-torre-tradizionale-con-cuspide-e-tiranti-con-torre-a-montaggio-rapido-con-rotazione-in-alto-1703906.html"
   },
   {
    "id": "1705901",
@@ -2892,12 +2687,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/11/0181031199.jpg",
    "visite": 374,
-   "url": "https://cronoaste.fallcoaste.it/vendita/l-imbarcazione-risulta-essere-ormeggiata-al-porto-di-riposto-senza-copertura-alla-data-della-ricognizione-06-02-2026-lo-1705901.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:01",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/l-imbarcazione-risulta-essere-ormeggiata-al-porto-di-riposto-senza-copertura-alla-data-della-ricognizione-06-02-2026-lo-1705901.html"
   },
   {
    "id": "1705905",
@@ -2912,13 +2702,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/15/0181031553.png",
-   "visite": 61,
-   "url": "https://cronoaste.fallcoaste.it/vendita/mobile-ingresso-bancone-composto-da-due-pezzi-in-legno-chiaro-forma-due-semicerchi-con-pannelli-rivestiti-in-materiale-metallico-1705905.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:06",
-   "dett": true
+   "visite": 62,
+   "url": "https://cronoaste.fallcoaste.it/vendita/mobile-ingresso-bancone-composto-da-due-pezzi-in-legno-chiaro-forma-due-semicerchi-con-pannelli-rivestiti-in-materiale-metallico-1705905.html"
   },
   {
    "id": "1705910",
@@ -2934,12 +2719,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/16/0181031671.png",
    "visite": 53,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-7-panchette-in-legno-chiaro-lunghezza-1-metro-circa-valore-di-350-00-1705910.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:07",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-7-panchette-in-legno-chiaro-lunghezza-1-metro-circa-valore-di-350-00-1705910.html"
   },
   {
    "id": "1705914",
@@ -2955,12 +2735,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/17/0181031760.png",
    "visite": 59,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-9-mensole-porta-indumenti-in-legno-chiaro-con-scomparti-diagonali-in-metallo-e-n-5-coppie-di-ganci-1705914.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:08",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-9-mensole-porta-indumenti-in-legno-chiaro-con-scomparti-diagonali-in-metallo-e-n-5-coppie-di-ganci-1705914.html"
   },
   {
    "id": "1705916",
@@ -2976,12 +2751,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/18/0181031818.jpg",
    "visite": 51,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-4-cubi-in-legno-colore-chiaro-con-inserti-colorati-forma-circolare-valore-di-80-00-1705916.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:10",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-4-cubi-in-legno-colore-chiaro-con-inserti-colorati-forma-circolare-valore-di-80-00-1705916.html"
   },
   {
    "id": "1705917",
@@ -2997,12 +2767,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/19/0181031950.png",
    "visite": 55,
-   "url": "https://cronoaste.fallcoaste.it/vendita/mobile-di-legno-chiaro-portaoggetti-e-giochi-con-n-6-cassetti-con-maniglie-cassettone-sottostante-con-rotelle-piu-n-1705917.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:11",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/mobile-di-legno-chiaro-portaoggetti-e-giochi-con-n-6-cassetti-con-maniglie-cassettone-sottostante-con-rotelle-piu-n-1705917.html"
   },
   {
    "id": "1705921",
@@ -3018,12 +2783,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/19/0181031993.png",
    "visite": 78,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lavagna-elettronica-interattiva-samsung-85-pollici-valore-di-4-000-00-1705921.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:12",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lavagna-elettronica-interattiva-samsung-85-pollici-valore-di-4-000-00-1705921.html"
   },
   {
    "id": "1705936",
@@ -3039,12 +2799,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/20/0181032091.png",
    "visite": 62,
-   "url": "https://cronoaste.fallcoaste.it/vendita/struttura-giochi-in-legno-marca-gemino-con-due-scivoli-e-casette-sottostanti-con-giochi-sensoriali-e-oblo-trasparente-con-1705936.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:13",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/struttura-giochi-in-legno-marca-gemino-con-due-scivoli-e-casette-sottostanti-con-giochi-sensoriali-e-oblo-trasparente-con-1705936.html"
   },
   {
    "id": "1705947",
@@ -3060,12 +2815,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/22/0181032211.png",
    "visite": 53,
-   "url": "https://cronoaste.fallcoaste.it/vendita/piscina-per-ludoteca-struttura-in-plastica-colorata-a-forma-quadrata-colorata-blu-rosso-e-verde-con-100-palline-colorate-1705947.html",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 10:14",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/piscina-per-ludoteca-struttura-in-plastica-colorata-a-forma-quadrata-colorata-blu-rosso-e-verde-con-100-palline-colorate-1705947.html"
   },
   {
    "id": "1715039",
@@ -3081,12 +2831,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/19/0181281952.jpg",
    "visite": 44,
-   "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1715039.html",
-   "prezzo_minimo": null,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "07/10/2026 10:32",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1715039.html"
   },
   {
    "id": "1722468",
@@ -3102,12 +2847,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/11/0181561128.jpg",
    "visite": 39,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-1-software-con-licenza-d-uso-interno-2-registratore-telematico-palmari-n-5-stampanti-4-koenic-1722468.html",
-   "prezzo_minimo": 4039.25,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 17:37",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-1-software-con-licenza-d-uso-interno-2-registratore-telematico-palmari-n-5-stampanti-4-koenic-1722468.html"
   },
   {
    "id": "1722479",
@@ -3122,13 +2862,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/16/0181561696.jpg",
-   "visite": 496,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-un-imbarcazione-marinello-eden-18-con-motore-yamaha-40cv-carrello-in-acciaio-di-dimensioni-453-x-1722479.html",
-   "prezzo_minimo": 1864.69,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 17:47",
-   "dett": true
+   "visite": 497,
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-un-imbarcazione-marinello-eden-18-con-motore-yamaha-40cv-carrello-in-acciaio-di-dimensioni-453-x-1722479.html"
   },
   {
    "id": "1722482",
@@ -3144,12 +2879,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/18/0181561893.jpg",
    "visite": 39,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mobilio-arredi-ed-elettrodomestici-costituenti-l-arredo-di-tre-distinti-appartamenti-di-un-unica-palazzina-nello-1722482.html",
-   "prezzo_minimo": 2120.54,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 17:53",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mobilio-arredi-ed-elettrodomestici-costituenti-l-arredo-di-tre-distinti-appartamenti-di-un-unica-palazzina-nello-1722482.html"
   },
   {
    "id": "1722484",
@@ -3165,12 +2895,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/20/0181562006.jpg",
    "visite": 58,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mobilio-arredi-e-corredi-domestici-comprensivo-di-mobili-in-legno-tavoli-dispense-pareti-attrezzate-divani-in-1722484.html",
-   "prezzo_minimo": 10154.81,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 17:56",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mobilio-arredi-e-corredi-domestici-comprensivo-di-mobili-in-legno-tavoli-dispense-pareti-attrezzate-divani-in-1722484.html"
   },
   {
    "id": "1722490",
@@ -3186,12 +2911,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/29/0181562927.jpg",
    "visite": 90,
-   "url": "https://cronoaste.fallcoaste.it/vendita/camion-renault-midlum-220-dci-targato-ca-698-xv-con-allestimento-a-pianale-sponde-basse-assenti-carta-di-circolazione-1722490.html",
-   "prezzo_minimo": 2581.88,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:06",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/camion-renault-midlum-220-dci-targato-ca-698-xv-con-allestimento-a-pianale-sponde-basse-assenti-carta-di-circolazione-1722490.html"
   },
   {
    "id": "1722495",
@@ -3207,12 +2927,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/30/0181563077.jpg",
    "visite": 112,
-   "url": "https://cronoaste.fallcoaste.it/vendita/rimorchio-per-trasporto-stradale-marca-pedretti-2-assi-targato-ab-34416-1722495.html",
-   "prezzo_minimo": 1147.5,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:10",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/rimorchio-per-trasporto-stradale-marca-pedretti-2-assi-targato-ab-34416-1722495.html"
   },
   {
    "id": "1722499",
@@ -3228,12 +2943,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/31/0181563161.jpg",
    "visite": 39,
-   "url": "https://cronoaste.fallcoaste.it/vendita/pianoforte-verticale-p-brunner-con-seduta-colore-nero-dimensioni-cm-l144-x-h120-x-p60-1722499.html",
-   "prezzo_minimo": 573.75,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:14",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/pianoforte-verticale-p-brunner-con-seduta-colore-nero-dimensioni-cm-l144-x-h120-x-p60-1722499.html"
   },
   {
    "id": "1722502",
@@ -3249,12 +2959,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/32/0181563210.jpg",
    "visite": 96,
-   "url": "https://cronoaste.fallcoaste.it/vendita/calcio-balilla-marca-cavicchi-dal-1938-modello-opera-rovere-dimensioni-cm-l140-x-h85-5-x-p-75-5-1722502.html",
-   "prezzo_minimo": 1290.94,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:15",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/calcio-balilla-marca-cavicchi-dal-1938-modello-opera-rovere-dimensioni-cm-l140-x-h85-5-x-p-75-5-1722502.html"
   },
   {
    "id": "1722504",
@@ -3270,12 +2975,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/32/0181563255.jpg",
    "visite": 59,
-   "url": "https://cronoaste.fallcoaste.it/vendita/tavolo-da-biliardo-marca-cavicchi-dal-1938-completo-di-rastrelliera-e-segnapunti-dimensioni-286x158x80-1722504.html",
-   "prezzo_minimo": 1721.25,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:16",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/tavolo-da-biliardo-marca-cavicchi-dal-1938-completo-di-rastrelliera-e-segnapunti-dimensioni-286x158x80-1722504.html"
   },
   {
    "id": "1722506",
@@ -3290,13 +2990,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/33/0181563319.jpg",
-   "visite": 67,
-   "url": "https://cronoaste.fallcoaste.it/vendita/gruppo-elettrogeno-silenziato-motex-genset-mgf-16-y-motore-diesel-da-1500-giri-min-con-uscita-monofase-da-5-1722506.html",
-   "prezzo_minimo": 2295.0,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:18",
-   "dett": true
+   "visite": 68,
+   "url": "https://cronoaste.fallcoaste.it/vendita/gruppo-elettrogeno-silenziato-motex-genset-mgf-16-y-motore-diesel-da-1500-giri-min-con-uscita-monofase-da-5-1722506.html"
   },
   {
    "id": "1722567",
@@ -3312,12 +3007,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/34/0181563412.png",
    "visite": 36,
-   "url": "https://cronoaste.fallcoaste.it/vendita/marchio-non-registrato-marino-operante-nel-settore-produttivo-nautico-il-marchio-veniva-applicato-nelle-imbarcazioni-come-segno-distintivo-insieme-1722567.html",
-   "prezzo_minimo": null,
-   "termine_carta": "16/11/2026 13:00",
-   "termine_bonifico": "16/11/2026 13:00",
-   "pubblicata": "13/10/2026 18:22",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/marchio-non-registrato-marino-operante-nel-settore-produttivo-nautico-il-marchio-veniva-applicato-nelle-imbarcazioni-come-segno-distintivo-insieme-1722567.html"
   },
   {
    "id": "1672891",
@@ -3333,12 +3023,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/81/35/0178813556.jpg",
    "visite": 123,
-   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-in-ragione-dell-intero-del-terreno-sito-in-misterbianco-via-ottavio-branciforti-n-48-esteso-metri-quadrati-1672891.html",
-   "prezzo_minimo": 12150.0,
-   "termine_carta": "",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "24/08/2026 11:12",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-in-ragione-dell-intero-del-terreno-sito-in-misterbianco-via-ottavio-branciforti-n-48-esteso-metri-quadrati-1672891.html"
   },
   {
    "id": "1716362",
@@ -3354,12 +3039,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/36/48/0181364861.jpg",
    "visite": 47,
-   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-edilizio-a-destinazione-commerciale-costituito-dasupermercato-con-annesso-deposito-zona-retrostante-di-carico-e-scarico-meta-indivisa-della-1716362.html",
-   "prezzo_minimo": 1338271.88,
-   "termine_carta": "",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "08/10/2026 18:53",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-edilizio-a-destinazione-commerciale-costituito-dasupermercato-con-annesso-deposito-zona-retrostante-di-carico-e-scarico-meta-indivisa-della-1716362.html"
   },
   {
    "id": "1716365",
@@ -3375,12 +3055,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/36/48/0181364896.jpg",
    "visite": 54,
-   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-edilizio-a-destinazione-commerciale-costituito-da-negozi-alpiano-terra-locali-al-piano-primo-con-annessa-terrazza-meta-indivisadella-1716365.html",
-   "prezzo_minimo": 252796.73,
-   "termine_carta": "",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "08/10/2026 18:54",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-edilizio-a-destinazione-commerciale-costituito-da-negozi-alpiano-terra-locali-al-piano-primo-con-annessa-terrazza-meta-indivisadella-1716365.html"
   },
   {
    "id": "1716425",
@@ -3396,12 +3071,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/36/49/0181364979.png",
    "visite": 44,
-   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-aziendale-composto-dal-complesso-di-beni-organizzato-rappresentato-dai-beni-strumentali-arredi-e-altri-beni-inventariati-dai-contratti-1716425.html",
-   "prezzo_minimo": null,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "08/10/2026 18:57",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/complesso-aziendale-composto-dal-complesso-di-beni-organizzato-rappresentato-dai-beni-strumentali-arredi-e-altri-beni-inventariati-dai-contratti-1716425.html"
   },
   {
    "id": "1725700",
@@ -3417,12 +3087,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/30/0181633004.jpg",
    "visite": 27,
-   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-esercente-attivita-di-supermercato-attualmente-a-marchio-coop-in-viale-epipoli-n-87-in-siracusa-sr-1725700.html",
-   "prezzo_minimo": 403228.0,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "15/10/2026 09:49",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-esercente-attivita-di-supermercato-attualmente-a-marchio-coop-in-viale-epipoli-n-87-in-siracusa-sr-1725700.html"
   },
   {
    "id": "1725707",
@@ -3438,12 +3103,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/30/0181633099.png",
    "visite": 21,
-   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1725707.html",
-   "prezzo_minimo": 121025.39,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "15/10/2026 09:51",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1725707.html"
   },
   {
    "id": "1725712",
@@ -3459,12 +3119,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/32/0181633215.png",
    "visite": 20,
-   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-dell-olimpiade-nn-15-17-e-19-munito-di-autorizzazione-per-esercizio-di-commercio-su-1725712.html",
-   "prezzo_minimo": 80090.33,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "15/10/2026 09:53",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-dell-olimpiade-nn-15-17-e-19-munito-di-autorizzazione-per-esercizio-di-commercio-su-1725712.html"
   },
   {
    "id": "1725757",
@@ -3480,12 +3135,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/33/0181633328.png",
    "visite": 21,
-   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-avente-quale-oggetto-sociale-la-gestione-di-minimarket-supermercati-negozi-generi-alimentari-e-non-con-annessi-1725757.html",
-   "prezzo_minimo": 65852.05,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "15/10/2026 09:54",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-avente-quale-oggetto-sociale-la-gestione-di-minimarket-supermercati-negozi-generi-alimentari-e-non-con-annessi-1725757.html"
   },
   {
    "id": "1706372",
@@ -3501,12 +3151,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/20/29/51/0120295170.png",
    "visite": 46,
-   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-in-enna-1706372.html",
-   "prezzo_minimo": null,
-   "termine_carta": "27/11/2026 12:00",
-   "termine_bonifico": "27/11/2026 12:00",
-   "pubblicata": "01/10/2026 17:48",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-in-enna-1706372.html"
   },
   {
    "id": "1706373",
@@ -3522,12 +3167,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/20/32/65/0120326541.png",
    "visite": 41,
-   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-in-enna-1706373.html",
-   "prezzo_minimo": null,
-   "termine_carta": "27/11/2026 12:00",
-   "termine_bonifico": "27/11/2026 12:00",
-   "pubblicata": "01/10/2026 17:48",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-in-enna-1706373.html"
   },
   {
    "id": "1725834",
@@ -3543,12 +3183,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/67/0181636777.png",
    "visite": 112,
-   "url": "https://cronoaste.fallcoaste.it/vendita/veicolo-fiat-panda-targato-df132my-1725834.html",
-   "prezzo_minimo": null,
-   "termine_carta": "27/11/2026 12:00",
-   "termine_bonifico": "27/11/2026 12:00",
-   "pubblicata": "15/10/2026 15:04",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/veicolo-fiat-panda-targato-df132my-1725834.html"
   },
   {
    "id": "1730397",
@@ -3564,12 +3199,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/85/69/0181856928.png",
    "visite": 18,
-   "url": "https://cronoaste.fallcoaste.it/vendita/motociclo-marca-piaggio-modello-scarabeo-tg-dt-immatricolata-12-04-2011-cilindrata-181-cc-kw-014-00-k-m-1730397.html",
-   "prezzo_minimo": null,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "20/10/2026 16:42",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/motociclo-marca-piaggio-modello-scarabeo-tg-dt-immatricolata-12-04-2011-cilindrata-181-cc-kw-014-00-k-m-1730397.html"
   },
   {
    "id": "1730414",
@@ -3585,12 +3215,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/85/70/0181857011.jpg",
    "visite": 10,
-   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-frigo-verticale-in-metallo-colore-acciaio-in-discreto-stato-con-scritta-ettore-panificio-altezza-1-80-cm-valore-1730414.html",
-   "prezzo_minimo": null,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "20/10/2026 16:43",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-frigo-verticale-in-metallo-colore-acciaio-in-discreto-stato-con-scritta-ettore-panificio-altezza-1-80-cm-valore-1730414.html"
   },
   {
    "id": "1730420",
@@ -3606,12 +3231,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/85/70/0181857047.png",
    "visite": 9,
-   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-per-salumeria-struttura-in-laminato-color-panna-con-striscia-frontale-con-scritta-salumeria-caratteri-verdi-su-sfondo-bianco-1730420.html",
-   "prezzo_minimo": null,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "20/10/2026 16:44",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-per-salumeria-struttura-in-laminato-color-panna-con-striscia-frontale-con-scritta-salumeria-caratteri-verdi-su-sfondo-bianco-1730420.html"
   },
   {
    "id": "1730426",
@@ -3627,12 +3247,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/85/70/0181857099.png",
    "visite": 10,
-   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-per-salumeria-struttura-in-laminato-color-panna-con-striscia-frontale-con-scritta-gastronomia-caratteri-verdi-su-sfondo-bianco-1730426.html",
-   "prezzo_minimo": null,
-   "termine_carta": "23/11/2026 13:00",
-   "termine_bonifico": "23/11/2026 13:00",
-   "pubblicata": "20/10/2026 16:45",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/bancone-per-salumeria-struttura-in-laminato-color-panna-con-striscia-frontale-con-scritta-gastronomia-caratteri-verdi-su-sfondo-bianco-1730426.html"
   },
   {
    "id": "1730387",
@@ -3648,12 +3263,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/85/67/0181856771.jpg",
    "visite": 18,
-   "url": "https://cronoaste.fallcoaste.it/vendita/immobile-sito-in-catania-viale-rapisardi-n-23-adibito-a-deposito-al-piano-sotterraneo-e-censito-al-catasto-fabbricati-1730387.html",
-   "prezzo_minimo": 27562.5,
-   "termine_carta": "",
-   "termine_bonifico": "14/12/2026 13:00",
-   "pubblicata": "20/10/2026 16:39",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/immobile-sito-in-catania-viale-rapisardi-n-23-adibito-a-deposito-al-piano-sotterraneo-e-censito-al-catasto-fabbricati-1730387.html"
   },
   {
    "id": "1729958",
@@ -3668,13 +3278,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/82/93/0181829316.jpg",
-   "visite": 105,
-   "url": "https://cronoaste.fallcoaste.it/vendita/daimlerchrysler-mercedes-tg-bh875ts-piena-proprieta-ore-16-45autovettura-privata-trasporto-persone-1729958.html",
-   "prezzo_minimo": 9159.39,
-   "termine_carta": "",
-   "termine_bonifico": "14/12/2026 13:00",
-   "pubblicata": "20/10/2026 09:22",
-   "dett": true
+   "visite": 106,
+   "url": "https://cronoaste.fallcoaste.it/vendita/daimlerchrysler-mercedes-tg-bh875ts-piena-proprieta-ore-16-45autovettura-privata-trasporto-persone-1729958.html"
   },
   {
    "id": "1729960",
@@ -3690,12 +3295,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/83/22/0181832240.jpg",
    "visite": 15,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autocarro-privato-trasporto-cose-con-sponda-idraulica-iveco-furgone-1729960.html",
-   "prezzo_minimo": 13500.0,
-   "termine_carta": "",
-   "termine_bonifico": "14/12/2026 13:00",
-   "pubblicata": "20/10/2026 10:07",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/autocarro-privato-trasporto-cose-con-sponda-idraulica-iveco-furgone-1729960.html"
   },
   {
    "id": "1729961",
@@ -3710,13 +3310,8 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/83/24/0181832409.jpg",
-   "visite": 14,
-   "url": "https://cronoaste.fallcoaste.it/vendita/iveco-furgone-35c15-tg-by659wh-15autocarro-privato-trasporto-cose-1729961.html",
-   "prezzo_minimo": 5250.0,
-   "termine_carta": "",
-   "termine_bonifico": "14/12/2026 13:00",
-   "pubblicata": "20/10/2026 10:10",
-   "dett": true
+   "visite": 15,
+   "url": "https://cronoaste.fallcoaste.it/vendita/iveco-furgone-35c15-tg-by659wh-15autocarro-privato-trasporto-cose-1729961.html"
   },
   {
    "id": "1729963",
@@ -3732,12 +3327,7 @@
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/83/25/0181832586.jpg",
    "visite": 25,
-   "url": "https://cronoaste.fallcoaste.it/vendita/citroen-c3-tg-ff733wk-autovettura-privata-trasporto-persone-1729963.html",
-   "prezzo_minimo": 10875.0,
-   "termine_carta": "",
-   "termine_bonifico": "14/12/2026 13:00",
-   "pubblicata": "20/10/2026 10:15",
-   "dett": true
+   "url": "https://cronoaste.fallcoaste.it/vendita/citroen-c3-tg-ff733wk-autovettura-privata-trasporto-persone-1729963.html"
   }
  ]
 }
