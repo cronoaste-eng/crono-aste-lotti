@@ -28,9 +28,9 @@ STATI = {1: "attiva", 2: "conclusa", 3: "conclusa"}
 ESITO = {2: "con offerte", 3: "senza offerte"}
 DATA = Path(__file__).parent / "data"
 MAX_PAGES = 60
-MAX_DETTAGLI = 400  # pagine dei beni lette al massimo in una esecuzione
+MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
-CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "dett")
+CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -88,11 +88,16 @@ def parse_dettagli(html):
     for tag in soup(["script", "style"]):
         tag.decompose()
     t = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
-    out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": "", "pubblicata": ""}
+    out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": "", "pubblicata": "", "lotto": ""}
 
     m = re.search(r"Prezzo minimo\s*€?\s*:?\s*€?\s*(\d[\d.]*,\d{2})", t, re.I)
     if m:
         out["prezzo_minimo"] = float(m.group(1).replace(".", "").replace(",", "."))
+
+    m = re.search(r"Codice\s+lotto\s*:?\s*(LOTTO\s+UNICO|\d+[A-Za-z]?)", t, re.I)
+    if m:
+        v = m.group(1).strip()
+        out["lotto"] = "Lotto unico" if v.upper().startswith("LOTTO") else "Lotto " + v
 
     m = re.search(r"Data pubblicazione\s*:?\s*" + DATA_ORA, t, re.I)
     if m:
@@ -122,7 +127,7 @@ def arricchisci(lotti, cache, budget):
     """Aggiunge i dettagli ai lotti: li riusa se già letti, altrimenti apre la pagina del bene."""
     for l in lotti:
         vecchio = cache.get(l["id"])
-        if vecchio and vecchio.get("dett") and "pubblicata" in vecchio:
+        if vecchio and vecchio.get("dett") and "pubblicata" in vecchio and "lotto" in vecchio:
             for k in CHIAVI_DETTAGLIO:
                 if k in vecchio:
                     l[k] = vecchio[k]
