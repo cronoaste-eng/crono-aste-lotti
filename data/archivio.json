@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-21T09:51:34+00:00",
+ "aggiornato": "2026-10-21T10:50:06+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -111,7 +111,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/32/0179123243.jpg",
    "visite": 154,
-   "url": "https://cronoaste.fallcoaste.it/vendita/hoover-cantinetta-howc023-1680629.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/hoover-cantinetta-howc023-1680629.html",
+   "prezzo_minimo": 84.65,
+   "termine_carta": "19/10/2026 13:00",
+   "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "30/08/2026 15:38",
+   "lotto": "Lotto 34",
+   "dett": true
   },
   {
    "id": "1680624",
@@ -126,7 +132,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122971.jpg",
-   "visite": 91,
+   "visite": 92,
    "url": "https://cronoaste.fallcoaste.it/vendita/indesit-lavatrice-7kg-a-1400-ciclo-dashpods-87x60x58-1680624.html"
   },
   {
@@ -174,7 +180,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/31/0179123126.jpg",
-   "visite": 84,
+   "visite": 85,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-schaub-lorenz-advance-mod-fxf808xad-1680627.html"
   },
   {
@@ -206,7 +212,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/20/0179122054.jpg",
-   "visite": 107,
+   "visite": 108,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-beko-mod-bbie14100x-1680613.html"
   },
   {
@@ -270,7 +276,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/24/0179122403.jpg",
-   "visite": 95,
+   "visite": 96,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-hoover-mod-homcc3u1178in-1680617.html"
   },
   {
@@ -286,7 +292,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/25/0179122538.jpg",
-   "visite": 112,
+   "visite": 113,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-indest-ifw-5530-ix-1680618.html"
   },
   {
@@ -366,7 +372,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122905.jpg",
-   "visite": 101,
+   "visite": 102,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavatrice-smeg-lbw70it-1680623.html"
   },
   {
@@ -414,7 +420,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/19/0179121926.jpg",
-   "visite": 103,
+   "visite": 105,
    "url": "https://cronoaste.fallcoaste.it/vendita/tv-led-panasonic-50-pollici-1680610.html"
   },
   {
@@ -510,7 +516,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/11/0179121181.jpg",
-   "visite": 148,
+   "visite": 149,
    "url": "https://cronoaste.fallcoaste.it/vendita/beko-model-hii64210mt-piano-cottura-induzione-4-fuochi-1680607.html"
   },
   {
@@ -527,7 +533,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891291.jpg",
    "visite": 204,
-   "url": "https://cronoaste.fallcoaste.it/vendita/gruppo-elettrogeno-mge-2012-1685981.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/gruppo-elettrogeno-mge-2012-1685981.html",
+   "prezzo_minimo": null,
+   "termine_carta": "19/10/2026 13:00",
+   "termine_bonifico": "19/10/2026 13:00",
+   "pubblicata": "09/09/2026 11:35",
+   "lotto": "Lotto 18",
+   "dett": true
   },
   {
    "id": "1680601",
@@ -542,7 +554,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/05/0179120527.jpg",
-   "visite": 133,
+   "visite": 134,
    "url": "https://cronoaste.fallcoaste.it/vendita/hisense-chest-freezer-bianco-mod-ft125d4awe-max-22-5kg-1680601.html"
   },
   {
@@ -814,7 +826,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891267.jpg",
-   "visite": 98,
+   "visite": 99,
    "url": "https://cronoaste.fallcoaste.it/vendita/pesa-piattaforma-1500kg-2012-1685980.html"
   },
   {
@@ -1055,7 +1067,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/85/0179708579.jpg",
    "visite": 273,
-   "url": "https://cronoaste.fallcoaste.it/vendita/il-lotto-e-composto-dalle-seguenti-unita-immobili-campo-da-calcio-foglio-57-p-lla-546il-campo-da-gioco-1686278.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/il-lotto-e-composto-dalle-seguenti-unita-immobili-campo-da-calcio-foglio-57-p-lla-546il-campo-da-gioco-1686278.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:33",
+   "lotto": "Lotto 8",
+   "dett": true
   },
   {
    "id": "1686323",
@@ -1103,7 +1121,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/09/0179710994.jpg",
    "visite": 115,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-seminterrato-di-villa-indipendente-areatavernetta-sala-biliardo-consistenti-in-n-10-buste-1686329.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-seminterrato-di-villa-indipendente-areatavernetta-sala-biliardo-consistenti-in-n-10-buste-1686329.html",
+   "prezzo_minimo": 627.05,
+   "termine_carta": "08/10/2026 13:00",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:17",
+   "lotto": "Lotto 43",
+   "dett": true
   },
   {
    "id": "1686326",
@@ -1119,7 +1143,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/07/0179710757.jpg",
    "visite": 100,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-di-villa-indipendente-camera-daletto-patronale-con-bagno-privato-1686326.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-di-villa-indipendente-camera-daletto-patronale-con-bagno-privato-1686326.html",
+   "prezzo_minimo": 668.85,
+   "termine_carta": "08/10/2026 13:00",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 18:12",
+   "lotto": "Lotto 40",
+   "dett": true
   },
   {
    "id": "1686327",
@@ -1374,7 +1404,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710225.jpg",
-   "visite": 70,
+   "visite": 71,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-1-cellafrigorifera-con-3-camere-1686301.html"
   },
   {
@@ -1551,7 +1581,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/95/0179709518.jpg",
    "visite": 811,
-   "url": "https://cronoaste.fallcoaste.it/vendita/moto-honda-cbf-600-targa-cv63171-carta-di-circolazione-presente-chiavi-presenti-1-km-88400-al-18-05-2023-1686291.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/moto-honda-cbf-600-targa-cv63171-carta-di-circolazione-presente-chiavi-presenti-1-km-88400-al-18-05-2023-1686291.html",
+   "prezzo_minimo": 209.02,
+   "termine_carta": "08/10/2026 13:00",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:50",
+   "lotto": "Lotto 13",
+   "dett": true
   },
   {
    "id": "1686290",
@@ -1663,7 +1699,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/82/0179708238.jpg",
    "visite": 179,
-   "url": "https://cronoaste.fallcoaste.it/vendita/il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-a-vincolo-di-natura-idrogeologica-1686256.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-a-vincolo-di-natura-idrogeologica-1686256.html",
+   "prezzo_minimo": 3822.0,
+   "termine_carta": "",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:26",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1686262",
@@ -1679,7 +1721,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/82/0179708268.jpg",
    "visite": 135,
-   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-66il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686262.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-66il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686262.html",
+   "prezzo_minimo": 7837.5,
+   "termine_carta": "",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:27",
+   "lotto": "Lotto 3",
+   "dett": true
   },
   {
    "id": "1686264",
@@ -1711,7 +1759,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/80/0179708097.jpg",
    "visite": 158,
-   "url": "https://cronoaste.fallcoaste.it/vendita/trattasi-di-una-villa-indipendente-a-tre-piani-fuori-terra-composta-da-pianoterra-con-zona-giorno-nella-quale-vi-1686249.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/trattasi-di-una-villa-indipendente-a-tre-piani-fuori-terra-composta-da-pianoterra-con-zona-giorno-nella-quale-vi-1686249.html",
+   "prezzo_minimo": 402000.0,
+   "termine_carta": "",
+   "termine_bonifico": "08/10/2026 13:00",
+   "pubblicata": "09/09/2026 17:24",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1679782",
@@ -1727,7 +1781,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/97/67/0178976737.png",
    "visite": 375,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-ford-modello-c-max-tg-ff-wk-immatricolata-06-12-2016-cilindrata-1499-cc-kw-62-72-1679782.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-ford-modello-c-max-tg-ff-wk-immatricolata-06-12-2016-cilindrata-1499-cc-kw-62-72-1679782.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 12:47",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1679784",
@@ -1743,7 +1803,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/15/0178981567.png",
    "visite": 282,
-   "url": "https://cronoaste.fallcoaste.it/vendita/motociclo-marca-piaggio-modello-scarabeo-tg-dt-immatricolata-12-04-2011-cilindrata-181-cc-kw-014-00-k-m-1679784.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/motociclo-marca-piaggio-modello-scarabeo-tg-dt-immatricolata-12-04-2011-cilindrata-181-cc-kw-014-00-k-m-1679784.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:52",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1679790",
@@ -1759,7 +1825,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/17/0178981722.jpg",
    "visite": 96,
-   "url": "https://cronoaste.fallcoaste.it/vendita/armadio-a-giorno-con-cassetto-posto-in-basso-in-legno-stile-liberty-valore-di-700-00-1679790.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/armadio-a-giorno-con-cassetto-posto-in-basso-in-legno-stile-liberty-valore-di-700-00-1679790.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:55",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1679789",
@@ -1775,7 +1847,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/16/0178981653.jpg",
    "visite": 96,
-   "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-in-legno-massello-noce-con-ante-a-vetri-e-sottostante-altre-due-ante-in-legno-misure-circa-1-1679789.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-in-legno-massello-noce-con-ante-a-vetri-e-sottostante-altre-due-ante-in-legno-misure-circa-1-1679789.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:53",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1679794",
@@ -1791,7 +1869,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981878.jpg",
    "visite": 978,
-   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-yamaha-modello-tt-600-tg-ct-immatricolata-02-07-1985-cilindrata-595-cm3-kw-30-10-km-1679794.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-yamaha-modello-tt-600-tg-ct-immatricolata-02-07-1985-cilindrata-595-cm3-kw-30-10-km-1679794.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:58",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1680859",
@@ -1807,7 +1891,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/18/17/0179181755.jpg",
    "visite": 209,
-   "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1680859.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1680859.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "31/08/2026 17:33",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1678164",
@@ -1823,7 +1913,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/81/0178868167.jpg",
    "visite": 163,
-   "url": "https://cronoaste.fallcoaste.it/vendita/ponte-sollevatore-auto-marca-omcn-valore-di-5-000-00-1678164.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/ponte-sollevatore-auto-marca-omcn-valore-di-5-000-00-1678164.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "25/08/2026 11:25",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1679792",
@@ -1839,7 +1935,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981807.jpg",
    "visite": 729,
-   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-honda-modello-rd15-1-1-tg-dt-immatricolata-05-01-2012-cilindrata-680-cm3-kw-44-10-1679792.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-honda-modello-rd15-1-1-tg-dt-immatricolata-05-01-2012-cilindrata-680-cm3-kw-44-10-1679792.html",
+   "prezzo_minimo": null,
+   "termine_carta": "05/10/2026 13:00",
+   "termine_bonifico": "05/10/2026 13:00",
+   "pubblicata": "27/08/2026 14:56",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1637848",
@@ -1855,7 +1957,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/41/93/0176419373.jpg",
    "visite": 139,
-   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-ubicato-a-teramo-te-piazza-b-cellini-n-8-adibito-a-civile-abitazione-posto-al-piano-terzo-sottotetto-1637848.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-ubicato-a-teramo-te-piazza-b-cellini-n-8-adibito-a-civile-abitazione-posto-al-piano-terzo-sottotetto-1637848.html",
+   "prezzo_minimo": 120000.0,
+   "termine_carta": "",
+   "termine_bonifico": "29/09/2026 15:00",
+   "pubblicata": "08/07/2026 16:49",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1644952",
@@ -1871,7 +1979,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/77/55/0176775555.jpg",
    "visite": 2563,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-berlina-quattro-porte-marca-alfa-romeo-modello-giulia-versione-nuova-super-1300-colore-bianco-data-immatricolazione-il-20-1644952.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-berlina-quattro-porte-marca-alfa-romeo-modello-giulia-versione-nuova-super-1300-colore-bianco-data-immatricolazione-il-20-1644952.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "17/07/2026 08:48",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1641783",
@@ -1887,7 +2001,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/60/47/0176604754.jpg",
    "visite": 173,
-   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-esercente-attivita-di-supermercato-attualmente-a-marchio-coop-in-viale-epipoli-n-87-in-siracusa-sr-1641783.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-esercente-attivita-di-supermercato-attualmente-a-marchio-coop-in-viale-epipoli-n-87-in-siracusa-sr-1641783.html",
+   "prezzo_minimo": 448031.25,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "13/07/2026 12:57",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1654335",
@@ -1903,7 +2023,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/11/0177421171.png",
    "visite": 103,
-   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-avente-quale-oggetto-sociale-la-gestione-di-minimarket-supermercati-negozi-generi-alimentari-e-non-con-annessi-1654335.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-avente-quale-oggetto-sociale-la-gestione-di-minimarket-supermercati-negozi-generi-alimentari-e-non-con-annessi-1654335.html",
+   "prezzo_minimo": 87802.73,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "29/07/2026 16:41",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1654329",
@@ -1919,7 +2045,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/20/0177422058.png",
    "visite": 93,
-   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-dell-olimpiade-nn-15-17-e-19-munito-di-autorizzazione-per-esercizio-di-commercio-su-1654329.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-dell-olimpiade-nn-15-17-e-19-munito-di-autorizzazione-per-esercizio-di-commercio-su-1654329.html",
+   "prezzo_minimo": 106787.1,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "29/07/2026 16:48",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1654326",
@@ -1935,7 +2067,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/17/0177421740.png",
    "visite": 82,
-   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1654326.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1654326.html",
+   "prezzo_minimo": 161367.19,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "29/07/2026 16:47",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1678165",
@@ -1951,7 +2089,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/82/0178868244.jpg",
    "visite": 129,
-   "url": "https://cronoaste.fallcoaste.it/vendita/albero-di-ulivo-di-circa-30-anni-l-esemplare-viene-venduto-nello-stato-in-cui-si-trova-piantato-a-1678165.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/albero-di-ulivo-di-circa-30-anni-l-esemplare-viene-venduto-nello-stato-in-cui-si-trova-piantato-a-1678165.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:26",
+   "lotto": "Lotto unico",
+   "dett": true
   },
   {
    "id": "1678178",
@@ -1967,7 +2111,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/86/0178868691.jpg",
    "visite": 76,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-25-tavoli-quadrati-in-legno-accompagnati-da-80-sedie-in-legno-scuro-con-seduta-in-paglia-valore-di-1678178.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-25-tavoli-quadrati-in-legno-accompagnati-da-80-sedie-in-legno-scuro-con-seduta-in-paglia-valore-di-1678178.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:36",
+   "lotto": "Lotto 7",
+   "dett": true
   },
   {
    "id": "1678176",
@@ -1983,7 +2133,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/86/0178868611.jpg",
    "visite": 85,
-   "url": "https://cronoaste.fallcoaste.it/vendita/cucina-professionale-a-quattro-fuochi-buono-stato-marca-non-visibile-valore-di-200-00-1678176.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/cucina-professionale-a-quattro-fuochi-buono-stato-marca-non-visibile-valore-di-200-00-1678176.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:35",
+   "lotto": "Lotto 6",
+   "dett": true
   },
   {
    "id": "1678175",
@@ -1999,7 +2155,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/85/0178868547.jpg",
    "visite": 69,
-   "url": "https://cronoaste.fallcoaste.it/vendita/granitore-ad-una-vasca-in-acciaio-marca-ugolim-valore-di-800-00-1678175.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/granitore-ad-una-vasca-in-acciaio-marca-ugolim-valore-di-800-00-1678175.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:33",
+   "lotto": "Lotto 5",
+   "dett": true
   },
   {
    "id": "1678174",
@@ -2015,7 +2177,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/85/0178868501.jpg",
    "visite": 69,
-   "url": "https://cronoaste.fallcoaste.it/vendita/banco-di-lavorazione-in-acciaio-inox-con-ripiano-in-vetro-nella-parte-superiore-valore-di-600-00-1678174.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/banco-di-lavorazione-in-acciaio-inox-con-ripiano-in-vetro-nella-parte-superiore-valore-di-600-00-1678174.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:32",
+   "lotto": "Lotto 4",
+   "dett": true
   },
   {
    "id": "1678173",
@@ -2031,7 +2199,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/84/0178868423.jpg",
    "visite": 66,
-   "url": "https://cronoaste.fallcoaste.it/vendita/banco-frigo-in-acciaio-fino-a-4-gradi-con-due-ante-larghezza-1-metro-e-20-per-80-centimetri-1678173.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/banco-frigo-in-acciaio-fino-a-4-gradi-con-due-ante-larghezza-1-metro-e-20-per-80-centimetri-1678173.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:30",
+   "lotto": "Lotto 3",
+   "dett": true
   },
   {
    "id": "1678171",
@@ -2047,7 +2221,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/83/0178868362.jpg",
    "visite": 64,
-   "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-mono-anta-in-acciaio-con-tre-rapini-interni-fino-a-4-gradi-in-buono-stato-marca-polaris-valore-1678171.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-mono-anta-in-acciaio-con-tre-rapini-interni-fino-a-4-gradi-in-buono-stato-marca-polaris-valore-1678171.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:29",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1678169",
@@ -2063,7 +2243,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/83/0178868316.png",
    "visite": 75,
-   "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-positiva-e-negativa-fino-a-meno-venti-gradi-con-quattro-ripiani-interni-e-mensole-in-vetro-marca-mapet-1678169.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-positiva-e-negativa-fino-a-meno-venti-gradi-con-quattro-ripiani-interni-e-mensole-in-vetro-marca-mapet-1678169.html",
+   "prezzo_minimo": null,
+   "termine_carta": "28/09/2026 13:00",
+   "termine_bonifico": "28/09/2026 13:00",
+   "pubblicata": "25/08/2026 11:27",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1625305",
@@ -2079,7 +2265,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/42/01/08/0142010868.jpg",
    "visite": 188,
-   "url": "https://cronoaste.fallcoaste.it/vendita/immobile-e-censito-nel-catasto-fabbricati-del-comune-di-sant-agata-li-battiati-al-foglio-3-particella-101-subalterno-1625305.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/immobile-e-censito-nel-catasto-fabbricati-del-comune-di-sant-agata-li-battiati-al-foglio-3-particella-101-subalterno-1625305.html",
+   "prezzo_minimo": null,
+   "termine_carta": "25/09/2026 12:00",
+   "termine_bonifico": "25/09/2026 12:00",
+   "pubblicata": "29/06/2026 10:42",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1644936",
@@ -2095,7 +2287,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/81/93/0170819336.jpg",
    "visite": 199,
-   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-primo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-piano-seminterrato-ricadente-1644936.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-primo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-piano-seminterrato-ricadente-1644936.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:54",
+   "lotto": "Lotto 16",
+   "dett": true
   },
   {
    "id": "1644938",
@@ -2111,7 +2309,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/03/0170820353.jpg",
    "visite": 148,
-   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-secondo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltrepiano-seminterrato-ricadente-in-1644938.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-secondo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltrepiano-seminterrato-ricadente-in-1644938.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:55",
+   "lotto": "Lotto 18",
+   "dett": true
   },
   {
    "id": "1644941",
@@ -2127,7 +2331,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/30/0170823081.jpg",
    "visite": 216,
-   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-secondo-piano-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644941.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-secondo-piano-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644941.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:57",
+   "lotto": "Lotto 23",
+   "dett": true
   },
   {
    "id": "1644937",
@@ -2143,7 +2353,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/00/0170820030.jpg",
    "visite": 167,
-   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-primo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-pianoseminterrato-ricadente-in-1644937.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-posto-al-primo-piano-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-pianoseminterrato-ricadente-in-1644937.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:55",
+   "lotto": "Lotto 17",
+   "dett": true
   },
   {
    "id": "1644944",
@@ -2159,7 +2375,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/43/0170824373.jpg",
    "visite": 94,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644944.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644944.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:59",
+   "lotto": "Lotto 26",
+   "dett": true
   },
   {
    "id": "1644943",
@@ -2175,7 +2397,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/41/0170824189.jpg",
    "visite": 109,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644943.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644943.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:59",
+   "lotto": "Lotto 25",
+   "dett": true
   },
   {
    "id": "1644942",
@@ -2191,7 +2419,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/38/0170823823.jpg",
    "visite": 100,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644942.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-4-piani-fuori-terra-in-siracusa-nella-via-1644942.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:58",
+   "lotto": "Lotto 24",
+   "dett": true
   },
   {
    "id": "1644939",
@@ -2207,7 +2441,13 @@
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/16/0170821670.jpg",
    "visite": 116,
-   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-pianoseminterrato-ricadente-in-1644939.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/autorimessa-posta-al-piano-terra-di-un-edificio-residenziale-di-n-5-piani-fuori-terra-oltre-pianoseminterrato-ricadente-in-1644939.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:56",
+   "lotto": "Lotto 21",
+   "dett": true
   },
   {
    "id": "1644940",
@@ -2223,7 +2463,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/70/82/26/0170822655.jpg",
    "visite": 80,
-   "url": "https://cronoaste.fallcoaste.it/vendita/quota-di-201-390-indivisi-di-una-autorimessa-posta-al-piano-interrato-di-un-edificio-residenziale-di-n-5-1644940.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/quota-di-201-390-indivisi-di-una-autorimessa-posta-al-piano-interrato-di-un-edificio-residenziale-di-n-5-1644940.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:57",
+   "lotto": "Lotto 22",
+   "dett": true
   },
   {
    "id": "1644934",
@@ -2239,7 +2485,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/42/38/09/0142380945.jpg",
    "visite": 106,
-   "url": "https://cronoaste.fallcoaste.it/vendita/quota-di-61-195-indivisa-di-autorimessa-in-via-dalmazia-32-siracusa-1644934.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/quota-di-61-195-indivisa-di-autorimessa-in-via-dalmazia-32-siracusa-1644934.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:53",
+   "lotto": "Lotto 7",
+   "dett": true
   },
   {
    "id": "1644935",
@@ -2255,7 +2507,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/42/33/42/0142334248.jpg",
    "visite": 174,
-   "url": "https://cronoaste.fallcoaste.it/vendita/deposito-in-via-malfitano-20-in-siracusa-1644935.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/deposito-in-via-malfitano-20-in-siracusa-1644935.html",
+   "prezzo_minimo": null,
+   "termine_carta": "",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "17/07/2026 15:54",
+   "lotto": "Lotto 14",
+   "dett": true
   },
   {
    "id": "1654451",
@@ -2271,7 +2529,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/41/0175934160.jpg",
    "visite": 120,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-pallet-con-imballagio-non-integro-contenenti-la-quantita-stimata-di-circail-50-del-totale-1654451.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-2-pallet-con-imballagio-non-integro-contenenti-la-quantita-stimata-di-circail-50-del-totale-1654451.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:58",
+   "lotto": "Lotto 11",
+   "dett": true
   },
   {
    "id": "1654450",
@@ -2287,7 +2551,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/40/0175934097.jpg",
    "visite": 83,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654450.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654450.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:57",
+   "lotto": "Lotto 10",
+   "dett": true
   },
   {
    "id": "1654448",
@@ -2303,7 +2573,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/38/0175933867.jpg",
    "visite": 70,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654448.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654448.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:56",
+   "lotto": "Lotto 8",
+   "dett": true
   },
   {
    "id": "1654449",
@@ -2319,7 +2595,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/39/0175933994.jpg",
    "visite": 98,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654449.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654449.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:57",
+   "lotto": "Lotto 9",
+   "dett": true
   },
   {
    "id": "1654447",
@@ -2335,7 +2617,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/37/0175933745.jpg",
    "visite": 76,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654447.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654447.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:56",
+   "lotto": "Lotto 7",
+   "dett": true
   },
   {
    "id": "1654445",
@@ -2351,7 +2639,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/35/0175933590.jpg",
    "visite": 78,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654445.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654445.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:55",
+   "lotto": "Lotto 5",
+   "dett": true
   },
   {
    "id": "1654446",
@@ -2367,7 +2661,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/36/0175933667.jpg",
    "visite": 66,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654446.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-bidet-siplendid-rimless-wall-hung-1654446.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:55",
+   "lotto": "Lotto 6",
+   "dett": true
   },
   {
    "id": "1654443",
@@ -2383,7 +2683,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/34/0175933483.jpg",
    "visite": 83,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654443.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654443.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:53",
+   "lotto": "Lotto 3",
+   "dett": true
   },
   {
    "id": "1654444",
@@ -2399,7 +2705,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/35/0175933526.jpg",
    "visite": 108,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654444.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654444.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:53",
+   "lotto": "Lotto 4",
+   "dett": true
   },
   {
    "id": "1654442",
@@ -2415,7 +2727,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/34/0175933403.jpg",
    "visite": 84,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654442.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654442.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:52",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1654441",
@@ -2431,7 +2749,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/93/33/0175933339.jpg",
    "visite": 83,
-   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654441.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-n-1-pallet-di-n-18-wc-siplendid-rimless-wall-hung-1654441.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "29/07/2026 18:51",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1670949",
@@ -2447,7 +2771,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/59/0178665925.jpg",
    "visite": 105,
-   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-vario-tavoli-espositivi-armadi-espositori-banconi-cassettiere-sedie-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-quale-1670949.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-vario-tavoli-espositivi-armadi-espositori-banconi-cassettiere-sedie-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-quale-1670949.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:30",
+   "lotto": "Lotto 8",
+   "dett": true
   },
   {
    "id": "1670947",
@@ -2463,7 +2793,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/57/0178665779.jpg",
    "visite": 154,
-   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-elettronica-varia-pc-tastiere-monitor-gruppi-di-continuita-rilevatore-banconote-false-ecc-il-tutto-come-meglio-descritto-nella-1670947.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-elettronica-varia-pc-tastiere-monitor-gruppi-di-continuita-rilevatore-banconote-false-ecc-il-tutto-come-meglio-descritto-nella-1670947.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:27",
+   "lotto": "Lotto 6",
+   "dett": true
   },
   {
    "id": "1670948",
@@ -2479,7 +2815,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/58/0178665836.jpg",
    "visite": 109,
-   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-varia-telecamere-faretti-impianti-di-videosorveglianza-sensori-di-presenza-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-1670948.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-varia-telecamere-faretti-impianti-di-videosorveglianza-sensori-di-presenza-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-1670948.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:28",
+   "lotto": "Lotto 7",
+   "dett": true
   },
   {
    "id": "1670944",
@@ -2494,8 +2836,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/55/0178665592.jpg",
-   "visite": 142,
-   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-0-16-neonato-a-bambino-a-e-ragazzo-a-di-collezioni-autunno-inverno-e-primavera-estate-1670944.html"
+   "visite": 143,
+   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-0-16-neonato-a-bambino-a-e-ragazzo-a-di-collezioni-autunno-inverno-e-primavera-estate-1670944.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:24",
+   "lotto": "Lotto 4",
+   "dett": true
   },
   {
    "id": "1670946",
@@ -2511,7 +2859,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/57/0178665712.jpg",
    "visite": 163,
-   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-bambino-a-e-ragazzo-a-sono-di-collezioni-autunno-inverno-e-primavera-estate-di-anni-passati-1670946.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-bambino-a-e-ragazzo-a-sono-di-collezioni-autunno-inverno-e-primavera-estate-di-anni-passati-1670946.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:25",
+   "lotto": "Lotto 5",
+   "dett": true
   },
   {
    "id": "1670943",
@@ -2527,7 +2881,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/55/0178665528.jpg",
    "visite": 112,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-monitor-di-cui-uno-marca-asus-modello-vw180-e-l-altro-marca-dell-n-2-tastiere-di-1670943.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-2-monitor-di-cui-uno-marca-asus-modello-vw180-e-l-altro-marca-dell-n-2-tastiere-di-1670943.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:22",
+   "lotto": "Lotto 3",
+   "dett": true
   },
   {
    "id": "1670942",
@@ -2543,7 +2903,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/54/0178665407.jpg",
    "visite": 82,
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-aspirapolvere-a-traino-con-sacco-marca-rowenta-modello-ro6455ea-n-1-scaletta-a-due-gradini-in-metallo-1670942.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-aspirapolvere-a-traino-con-sacco-marca-rowenta-modello-ro6455ea-n-1-scaletta-a-due-gradini-in-metallo-1670942.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:19",
+   "lotto": "Lotto 2",
+   "dett": true
   },
   {
    "id": "1670940",
@@ -2559,7 +2925,13 @@
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/66/52/0178665290.jpg",
    "visite": 80,
-   "url": "https://cronoaste.fallcoaste.it/vendita/11-manichini-bambino-a-e-ragazzo-a-colori-ed-altezze-varie-n-4-sgabelli-con-struttura-in-metallo-con-1670940.html"
+   "url": "https://cronoaste.fallcoaste.it/vendita/11-manichini-bambino-a-e-ragazzo-a-colori-ed-altezze-varie-n-4-sgabelli-con-struttura-in-metallo-con-1670940.html",
+   "prezzo_minimo": null,
+   "termine_carta": "21/09/2026 13:00",
+   "termine_bonifico": "21/09/2026 13:00",
+   "pubblicata": "21/08/2026 13:17",
+   "lotto": "Lotto 1",
+   "dett": true
   },
   {
    "id": "1658619",
