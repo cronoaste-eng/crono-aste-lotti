@@ -71,16 +71,13 @@ def messaggio(l):
         testa += " - " + l["lotto"].upper()
     righe = ["*Nuovo bene in vendita*", "*%s*" % testa, titolo]
     if prezzo is not None:
-        righe.append("%s: EUR %s" % (etichetta, euro(prezzo)))
+        righe.append("%s: € %s" % (etichetta, euro(prezzo)))
     dep = l.get("termine_carta") or l.get("termine_bonifico") or ""
     ini = (l.get("inizio") or "").split(" ")
-    parti = []
     if dep:
-        parti.append("Offerte entro %s" % dep)
+        righe.append("Offerte entro %s" % dep)
     if ini[0]:
-        parti.append("Asta il %s%s" % (ini[0], (" ore " + ini[1]) if len(ini) > 1 else ""))
-    if parti:
-        righe.append(" - ".join(parti))
+        righe.append("Asta il %s%s" % (ini[0], (" ore " + ini[1]) if len(ini) > 1 else ""))
     righe.append(l.get("url") or PIATTAFORMA)
     return "\n".join(righe)
 
