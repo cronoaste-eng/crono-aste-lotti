@@ -8,6 +8,7 @@ Stato (beni gia' preparati): nella cache di Actions, cartella state_wa (NON nel 
 Variabili: WA_MODE = send (default) | dry (stampa, non invia e non salva) | test (invia gli ultimi 5 beni,
 senza salvare lo stato). WA_FORCE=1 ignora il controllo dell'orario e del "gia' inviato oggi".
 Primo avvio senza stato: segna come visti i beni presenti e non invia nulla.
+Sabato e domenica non invia nulla e non cambia lo stato: il lunedi' arrivano anche i beni nuovi del fine settimana.
 """
 import html
 import json
@@ -155,6 +156,9 @@ def main():
 
     oggi = adesso.strftime("%Y-%m-%d")
     if not FORCE:
+        if adesso.weekday() >= 5:
+            print("Sabato o domenica: nessuna email (i beni nuovi arrivano lunedi').")
+            return 0
         if adesso.hour != ORA_INVIO:
             print("Non sono le %d in Italia (sono le %s): non faccio nulla." % (ORA_INVIO, adesso.strftime("%H:%M")))
             return 0
