@@ -33,7 +33,7 @@ jobs:
           python-version: '3.12'
 
       - name: Installa librerie
-        run: pip install reportlab pillow
+        run: pip install reportlab==5.0.1 pillow==12.3.0 charset-normalizer==3.5.1
 
       - name: Prepara e invia
         env:
