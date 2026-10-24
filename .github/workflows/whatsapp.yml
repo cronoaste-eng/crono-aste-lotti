@@ -1,0 +1,46 @@
+name: Prepara messaggi WhatsApp
+
+on:
+  schedule:
+    - cron: "30 6 * * *"
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "send (normale), test (email di prova con gli ultimi 5 beni) o dry (solo anteprima nel registro)"
+        default: "test"
+      force:
+        description: "1 = ignora orario e controllo di oggi"
+        default: "0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: whatsapp
+  cancel-in-progress: false
+
+jobs:
+  prepara:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Ripristina stato
+        uses: actions/cache@v4
+        with:
+          path: state_wa
+          key: wa-${{ github.run_id }}
+          restore-keys: |
+            wa-
+
+      - name: Prepara ed invia l'email
+        env:
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
+          SENDER_NAME: ${{ vars.SENDER_NAME }}
+          NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+          WA_MODE: ${{ github.event.inputs.mode || 'send' }}
+          WA_FORCE: ${{ github.event.inputs.force || '0' }}
+        run: python3 notifica_whatsapp.py
