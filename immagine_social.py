@@ -135,3 +135,58 @@ def crea(l, foto=None):
         fy += 38
     d.text((W - 60, pie + 8), "cronoaste.cloud", font=font("norm", 24), fill=CHIARO, anchor="ra")
     return img
+
+
+def crea_storia(l, foto=None):
+    """Versione verticale 9:16 (1080x1920) per le Storie: dati importanti tra 250 e 1580 px (fuori dalle barre di Instagram)."""
+    SW, SH = 1080, 1920
+    foto = foto or scarica_foto(l["foto"])
+    sfondo = ImageOps.fit(foto, (SW, SH), Image.LANCZOS).filter(ImageFilter.GaussianBlur(34))
+    img = Image.blend(sfondo, Image.new("RGB", (SW, SH), NAVY), 0.82)
+    d = ImageDraw.Draw(img)
+
+    d.text((60, 270), "CRONO ASTE", font=font("bold", 46), fill=BIANCO)
+    d.text((60, 330), "Nuovo bene in vendita", font=font("norm", 30), fill=CHIARO)
+    d.line((60, 385, SW - 60, 385), fill=(60, 100, 150), width=2)
+
+    fw, fh = 900, 640
+    dentro = ImageOps.contain(foto, (fw, fh), Image.LANCZOS)
+    f2 = Image.new("RGB", (fw, fh), BIANCO)
+    f2.paste(dentro, ((fw - dentro.width) // 2, (fh - dentro.height) // 2))
+    mask = Image.new("L", (fw, fh), 0)
+    ImageDraw.Draw(mask).rounded_rectangle((0, 0, fw, fh), radius=24, fill=255)
+    x0, y0 = (SW - fw) // 2, 425
+    d.rounded_rectangle((x0 - 8, y0 - 8, x0 + fw + 8, y0 + fh + 8), radius=30, fill=BIANCO)
+    img.paste(f2, (x0, y0), mask)
+
+    y = y0 + fh + 50
+    testa = "TRIB. %s - PROC. %s" % ((l.get("tribunale") or "-").upper(), l.get("procedura") or "-")
+    if l.get("lotto"):
+        testa += " - " + l["lotto"].upper()
+    d.text((60, y), testa, font=font("bold", 30), fill=CHIARO)
+    y += 52
+    ft = font("bold", 40)
+    for riga in a_capo(d, (l.get("titolo") or "").strip(), ft, SW - 120, 3):
+        d.text((60, y), riga, font=ft, fill=BIANCO)
+        y += 52
+
+    min_ = l.get("prezzo_minimo")
+    prezzo = min_ if min_ is not None else l.get("prezzo")
+    etichetta = "OFFERTA MINIMA" if min_ is not None else "PREZZO BASE"
+    dep = l.get("termine_carta") or l.get("termine_bonifico") or ""
+    ini = (l.get("inizio") or "").split(" ")
+    righe = []
+    if dep:
+        righe.append("Offerte entro %s" % dep)
+    if ini[0]:
+        righe.append("Asta il %s%s" % (ini[0], (" ore " + ini[1]) if len(ini) > 1 else ""))
+    fy = y + 28
+    for r in righe:
+        d.text((60, fy), r, font=font("norm", 30), fill=BIANCO)
+        fy += 38
+    if prezzo is not None:
+        d.rounded_rectangle((60, 1445, SW - 60, 1565), radius=20, fill=BIANCO)
+        d.text((92, 1461), etichetta, font=font("norm", 26), fill=(90, 100, 115))
+        d.text((92, 1495), "€ " + euro(prezzo), font=font("bold", 62), fill=NAVY)
+    d.text((SW // 2, 1625), "Dettagli e offerte: link in bio", font=font("bold", 30), fill=CHIARO, anchor="ma")
+    return img
