@@ -86,11 +86,17 @@ def crea(l, foto=None):
     d.text((60, 104), "Gestore della vendita telematica - PDG n. 80", font=font("norm", 24), fill=CHIARO)
     d.line((60, 150, W - 60, 150), fill=(60, 100, 150), width=2)
 
-    # foto (ingrandita 2x, con angoli arrotondati e bordo bianco)
+    # il titolo intero conta piu' della foto: piu' righe di titolo = foto un po' piu' bassa (fino a 4 righe)
+    titolo = (l.get("titolo") or "").strip()
+    ft = font("bold", 40)
+    righe_titolo = min(4, max(2, len(a_capo(d, titolo, ft, W - 120, 8))))
     fw = 840
     fh = int(foto.height * fw / foto.width)
-    fh = min(fh, 600)
-    f2 = ImageOps.fit(foto, (fw, fh), Image.LANCZOS)
+    fh = min(fh, 600 - 52 * (righe_titolo - 2))
+    # la foto resta intera (senza tagli) su fondo bianco
+    dentro = ImageOps.contain(foto, (fw, fh), Image.LANCZOS)
+    f2 = Image.new("RGB", (fw, fh), BIANCO)
+    f2.paste(dentro, ((fw - dentro.width) // 2, (fh - dentro.height) // 2))
     mask = Image.new("L", (fw, fh), 0)
     ImageDraw.Draw(mask).rounded_rectangle((0, 0, fw, fh), radius=22, fill=255)
     x0, y0 = (W - fw) // 2, 185
@@ -116,9 +122,7 @@ def crea(l, foto=None):
     if ini[0]:
         righe.append("Asta il %s%s" % (ini[0], (" ore " + ini[1]) if len(ini) > 1 else ""))
     fy = pie - 150 - 14 - 38 * len(righe)
-    titolo = (l.get("titolo") or "").strip()
-    ft = font("bold", 40)
-    max_righe = max(1, min(3, (fy - 12 - y) // 52))
+    max_righe = max(1, min(4, (fy - 12 - y) // 52))
     for riga in a_capo(d, titolo, ft, W - 120, max_righe):
         d.text((60, y), riga, font=ft, fill=BIANCO)
         y += 52
