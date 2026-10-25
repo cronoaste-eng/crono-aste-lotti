@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       mode:
-        description: "dry (solo anteprima, non pubblica), uno (pubblica solo l'ultimo bene) o send (normale)"
+        description: "dry (solo anteprima, non pubblica), uno (pubblica solo l'ultimo bene), storia (solo la Storia dell'ultimo bene) o send (normale)"
         default: "dry"
       force:
         description: "1 = ignora orario e giorno feriale"
@@ -50,5 +50,6 @@ jobs:
           FB_PAGE_ID: "174779944210177"
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
           SOCIAL_MODE: ${{ github.event.inputs.mode || 'send' }}
+          SOCIAL_STORIE: "0"
           SOCIAL_FORCE: ${{ github.event.inputs.force || '0' }}
         run: python3 pubblica_social.py
