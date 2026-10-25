@@ -1,6 +1,8 @@
 name: Pubblica su Facebook e Instagram
 
 on:
+  schedule:
+    - cron: "7 7-18 * * 1-5"
   workflow_dispatch:
     inputs:
       mode:
@@ -47,6 +49,6 @@ jobs:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
           FB_PAGE_ID: "174779944210177"
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
-          SOCIAL_MODE: ${{ github.event.inputs.mode || 'dry' }}
+          SOCIAL_MODE: ${{ github.event.inputs.mode || 'send' }}
           SOCIAL_FORCE: ${{ github.event.inputs.force || '0' }}
         run: python3 pubblica_social.py
