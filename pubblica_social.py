@@ -10,6 +10,8 @@ Variabili d'ambiente:
   SOCIAL_MODE  dry (default: crea le immagini in out_social/ e stampa le didascalie, non pubblica nulla)
                uno (pubblica davvero SOLO il bene piu' recente: prova)
                send (pubblica davvero i beni nuovi, nei limiti di cadenza)
+               storia (prova: pubblica davvero SOLO la Storia del bene piu' recente, senza post)
+  SOCIAL_STORIE (default 1: Storie sfalsate, una per esecuzione, dal bene pubblicato in un'esecuzione precedente; 0 = solo post)
   FB_PAGE_TOKEN (segreto), FB_PAGE_ID, INSTAGRAM_TOKEN (segreto), IG_USER_ID
   SOCIAL_MAX_RUN (default 2: beni per esecuzione), SOCIAL_MAX_DAY (default 8: beni al giorno)
   SOCIAL_ORE (default 9-19 ore italiane, solo giorni feriali; SOCIAL_FORCE=1 ignora orario e giorno)
@@ -34,6 +36,8 @@ STATO = BASE / "state_social" / "stato.json"
 USCITA = BASE / "out_social"
 MODE = (os.environ.get("SOCIAL_MODE") or "dry").strip().lower()
 FORCE = os.environ.get("SOCIAL_FORCE") == "1"
+STORIE = os.environ.get("SOCIAL_STORIE", "1") != "0"
+STORIA_ORE_MAX = 20  # una Storia non ancora uscita dopo 20 ore dal post si scarta
 MAX_RUN = int(os.environ.get("SOCIAL_MAX_RUN") or 2)
 MAX_DAY = int(os.environ.get("SOCIAL_MAX_DAY") or 8)
 ORE = os.environ.get("SOCIAL_ORE") or "9-19"
@@ -175,6 +179,61 @@ def pubblica_instagram(url_img, testo, token):
     return p.json().get("id")
 
 
+def pubblica_storia_facebook(img_path):
+    """Storia sulla Pagina: foto caricata senza pubblicarla sul diario, poi trasformata in Storia. Restituisce l'indirizzo dell'immagine."""
+    with open(img_path, "rb") as f:
+        r = requests.post("%s/%s/photos" % (GRAPH_FB, FB_PAGE), data={"published": "false", "access_token": FB_TOKEN},
+                          files={"source": ("storia.jpg", f, "image/jpeg")}, timeout=90)
+    if not r.ok:
+        raise RuntimeError("Facebook storia (foto): " + errore_api(r))
+    foto_id = r.json().get("id")
+    r2 = requests.post("%s/%s/photo_stories" % (GRAPH_FB, FB_PAGE), data={"photo_id": foto_id, "access_token": FB_TOKEN}, timeout=60)
+    if not r2.ok:
+        raise RuntimeError("Facebook storia: " + errore_api(r2))
+    r3 = requests.get("%s/%s" % (GRAPH_FB, foto_id), params={"fields": "images", "access_token": FB_TOKEN}, timeout=30)
+    imgs = (r3.json().get("images") or []) if r3.ok else []
+    return foto_id, (imgs[0]["source"] if imgs else "")
+
+
+def pubblica_storia_instagram(url_img, token):
+    r = requests.post("%s/%s/media" % (GRAPH_IG, IG_USER),
+                      data={"image_url": url_img, "media_type": "STORIES", "access_token": token}, timeout=60)
+    if not r.ok:
+        raise RuntimeError("Instagram storia (contenitore): " + errore_api(r))
+    cid = r.json()["id"]
+    for _ in range(12):
+        s = requests.get("%s/%s" % (GRAPH_IG, cid), params={"fields": "status_code", "access_token": token}, timeout=30)
+        stato = (s.json() or {}).get("status_code") if s.ok else None
+        if stato == "FINISHED":
+            break
+        if stato in ("ERROR", "EXPIRED"):
+            raise RuntimeError("Instagram storia: elaborazione fallita (%s)" % stato)
+        time.sleep(5)
+    p = requests.post("%s/%s/media_publish" % (GRAPH_IG, IG_USER), data={"creation_id": cid, "access_token": token}, timeout=60)
+    if not p.ok:
+        raise RuntimeError("Instagram storia (pubblicazione): " + errore_api(p))
+    return p.json().get("id")
+
+
+def pubblica_storie(l, token_ig):
+    """Una Storia su Facebook e una su Instagram per il bene. Un errore qui non ferma i post: si scrive e si va avanti."""
+    img = immagine_social.crea_storia(l)
+    percorso = USCITA / ("%s_storia.jpg" % l["id"])
+    img.save(percorso, quality=92)
+    url_img = ""
+    try:
+        foto_id, url_img = pubblica_storia_facebook(percorso)
+        print("Storia Facebook ok: bene %s (foto %s)." % (l["id"], foto_id))
+    except Exception as e:  # noqa: BLE001
+        print("ATTENZIONE storia Facebook, bene %s: %s" % (l["id"], e), file=sys.stderr)
+    try:
+        if not (token_ig and url_img):
+            raise RuntimeError("manca il token Instagram o l'immagine")
+        print("Storia Instagram ok: bene %s (post %s)." % (l["id"], pubblica_storia_instagram(url_img, token_ig)))
+    except Exception as e:  # noqa: BLE001
+        print("ATTENZIONE storia Instagram, bene %s: %s" % (l["id"], e), file=sys.stderr)
+
+
 def rinnova_token(stato):
     """Il token Instagram dura 60 giorni: dopo 30 giorni ne chiediamo uno nuovo e lo teniamo nello stato."""
     token = stato.get("ig_token") or IG_TOKEN
@@ -217,7 +276,7 @@ def main():
         return 0
     visti = set(stato.get("visti", []))
     nuovi = [l for l in lotti if l["id"] not in visti]
-    if MODE == "uno":
+    if MODE in ("uno", "storia"):
         nuovi = sorted(lotti, key=lambda l: quando(l.get("pubblicata")) or datetime(2000, 1, 1), reverse=True)[:1]
     else:
         nuovi.sort(key=scadenza)
@@ -225,17 +284,22 @@ def main():
     disponibili = max(0, MAX_DAY - fatti_oggi) if MODE == "send" else MAX_RUN
     da_fare = nuovi[: min(MAX_RUN, disponibili)]
     print("Beni nuovi: %d; oggi gia' pubblicati: %d; questa volta: %d." % (len(nuovi), fatti_oggi, len(da_fare)))
-    if not da_fare:
+    if not da_fare and not (MODE == "send" and STORIE and stato.get("storie")):
         return 0
     USCITA.mkdir(exist_ok=True)
-    token_ig = rinnova_token(stato) if MODE in ("uno", "send") else IG_TOKEN
+    token_ig = rinnova_token(stato) if MODE in ("uno", "send", "storia") else IG_TOKEN
     errori = 0
+    nuove_storie = []
     for l in da_fare:
         l["titolo"] = titolo_completo(l)
+        if MODE == "storia":
+            pubblica_storie(l, token_ig)
+            continue
         img = immagine_social.crea(l)
         percorso = USCITA / ("%s.jpg" % l["id"])
         img.save(percorso, quality=92)
         if MODE == "dry":
+            immagine_social.crea_storia(l).save(USCITA / ("%s_storia.jpg" % l["id"]), quality=92)
             print("--- %s ---\nFacebook:\n%s\nInstagram:\n%s\n" % (l["id"], didascalia(l, False), didascalia(l, True)))
             continue
         try:
@@ -255,7 +319,26 @@ def main():
         except Exception as e:  # noqa: BLE001
             print("ERRORE Instagram, bene %s: %s" % (l["id"], e), file=sys.stderr)
             errori += 1
+        if STORIE:
+            nuove_storie.append({"id": l["id"], "quando": adesso.isoformat(timespec="seconds")})
     if MODE in ("uno", "send"):
+        # Storie sfalsate: a ogni esecuzione esce UNA Storia, di un bene pubblicato in una esecuzione precedente
+        attivi = {l["id"]: l for l in lotti}
+        coda = []
+        for it in stato.get("storie", []):
+            try:
+                ore = (adesso - datetime.fromisoformat(it["quando"])).total_seconds() / 3600
+            except (KeyError, ValueError, TypeError):
+                ore = 999
+            if ore <= STORIA_ORE_MAX and it.get("id") in attivi:
+                coda.append(it)
+        if STORIE and coda:
+            it = coda.pop(0)
+            bene = attivi[it["id"]]
+            bene["titolo"] = titolo_completo(bene)
+            pubblica_storie(bene, token_ig)
+        stato["storie"] = coda + nuove_storie
+    if MODE in ("uno", "send", "storia"):
         stato["visti"] = sorted(visti)
         stato["giorni"] = {k: v for k, v in stato.get("giorni", {}).items() if k >= oggi[:8] + "01"}
         STATO.parent.mkdir(exist_ok=True)
@@ -264,7 +347,7 @@ def main():
 
 
 if __name__ == "__main__":
-    if MODE in ("uno", "send") and not (FB_TOKEN and FB_PAGE):
+    if MODE in ("uno", "send", "storia") and not (FB_TOKEN and FB_PAGE):
         print("Mancano FB_PAGE_TOKEN e FB_PAGE_ID")
         sys.exit(1)
     sys.exit(main())
