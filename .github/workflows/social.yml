@@ -50,6 +50,6 @@ jobs:
           FB_PAGE_ID: "174779944210177"
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
           SOCIAL_MODE: ${{ github.event.inputs.mode || 'send' }}
-          SOCIAL_STORIE: "0"
+          SOCIAL_STORIE: "1"
           SOCIAL_FORCE: ${{ github.event.inputs.force || '0' }}
         run: python3 pubblica_social.py
