@@ -14,6 +14,7 @@ Variabili d'ambiente:
   SOCIAL_MAX_RUN (default 2: beni per esecuzione), SOCIAL_MAX_DAY (default 8: beni al giorno)
   SOCIAL_ORE (default 9-19 ore italiane, solo giorni feriali; SOCIAL_FORCE=1 ignora orario e giorno)
 """
+import html
 import json
 import os
 import re
@@ -69,6 +70,31 @@ def euro(n):
     return re.sub(r"\B(?=(\d{3})+(?!\d))", ".", p[0]) + "," + p[1]
 
 
+def titolo_completo(l):
+    """La piattaforma accorcia i titoli lunghi con "...": se serve rileggiamo il titolo intero dalla pagina del bene."""
+    t = (l.get("titolo") or "").strip()
+    if t.endswith("...") and l.get("url"):
+        try:
+            r = requests.get(l["url"], headers={"User-Agent": "Mozilla/5.0"}, timeout=30)
+            m = re.search(r"<h1[^>]*>(.*?)</h1>", r.text, re.S)
+            if r.ok and m:
+                intero = html.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", m.group(1)))).strip()
+                if len(intero) > len(t) - 3:
+                    t = intero
+        except Exception as e:  # noqa: BLE001
+            print("Titolo intero non letto (%s): uso quello breve." % e, file=sys.stderr)
+    t = t.rstrip(" .")
+    if len(t) > 160:
+        taglio = max(t.rfind(x, 60, 160) for x in (", ", "; ", " - ", ". ", ": "))
+        if taglio > 0:
+            t = t[:taglio].rstrip(" .,;:-")
+        else:
+            t = t[:157].rsplit(" ", 1)[0].rstrip(" .,;:-") + "..."
+    elif (l.get("titolo") or "").strip().endswith("..."):
+        t = t.rstrip(" ,;:-")
+    return t
+
+
 def didascalia(l, instagram):
     min_ = l.get("prezzo_minimo")
     prezzo = min_ if min_ is not None else l.get("prezzo")
@@ -76,9 +102,7 @@ def didascalia(l, instagram):
     testa = "Trib. %s - Proc. %s" % (l.get("tribunale") or "-", l.get("procedura") or "-")
     if l.get("lotto"):
         testa += " - " + l["lotto"]
-    titolo = (l.get("titolo") or "").strip()
-    if len(titolo) > 230:
-        titolo = titolo[:227].rstrip(" .,;:") + "..."
+    titolo = l.get("titolo") or ""
     righe = ["Nuovo bene in vendita", testa, "", titolo, ""]
     if prezzo is not None:
         righe.append("%s: € %s" % (etichetta, euro(prezzo)))
@@ -207,6 +231,7 @@ def main():
     token_ig = rinnova_token(stato) if MODE in ("uno", "send") else IG_TOKEN
     errori = 0
     for l in da_fare:
+        l["titolo"] = titolo_completo(l)
         img = immagine_social.crea(l)
         percorso = USCITA / ("%s.jpg" % l["id"])
         img.save(percorso, quality=92)
