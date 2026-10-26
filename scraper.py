@@ -31,7 +31,7 @@ MAX_PAGES = 60
 MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
-                     "prezzo_base", "offerte", "offerenti", "rilanci")
+                     "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -101,6 +101,25 @@ def parse_offerte(html):
     return out
 
 
+def parse_stato_asta(html):
+    """Testo esatto di "Stato asta" (es. "Gara chiusa", "Gara annullata"); la data, se la pagina la riporta."""
+    out = {"stato_asta": None, "stato_asta_il": None}
+    soup = BeautifulSoup(html, "html.parser")
+    h2 = soup.select_one("td.status-block h2.auction-state")
+    if h2:
+        out["stato_asta"] = text(h2) or None
+    else:
+        m = re.search(r'statoAsta\s*:\s*makeObservable\(\{"messaggio":"([^"]+)"', html)
+        if m:
+            out["stato_asta"] = m.group(1)
+    if out["stato_asta"]:
+        blocco = soup.select_one("td.status-block")
+        d = re.search(DATA_ORA, text(blocco)) if blocco else None
+        if d:
+            out["stato_asta_il"] = f"{d.group(1)} {d.group(2)}"
+    return out
+
+
 def parse_dettagli(html):
     """Dalla pagina di un bene: prezzo minimo e termine di presentazione delle offerte."""
     soup = BeautifulSoup(html, "html.parser")
@@ -110,6 +129,7 @@ def parse_dettagli(html):
     out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": "", "pubblicata": "", "lotto": "",
            "prezzo_base": None}
     out.update(parse_offerte(html))
+    out.update(parse_stato_asta(html))
 
     m = re.search(r"Prezzo base\s*:?\s*€\s*(\d[\d.]*,\d{2})", t, re.I)
     if m:
@@ -159,6 +179,7 @@ def arricchisci(lotti, cache, budget):
             and "pubblicata" in vecchio
             and "lotto" in vecchio
             and "offerte" in vecchio
+            and "stato_asta" in vecchio
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
@@ -174,6 +195,8 @@ def arricchisci(lotti, cache, budget):
             r = requests.get(l["url"], headers=HEADERS, timeout=30)
             r.raise_for_status()
             l.update(parse_dettagli(r.text))
+            if re.search(r"sospes", l.get("stato_asta") or "", re.I):
+                l["stato"] = "sospesa"
             l["dett"] = True
         except Exception as e:  # noqa: BLE001
             print(f"Dettagli non letti per {l['id']}: {e}", file=sys.stderr)
@@ -232,7 +255,7 @@ def pulisci(lotti):
 def salva(path, lotti):
     lotti = pulisci(lotti)
     for l in lotti:  # dato non disponibile = null
-        for k in ("prezzo_base", "offerte", "offerenti", "rilanci"):
+        for k in ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il"):
             l.setdefault(k, None)
     if carica(path) == lotti:
         print(f"{path.name}: nessuna novità.")
