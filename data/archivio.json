@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T16:57:16+00:00",
+ "aggiornato": "2026-10-26T17:50:13+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -3052,7 +3052,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 157,
+   "visite": 158,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -3074,7 +3074,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "26/10/2026 17:57",
+   "canali_controllati_il": "26/10/2026 18:50",
    "dett": true
   },
   {
@@ -4534,7 +4534,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/17/0177421740.png",
-   "visite": 86,
+   "visite": 87,
    "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1654326.html",
    "cloud_pubblicata": null,
    "prezzo_minimo": 161367.19,
