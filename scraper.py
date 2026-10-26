@@ -31,7 +31,7 @@ MAX_PAGES = 60
 MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
-                     "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il")
+                     "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -103,11 +103,16 @@ def parse_offerte(html):
 
 def parse_stato_asta(html):
     """Testo esatto di "Stato asta" (es. "Gara chiusa", "Gara annullata"); la data, se la pagina la riporta."""
-    out = {"stato_asta": None, "stato_asta_il": None}
+    out = {"stato_asta": None, "stato_asta_il": None, "avviso_gara": None}
     soup = BeautifulSoup(html, "html.parser")
+    for box in soup.select("div.alert.alert-warning.text-center"):  # banner sopra "Fasi della gara"
+        if re.match(r"Gara\b", text(box)):
+            out["avviso_gara"] = text(box)
+            break
     h2 = soup.select_one("td.status-block h2.auction-state")
     if h2:
-        out["stato_asta"] = text(h2) or None
+        righe = [text(h2)] + [text(e) for e in h2.find_next_siblings() if text(e)]  # es. "Gara chiusa" + "Aggiudicazione revocata"
+        out["stato_asta"] = " - ".join(r for r in righe if r) or None
     else:
         m = re.search(r'statoAsta\s*:\s*makeObservable\(\{"messaggio":"([^"]+)"', html)
         if m:
@@ -168,6 +173,17 @@ def parse_dettagli(html):
     return out
 
 
+def applica_stato(l):
+    """Sospesa se la pagina lo dice; l'esito (con/senza offerte) deriva dal numero di offerte pervenute."""
+    if re.search(r"sospes", " ".join(filter(None, [l.get("avviso_gara"), l.get("stato_asta")])), re.I):
+        l["stato"] = "sospesa"
+    n = l.get("offerte")
+    if n is not None and l.get("stato") == "conclusa":
+        l["esito"] = "con offerte" if n > 0 else "senza offerte"
+    elif n and l.get("stato") == "sospesa":
+        l["esito"] = "con offerte"
+
+
 def arricchisci(lotti, cache, budget):
     """Aggiunge i dettagli ai lotti: li riusa se già letti, altrimenti apre la pagina del bene."""
     for l in lotti:
@@ -180,6 +196,7 @@ def arricchisci(lotti, cache, budget):
             and "lotto" in vecchio
             and "offerte" in vecchio
             and "stato_asta" in vecchio
+            and "avviso_gara" in vecchio
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
@@ -189,18 +206,21 @@ def arricchisci(lotti, cache, budget):
                     l[k] = vecchio[k]
             continue
         if budget[0] <= 0:
+            for k in CHIAVI_DETTAGLIO:  # niente da leggere ora: tengo i dati gia' salvati
+                if vecchio and k in vecchio:
+                    l[k] = vecchio[k]
             continue
         budget[0] -= 1
         try:
             r = requests.get(l["url"], headers=HEADERS, timeout=30)
             r.raise_for_status()
             l.update(parse_dettagli(r.text))
-            if re.search(r"sospes", l.get("stato_asta") or "", re.I):
-                l["stato"] = "sospesa"
             l["dett"] = True
         except Exception as e:  # noqa: BLE001
             print(f"Dettagli non letti per {l['id']}: {e}", file=sys.stderr)
         time.sleep(1)  # gentile con il server
+    for l in lotti:
+        applica_stato(l)
     return lotti
 
 
@@ -255,7 +275,7 @@ def pulisci(lotti):
 def salva(path, lotti):
     lotti = pulisci(lotti)
     for l in lotti:  # dato non disponibile = null
-        for k in ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il"):
+        for k in ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara"):
             l.setdefault(k, None)
     if carica(path) == lotti:
         print(f"{path.name}: nessuna novità.")
