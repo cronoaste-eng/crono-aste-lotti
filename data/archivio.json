@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T10:56:07+00:00",
+ "aggiornato": "2026-10-26T11:20:47+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -16,13 +16,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/86/03/0181860361.png",
    "visite": 7,
    "url": "https://cronoaste.fallcoaste.it/vendita/box-doppio-in-corigliano-rossano-1730487.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685969",
@@ -39,13 +45,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/04/0175890423.jpg",
    "visite": 4,
    "url": "https://cronoaste.fallcoaste.it/vendita/transpallet-elettrico-con-pedana-marca-bt-1685969.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680630",
@@ -62,13 +74,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/33/0179123304.jpg",
    "visite": 100,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigo-hisense-32khs422375-1680630.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680631",
@@ -85,13 +103,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/34/0179123404.jpg",
    "visite": 238,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-circa-8-372-prodotti-della-grade-distribuzione-appartenenti-alle-categorie-dell-elettronica-dell-informatica-degli-elettrodomestici-di-1680631.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680598",
@@ -108,13 +132,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120051.jpg",
    "visite": 155,
    "url": "https://cronoaste.fallcoaste.it/vendita/bosch-frigo-freezer-kgn36nlea-1680598.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680596",
@@ -131,13 +161,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/01/0179120187.jpg",
    "visite": 185,
    "url": "https://cronoaste.fallcoaste.it/vendita/televisore-tcl-qled-4k-50-pollici-mod-50c655-1680596.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680629",
@@ -154,13 +190,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/32/0179123243.jpg",
    "visite": 162,
    "url": "https://cronoaste.fallcoaste.it/vendita/hoover-cantinetta-howc023-1680629.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680624",
@@ -177,13 +219,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122971.jpg",
    "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/indesit-lavatrice-7kg-a-1400-ciclo-dashpods-87x60x58-1680624.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680625",
@@ -200,13 +248,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/30/0179123031.jpg",
    "visite": 96,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-beko-mod-k54305-1680625.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680626",
@@ -223,13 +277,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/30/0179123072.jpg",
    "visite": 118,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-smeg-cod-lvs292dn-1680626.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680627",
@@ -246,13 +306,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/31/0179123126.jpg",
    "visite": 90,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-schaub-lorenz-advance-mod-fxf808xad-1680627.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680628",
@@ -269,13 +335,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/31/0179123169.jpg",
    "visite": 80,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-candy-ca6-n3t1htb-1680628.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680613",
@@ -292,13 +364,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/20/0179122054.jpg",
    "visite": 112,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-beko-mod-bbie14100x-1680613.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680614",
@@ -315,13 +393,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/21/0179122165.jpg",
    "visite": 100,
    "url": "https://cronoaste.fallcoaste.it/vendita/ariston-hotpoint-60x60x187-ha8-sn2e-x-1680614.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680615",
@@ -338,13 +422,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/22/0179122261.jpg",
    "visite": 88,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavello-in-acciaio-inox-2-pozzetti-1680615.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680616",
@@ -361,13 +451,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/23/0179122306.jpg",
    "visite": 83,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-larel-4-fuochi-marrone-cm-50x50-1680616.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680617",
@@ -384,13 +480,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/24/0179122403.jpg",
    "visite": 100,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-hoover-mod-homcc3u1178in-1680617.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680618",
@@ -407,13 +509,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/25/0179122538.jpg",
    "visite": 117,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-indest-ifw-5530-ix-1680618.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680619",
@@ -430,13 +538,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/26/0179122656.jpg",
    "visite": 78,
    "url": "https://cronoaste.fallcoaste.it/vendita/candy-mod-chwlww-piano-cottura-a-4-fuochi-colore-bianco-1680619.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680620",
@@ -453,13 +567,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/26/0179122696.jpg",
    "visite": 132,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavasciuga-abila-20b-cormac-1680620.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680621",
@@ -476,13 +596,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/27/0179122776.jpg",
    "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-bosch-sms4emi01e-1680621.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680622",
@@ -499,13 +625,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/28/0179122858.jpg",
    "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/ariston-hotpoint-hat701-932-s-dc-1680622.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680623",
@@ -522,13 +654,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122905.jpg",
    "visite": 106,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavatrice-smeg-lbw70it-1680623.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680608",
@@ -545,13 +683,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/15/0179121544.jpg",
    "visite": 113,
    "url": "https://cronoaste.fallcoaste.it/vendita/philips-television-6800-series-43-pollici-1680608.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680609",
@@ -568,13 +712,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/16/0179121665.jpg",
    "visite": 124,
    "url": "https://cronoaste.fallcoaste.it/vendita/n2-larel-stufa-a-gas-raggi-infrarossi-colori-vari-1680609.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680610",
@@ -591,13 +741,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/19/0179121926.jpg",
    "visite": 110,
    "url": "https://cronoaste.fallcoaste.it/vendita/tv-led-panasonic-50-pollici-1680610.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680611",
@@ -614,13 +770,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/19/0179121968.jpg",
    "visite": 107,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-larel-bianco-cuc-l60-gb-119638-1680611.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680612",
@@ -637,13 +799,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/20/0179122011.jpg",
    "visite": 105,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-candy-modello-watchtouch-codice-canwatchtouch-forno-incasso-elettrico-10-programmi-1680612.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680604",
@@ -660,13 +828,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/08/0179120876.jpg",
    "visite": 114,
    "url": "https://cronoaste.fallcoaste.it/vendita/candy-mod-chw74wx-piano-cottura-in-acciaio-inox-a-cinque-fuochi-1680604.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680605",
@@ -683,13 +857,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/09/0179120968.jpg",
    "visite": 157,
    "url": "https://cronoaste.fallcoaste.it/vendita/saba-google-tv-led-40-hd-smart-tv-sa40q80gtv-1680605.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680606",
@@ -706,13 +886,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/10/0179121027.jpg",
    "visite": 121,
    "url": "https://cronoaste.fallcoaste.it/vendita/piano-cottura-glem-4-fuochi-1680606.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680607",
@@ -729,13 +915,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/11/0179121181.jpg",
    "visite": 156,
    "url": "https://cronoaste.fallcoaste.it/vendita/beko-model-hii64210mt-piano-cottura-induzione-4-fuochi-1680607.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685981",
@@ -752,13 +944,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891291.jpg",
    "visite": 228,
    "url": "https://cronoaste.fallcoaste.it/vendita/gruppo-elettrogeno-mge-2012-1685981.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680601",
@@ -775,13 +973,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/05/0179120527.jpg",
    "visite": 142,
    "url": "https://cronoaste.fallcoaste.it/vendita/hisense-chest-freezer-bianco-mod-ft125d4awe-max-22-5kg-1680601.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680603",
@@ -798,13 +1002,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/06/0179120648.jpg",
    "visite": 117,
    "url": "https://cronoaste.fallcoaste.it/vendita/argo-newage-plus-12000-ui-solo-unita-interna-1680603.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680597",
@@ -821,13 +1031,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/01/0179120148.jpg",
    "visite": 145,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-whirlpool-mod-ffs-p8-it-1680597.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680600",
@@ -844,13 +1060,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120036.jpg",
    "visite": 140,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-haier-htw5620dnmg-1680600.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680602",
@@ -867,13 +1089,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120004.jpg",
    "visite": 129,
    "url": "https://cronoaste.fallcoaste.it/vendita/la-composizione-del-lotto-e-eterogenea-e-comprende-scaffalature-mobili-arredi-etichette-elettroniche-insegne-materiali-elettrici-e-vari-costituenti-1680602.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680599",
@@ -890,13 +1118,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120032.jpg",
    "visite": 131,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavatrice-candy-cod-41046209-1680599.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1699980",
@@ -913,13 +1147,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/42/69/0180426944.jpg",
    "visite": 165,
    "url": "https://cronoaste.fallcoaste.it/vendita/mobilio-attrezzatura-da-palestra-e-home-gym-tra-cui-tapis-roulant-steps-stazione-multifunzione-panca-e-cyclette-elettrodomestici-e-1699980.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685970",
@@ -936,13 +1176,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/04/0175890465.jpg",
    "visite": 121,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-3-transpallet-manuale-con-forche-lunghezza-120cm-1685970.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685971",
@@ -959,13 +1205,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/05/0175890562.jpg",
    "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavapavimenti-industriale-marca-fiorentini-modello-i-18enew-elettrica-v230-peso-60-kg-1685971.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685972",
@@ -982,13 +1234,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/06/0175890604.jpg",
    "visite": 143,
    "url": "https://cronoaste.fallcoaste.it/vendita/scaffalature-per-stoccaggio-pallet-in-acciaio-iron-fish-300mt-1685972.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685973",
@@ -1005,13 +1263,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/07/0175890733.jpg",
    "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/tavolo-in-acciaio-inox-professionale-1-da-200x60x85h-e-1-da-100x60x85h-1685973.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685974",
@@ -1028,13 +1292,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/07/0175890783.jpg",
    "visite": 94,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavello-da-ristorante-in-acciaio-inox-150x60x85h-1685974.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685975",
@@ -1051,13 +1321,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890923.jpg",
    "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-1-1685975.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685976",
@@ -1074,13 +1350,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890999.jpg",
    "visite": 118,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-2-1685976.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685977",
@@ -1097,13 +1379,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/11/0175891122.jpg",
    "visite": 139,
    "url": "https://cronoaste.fallcoaste.it/vendita/attrezzatura-elettronica-e-informatica-per-ufficio-1685977.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685978",
@@ -1120,13 +1408,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/11/0175891159.jpg",
    "visite": 130,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-celle-frigorifere-bt-tn-misa-2013-1685978.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685979",
@@ -1143,13 +1437,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891203.jpg",
    "visite": 119,
    "url": "https://cronoaste.fallcoaste.it/vendita/cella-frigorifera-azotata-per-congelato-misa-2017-1685979.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685980",
@@ -1166,13 +1466,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891267.jpg",
    "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/pesa-piattaforma-1500kg-2012-1685980.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685982",
@@ -1189,13 +1495,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/13/0175891318.jpg",
    "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-condizionatori-samsung-1685982.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685964",
@@ -1210,15 +1522,21 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/88/98/0175889882.jpg",
-   "visite": 263,
+   "visite": 264,
    "url": "https://cronoaste.fallcoaste.it/vendita/nissan-v-i-tk-56-35-atleon-1685964.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685965",
@@ -1235,13 +1553,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/88/99/0175889957.jpg",
    "visite": 252,
    "url": "https://cronoaste.fallcoaste.it/vendita/iveco-35-e4-1685965.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685966",
@@ -1258,13 +1582,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/01/0175890151.jpg",
    "visite": 145,
    "url": "https://cronoaste.fallcoaste.it/vendita/confezionatrice-sottovuoto-marca-valco-modello-favola-84100-1685966.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685967",
@@ -1281,13 +1611,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/02/0175890232.jpg",
    "visite": 202,
    "url": "https://cronoaste.fallcoaste.it/vendita/muletto-elettrico-a-batteria-per-interno-ed-esterno-cargo-modello-c4e-160-nl-1685967.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1685968",
@@ -1304,13 +1640,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/03/0175890332.jpg",
    "visite": 164,
    "url": "https://cronoaste.fallcoaste.it/vendita/stoccatore-elettrico-transpallet-modello-logos-ac-anno-2013-1685968.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680590",
@@ -1327,13 +1669,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/04/30/0179043026.jpg",
    "visite": 218,
    "url": "https://cronoaste.fallcoaste.it/vendita/ramo-d-azienda-esercente-attivita-di-ristorazione-codice-ateco-56-10-11-sotto-la-storica-insegna-la-frateria-costituito-1680590.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1701396",
@@ -1350,13 +1698,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/22/0180522258.jpg",
    "visite": 241,
    "url": "https://cronoaste.fallcoaste.it/vendita/camion-fiat-targa-aj-wh-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701396.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1701399",
@@ -1373,13 +1727,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/23/0180522366.jpg",
    "visite": 281,
    "url": "https://cronoaste.fallcoaste.it/vendita/volkswagen-transporter-t3-targa-cp-yr-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701399.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1701401",
@@ -1396,13 +1756,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/24/0180522440.jpg",
    "visite": 348,
    "url": "https://cronoaste.fallcoaste.it/vendita/mercedes-classe-c220-targa-cm-bj-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701401.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1701404",
@@ -1419,13 +1785,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/25/0180522545.jpg",
    "visite": 191,
    "url": "https://cronoaste.fallcoaste.it/vendita/renault-turbo-s100-targa-cs-marciante-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701404.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1652975",
@@ -1442,13 +1814,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/30/06/0177300627.jpg",
    "visite": 164,
    "url": "https://cronoaste.fallcoaste.it/vendita/immobile-sito-in-catania-viale-rapisardi-n-23-adibito-a-deposito-al-piano-sotterraneo-e-censito-al-catasto-fabbricati-1652975.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686622",
@@ -1465,13 +1843,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/76/98/0179769818.png",
    "visite": 189,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-attrezzature-da-ristorazione-pizzeria-composto-dai-seguenti-beni-mobili-n-7-tavoli-in-legno-bianco-in-buono-1686622.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686617",
@@ -1488,13 +1872,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/76/99/0179769925.jpg",
    "visite": 1161,
    "url": "https://cronoaste.fallcoaste.it/vendita/l-imbarcazione-risulta-essere-posta-in-secca-su-cavalletti-in-zona-cantiere-senza-copertura-alladata-della-ricognizione-29-10-1686617.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686278",
@@ -1511,13 +1901,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/85/0179708579.jpg",
    "visite": 284,
    "url": "https://cronoaste.fallcoaste.it/vendita/il-lotto-e-composto-dalle-seguenti-unita-immobili-campo-da-calcio-foglio-57-p-lla-546il-campo-da-gioco-1686278.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686323",
@@ -1534,13 +1930,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/05/0179710568.jpg",
    "visite": 89,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-bilocali-a-due-livelli-numeratida-15-a-22-consistenti-in-1686323.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686313",
@@ -1557,13 +1959,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/99/0179709930.jpg",
    "visite": 97,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camere-matrimoniali-con-bagno-camere-102-104-106-108-1686313.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686329",
@@ -1580,13 +1988,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/09/0179710994.jpg",
    "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-seminterrato-di-villa-indipendente-areatavernetta-sala-biliardo-consistenti-in-n-10-buste-1686329.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686326",
@@ -1603,13 +2017,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/07/0179710757.jpg",
    "visite": 107,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-di-villa-indipendente-camera-daletto-patronale-con-bagno-privato-1686326.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686327",
@@ -1626,13 +2046,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/08/0179710835.jpg",
    "visite": 175,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-piano-seminterrato-di-villa-indipendente-consistenti-in-attrezzatura-varia-per-palestra-1686327.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686328",
@@ -1649,13 +2075,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/09/0179710902.jpg",
    "visite": 132,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-piano-seminterrato-di-villa-indipendente-areasala-tavernetta-con-accesso-diretto-alla-1686328.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686325",
@@ -1672,13 +2104,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/06/0179710676.jpg",
    "visite": 91,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-villa-indipendente-zona-salone-consistenti-in-divano-in-pelle-a-tre-1686325.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686315",
@@ -1695,13 +2133,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/00/0179710048.jpg",
    "visite": 90,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camere-triple-piu-bagno-camere124-126-128-consistente-in-1686315.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686316",
@@ -1718,13 +2162,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/01/0179710164.jpg",
    "visite": 77,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camera-quadrupla-con-bagno-camera-130-consistente-in-1-1686316.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686317",
@@ -1741,13 +2191,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710215.jpg",
    "visite": 68,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camere-matrimoniali-conbagno-camere-202-204-206-208-210-1686317.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686318",
@@ -1764,13 +2220,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710293.jpg",
    "visite": 83,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camere-triple-piu-bagno-camere-224-226-228-consistente-1686318.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686319",
@@ -1787,13 +2249,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/03/0179710323.jpg",
    "visite": 72,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camera-quadrupla-con-bagno-camera-230-consistente-in-1-1686319.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686320",
@@ -1810,13 +2278,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/03/0179710384.jpg",
    "visite": 67,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-monolocali-numerati-da-1-a-7-consistenti-in-letto-matrimoniale-1686320.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686321",
@@ -1833,13 +2307,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/05/0179710519.jpg",
    "visite": 64,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-bilocali-a-due-livelli-numeratida-8-a-14-consistenti-in-1686321.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686324",
@@ -1856,13 +2336,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/06/0179710623.jpg",
    "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-villa-indipendente-zona-soggiorno-cucina-consistenti-in-divano-a-due-posti-1686324.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686284",
@@ -1879,13 +2365,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
    "visite": 151,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686311",
@@ -1902,13 +2394,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/97/0179709755.jpg",
    "visite": 87,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-in-sala-ricevimenti-consistenti-in-n-9-tavoli-per-ottopersone-n-8-tavoli-per-1686311.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686312",
@@ -1925,13 +2423,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/98/0179709865.jpg",
    "visite": 100,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-in-sala-da-ballo-discoteca-consistenti-in-bancone-bar-inacciaio-n-1-macchina-del-1686312.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686299",
@@ -1948,13 +2452,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/01/0179710151.jpg",
    "visite": 102,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-terra-ristorante-sala-di-servizio-adiacente-allasala-colazioni-consistenti-in-stock-piatti-1686299.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686301",
@@ -1971,13 +2481,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710225.jpg",
    "visite": 74,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-1-cellafrigorifera-con-3-camere-1686301.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686303",
@@ -1994,13 +2510,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/93/0179709322.jpg",
    "visite": 107,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-7banconi-da-lavoro-in-acciaio-n-1686303.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686305",
@@ -2017,13 +2539,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/94/0179709436.jpg",
    "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-1bancone-da-lavoro-con-affettatrice-n-1686305.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686308",
@@ -2040,13 +2568,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/95/0179709516.jpg",
    "visite": 90,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistente-in-n-1forno-industriale-1686308.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686309",
@@ -2063,13 +2597,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/95/0179709595.jpg",
    "visite": 93,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-6lavandini-n-1-lavastoviglie-1686309.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686310",
@@ -2086,13 +2626,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/96/0179709655.jpg",
    "visite": 119,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-n-30pentole-di-varie-misure-n-20-teglie-1686310.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686293",
@@ -2109,13 +2655,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/97/0179709717.jpg",
    "visite": 411,
    "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-toyota-aygo-1-0-targa-dm758tt-carta-di-circolazione-presente-chiavipresenti-1-km-192442-al-29-04-2024-1686293.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686294",
@@ -2132,13 +2684,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/98/0179709816.jpg",
    "visite": 164,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-terra-sala-tv-consistenti-in-1-divano-grigio-atre-posti-12-poltroncine-1686294.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686296",
@@ -2155,13 +2713,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/98/0179709890.jpg",
    "visite": 74,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-terra-hall-reception-consistenti-in-2-tappeti-1divano-a-due-posti-1-1686296.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686297",
@@ -2178,13 +2742,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/99/0179709982.jpg",
    "visite": 88,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-nella-sala-zona-bar-adiacente-alla-hall-consistenti-in-n-1bancone-bar-con-lavandino-1686297.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686298",
@@ -2201,13 +2771,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/00/0179710077.jpg",
    "visite": 115,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-terra-ristorante-sala-colazioni-consistenti-in-n-11-tavoli-rotondi-da-quattro-1686298.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686291",
@@ -2224,13 +2800,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/95/0179709518.jpg",
    "visite": 821,
    "url": "https://cronoaste.fallcoaste.it/vendita/moto-honda-cbf-600-targa-cv63171-carta-di-circolazione-presente-chiavi-presenti-1-km-88400-al-18-05-2023-1686291.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686290",
@@ -2247,13 +2829,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/94/0179709402.jpg",
    "visite": 304,
    "url": "https://cronoaste.fallcoaste.it/vendita/auto-jeep-cherokee-targa-cn457nb-carta-di-circolazione-presente-chiavi-presenti-1-km-245-246-al-05-03-2025-1686290.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686292",
@@ -2270,13 +2858,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/96/0179709622.jpg",
    "visite": 233,
    "url": "https://cronoaste.fallcoaste.it/vendita/scooter-piaggio-x9-250-targa-bb50035-carta-di-circolazione-presente-chiavi-presenti-1-km-41589-al-10-08-2019-1686292.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686266",
@@ -2293,13 +2887,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/84/0179708409.jpg",
    "visite": 112,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-720il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686266.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686271",
@@ -2316,13 +2916,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/84/0179708463.jpg",
    "visite": 109,
    "url": "https://cronoaste.fallcoaste.it/vendita/il-lotto-e-composto-dalle-seguenti-unita-immobili-fabbricato-in-costruzione-foglio-57-p-lla-719-sub-1il-fabbricato-1686271.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686273",
@@ -2339,13 +2945,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/85/0179708528.jpg",
    "visite": 111,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-134il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686273.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686280",
@@ -2362,13 +2974,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/86/0179708698.jpg",
    "visite": 96,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreni-foglio-57-p-lle-315-316i-terreni-ubicati-all-interno-del-residence-park-hotel-risultano-terreniagricoli-ed-sono-1686280.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686256",
@@ -2385,13 +3003,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/82/0179708238.jpg",
    "visite": 184,
    "url": "https://cronoaste.fallcoaste.it/vendita/il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-a-vincolo-di-natura-idrogeologica-1686256.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686262",
@@ -2408,13 +3032,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/82/0179708268.jpg",
    "visite": 141,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-66il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686262.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686264",
@@ -2431,13 +3061,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/83/0179708349.jpg",
    "visite": 110,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-68il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686264.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1686249",
@@ -2454,13 +3090,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/80/0179708097.jpg",
    "visite": 161,
    "url": "https://cronoaste.fallcoaste.it/vendita/trattasi-di-una-villa-indipendente-a-tre-piani-fuori-terra-composta-da-pianoterra-con-zona-giorno-nella-quale-vi-1686249.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679782",
@@ -2477,13 +3119,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/97/67/0178976737.png",
    "visite": 389,
    "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-ford-modello-c-max-tg-ff-wk-immatricolata-06-12-2016-cilindrata-1499-cc-kw-62-72-1679782.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679784",
@@ -2500,13 +3148,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/15/0178981567.png",
    "visite": 287,
    "url": "https://cronoaste.fallcoaste.it/vendita/motociclo-marca-piaggio-modello-scarabeo-tg-dt-immatricolata-12-04-2011-cilindrata-181-cc-kw-014-00-k-m-1679784.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679790",
@@ -2523,13 +3177,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/17/0178981722.jpg",
    "visite": 101,
    "url": "https://cronoaste.fallcoaste.it/vendita/armadio-a-giorno-con-cassetto-posto-in-basso-in-legno-stile-liberty-valore-di-700-00-1679790.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679789",
@@ -2546,13 +3206,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/16/0178981653.jpg",
    "visite": 102,
    "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-in-legno-massello-noce-con-ante-a-vetri-e-sottostante-altre-due-ante-in-legno-misure-circa-1-1679789.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679794",
@@ -2569,13 +3235,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981878.jpg",
    "visite": 998,
    "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-yamaha-modello-tt-600-tg-ct-immatricolata-02-07-1985-cilindrata-595-cm3-kw-30-10-km-1679794.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1680859",
@@ -2592,13 +3264,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/18/17/0179181755.jpg",
    "visite": 213,
    "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1680859.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678164",
@@ -2615,13 +3293,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/81/0178868167.jpg",
    "visite": 173,
    "url": "https://cronoaste.fallcoaste.it/vendita/ponte-sollevatore-auto-marca-omcn-valore-di-5-000-00-1678164.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1679792",
@@ -2638,13 +3322,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981807.jpg",
    "visite": 739,
    "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-honda-modello-rd15-1-1-tg-dt-immatricolata-05-01-2012-cilindrata-680-cm3-kw-44-10-1679792.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1637848",
@@ -2661,13 +3351,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/41/93/0176419373.jpg",
    "visite": 144,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-ubicato-a-teramo-te-piazza-b-cellini-n-8-adibito-a-civile-abitazione-posto-al-piano-terzo-sottotetto-1637848.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1644952",
@@ -2684,13 +3380,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/77/55/0176775555.jpg",
    "visite": 2580,
    "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-berlina-quattro-porte-marca-alfa-romeo-modello-giulia-versione-nuova-super-1300-colore-bianco-data-immatricolazione-il-20-1644952.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1641783",
@@ -2707,13 +3409,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/76/60/47/0176604754.jpg",
    "visite": 179,
    "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-esercente-attivita-di-supermercato-attualmente-a-marchio-coop-in-viale-epipoli-n-87-in-siracusa-sr-1641783.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1654335",
@@ -2730,13 +3438,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/11/0177421171.png",
    "visite": 107,
    "url": "https://cronoaste.fallcoaste.it/vendita/ramo-di-azienda-avente-quale-oggetto-sociale-la-gestione-di-minimarket-supermercati-negozi-generi-alimentari-e-non-con-annessi-1654335.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1654329",
@@ -2753,13 +3467,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/20/0177422058.png",
    "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-dell-olimpiade-nn-15-17-e-19-munito-di-autorizzazione-per-esercizio-di-commercio-su-1654329.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1654326",
@@ -2776,13 +3496,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/42/17/0177421740.png",
    "visite": 85,
    "url": "https://cronoaste.fallcoaste.it/vendita/punto-vendita-in-via-re-ierone-nn-50-e-50-a-munito-di-scia-per-l-attivita-di-vicinato-1654326.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678165",
@@ -2799,13 +3525,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/82/0178868244.jpg",
    "visite": 133,
    "url": "https://cronoaste.fallcoaste.it/vendita/albero-di-ulivo-di-circa-30-anni-l-esemplare-viene-venduto-nello-stato-in-cui-si-trova-piantato-a-1678165.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678178",
@@ -2822,13 +3554,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/86/0178868691.jpg",
    "visite": 80,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-25-tavoli-quadrati-in-legno-accompagnati-da-80-sedie-in-legno-scuro-con-seduta-in-paglia-valore-di-1678178.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678176",
@@ -2845,13 +3583,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/86/0178868611.jpg",
    "visite": 88,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-professionale-a-quattro-fuochi-buono-stato-marca-non-visibile-valore-di-200-00-1678176.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678175",
@@ -2868,13 +3612,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/85/0178868547.jpg",
    "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/granitore-ad-una-vasca-in-acciaio-marca-ugolim-valore-di-800-00-1678175.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678174",
@@ -2891,13 +3641,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/85/0178868501.jpg",
    "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/banco-di-lavorazione-in-acciaio-inox-con-ripiano-in-vetro-nella-parte-superiore-valore-di-600-00-1678174.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678173",
@@ -2914,13 +3670,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/84/0178868423.jpg",
    "visite": 70,
    "url": "https://cronoaste.fallcoaste.it/vendita/banco-frigo-in-acciaio-fino-a-4-gradi-con-due-ante-larghezza-1-metro-e-20-per-80-centimetri-1678173.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678171",
@@ -2937,13 +3699,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/83/0178868362.jpg",
    "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-mono-anta-in-acciaio-con-tre-rapini-interni-fino-a-4-gradi-in-buono-stato-marca-polaris-valore-1678171.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1678169",
@@ -2960,13 +3728,19 @@
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/83/0178868316.png",
    "visite": 79,
    "url": "https://cronoaste.fallcoaste.it/vendita/vetrina-positiva-e-negativa-fino-a-meno-venti-gradi-con-quattro-ripiani-interni-e-mensole-in-vetro-marca-mapet-1678169.html",
+   "cloud_pubblicata": null,
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null
   },
   {
    "id": "1625305",
@@ -2995,7 +3769,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644936",
@@ -3024,7 +3804,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644938",
@@ -3053,7 +3839,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644941",
@@ -3082,7 +3874,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644937",
@@ -3111,7 +3909,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644944",
@@ -3140,7 +3944,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644943",
@@ -3169,7 +3979,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644942",
@@ -3198,7 +4014,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644939",
@@ -3227,7 +4049,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644940",
@@ -3256,7 +4084,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644934",
@@ -3285,7 +4119,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644935",
@@ -3314,7 +4154,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654451",
@@ -3343,7 +4189,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654450",
@@ -3372,7 +4224,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654448",
@@ -3401,7 +4259,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654449",
@@ -3430,7 +4294,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654447",
@@ -3459,7 +4329,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654445",
@@ -3488,7 +4364,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654446",
@@ -3517,7 +4399,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654443",
@@ -3546,7 +4434,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654444",
@@ -3575,7 +4469,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654442",
@@ -3604,7 +4504,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1654441",
@@ -3633,7 +4539,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670949",
@@ -3662,7 +4574,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670947",
@@ -3691,7 +4609,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670948",
@@ -3720,7 +4644,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670944",
@@ -3749,7 +4679,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670946",
@@ -3778,7 +4714,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670943",
@@ -3807,7 +4749,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670942",
@@ -3836,7 +4784,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1670940",
@@ -3865,7 +4819,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658619",
@@ -3893,7 +4853,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658621",
@@ -3921,7 +4887,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658622",
@@ -3949,7 +4921,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658166",
@@ -3977,7 +4955,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658167",
@@ -4005,7 +4989,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658165",
@@ -4033,7 +5023,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658164",
@@ -4061,7 +5057,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658163",
@@ -4089,7 +5091,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668589",
@@ -4117,7 +5125,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1641696",
@@ -4145,7 +5159,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668592",
@@ -4173,7 +5193,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658677",
@@ -4201,7 +5227,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658676",
@@ -4229,7 +5261,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658675",
@@ -4257,7 +5295,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658672",
@@ -4285,7 +5329,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658666",
@@ -4313,7 +5363,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658668",
@@ -4341,7 +5397,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658664",
@@ -4369,7 +5431,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658661",
@@ -4397,7 +5465,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658653",
@@ -4425,7 +5499,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658601",
@@ -4453,7 +5533,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658652",
@@ -4481,7 +5567,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658613",
@@ -4509,7 +5601,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658648",
@@ -4537,7 +5635,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658650",
@@ -4565,7 +5669,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1658644",
@@ -4593,7 +5703,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668661",
@@ -4621,7 +5737,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668683",
@@ -4649,7 +5771,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668671",
@@ -4677,7 +5805,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668686",
@@ -4705,7 +5839,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668691",
@@ -4733,7 +5873,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652947",
@@ -4761,7 +5907,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652956",
@@ -4789,7 +5941,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652960",
@@ -4817,7 +5975,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652961",
@@ -4845,7 +6009,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652963",
@@ -4873,7 +6043,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652965",
@@ -4901,7 +6077,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652966",
@@ -4929,7 +6111,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652968",
@@ -4957,7 +6145,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1652969",
@@ -4985,7 +6179,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668690",
@@ -5013,7 +6213,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668684",
@@ -5041,7 +6247,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668666",
@@ -5069,7 +6281,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1634287",
@@ -5097,7 +6315,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1634252",
@@ -5125,7 +6349,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668693",
@@ -5153,7 +6383,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668694",
@@ -5181,7 +6417,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668692",
@@ -5209,7 +6451,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668687",
@@ -5237,7 +6485,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668688",
@@ -5265,7 +6519,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668689",
@@ -5293,7 +6553,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668685",
@@ -5321,7 +6587,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668682",
@@ -5349,7 +6621,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668677",
@@ -5377,7 +6655,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668678",
@@ -5405,7 +6689,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668679",
@@ -5433,7 +6723,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668680",
@@ -5461,7 +6757,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668681",
@@ -5489,7 +6791,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668676",
@@ -5517,7 +6825,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668670",
@@ -5545,7 +6859,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668672",
@@ -5573,7 +6893,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668673",
@@ -5601,7 +6927,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668674",
@@ -5629,7 +6961,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668675",
@@ -5657,7 +6995,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668660",
@@ -5685,7 +7029,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668663",
@@ -5713,7 +7063,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668664",
@@ -5741,7 +7097,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668668",
@@ -5769,7 +7131,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668657",
@@ -5797,7 +7165,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668652",
@@ -5825,7 +7199,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668656",
@@ -5853,7 +7233,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668658",
@@ -5881,7 +7267,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1668650",
@@ -5909,7 +7301,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   },
   {
    "id": "1644906",
@@ -5937,7 +7335,13 @@
    "rilanci": null,
    "stato_asta": null,
    "stato_asta_il": null,
-   "avviso_gara": null
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "canali_controllati_il": null,
+   "cloud_pubblicata": null
   }
  ]
 }
