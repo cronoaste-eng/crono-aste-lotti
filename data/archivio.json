@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T09:00:40+00:00",
+ "aggiornato": "2026-10-26T09:59:16+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -19,7 +19,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685969",
@@ -39,7 +41,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680630",
@@ -59,7 +63,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680631",
@@ -79,7 +85,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680598",
@@ -99,7 +107,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680596",
@@ -119,7 +129,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680629",
@@ -139,7 +151,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680624",
@@ -154,12 +168,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122971.jpg",
-   "visite": 97,
+   "visite": 98,
    "url": "https://cronoaste.fallcoaste.it/vendita/indesit-lavatrice-7kg-a-1400-ciclo-dashpods-87x60x58-1680624.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680625",
@@ -179,7 +195,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680626",
@@ -199,7 +217,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680627",
@@ -219,7 +239,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680628",
@@ -239,7 +261,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680613",
@@ -259,7 +283,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680614",
@@ -279,7 +305,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680615",
@@ -299,7 +327,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680616",
@@ -314,12 +344,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/23/0179122306.jpg",
-   "visite": 82,
+   "visite": 83,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-larel-4-fuochi-marrone-cm-50x50-1680616.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680617",
@@ -339,7 +371,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680618",
@@ -359,7 +393,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680619",
@@ -379,7 +415,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680620",
@@ -399,7 +437,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680621",
@@ -419,7 +459,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680622",
@@ -434,12 +476,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/28/0179122858.jpg",
-   "visite": 122,
+   "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/ariston-hotpoint-hat701-932-s-dc-1680622.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680623",
@@ -459,7 +503,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680608",
@@ -479,7 +525,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680609",
@@ -499,7 +547,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680610",
@@ -519,7 +569,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680611",
@@ -539,7 +591,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680612",
@@ -559,7 +613,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680604",
@@ -579,7 +635,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680605",
@@ -599,7 +657,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680606",
@@ -619,7 +679,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680607",
@@ -639,7 +701,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685981",
@@ -659,7 +723,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680601",
@@ -674,12 +740,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/05/0179120527.jpg",
-   "visite": 141,
+   "visite": 142,
    "url": "https://cronoaste.fallcoaste.it/vendita/hisense-chest-freezer-bianco-mod-ft125d4awe-max-22-5kg-1680601.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680603",
@@ -699,7 +767,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680597",
@@ -719,7 +789,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680600",
@@ -739,7 +811,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680602",
@@ -759,7 +833,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680599",
@@ -779,7 +855,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1699980",
@@ -799,7 +877,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685970",
@@ -819,7 +899,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685971",
@@ -839,7 +921,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685972",
@@ -859,7 +943,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685973",
@@ -879,7 +965,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685974",
@@ -899,7 +987,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685975",
@@ -919,7 +1009,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685976",
@@ -939,7 +1031,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685977",
@@ -959,7 +1053,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685978",
@@ -979,7 +1075,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685979",
@@ -999,7 +1097,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685980",
@@ -1019,7 +1119,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685982",
@@ -1039,7 +1141,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685964",
@@ -1059,7 +1163,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685965",
@@ -1079,7 +1185,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685966",
@@ -1099,7 +1207,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685967",
@@ -1119,7 +1229,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1685968",
@@ -1139,7 +1251,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680590",
@@ -1159,7 +1273,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1701396",
@@ -1179,7 +1295,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1701399",
@@ -1199,7 +1317,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1701401",
@@ -1219,7 +1339,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1701404",
@@ -1239,7 +1361,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652975",
@@ -1259,7 +1383,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686622",
@@ -1279,7 +1405,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686617",
@@ -1299,7 +1427,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686278",
@@ -1319,7 +1449,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686323",
@@ -1334,12 +1466,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/05/0179710568.jpg",
-   "visite": 88,
+   "visite": 89,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-bilocali-a-due-livelli-numeratida-15-a-22-consistenti-in-1686323.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686313",
@@ -1359,7 +1493,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686329",
@@ -1379,7 +1515,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686326",
@@ -1399,7 +1537,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686327",
@@ -1419,7 +1559,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686328",
@@ -1439,7 +1581,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686325",
@@ -1459,7 +1603,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686315",
@@ -1479,7 +1625,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686316",
@@ -1499,7 +1647,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686317",
@@ -1519,7 +1669,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686318",
@@ -1539,7 +1691,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686319",
@@ -1554,12 +1708,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/03/0179710323.jpg",
-   "visite": 71,
+   "visite": 72,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camera-quadrupla-con-bagno-camera-230-consistente-in-1-1686319.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686320",
@@ -1579,7 +1735,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686321",
@@ -1599,7 +1757,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686324",
@@ -1619,7 +1779,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686284",
@@ -1639,7 +1801,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686311",
@@ -1659,7 +1823,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686312",
@@ -1679,7 +1845,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686299",
@@ -1699,7 +1867,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686301",
@@ -1719,7 +1889,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686303",
@@ -1739,7 +1911,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686305",
@@ -1759,7 +1933,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686308",
@@ -1779,7 +1955,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686309",
@@ -1799,7 +1977,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686310",
@@ -1819,7 +1999,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686293",
@@ -1839,7 +2021,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686294",
@@ -1859,7 +2043,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686296",
@@ -1879,7 +2065,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686297",
@@ -1899,7 +2087,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686298",
@@ -1919,7 +2109,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686291",
@@ -1939,7 +2131,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686290",
@@ -1959,7 +2153,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686292",
@@ -1974,12 +2170,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/96/0179709622.jpg",
-   "visite": 232,
+   "visite": 233,
    "url": "https://cronoaste.fallcoaste.it/vendita/scooter-piaggio-x9-250-targa-bb50035-carta-di-circolazione-presente-chiavi-presenti-1-km-41589-al-10-08-2019-1686292.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686266",
@@ -1999,7 +2197,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686271",
@@ -2019,7 +2219,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686273",
@@ -2039,7 +2241,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686280",
@@ -2059,7 +2263,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686256",
@@ -2079,7 +2285,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686262",
@@ -2099,7 +2307,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686264",
@@ -2119,7 +2329,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1686249",
@@ -2139,7 +2351,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679782",
@@ -2159,7 +2373,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679784",
@@ -2179,7 +2395,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679790",
@@ -2199,7 +2417,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679789",
@@ -2219,7 +2439,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679794",
@@ -2239,7 +2461,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1680859",
@@ -2254,12 +2478,14 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/18/17/0179181755.jpg",
-   "visite": 212,
+   "visite": 213,
    "url": "https://cronoaste.fallcoaste.it/vendita/composto-da-attrezzature-tecniche-utensileria-dpi-minuteria-materiale-da-lavoro-ed-arredi-vari-iltutto-come-meglio-descritto-nell-inventario-1680859.html",
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678164",
@@ -2279,7 +2505,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1679792",
@@ -2299,7 +2527,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1637848",
@@ -2319,7 +2549,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644952",
@@ -2339,7 +2571,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1641783",
@@ -2359,7 +2593,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654335",
@@ -2379,7 +2615,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654329",
@@ -2399,7 +2637,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654326",
@@ -2419,7 +2659,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678165",
@@ -2439,7 +2681,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678178",
@@ -2459,7 +2703,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678176",
@@ -2479,7 +2725,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678175",
@@ -2499,7 +2747,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678174",
@@ -2519,7 +2769,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678173",
@@ -2539,7 +2791,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678171",
@@ -2559,7 +2813,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1678169",
@@ -2579,7 +2835,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1625305",
@@ -2605,7 +2863,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644936",
@@ -2631,7 +2891,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644938",
@@ -2657,7 +2919,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644941",
@@ -2683,7 +2947,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644937",
@@ -2709,7 +2975,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644944",
@@ -2735,7 +3003,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644943",
@@ -2761,7 +3031,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644942",
@@ -2787,7 +3059,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644939",
@@ -2813,7 +3087,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644940",
@@ -2839,7 +3115,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644934",
@@ -2865,7 +3143,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644935",
@@ -2891,7 +3171,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654451",
@@ -2917,7 +3199,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654450",
@@ -2943,7 +3227,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654448",
@@ -2969,7 +3255,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654449",
@@ -2995,7 +3283,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654447",
@@ -3021,7 +3311,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654445",
@@ -3047,7 +3339,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654446",
@@ -3073,7 +3367,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654443",
@@ -3099,7 +3395,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654444",
@@ -3125,7 +3423,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654442",
@@ -3151,7 +3451,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1654441",
@@ -3177,7 +3479,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670949",
@@ -3203,7 +3507,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670947",
@@ -3229,7 +3535,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670948",
@@ -3255,7 +3563,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670944",
@@ -3281,7 +3591,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670946",
@@ -3307,7 +3619,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670943",
@@ -3333,7 +3647,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670942",
@@ -3359,7 +3675,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1670940",
@@ -3385,7 +3703,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658619",
@@ -3410,7 +3730,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658621",
@@ -3435,7 +3757,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658622",
@@ -3460,7 +3784,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658166",
@@ -3485,7 +3811,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658167",
@@ -3510,7 +3838,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658165",
@@ -3535,7 +3865,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658164",
@@ -3560,7 +3892,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658163",
@@ -3585,7 +3919,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668589",
@@ -3610,7 +3946,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1641696",
@@ -3635,7 +3973,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668592",
@@ -3660,7 +4000,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658677",
@@ -3685,7 +4027,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658676",
@@ -3710,7 +4054,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658675",
@@ -3735,7 +4081,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658672",
@@ -3760,7 +4108,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658666",
@@ -3785,7 +4135,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658668",
@@ -3810,7 +4162,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658664",
@@ -3835,7 +4189,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658661",
@@ -3860,7 +4216,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658653",
@@ -3885,7 +4243,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658601",
@@ -3910,7 +4270,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658652",
@@ -3935,7 +4297,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658613",
@@ -3960,7 +4324,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658648",
@@ -3985,7 +4351,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658650",
@@ -4010,7 +4378,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1658644",
@@ -4035,7 +4405,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668661",
@@ -4060,7 +4432,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668683",
@@ -4085,7 +4459,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668671",
@@ -4110,7 +4486,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668686",
@@ -4135,7 +4513,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668691",
@@ -4160,7 +4540,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652947",
@@ -4185,7 +4567,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652956",
@@ -4210,7 +4594,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652960",
@@ -4235,7 +4621,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652961",
@@ -4260,7 +4648,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652963",
@@ -4285,7 +4675,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652965",
@@ -4310,7 +4702,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652966",
@@ -4335,7 +4729,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652968",
@@ -4360,7 +4756,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1652969",
@@ -4385,7 +4783,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668690",
@@ -4410,7 +4810,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668684",
@@ -4435,7 +4837,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668666",
@@ -4460,7 +4864,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1634287",
@@ -4485,7 +4891,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1634252",
@@ -4510,7 +4918,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668693",
@@ -4535,7 +4945,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668694",
@@ -4560,7 +4972,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668692",
@@ -4585,7 +4999,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668687",
@@ -4610,7 +5026,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668688",
@@ -4635,7 +5053,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668689",
@@ -4660,7 +5080,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668685",
@@ -4685,7 +5107,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668682",
@@ -4710,7 +5134,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668677",
@@ -4735,7 +5161,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668678",
@@ -4760,7 +5188,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668679",
@@ -4785,7 +5215,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668680",
@@ -4810,7 +5242,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668681",
@@ -4835,7 +5269,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668676",
@@ -4860,7 +5296,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668670",
@@ -4885,7 +5323,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668672",
@@ -4910,7 +5350,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668673",
@@ -4935,7 +5377,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668674",
@@ -4960,7 +5404,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668675",
@@ -4985,7 +5431,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668660",
@@ -5010,7 +5458,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668663",
@@ -5035,7 +5485,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668664",
@@ -5060,7 +5512,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668668",
@@ -5085,7 +5539,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668657",
@@ -5110,7 +5566,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668652",
@@ -5135,7 +5593,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668656",
@@ -5160,7 +5620,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668658",
@@ -5185,7 +5647,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1668650",
@@ -5210,7 +5674,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   },
   {
    "id": "1644906",
@@ -5235,7 +5701,9 @@
    "prezzo_base": null,
    "offerte": null,
    "offerenti": null,
-   "rilanci": null
+   "rilanci": null,
+   "stato_asta": null,
+   "stato_asta_il": null
   }
  ]
 }
