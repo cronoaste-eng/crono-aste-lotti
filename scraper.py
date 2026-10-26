@@ -6,7 +6,7 @@ Scrive due file:
   data/archivio.json  vendite concluse (si accumula: un lotto già archiviato non viene mai perso)
 
 Per ogni lotto legge anche la pagina del bene (una sola volta, poi il dato resta salvato) per
-prendere "Prezzo minimo" e "Termine presentazione offerte" (con carta / con bonifico).
+prendere "Prezzo base", "Prezzo minimo", i conteggi delle offerte (solo numeri) e "Termine presentazione offerte" (con carta / con bonifico).
 
 Viene eseguito da GitHub Actions (vedi .github/workflows/aggiorna.yml).
 Se una lettura fallisce, il file corrispondente resta com'è.
@@ -30,7 +30,8 @@ DATA = Path(__file__).parent / "data"
 MAX_PAGES = 60
 MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
-CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett")
+CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
+                     "prezzo_base", "offerte", "offerenti", "rilanci")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -82,13 +83,37 @@ def parse_cards(html, stato):
     return lotti
 
 
+def parse_offerte(html):
+    """Dallo script della pagina: solo CONTEGGI (mai nomi, user_id o importi delle singole offerte)."""
+    out = {"offerte": None, "offerenti": None, "rilanci": None}
+    m = re.search(r"Offerte\s*:\s*makeObservable\(", html)
+    if not m:
+        return out
+    try:
+        dati, _ = json.JSONDecoder().raw_decode(html, m.end())
+        elenco = dati.get("offerte") or []
+        out["offerte"] = len(elenco)
+        out["offerenti"] = len({o.get("user_id") for o in elenco if o.get("user_id")})
+        if dati.get("count_rilanci") is not None:
+            out["rilanci"] = int(dati["count_rilanci"])
+    except (ValueError, TypeError, AttributeError):
+        pass
+    return out
+
+
 def parse_dettagli(html):
     """Dalla pagina di un bene: prezzo minimo e termine di presentazione delle offerte."""
     soup = BeautifulSoup(html, "html.parser")
     for tag in soup(["script", "style"]):
         tag.decompose()
     t = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
-    out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": "", "pubblicata": "", "lotto": ""}
+    out = {"prezzo_minimo": None, "termine_carta": "", "termine_bonifico": "", "pubblicata": "", "lotto": "",
+           "prezzo_base": None}
+    out.update(parse_offerte(html))
+
+    m = re.search(r"Prezzo base\s*:?\s*€\s*(\d[\d.]*,\d{2})", t, re.I)
+    if m:
+        out["prezzo_base"] = float(m.group(1).replace(".", "").replace(",", "."))
 
     m = re.search(r"Prezzo minimo\s*€?\s*:?\s*€?\s*(\d[\d.]*,\d{2})", t, re.I)
     if m:
@@ -127,7 +152,17 @@ def arricchisci(lotti, cache, budget):
     """Aggiunge i dettagli ai lotti: li riusa se già letti, altrimenti apre la pagina del bene."""
     for l in lotti:
         vecchio = cache.get(l["id"])
-        if vecchio and vecchio.get("dett") and "pubblicata" in vecchio and "lotto" in vecchio:
+        # riletto se mancano i conteggi o se il lotto e' cambiato (nuova offerta, chiusura)
+        if (
+            vecchio
+            and vecchio.get("dett")
+            and "pubblicata" in vecchio
+            and "lotto" in vecchio
+            and "offerte" in vecchio
+            and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
+            and vecchio.get("stato") == l["stato"]
+            and vecchio.get("prezzo") == l["prezzo"]
+        ):
             for k in CHIAVI_DETTAGLIO:
                 if k in vecchio:
                     l[k] = vecchio[k]
@@ -196,6 +231,9 @@ def pulisci(lotti):
 
 def salva(path, lotti):
     lotti = pulisci(lotti)
+    for l in lotti:  # dato non disponibile = null
+        for k in ("prezzo_base", "offerte", "offerenti", "rilanci"):
+            l.setdefault(k, None)
     if carica(path) == lotti:
         print(f"{path.name}: nessuna novità.")
         return
