@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T13:34:44+00:00",
+ "aggiornato": "2026-10-26T15:43:22+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -14,7 +14,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/86/03/0181860361.png",
-   "visite": 7,
+   "visite": 8,
    "url": "https://cronoaste.fallcoaste.it/vendita/box-doppio-in-corigliano-rossano-1730487.html",
    "cloud_pubblicata": null,
    "prezzo_minimo": null,
@@ -22,6 +22,7 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "20/10/2026 18:09",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 4000.0,
    "offerte": 0,
    "offerenti": 0,
@@ -33,8 +34,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1685969",
@@ -49,7 +49,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/04/0175890423.jpg",
-   "visite": 4,
+   "visite": 5,
    "url": "https://cronoaste.fallcoaste.it/vendita/transpallet-elettrico-con-pedana-marca-bt-1685969.html",
    "cloud_pubblicata": null,
    "prezzo_minimo": null,
@@ -57,6 +57,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "20/10/2026 09:00",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 1800.0,
    "offerte": 0,
    "offerenti": 0,
@@ -68,8 +69,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680630",
@@ -84,7 +84,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/33/0179123304.jpg",
-   "visite": 100,
+   "visite": 101,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigo-hisense-32khs422375-1680630.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 156.76,
@@ -92,6 +92,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:40",
    "lotto": "Lotto 35",
+   "dett": true,
    "prezzo_base": 209.02,
    "offerte": 0,
    "offerenti": 0,
@@ -105,8 +106,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:40",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680631",
@@ -121,7 +121,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/34/0179123404.jpg",
-   "visite": 238,
+   "visite": 239,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-circa-8-372-prodotti-della-grade-distribuzione-appartenenti-alle-categorie-dell-elettronica-dell-informatica-degli-elettrodomestici-di-1680631.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 57540.94,
@@ -129,6 +129,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:42",
    "lotto": "Lotto 36",
+   "dett": true,
    "prezzo_base": 76721.25,
    "offerte": 0,
    "offerenti": 0,
@@ -142,8 +143,7 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "30/08/2026 15:42",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680598",
@@ -158,7 +158,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120051.jpg",
-   "visite": 155,
+   "visite": 156,
    "url": "https://cronoaste.fallcoaste.it/vendita/bosch-frigo-freezer-kgn36nlea-1680598.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 163.03,
@@ -166,6 +166,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:12",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 217.38,
    "offerte": 0,
    "offerenti": 0,
@@ -179,8 +180,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:12",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680596",
@@ -195,7 +195,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/01/0179120187.jpg",
-   "visite": 185,
+   "visite": 186,
    "url": "https://cronoaste.fallcoaste.it/vendita/televisore-tcl-qled-4k-50-pollici-mod-50c655-1680596.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 156.76,
@@ -203,6 +203,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:19",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 209.02,
    "offerte": 0,
    "offerenti": 0,
@@ -216,8 +217,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:19",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680629",
@@ -269,7 +269,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122971.jpg",
-   "visite": 98,
+   "visite": 99,
    "url": "https://cronoaste.fallcoaste.it/vendita/indesit-lavatrice-7kg-a-1400-ciclo-dashpods-87x60x58-1680624.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 109.73,
@@ -277,6 +277,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:31",
    "lotto": "Lotto 29",
+   "dett": true,
    "prezzo_base": 146.31,
    "offerte": 0,
    "offerenti": 0,
@@ -290,8 +291,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:31",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680625",
@@ -306,7 +306,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/30/0179123031.jpg",
-   "visite": 96,
+   "visite": 97,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-beko-mod-k54305-1680625.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 109.73,
@@ -314,6 +314,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:33",
    "lotto": "Lotto 30",
+   "dett": true,
    "prezzo_base": 146.31,
    "offerte": 0,
    "offerenti": 0,
@@ -327,8 +328,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:33",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680626",
@@ -343,7 +343,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/30/0179123072.jpg",
-   "visite": 118,
+   "visite": 119,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-smeg-cod-lvs292dn-1680626.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -351,6 +351,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:34",
    "lotto": "Lotto 31",
+   "dett": true,
    "prezzo_base": 125.41,
    "offerte": 0,
    "offerenti": 0,
@@ -364,8 +365,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:34",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680627",
@@ -380,7 +380,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/31/0179123126.jpg",
-   "visite": 90,
+   "visite": 91,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-schaub-lorenz-advance-mod-fxf808xad-1680627.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -388,6 +388,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:35",
    "lotto": "Lotto 32",
+   "dett": true,
    "prezzo_base": 125.41,
    "offerte": 0,
    "offerenti": 0,
@@ -401,8 +402,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:35",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680628",
@@ -417,7 +417,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/31/0179123169.jpg",
-   "visite": 80,
+   "visite": 81,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-candy-ca6-n3t1htb-1680628.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 77.44,
@@ -425,6 +425,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:37",
    "lotto": "Lotto 33",
+   "dett": true,
    "prezzo_base": 103.25,
    "offerte": 0,
    "offerenti": 0,
@@ -438,8 +439,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:37",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680613",
@@ -454,7 +454,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/20/0179122054.jpg",
-   "visite": 112,
+   "visite": 113,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-beko-mod-bbie14100x-1680613.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -462,6 +462,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:10",
    "lotto": "Lotto 18",
+   "dett": true,
    "prezzo_base": 83.61,
    "offerte": 0,
    "offerenti": 0,
@@ -475,8 +476,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:10",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680614",
@@ -491,7 +491,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/21/0179122165.jpg",
-   "visite": 100,
+   "visite": 101,
    "url": "https://cronoaste.fallcoaste.it/vendita/ariston-hotpoint-60x60x187-ha8-sn2e-x-1680614.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 199.09,
@@ -499,6 +499,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:12",
    "lotto": "Lotto 19",
+   "dett": true,
    "prezzo_base": 265.45,
    "offerte": 0,
    "offerenti": 0,
@@ -512,8 +513,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:12",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680615",
@@ -528,7 +528,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/22/0179122261.jpg",
-   "visite": 88,
+   "visite": 89,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavello-in-acciaio-inox-2-pozzetti-1680615.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 78.38,
@@ -536,6 +536,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:14",
    "lotto": "Lotto 20",
+   "dett": true,
    "prezzo_base": 104.51,
    "offerte": 0,
    "offerenti": 0,
@@ -549,8 +550,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:14",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680616",
@@ -565,7 +565,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/23/0179122306.jpg",
-   "visite": 83,
+   "visite": 84,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-larel-4-fuochi-marrone-cm-50x50-1680616.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -573,6 +573,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:15",
    "lotto": "Lotto 21",
+   "dett": true,
    "prezzo_base": 83.61,
    "offerte": 0,
    "offerenti": 0,
@@ -586,8 +587,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:15",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680617",
@@ -602,7 +602,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/24/0179122403.jpg",
-   "visite": 100,
+   "visite": 101,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-hoover-mod-homcc3u1178in-1680617.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -610,6 +610,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:17",
    "lotto": "Lotto 22",
+   "dett": true,
    "prezzo_base": 83.61,
    "offerte": 0,
    "offerenti": 0,
@@ -623,8 +624,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:17",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680618",
@@ -639,7 +639,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/25/0179122538.jpg",
-   "visite": 117,
+   "visite": 118,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-indest-ifw-5530-ix-1680618.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.55,
@@ -647,6 +647,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:21",
    "lotto": "Lotto 23",
+   "dett": true,
    "prezzo_base": 83.4,
    "offerte": 0,
    "offerenti": 0,
@@ -660,8 +661,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:21",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680619",
@@ -676,7 +676,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/26/0179122656.jpg",
-   "visite": 78,
+   "visite": 79,
    "url": "https://cronoaste.fallcoaste.it/vendita/candy-mod-chwlww-piano-cottura-a-4-fuochi-colore-bianco-1680619.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 43.89,
@@ -684,6 +684,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:24",
    "lotto": "Lotto 24",
+   "dett": true,
    "prezzo_base": 58.52,
    "offerte": 0,
    "offerenti": 0,
@@ -697,8 +698,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:24",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680620",
@@ -713,7 +713,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/26/0179122696.jpg",
-   "visite": 132,
+   "visite": 133,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavasciuga-abila-20b-cormac-1680620.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 783.81,
@@ -721,6 +721,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:25",
    "lotto": "Lotto 25",
+   "dett": true,
    "prezzo_base": 1045.08,
    "offerte": 0,
    "offerenti": 0,
@@ -734,8 +735,7 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "30/08/2026 15:25",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680621",
@@ -750,7 +750,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/27/0179122776.jpg",
-   "visite": 120,
+   "visite": 121,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-bosch-sms4emi01e-1680621.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 184.98,
@@ -758,6 +758,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:27",
    "lotto": "Lotto 26",
+   "dett": true,
    "prezzo_base": 246.64,
    "offerte": 0,
    "offerenti": 0,
@@ -771,8 +772,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:27",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680622",
@@ -787,7 +787,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/28/0179122858.jpg",
-   "visite": 123,
+   "visite": 124,
    "url": "https://cronoaste.fallcoaste.it/vendita/ariston-hotpoint-hat701-932-s-dc-1680622.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 149.85,
@@ -795,6 +795,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:29",
    "lotto": "Lotto 27",
+   "dett": true,
    "prezzo_base": 199.82,
    "offerte": 0,
    "offerenti": 0,
@@ -808,8 +809,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:29",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680623",
@@ -824,7 +824,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/29/0179122905.jpg",
-   "visite": 106,
+   "visite": 107,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavatrice-smeg-lbw70it-1680623.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 134.5,
@@ -832,6 +832,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:30",
    "lotto": "Lotto 28",
+   "dett": true,
    "prezzo_base": 179.34,
    "offerte": 0,
    "offerenti": 0,
@@ -845,8 +846,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:30",
-   "canali_controllati_il": "26/10/2026 14:34",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:34"
   },
   {
    "id": "1680608",
@@ -861,7 +861,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/15/0179121544.jpg",
-   "visite": 113,
+   "visite": 115,
    "url": "https://cronoaste.fallcoaste.it/vendita/philips-television-6800-series-43-pollici-1680608.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 78.38,
@@ -869,6 +869,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:55",
    "lotto": "Lotto 13",
+   "dett": true,
    "prezzo_base": 104.51,
    "offerte": 0,
    "offerenti": 0,
@@ -882,8 +883,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:55",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680609",
@@ -898,7 +898,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/16/0179121665.jpg",
-   "visite": 124,
+   "visite": 126,
    "url": "https://cronoaste.fallcoaste.it/vendita/n2-larel-stufa-a-gas-raggi-infrarossi-colori-vari-1680609.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 82.14,
@@ -906,6 +906,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:58",
    "lotto": "Lotto 14",
+   "dett": true,
    "prezzo_base": 109.52,
    "offerte": 0,
    "offerenti": 0,
@@ -919,8 +920,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:58",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680610",
@@ -935,7 +935,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/19/0179121926.jpg",
-   "visite": 110,
+   "visite": 111,
    "url": "https://cronoaste.fallcoaste.it/vendita/tv-led-panasonic-50-pollici-1680610.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 169.3,
@@ -943,6 +943,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:05",
    "lotto": "Lotto 15",
+   "dett": true,
    "prezzo_base": 225.74,
    "offerte": 0,
    "offerenti": 0,
@@ -956,8 +957,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:05",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680611",
@@ -972,7 +972,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/19/0179121968.jpg",
-   "visite": 107,
+   "visite": 108,
    "url": "https://cronoaste.fallcoaste.it/vendita/cucina-larel-bianco-cuc-l60-gb-119638-1680611.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 141.09,
@@ -980,6 +980,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:06",
    "lotto": "Lotto 16",
+   "dett": true,
    "prezzo_base": 188.11,
    "offerte": 0,
    "offerenti": 0,
@@ -993,8 +994,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:06",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680612",
@@ -1009,7 +1009,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/20/0179122011.jpg",
-   "visite": 105,
+   "visite": 106,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-candy-modello-watchtouch-codice-canwatchtouch-forno-incasso-elettrico-10-programmi-1680612.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 156.76,
@@ -1017,6 +1017,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 15:07",
    "lotto": "Lotto 17",
+   "dett": true,
    "prezzo_base": 209.02,
    "offerte": 0,
    "offerenti": 0,
@@ -1030,8 +1031,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:07",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680604",
@@ -1046,7 +1046,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/08/0179120876.jpg",
-   "visite": 114,
+   "visite": 115,
    "url": "https://cronoaste.fallcoaste.it/vendita/candy-mod-chw74wx-piano-cottura-in-acciaio-inox-a-cinque-fuochi-1680604.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 43.89,
@@ -1054,6 +1054,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:37",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 58.52,
    "offerte": 0,
    "offerenti": 0,
@@ -1067,8 +1068,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:37",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680605",
@@ -1083,7 +1083,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/09/0179120968.jpg",
-   "visite": 157,
+   "visite": 158,
    "url": "https://cronoaste.fallcoaste.it/vendita/saba-google-tv-led-40-hd-smart-tv-sa40q80gtv-1680605.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -1091,6 +1091,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:40",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 83.61,
    "offerte": 0,
    "offerenti": 0,
@@ -1104,8 +1105,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:40",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680606",
@@ -1120,7 +1120,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/10/0179121027.jpg",
-   "visite": 121,
+   "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/piano-cottura-glem-4-fuochi-1680606.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -1128,6 +1128,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:41",
    "lotto": "Lotto 11",
+   "dett": true,
    "prezzo_base": 125.41,
    "offerte": 0,
    "offerenti": 0,
@@ -1141,8 +1142,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:41",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680607",
@@ -1157,7 +1157,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/11/0179121181.jpg",
-   "visite": 156,
+   "visite": 157,
    "url": "https://cronoaste.fallcoaste.it/vendita/beko-model-hii64210mt-piano-cottura-induzione-4-fuochi-1680607.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -1165,6 +1165,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:45",
    "lotto": "Lotto 12",
+   "dett": true,
    "prezzo_base": 125.41,
    "offerte": 0,
    "offerenti": 0,
@@ -1178,8 +1179,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:45",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685981",
@@ -1229,7 +1229,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/05/0179120527.jpg",
-   "visite": 142,
+   "visite": 143,
    "url": "https://cronoaste.fallcoaste.it/vendita/hisense-chest-freezer-bianco-mod-ft125d4awe-max-22-5kg-1680601.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 56.43,
@@ -1237,6 +1237,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:27",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 75.25,
    "offerte": 0,
    "offerenti": 0,
@@ -1250,8 +1251,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:27",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680603",
@@ -1266,7 +1266,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/06/0179120648.jpg",
-   "visite": 117,
+   "visite": 118,
    "url": "https://cronoaste.fallcoaste.it/vendita/argo-newage-plus-12000-ui-solo-unita-interna-1680603.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -1274,6 +1274,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:30",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 83.61,
    "offerte": 0,
    "offerenti": 0,
@@ -1287,8 +1288,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:30",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680597",
@@ -1303,7 +1303,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/01/0179120148.jpg",
-   "visite": 145,
+   "visite": 146,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavastoviglie-whirlpool-mod-ffs-p8-it-1680597.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 188.11,
@@ -1311,6 +1311,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:17",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 250.82,
    "offerte": 0,
    "offerenti": 0,
@@ -1324,8 +1325,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:17",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680600",
@@ -1340,7 +1340,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120036.jpg",
-   "visite": 141,
+   "visite": 142,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-haier-htw5620dnmg-1680600.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 266.5,
@@ -1348,6 +1348,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:09",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 355.33,
    "offerte": 0,
    "offerenti": 0,
@@ -1361,8 +1362,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:09",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680602",
@@ -1377,7 +1377,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120004.jpg",
-   "visite": 129,
+   "visite": 130,
    "url": "https://cronoaste.fallcoaste.it/vendita/la-composizione-del-lotto-e-eterogenea-e-comprende-scaffalature-mobili-arredi-etichette-elettroniche-insegne-materiali-elettrici-e-vari-costituenti-1680602.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 22921.88,
@@ -1385,6 +1385,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 13:58",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 30562.5,
    "offerte": 0,
    "offerenti": 0,
@@ -1398,8 +1399,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 13:58",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1680599",
@@ -1414,7 +1414,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120032.jpg",
-   "visite": 132,
+   "visite": 133,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavatrice-candy-cod-41046209-1680599.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -1422,6 +1422,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "30/08/2026 14:06",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 125.41,
    "offerte": 0,
    "offerenti": 0,
@@ -1435,8 +1436,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:06",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1699980",
@@ -1451,7 +1451,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/42/69/0180426944.jpg",
-   "visite": 165,
+   "visite": 166,
    "url": "https://cronoaste.fallcoaste.it/vendita/mobilio-attrezzatura-da-palestra-e-home-gym-tra-cui-tapis-roulant-steps-stazione-multifunzione-panca-e-cyclette-elettrodomestici-e-1699980.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 843.75,
@@ -1459,6 +1459,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "21/09/2026 08:54",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 1125.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1472,8 +1473,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "21/09/2026 08:54",
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685970",
@@ -1488,7 +1488,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/04/0175890465.jpg",
-   "visite": 121,
+   "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-3-transpallet-manuale-con-forche-lunghezza-120cm-1685970.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1496,6 +1496,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:24",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 243.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1507,8 +1508,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685971",
@@ -1523,7 +1523,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/05/0175890562.jpg",
-   "visite": 120,
+   "visite": 121,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavapavimenti-industriale-marca-fiorentini-modello-i-18enew-elettrica-v230-peso-60-kg-1685971.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1531,6 +1531,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:25",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 900.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1542,8 +1543,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685972",
@@ -1558,7 +1558,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/06/0175890604.jpg",
-   "visite": 143,
+   "visite": 144,
    "url": "https://cronoaste.fallcoaste.it/vendita/scaffalature-per-stoccaggio-pallet-in-acciaio-iron-fish-300mt-1685972.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1566,6 +1566,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:26",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 13500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1577,8 +1578,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685973",
@@ -1593,7 +1593,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/07/0175890733.jpg",
-   "visite": 98,
+   "visite": 99,
    "url": "https://cronoaste.fallcoaste.it/vendita/tavolo-in-acciaio-inox-professionale-1-da-200x60x85h-e-1-da-100x60x85h-1685973.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1601,6 +1601,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:27",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 720.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1612,8 +1613,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685974",
@@ -1628,7 +1628,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/07/0175890783.jpg",
-   "visite": 94,
+   "visite": 95,
    "url": "https://cronoaste.fallcoaste.it/vendita/lavello-da-ristorante-in-acciaio-inox-150x60x85h-1685974.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1636,6 +1636,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:28",
    "lotto": "Lotto 11",
+   "dett": true,
    "prezzo_base": 630.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1647,8 +1648,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685975",
@@ -1663,7 +1663,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890923.jpg",
-   "visite": 122,
+   "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-1-1685975.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1671,6 +1671,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:29",
    "lotto": "Lotto 12",
+   "dett": true,
    "prezzo_base": 4500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1682,8 +1683,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685976",
@@ -1698,7 +1698,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890999.jpg",
-   "visite": 119,
+   "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-2-1685976.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1706,6 +1706,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:29",
    "lotto": "Lotto 13",
+   "dett": true,
    "prezzo_base": 1350.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1717,8 +1718,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685977",
@@ -1733,7 +1733,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/11/0175891122.jpg",
-   "visite": 139,
+   "visite": 140,
    "url": "https://cronoaste.fallcoaste.it/vendita/attrezzatura-elettronica-e-informatica-per-ufficio-1685977.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1741,6 +1741,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:30",
    "lotto": "Lotto 14",
+   "dett": true,
    "prezzo_base": 1665.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1752,8 +1753,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685978",
@@ -1768,7 +1768,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/11/0175891159.jpg",
-   "visite": 130,
+   "visite": 131,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-celle-frigorifere-bt-tn-misa-2013-1685978.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1776,6 +1776,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:31",
    "lotto": "Lotto 15",
+   "dett": true,
    "prezzo_base": 22500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1787,8 +1788,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685979",
@@ -1803,7 +1803,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891203.jpg",
-   "visite": 119,
+   "visite": 120,
    "url": "https://cronoaste.fallcoaste.it/vendita/cella-frigorifera-azotata-per-congelato-misa-2017-1685979.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1811,6 +1811,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:32",
    "lotto": "Lotto 16",
+   "dett": true,
    "prezzo_base": 40500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1822,8 +1823,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685980",
@@ -1838,7 +1838,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891267.jpg",
-   "visite": 120,
+   "visite": 121,
    "url": "https://cronoaste.fallcoaste.it/vendita/pesa-piattaforma-1500kg-2012-1685980.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1846,6 +1846,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:32",
    "lotto": "Lotto 17",
+   "dett": true,
    "prezzo_base": 900.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1857,8 +1858,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685982",
@@ -1873,7 +1873,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/13/0175891318.jpg",
-   "visite": 98,
+   "visite": 99,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-condizionatori-samsung-1685982.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1881,6 +1881,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:36",
    "lotto": "Lotto 19",
+   "dett": true,
    "prezzo_base": 270.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1892,8 +1893,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:33"
   },
   {
    "id": "1685964",
@@ -1908,7 +1908,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/88/98/0175889882.jpg",
-   "visite": 264,
+   "visite": 265,
    "url": "https://cronoaste.fallcoaste.it/vendita/nissan-v-i-tk-56-35-atleon-1685964.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1916,6 +1916,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:10",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 8100.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1927,8 +1928,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685965",
@@ -1943,7 +1943,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/88/99/0175889957.jpg",
-   "visite": 252,
+   "visite": 253,
    "url": "https://cronoaste.fallcoaste.it/vendita/iveco-35-e4-1685965.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1951,6 +1951,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:10",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 11700.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1962,8 +1963,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685966",
@@ -1978,7 +1978,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/01/0175890151.jpg",
-   "visite": 145,
+   "visite": 146,
    "url": "https://cronoaste.fallcoaste.it/vendita/confezionatrice-sottovuoto-marca-valco-modello-favola-84100-1685966.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1986,6 +1986,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:11",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 1800.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1997,8 +1998,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685967",
@@ -2013,7 +2013,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/02/0175890232.jpg",
-   "visite": 202,
+   "visite": 203,
    "url": "https://cronoaste.fallcoaste.it/vendita/muletto-elettrico-a-batteria-per-interno-ed-esterno-cargo-modello-c4e-160-nl-1685967.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2021,6 +2021,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:12",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 6300.0,
    "offerte": 0,
    "offerenti": 0,
@@ -2032,8 +2033,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1685968",
@@ -2048,7 +2048,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/03/0175890332.jpg",
-   "visite": 164,
+   "visite": 165,
    "url": "https://cronoaste.fallcoaste.it/vendita/stoccatore-elettrico-transpallet-modello-logos-ac-anno-2013-1685968.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2056,6 +2056,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "09/09/2026 11:12",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 2970.0,
    "offerte": 0,
    "offerenti": 0,
@@ -2067,8 +2068,7 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1680590",
@@ -2083,7 +2083,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/04/30/0179043026.jpg",
-   "visite": 219,
+   "visite": 220,
    "url": "https://cronoaste.fallcoaste.it/vendita/ramo-d-azienda-esercente-attivita-di-ristorazione-codice-ateco-56-10-11-sotto-la-storica-insegna-la-frateria-costituito-1680590.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 55992.36,
@@ -2091,6 +2091,7 @@
    "termine_bonifico": "19/10/2026 13:00",
    "pubblicata": "28/08/2026 18:24",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 74656.48,
    "offerte": 0,
    "offerenti": 0,
@@ -2104,8 +2105,7 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "28/08/2026 18:24",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1701396",
@@ -2120,7 +2120,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/22/0180522258.jpg",
-   "visite": 241,
+   "visite": 242,
    "url": "https://cronoaste.fallcoaste.it/vendita/camion-fiat-targa-aj-wh-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701396.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2128,6 +2128,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "22/09/2026 15:53",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 498.23,
    "offerte": 0,
    "offerenti": 0,
@@ -2141,8 +2142,7 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1701399",
@@ -2157,7 +2157,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/23/0180522366.jpg",
-   "visite": 281,
+   "visite": 282,
    "url": "https://cronoaste.fallcoaste.it/vendita/volkswagen-transporter-t3-targa-cp-yr-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701399.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2165,6 +2165,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "22/09/2026 15:53",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 373.67,
    "offerte": 0,
    "offerenti": 0,
@@ -2178,8 +2179,7 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1701401",
@@ -2194,7 +2194,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/24/0180522440.jpg",
-   "visite": 348,
+   "visite": 349,
    "url": "https://cronoaste.fallcoaste.it/vendita/mercedes-classe-c220-targa-cm-bj-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701401.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2202,6 +2202,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "22/09/2026 15:54",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 373.67,
    "offerte": 0,
    "offerenti": 0,
@@ -2215,8 +2216,7 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:54",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1701404",
@@ -2231,7 +2231,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/52/25/0180522545.jpg",
-   "visite": 191,
+   "visite": 192,
    "url": "https://cronoaste.fallcoaste.it/vendita/renault-turbo-s100-targa-cs-marciante-presenti-chiavi-n-1carta-di-circolazione-presentecertificato-di-proprieta-non-rinvenuto-1701404.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2239,6 +2239,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "22/09/2026 15:55",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 996.45,
    "offerte": 0,
    "offerenti": 0,
@@ -2252,8 +2253,7 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:55",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1652975",
@@ -2268,7 +2268,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/77/30/06/0177300627.jpg",
-   "visite": 164,
+   "visite": 166,
    "url": "https://cronoaste.fallcoaste.it/vendita/immobile-sito-in-catania-viale-rapisardi-n-23-adibito-a-deposito-al-piano-sotterraneo-e-censito-al-catasto-fabbricati-1652975.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 36750.0,
@@ -2276,6 +2276,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "27/07/2026 18:30",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 49000.0,
    "offerte": 0,
    "offerenti": 0,
@@ -2289,8 +2290,7 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "27/07/2026 18:30",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686622",
@@ -2305,7 +2305,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/76/98/0179769818.png",
-   "visite": 189,
+   "visite": 190,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-attrezzature-da-ristorazione-pizzeria-composto-dai-seguenti-beni-mobili-n-7-tavoli-in-legno-bianco-in-buono-1686622.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2313,6 +2313,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "10/09/2026 16:04",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 2180.0,
    "offerte": 0,
    "offerenti": 0,
@@ -2326,8 +2327,7 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "10/09/2026 16:04",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686617",
@@ -2342,7 +2342,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/76/99/0179769925.jpg",
-   "visite": 1161,
+   "visite": 1162,
    "url": "https://cronoaste.fallcoaste.it/vendita/l-imbarcazione-risulta-essere-posta-in-secca-su-cavalletti-in-zona-cantiere-senza-copertura-alladata-della-ricognizione-29-10-1686617.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -2350,6 +2350,7 @@
    "termine_bonifico": "12/10/2026 13:00",
    "pubblicata": "10/09/2026 16:02",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 156200.0,
    "offerte": 0,
    "offerenti": 0,
@@ -2363,8 +2364,7 @@
     "NAUTICA"
    ],
    "pvp_pubblicata": "10/09/2026 16:02",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686278",
@@ -2416,7 +2416,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/05/0179710568.jpg",
-   "visite": 91,
+   "visite": 92,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-bilocali-a-due-livelli-numeratida-15-a-22-consistenti-in-1686323.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 8360.66,
@@ -2424,6 +2424,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:09",
    "lotto": "Lotto 37",
+   "dett": true,
    "prezzo_base": 11147.54,
    "offerte": 0,
    "offerenti": 0,
@@ -2437,8 +2438,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:09",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686313",
@@ -2453,7 +2453,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/99/0179709930.jpg",
-   "visite": 99,
+   "visite": 100,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camere-matrimoniali-con-bagno-camere-102-104-106-108-1686313.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 10450.82,
@@ -2461,6 +2461,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 17:58",
    "lotto": "Lotto 29",
+   "dett": true,
    "prezzo_base": 13934.43,
    "offerte": 0,
    "offerenti": 0,
@@ -2474,8 +2475,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:58",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686329",
@@ -2564,7 +2564,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/08/0179710835.jpg",
-   "visite": 177,
+   "visite": 178,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-piano-seminterrato-di-villa-indipendente-consistenti-in-attrezzatura-varia-per-palestra-1686327.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 627.05,
@@ -2572,6 +2572,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:14",
    "lotto": "Lotto 41",
+   "dett": true,
    "prezzo_base": 836.07,
    "offerte": 0,
    "offerenti": 0,
@@ -2585,8 +2586,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:14",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686328",
@@ -2601,7 +2601,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/09/0179710902.jpg",
-   "visite": 134,
+   "visite": 135,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-piano-seminterrato-di-villa-indipendente-areasala-tavernetta-con-accesso-diretto-alla-1686328.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1045.08,
@@ -2609,6 +2609,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:15",
    "lotto": "Lotto 42",
+   "dett": true,
    "prezzo_base": 1393.44,
    "offerte": 0,
    "offerenti": 0,
@@ -2622,8 +2623,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:15",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686325",
@@ -2638,7 +2638,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/06/0179710676.jpg",
-   "visite": 93,
+   "visite": 94,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-villa-indipendente-zona-salone-consistenti-in-divano-in-pelle-a-tre-1686325.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1128.69,
@@ -2646,6 +2646,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:12",
    "lotto": "Lotto 39",
+   "dett": true,
    "prezzo_base": 1504.92,
    "offerte": 0,
    "offerenti": 0,
@@ -2659,8 +2660,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:12",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686315",
@@ -2712,7 +2712,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/01/0179710164.jpg",
-   "visite": 79,
+   "visite": 80,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camera-quadrupla-con-bagno-camera-130-consistente-in-1-1686316.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1672.13,
@@ -2720,6 +2720,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:02",
    "lotto": "Lotto 31",
+   "dett": true,
    "prezzo_base": 2229.51,
    "offerte": 0,
    "offerenti": 0,
@@ -2733,8 +2734,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:02",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686317",
@@ -2749,7 +2749,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710215.jpg",
-   "visite": 70,
+   "visite": 71,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camere-matrimoniali-conbagno-camere-202-204-206-208-210-1686317.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 10450.82,
@@ -2757,6 +2757,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:03",
    "lotto": "Lotto 32",
+   "dett": true,
    "prezzo_base": 13934.43,
    "offerte": 0,
    "offerenti": 0,
@@ -2770,8 +2771,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:03",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686318",
@@ -2786,7 +2786,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/02/0179710293.jpg",
-   "visite": 85,
+   "visite": 86,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camere-triple-piu-bagno-camere-224-226-228-consistente-1686318.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 877.87,
@@ -2794,6 +2794,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:04",
    "lotto": "Lotto 33",
+   "dett": true,
    "prezzo_base": 1170.49,
    "offerte": 0,
    "offerenti": 0,
@@ -2807,8 +2808,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:04",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686319",
@@ -2823,7 +2823,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/03/0179710323.jpg",
-   "visite": 74,
+   "visite": 75,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-secondo-piano-camera-quadrupla-con-bagno-camera-230-consistente-in-1-1686319.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1672.13,
@@ -2831,6 +2831,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:05",
    "lotto": "Lotto 34",
+   "dett": true,
    "prezzo_base": 2229.51,
    "offerte": 0,
    "offerenti": 0,
@@ -2844,8 +2845,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:05",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686320",
@@ -2860,7 +2860,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/03/0179710384.jpg",
-   "visite": 69,
+   "visite": 70,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-monolocali-numerati-da-1-a-7-consistenti-in-letto-matrimoniale-1686320.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 5267.21,
@@ -2868,6 +2868,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:06",
    "lotto": "Lotto 35",
+   "dett": true,
    "prezzo_base": 7022.95,
    "offerte": 0,
    "offerenti": 0,
@@ -2881,8 +2882,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:06",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686321",
@@ -2897,7 +2897,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/05/0179710519.jpg",
-   "visite": 66,
+   "visite": 67,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-appartamenti-bilocali-a-due-livelli-numeratida-8-a-14-consistenti-in-1686321.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 9363.94,
@@ -2905,6 +2905,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:07",
    "lotto": "Lotto 36",
+   "dett": true,
    "prezzo_base": 12485.25,
    "offerte": 0,
    "offerenti": 0,
@@ -2918,8 +2919,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:07",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686324",
@@ -2934,7 +2934,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/06/0179710623.jpg",
-   "visite": 122,
+   "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-in-villa-indipendente-zona-soggiorno-cucina-consistenti-in-divano-a-due-posti-1686324.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 961.48,
@@ -2942,6 +2942,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 18:10",
    "lotto": "Lotto 38",
+   "dett": true,
    "prezzo_base": 1281.97,
    "offerte": 0,
    "offerenti": 0,
@@ -2955,8 +2956,7 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:10",
-   "canali_controllati_il": "26/10/2026 14:32",
-   "dett": true
+   "canali_controllati_il": "26/10/2026 14:32"
   },
   {
    "id": "1686284",
@@ -2971,7 +2971,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 155,
+   "visite": 156,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -2992,7 +2992,7 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
-   "canali_controllati_il": "26/10/2026 14:32",
+   "canali_controllati_il": "26/10/2026 16:43",
    "dett": true
   },
   {
@@ -4081,7 +4081,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/98/18/0178981878.jpg",
-   "visite": 999,
+   "visite": 1000,
    "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-yamaha-modello-tt-600-tg-ct-immatricolata-02-07-1985-cilindrata-595-cm3-kw-30-10-km-1679794.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
