@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T16:51:01+00:00",
+ "aggiornato": "2026-10-26T16:57:16+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -3060,7 +3060,6 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 17:37",
    "lotto": "Lotto 10",
-   "dett": true,
    "prezzo_base": 22950.0,
    "offerte": 1,
    "offerenti": 1,
@@ -3074,8 +3073,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
-   "canali_controllati_il": "26/10/2026 16:43",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:57",
+   "dett": true
   },
   {
    "id": "1686311",
