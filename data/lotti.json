@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T15:42:55+00:00",
+ "aggiornato": "2026-10-26T16:50:35+00:00",
  "lotti": [
   {
    "id": "1714807",
@@ -14,7 +14,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/29/02/0181290267.jpg",
-   "visite": 192,
+   "visite": 194,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-hero-elite-long-turn-taglia-162cm-rosso-e-bianco-raddr02-dr02d-look-fcic006-spx-1714807.html",
    "cloud_pubblicata": "07/10/2026 12:34",
    "prezzo_minimo": null,
@@ -22,12 +22,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:54",
    "lotto": "Lotto 38",
-   "dett": true,
    "prezzo_base": 474.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -36,7 +35,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:54",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682542",
@@ -59,12 +60,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 09:58",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 34400.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -73,7 +73,9 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "03/09/2026 09:58",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": 33600.0,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682543",
@@ -88,7 +90,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/36/0179333659.png",
-   "visite": 567,
+   "visite": 568,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682543.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 108388.05,
@@ -96,12 +98,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 09:59",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 137000.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -110,7 +111,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 09:59",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682544",
@@ -133,12 +136,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:01",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 71400.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -147,7 +149,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:01",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682545",
@@ -170,12 +174,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:02",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 73000.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -184,7 +187,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:02",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682547",
@@ -207,12 +212,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:03",
    "lotto": "Lotto 5",
-   "dett": true,
    "prezzo_base": 92300.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -221,7 +225,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:03",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": 1951.6,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682550",
@@ -236,7 +242,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/40/0179334009.png",
-   "visite": 388,
+   "visite": 391,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682550.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62076.0,
@@ -244,12 +250,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:05",
    "lotto": "Lotto 6",
-   "dett": true,
    "prezzo_base": 81000.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -258,7 +263,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:05",
-   "canali_controllati_il": "26/10/2026 12:17"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:47",
+   "dett": true
   },
   {
    "id": "1682552",
@@ -273,7 +280,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/42/0179334211.png",
-   "visite": 473,
+   "visite": 474,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682552.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 82764.3,
@@ -281,12 +288,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:07",
    "lotto": "Lotto 7",
-   "dett": true,
    "prezzo_base": 107000.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -295,7 +301,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:07",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1682556",
@@ -318,12 +326,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:13",
    "lotto": "Lotto 8",
-   "dett": true,
    "prezzo_base": 9830.08,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -332,7 +339,9 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "03/09/2026 10:13",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 9830.08,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1693624",
@@ -355,12 +364,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "11/09/2026 16:32",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 2829181.81,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -369,7 +377,9 @@
     "IMMOBILE INDUSTRIALE"
    ],
    "pvp_pubblicata": "11/09/2026 16:32",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699584",
@@ -384,7 +394,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/71/0180217160.jpg",
-   "visite": 274,
+   "visite": 275,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-parco-automezzi-da-rottamare-si-invita-a-prendere-visione-dell-avviso-di-vendita-per-l-elenco-1699584.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 9999.71,
@@ -392,12 +402,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:13",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 13332.95,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -406,7 +415,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:13",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699586",
@@ -429,12 +440,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:14",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 37648.61,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -443,7 +453,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 18:14",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 50198.14,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699590",
@@ -466,12 +478,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:19",
    "lotto": "Lotto 5",
-   "dett": true,
    "prezzo_base": 21882.19,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -480,7 +491,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 18:19",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 29176.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699593",
@@ -503,12 +516,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:21",
    "lotto": "Lotto 6",
-   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -517,7 +529,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:21",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6481.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699594",
@@ -540,12 +554,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:22",
    "lotto": "Lotto 7",
-   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -554,7 +567,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:22",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6481.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699595",
@@ -577,12 +592,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:24",
    "lotto": "Lotto 8",
-   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -591,7 +605,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:24",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6481.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699596",
@@ -606,7 +622,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/77/0180217743.jpg",
-   "visite": 161,
+   "visite": 162,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv691as-imm-12-07-2005-valore-del-lotto-6-1699596.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -614,12 +630,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:26",
    "lotto": "Lotto 9",
-   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -628,7 +643,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:26",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6481.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699598",
@@ -651,12 +668,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:29",
    "lotto": "Lotto 10",
-   "dett": true,
    "prezzo_base": 3994.75,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -665,7 +681,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:29",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 5326.33,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699600",
@@ -688,12 +706,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:30",
    "lotto": "Lotto 11",
-   "dett": true,
    "prezzo_base": 4223.44,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -702,7 +719,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:30",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 5631.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699601",
@@ -717,7 +736,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/80/0180218086.jpg",
-   "visite": 178,
+   "visite": 180,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m240-gncev-a-nu-3p-tg-cx208kf-imm-01-08-2005-valore-del-1699601.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -725,12 +744,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:32",
    "lotto": "Lotto 12",
-   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -739,7 +757,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:32",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6481.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699603",
@@ -762,12 +782,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:34",
    "lotto": "Lotto 13",
-   "dett": true,
    "prezzo_base": 3797.09,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -776,7 +795,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:34",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 5062.78,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699606",
@@ -799,12 +820,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:36",
    "lotto": "Lotto 14",
-   "dett": true,
    "prezzo_base": 3904.69,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -813,7 +833,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:36",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 5206.25,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699608",
@@ -836,12 +858,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:38",
    "lotto": "Lotto 15",
-   "dett": true,
    "prezzo_base": 4780.99,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -850,7 +871,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:38",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6374.65,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699609",
@@ -865,7 +888,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/84/0180218428.jpg",
-   "visite": 139,
+   "visite": 140,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx212kf-imm-01-08-2005-valore-del-lotto-6-1699609.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3765.23,
@@ -873,12 +896,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:39",
    "lotto": "Lotto 16",
-   "dett": true,
    "prezzo_base": 5020.31,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -887,7 +909,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:39",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 6693.75,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699611",
@@ -902,7 +926,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/84/0180218492.jpg",
-   "visite": 152,
+   "visite": 153,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx985mp-imm-18-02-2020-avvertenza-veicolo-gravato-dal-vincolo-di-1699611.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 36751.61,
@@ -910,12 +934,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:41",
    "lotto": "Lotto 17",
-   "dett": true,
    "prezzo_base": 49002.15,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -924,7 +947,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:41",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699612",
@@ -939,7 +964,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/85/0180218581.jpg",
-   "visite": 138,
+   "visite": 139,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx983mp-imm-18-02-2020-valore-del-lotto-66-031-07avvertenza-1699612.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 37142.48,
@@ -947,12 +972,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:43",
    "lotto": "Lotto 18",
-   "dett": true,
    "prezzo_base": 49523.3,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -961,7 +985,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:43",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 66031.07,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699615",
@@ -984,12 +1010,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:44",
    "lotto": "Lotto 19",
-   "dett": true,
    "prezzo_base": 47076.98,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -998,7 +1023,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:44",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 62769.3,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699623",
@@ -1021,12 +1048,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:46",
    "lotto": "Lotto 20",
-   "dett": true,
    "prezzo_base": 49112.33,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1035,7 +1061,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:46",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 65483.11,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699624",
@@ -1058,12 +1086,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:47",
    "lotto": "Lotto 21",
-   "dett": true,
    "prezzo_base": 55830.33,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1072,7 +1099,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:47",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 74440.44,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699627",
@@ -1087,7 +1116,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/88/0180218839.jpg",
-   "visite": 136,
+   "visite": 137,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenaibus-modello-avancity-jrz-nu-3p-tg-et772st-imm-11-04-2014-valore-del-lotto-1699627.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 19125.0,
@@ -1095,12 +1124,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:49",
    "lotto": "Lotto 22",
-   "dett": true,
    "prezzo_base": 25500.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1109,7 +1137,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:49",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 34000.0,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699628",
@@ -1124,7 +1154,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/89/0180218923.jpg",
-   "visite": 160,
+   "visite": 161,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenaibus-modello-vivacity-gu-2p-tg-et773st-imm-11-04-2014-valore-del-lotto-36-1699628.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 20678.91,
@@ -1132,12 +1162,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:51",
    "lotto": "Lotto 23",
-   "dett": true,
    "prezzo_base": 27571.88,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1146,7 +1175,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:51",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 36762.5,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699630",
@@ -1161,7 +1192,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/89/0180218986.jpg",
-   "visite": 153,
+   "visite": 155,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-evobus-gmhb-modello-530-citaro-tg-ez945sw-imm-16-04-2003-valore-del-lotto-4-1699630.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2764.16,
@@ -1169,12 +1200,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:52",
    "lotto": "Lotto 24",
-   "dett": true,
    "prezzo_base": 3685.55,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1183,7 +1213,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:52",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 4914.06,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699632",
@@ -1198,7 +1230,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/90/0180219048.jpg",
-   "visite": 154,
+   "visite": 155,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-evobus-gmhb-modello-530-citaro-tg-fa958xh-imm-22-04-2004-valore-del-lotto-4-1699632.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2764.16,
@@ -1206,12 +1238,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:54",
    "lotto": "Lotto 25",
-   "dett": true,
    "prezzo_base": 3685.55,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1220,7 +1251,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:54",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 4914.06,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699634",
@@ -1235,7 +1268,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/91/0180219108.jpg",
-   "visite": 460,
+   "visite": 462,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-iveco-modello-a50c31cng-tg-ge503tg-imm-28-09-2007-valore-del-lotto-3-697-50-1699634.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2079.84,
@@ -1243,12 +1276,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:56",
    "lotto": "Lotto 26",
-   "dett": true,
    "prezzo_base": 2773.13,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1257,7 +1289,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:56",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 3697.5,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699636",
@@ -1272,7 +1306,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/92/0180219222.jpg",
-   "visite": 172,
+   "visite": 173,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-fiat-modello-punto-v-tg-cv716np-imm-10-03-2005-valore-del-lotto-1-223-1699636.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 688.3,
@@ -1280,12 +1314,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:58",
    "lotto": "Lotto 27",
-   "dett": true,
    "prezzo_base": 917.73,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1294,7 +1327,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:58",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 1223.64,
+   "canali_controllati_il": "26/10/2026 17:48",
+   "dett": true
   },
   {
    "id": "1699637",
@@ -1309,7 +1344,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/92/0180219278.jpg",
-   "visite": 199,
+   "visite": 200,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-ford-modello-transit-tg-da074mg-imm-31-01-2006-valore-del-lotto-1-825-11-1699637.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1026.62,
@@ -1317,12 +1352,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:59",
    "lotto": "Lotto 28",
-   "dett": true,
    "prezzo_base": 1368.83,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1331,7 +1365,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:59",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 1825.11,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1699640",
@@ -1354,12 +1390,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:05",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 78750.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -1368,7 +1403,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 19:05",
-   "canali_controllati_il": "26/10/2026 12:18"
+   "valore_stima": 105000.0,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1699641",
@@ -1383,7 +1420,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/95/0180219554.png",
-   "visite": 82,
+   "visite": 83,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-su-terreni-siti-nel-come-di-dipignano-costituitoda-due-particelle-entrambe-al-foglio-21-la-1699641.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 16593.75,
@@ -1391,12 +1428,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:06",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 22125.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -1405,7 +1441,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 19:06",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": 29500.0,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1699643",
@@ -1428,12 +1466,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:08",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 82500.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -1442,7 +1479,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "17/09/2026 19:08",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": 110000.0,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1699644",
@@ -1465,12 +1504,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:09",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 56250.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "IMMOBILI",
@@ -1479,7 +1517,9 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "17/09/2026 19:09",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": 75000.0,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1701099",
@@ -1502,12 +1542,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:16",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 1237.5,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1516,7 +1555,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:16",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1701108",
@@ -1531,7 +1572,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/50/89/0180508951.jpg",
-   "visite": 201,
+   "visite": 202,
    "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-di-colore-bianco-omologata-furgone-marca-fiat-modello-punto-versione-1-3-mjt-targata-cp179ve-telaio-zfa18800002518654-immatricolata-1701108.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1539,12 +1580,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:23",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 450.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1553,7 +1593,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:23",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1701131",
@@ -1576,12 +1618,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:24",
    "lotto": "Lotto 5",
-   "dett": true,
    "prezzo_base": 2137.5,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1590,7 +1631,9 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:24",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714778",
@@ -1605,7 +1648,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/02/0181280251.png",
-   "visite": 68,
+   "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/toorx-cyclette-brx-60-1714778.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1613,12 +1656,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:09",
    "lotto": "Lotto 12",
-   "dett": true,
    "prezzo_base": 72.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1627,7 +1669,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:09",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714779",
@@ -1642,7 +1686,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/06/0181280639.jpg",
-   "visite": 74,
+   "visite": 75,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-jk-fitness-power-station-jk-6096-toorx-step-training-nero-grigio-1714779.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1650,12 +1694,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:15",
    "lotto": "Lotto 15",
-   "dett": true,
    "prezzo_base": 60.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1664,7 +1707,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:15",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714780",
@@ -1679,7 +1724,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/07/0181280722.png",
-   "visite": 74,
+   "visite": 76,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714780.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1687,12 +1732,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:16",
    "lotto": "Lotto 20",
-   "dett": true,
    "prezzo_base": 52.8,
    "offerte": 1,
    "offerenti": 1,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1701,7 +1745,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:16",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714781",
@@ -1716,7 +1762,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/12/0181281207.jpg",
-   "visite": 65,
+   "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-jk-fitness-power-station-jk-6096-toorx-step-training-nero-grigio-1714781.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1724,12 +1770,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:20",
    "lotto": "Lotto 16",
-   "dett": true,
    "prezzo_base": 60.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1738,7 +1783,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:20",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714782",
@@ -1753,7 +1800,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/14/0181281415.png",
-   "visite": 81,
+   "visite": 83,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-power-turn-rosso-e-bianco-rossignol-attacco-per-sci-rcdb036-nero-rosso-lange-scarponi-1714782.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1761,12 +1808,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:22",
    "lotto": "Lotto 41",
-   "dett": true,
    "prezzo_base": 399.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1775,7 +1821,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:22",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714783",
@@ -1790,7 +1838,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/14/0181281492.jpg",
-   "visite": 55,
+   "visite": 56,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-ferrino-ferrino-bastoni-da-trekking-135-cm-verde-e-nero-78132evv-ferrino-ferrino-bastoni-da-trekking-1714783.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1798,12 +1846,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:24",
    "lotto": "Lotto 56",
-   "dett": true,
    "prezzo_base": 26.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1812,7 +1859,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:24",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714784",
@@ -1827,7 +1876,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/15/0181281572.jpg",
-   "visite": 74,
+   "visite": 76,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-hero-elite-long-turn-taglia-162cm-rosso-e-bianco-raddr02-dr02d-rossignol-rc9a058-axm-1714784.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1835,12 +1884,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:25",
    "lotto": "Lotto 39",
-   "dett": true,
    "prezzo_base": 192.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1849,7 +1897,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:25",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714785",
@@ -1864,7 +1914,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/16/0181281651.png",
-   "visite": 49,
+   "visite": 50,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714785.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1872,12 +1922,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:27",
    "lotto": "Lotto 21",
-   "dett": true,
    "prezzo_base": 52.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1886,7 +1935,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:27",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714786",
@@ -1901,7 +1952,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/16/0181281692.jpg",
-   "visite": 77,
+   "visite": 78,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-bastoncino-alpino-rdd2090-000125-blu-nero-rossignol-stove-box-blue-bastone-montagna-1714786.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1909,12 +1960,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:28",
    "lotto": "Lotto 57",
-   "dett": true,
    "prezzo_base": 19.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1923,7 +1973,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:28",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714787",
@@ -1938,7 +1990,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/17/0181281729.jpg",
-   "visite": 50,
+   "visite": 52,
    "url": "https://cronoaste.fallcoaste.it/vendita/toorx-erx-75-ellittica-colore-grigio-1714787.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1946,12 +1998,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:29",
    "lotto": "Lotto 14",
-   "dett": true,
    "prezzo_base": 65.6,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1960,7 +2011,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:29",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714788",
@@ -1975,7 +2028,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/18/0181281868.jpg",
-   "visite": 74,
+   "visite": 75,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-hero-elite-long-turn-taglia-162cm-rosso-e-bianco-raddr02-dr02d-look-fcic006-spx-1714788.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1983,12 +2036,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:30",
    "lotto": "Lotto 37",
-   "dett": true,
    "prezzo_base": 381.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -1997,7 +2049,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:30",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714789",
@@ -2012,7 +2066,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/19/0181281998.jpg",
-   "visite": 64,
+   "visite": 65,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-taglia-140-x104-140x-x45-b76-raejc05ic05-rossignol-sci-minions-kid-taglia-1714789.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -2020,12 +2074,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:32",
    "lotto": "Lotto 60",
-   "dett": true,
    "prezzo_base": 270.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2034,7 +2087,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714790",
@@ -2049,7 +2104,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/21/0181282118.jpg",
-   "visite": 71,
+   "visite": 72,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mckinley-tenda-koala-220-cod-202552-verde-ferrino-materassino-art-78006-blu-sacco-a-pelo-1714790.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -2057,12 +2112,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:33",
    "lotto": "Lotto 58",
-   "dett": true,
    "prezzo_base": 30.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2071,7 +2125,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:33",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714791",
@@ -2086,7 +2142,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/24/0181282463.jpg",
-   "visite": 61,
+   "visite": 62,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-lange-skiboots-misura-24-0-colore-trasparente-3607681129838-lange-skiboots-misura-23-5-colore-nero-bianchi-1714791.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2094,12 +2150,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:35",
    "lotto": "Lotto 64",
-   "dett": true,
    "prezzo_base": 389.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2108,7 +2163,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:35",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714792",
@@ -2131,12 +2188,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:37",
    "lotto": "Lotto 66",
-   "dett": true,
    "prezzo_base": 192.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2145,7 +2201,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:37",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714793",
@@ -2168,12 +2226,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:40",
    "lotto": "Lotto 40",
-   "dett": true,
    "prezzo_base": 223.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2182,7 +2239,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:40",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714795",
@@ -2197,7 +2256,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/28/0181282830.png",
-   "visite": 47,
+   "visite": 48,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714795.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2205,12 +2264,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:41",
    "lotto": "Lotto 23",
-   "dett": true,
    "prezzo_base": 52.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2219,7 +2277,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:41",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714796",
@@ -2234,7 +2294,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/29/0181282941.png",
-   "visite": 93,
+   "visite": 95,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714796.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2242,12 +2302,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:43",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 217.6,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2256,7 +2315,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:43",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714797",
@@ -2279,12 +2340,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:44",
    "lotto": "Lotto 43",
-   "dett": true,
    "prezzo_base": 211.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2293,7 +2353,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:44",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714798",
@@ -2316,12 +2378,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:45",
    "lotto": "Lotto 46",
-   "dett": true,
    "prezzo_base": 457.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2330,7 +2391,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:45",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:49",
+   "dett": true
   },
   {
    "id": "1714799",
@@ -2345,7 +2408,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/33/0181283365.jpg",
-   "visite": 66,
+   "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-fischer-alpine-skiboots-misura-44-colore-nero-nero-9002971846893-fischer-alpine-skiboots-misura-44-nere-nere-1714799.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2353,12 +2416,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:47",
    "lotto": "Lotto 63",
-   "dett": true,
    "prezzo_base": 604.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2367,7 +2429,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:47",
-   "canali_controllati_il": "26/10/2026 12:19"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714800",
@@ -2390,12 +2454,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:48",
    "lotto": "Lotto 29",
-   "dett": true,
    "prezzo_base": 20.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2404,7 +2467,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:48",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714801",
@@ -2427,12 +2492,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:50",
    "lotto": "Lotto 30",
-   "dett": true,
    "prezzo_base": 20.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2441,7 +2505,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:50",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714802",
@@ -2464,12 +2530,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:51",
    "lotto": "Lotto 59",
-   "dett": true,
    "prezzo_base": 280.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2478,7 +2543,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:51",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714803",
@@ -2501,12 +2568,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:52",
    "lotto": "Lotto 62",
-   "dett": true,
    "prezzo_base": 393.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2515,7 +2581,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:52",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714804",
@@ -2530,7 +2598,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/39/0181283958.jpg",
-   "visite": 61,
+   "visite": 62,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-conquer-xbi-ct-taglia-170cm-verde-0a1070001a6-8126131701-nordica-sci-nero-verde-oliva-8033311970542-nordica-1714804.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2538,12 +2606,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:54",
    "lotto": "Lotto 61",
-   "dett": true,
    "prezzo_base": 844.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2552,7 +2619,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:54",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714805",
@@ -2567,7 +2636,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/40/0181284031.jpg",
-   "visite": 59,
+   "visite": 60,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-jk-fitness-power-station-jk-6096-toorx-step-training-nero-grigio-1714805.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2575,12 +2644,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:55",
    "lotto": "Lotto 17",
-   "dett": true,
    "prezzo_base": 60.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2589,7 +2657,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:55",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714806",
@@ -2604,7 +2674,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/29/03/0181290387.png",
-   "visite": 57,
+   "visite": 58,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714806.html",
    "cloud_pubblicata": "07/10/2026 12:34",
    "prezzo_minimo": null,
@@ -2612,12 +2682,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:56",
    "lotto": "Lotto 19",
-   "dett": true,
    "prezzo_base": 52.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2626,7 +2695,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:56",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714808",
@@ -2649,12 +2720,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:53",
    "lotto": "Lotto 50",
-   "dett": true,
    "prezzo_base": 121.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2663,7 +2733,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:53",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714809",
@@ -2686,12 +2758,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:51",
    "lotto": "Lotto 65",
-   "dett": true,
    "prezzo_base": 429.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2700,7 +2771,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:51",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714810",
@@ -2715,7 +2788,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/96/0181289632.jpg",
-   "visite": 61,
+   "visite": 62,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-x104-140k-x45-b76-116cm-raejv05jc05-rossignol-rcek081-41-10-09-2015-1714810.html",
    "cloud_pubblicata": "07/10/2026 12:34",
    "prezzo_minimo": null,
@@ -2723,12 +2796,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:50",
    "lotto": "Lotto 51",
-   "dett": true,
    "prezzo_base": 130.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2737,7 +2809,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:50",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714811",
@@ -2760,12 +2834,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:49",
    "lotto": "Lotto 45",
-   "dett": true,
    "prezzo_base": 219.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2774,7 +2847,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:49",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714812",
@@ -2797,12 +2872,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:17",
    "lotto": "Lotto 44",
-   "dett": true,
    "prezzo_base": 219.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2811,7 +2885,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:17",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714813",
@@ -2834,12 +2910,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:16",
    "lotto": "Lotto 47",
-   "dett": true,
    "prezzo_base": 375.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2848,7 +2923,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:16",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714814",
@@ -2871,12 +2948,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:14",
    "lotto": "Lotto 8",
-   "dett": true,
    "prezzo_base": 182.4,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2885,7 +2961,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:14",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714815",
@@ -2900,7 +2978,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/52/0181285226.jpg",
-   "visite": 71,
+   "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-146sw-snowboard-9900000403768-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-firefly-mod-1714815.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -2908,12 +2986,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:13",
    "lotto": "Lotto 54",
-   "dett": true,
    "prezzo_base": 121.0,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2922,7 +2999,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:13",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714816",
@@ -2945,12 +3024,11 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:12",
    "lotto": "Lotto 22",
-   "dett": true,
    "prezzo_base": 52.8,
    "offerte": 0,
    "offerenti": 0,
    "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta": "Gara non avviata",
    "stato_asta_il": null,
    "avviso_gara": null,
    "genere": "MOBILI",
@@ -2959,7 +3037,9 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:12",
-   "canali_controllati_il": "26/10/2026 12:20"
+   "valore_stima": null,
+   "canali_controllati_il": "26/10/2026 17:50",
+   "dett": true
   },
   {
    "id": "1714817",
@@ -2994,7 +3074,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714818",
@@ -3029,7 +3110,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714819",
@@ -3064,7 +3146,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714820",
@@ -3099,7 +3182,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714821",
@@ -3134,7 +3218,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714822",
@@ -3169,7 +3254,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714823",
@@ -3204,7 +3290,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714824",
@@ -3239,7 +3326,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714825",
@@ -3274,7 +3362,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714826",
@@ -3309,7 +3398,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714827",
@@ -3324,7 +3414,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/30/0181283040.png",
-   "visite": 58,
+   "visite": 59,
    "url": "https://cronoaste.fallcoaste.it/vendita/toorx-msx-60-stazione-multifunzione-bene-da-assemblare-composto-da-n-4-scatole-1714827.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -3344,7 +3434,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714828",
@@ -3379,7 +3470,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714829",
@@ -3394,7 +3486,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/27/0181282780.png",
-   "visite": 79,
+   "visite": 80,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-tapis-roulant-zfit-everfit-step-up-training-bianco-nero-1714829.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -3414,7 +3506,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714830",
@@ -3429,7 +3522,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/23/0181282371.png",
-   "visite": 70,
+   "visite": 71,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714830.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -3449,7 +3542,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714831",
@@ -3484,7 +3578,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714832",
@@ -3519,7 +3614,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714833",
@@ -3534,7 +3630,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/13/0181281398.jpg",
-   "visite": 60,
+   "visite": 61,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-conquer-xbi-ct-taglia-170cm-verde-0a1070001a6-8126131701-nordica-attacco-per-sci-0c0014018f4-nero-nordica-1714833.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -3554,7 +3650,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1714834",
@@ -3569,7 +3666,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/11/0181281139.jpg",
-   "visite": 67,
+   "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-146sw-snowboard-9900000403768-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-firefly-mod-1714834.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -3589,7 +3686,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1680592",
@@ -3604,7 +3702,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/04/24/0179042497.jpg",
-   "visite": 573,
+   "visite": 574,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-bene-n-1-autocarro-fiat-iveco-con-cassone-centinato-modello-turbo-daily-35-10-tg-ek-1680592.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -3624,7 +3722,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1699978",
@@ -3659,7 +3758,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703895",
@@ -3694,7 +3794,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703790",
@@ -3729,7 +3830,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703802",
@@ -3764,7 +3866,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703808",
@@ -3799,7 +3902,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703814",
@@ -3834,7 +3938,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703855",
@@ -3869,7 +3974,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703929",
@@ -3904,7 +4010,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1685918",
@@ -3939,7 +4046,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1685920",
@@ -3974,7 +4082,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705988",
@@ -4009,7 +4118,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705993",
@@ -4044,7 +4154,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705996",
@@ -4079,7 +4190,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705999",
@@ -4114,7 +4226,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1706001",
@@ -4129,7 +4242,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/63/0181036351.jpg",
-   "visite": 88,
+   "visite": 89,
    "url": "https://cronoaste.fallcoaste.it/vendita/capi-d-abbigliamento-bambino-a-e-ragazzo-a-sono-di-collezioni-autunno-inverno-e-primavera-estate-di-anni-passati-1706001.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4149,7 +4262,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1706003",
@@ -4164,7 +4278,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/64/0181036425.jpg",
-   "visite": 109,
+   "visite": 110,
    "url": "https://cronoaste.fallcoaste.it/vendita/apparecchiatura-elettronica-varia-pc-tastiere-monitor-gruppi-di-continuita-rilevatore-banconote-false-ecc-il-tutto-come-meglio-descritto-nella-1706003.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4184,7 +4298,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1706005",
@@ -4219,7 +4334,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1706010",
@@ -4234,7 +4350,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/66/0181036668.jpg",
-   "visite": 68,
+   "visite": 69,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-vario-tavoli-espositivi-armadi-espositori-banconi-cassettiere-sedie-ecc-il-tutto-come-meglio-descritto-nella-perizia-alla-quale-1706010.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4254,7 +4370,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704626",
@@ -4289,7 +4406,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704630",
@@ -4324,7 +4442,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704640",
@@ -4359,7 +4478,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704644",
@@ -4394,7 +4514,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704652",
@@ -4429,7 +4550,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704655",
@@ -4464,7 +4586,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704660",
@@ -4479,7 +4602,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/16/0180961619.png",
-   "visite": 64,
+   "visite": 65,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-1-bilancia-valore-di-20-00-1704660.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4499,7 +4622,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704661",
@@ -4514,7 +4638,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/96/17/0180961702.jpg",
-   "visite": 69,
+   "visite": 70,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-serbatoi-in-acciaio-valore-di-100-00-1704661.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4534,7 +4658,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704663",
@@ -4569,7 +4694,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704672",
@@ -4604,7 +4730,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704708",
@@ -4619,7 +4746,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/41/0180984160.jpg",
-   "visite": 66,
+   "visite": 67,
    "url": "https://cronoaste.fallcoaste.it/vendita/macchina-impastatrice-pietro-berto-modello-p-60-planetaria-da-60-litri-valore-di-4-000-00-1704708.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4639,7 +4766,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704709",
@@ -4674,7 +4802,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704710",
@@ -4709,7 +4838,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704714",
@@ -4744,7 +4874,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704715",
@@ -4779,7 +4910,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704716",
@@ -4814,7 +4946,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704722",
@@ -4849,7 +4982,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1704725",
@@ -4864,7 +4998,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/98/46/0180984675.jpg",
-   "visite": 806,
+   "visite": 807,
    "url": "https://cronoaste.fallcoaste.it/vendita/autoveicolo-marca-audi-q3-tg-ek-immatricolata-10-11-2011-cilindrata-1968-kw-130-k-m-315-873-alimentazione-1704725.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4884,7 +5018,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1609379",
@@ -4919,7 +5054,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1703906",
@@ -4954,7 +5090,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705901",
@@ -4989,7 +5126,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705905",
@@ -5024,7 +5162,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705910",
@@ -5059,7 +5198,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705914",
@@ -5094,7 +5234,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705916",
@@ -5129,7 +5270,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705917",
@@ -5164,7 +5306,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705921",
@@ -5199,7 +5342,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705936",
@@ -5234,7 +5378,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1705947",
@@ -5269,7 +5414,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1732819",
@@ -5284,7 +5430,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/08/20/0182082040.jpg",
-   "visite": 33,
+   "visite": 35,
    "url": "https://cronoaste.fallcoaste.it/vendita/autocarro-marca-mercedes-benz-modello-vito-112-cdl-1732819.html",
    "cloud_pubblicata": "26/10/2026 11:22",
    "prezzo_minimo": 160.0,
@@ -5304,7 +5450,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1715039",
@@ -5339,7 +5486,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722468",
@@ -5374,7 +5522,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722479",
@@ -5389,7 +5538,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/16/0181561696.jpg",
-   "visite": 728,
+   "visite": 729,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-un-imbarcazione-marinello-eden-18-con-motore-yamaha-40cv-carrello-in-acciaio-di-dimensioni-453-x-1722479.html",
    "cloud_pubblicata": "13/10/2026 18:38",
    "prezzo_minimo": 1864.69,
@@ -5409,7 +5558,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722482",
@@ -5444,7 +5594,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722484",
@@ -5479,7 +5630,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722490",
@@ -5514,7 +5666,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722495",
@@ -5529,7 +5682,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/30/0181563077.jpg",
-   "visite": 161,
+   "visite": 162,
    "url": "https://cronoaste.fallcoaste.it/vendita/rimorchio-per-trasporto-stradale-marca-pedretti-2-assi-targato-ab-34416-1722495.html",
    "cloud_pubblicata": "13/10/2026 18:38",
    "prezzo_minimo": 1147.5,
@@ -5549,7 +5702,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722499",
@@ -5584,7 +5738,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722502",
@@ -5599,7 +5754,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/32/0181563210.jpg",
-   "visite": 132,
+   "visite": 133,
    "url": "https://cronoaste.fallcoaste.it/vendita/calcio-balilla-marca-cavicchi-dal-1938-modello-opera-rovere-dimensioni-cm-l140-x-h85-5-x-p-75-5-1722502.html",
    "cloud_pubblicata": "13/10/2026 18:38",
    "prezzo_minimo": 1290.94,
@@ -5619,7 +5774,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722504",
@@ -5634,7 +5790,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/56/32/0181563255.jpg",
-   "visite": 89,
+   "visite": 90,
    "url": "https://cronoaste.fallcoaste.it/vendita/tavolo-da-biliardo-marca-cavicchi-dal-1938-completo-di-rastrelliera-e-segnapunti-dimensioni-286x158x80-1722504.html",
    "cloud_pubblicata": "13/10/2026 18:38",
    "prezzo_minimo": 1721.25,
@@ -5654,7 +5810,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722506",
@@ -5689,7 +5846,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1722567",
@@ -5724,7 +5882,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1672891",
@@ -5759,7 +5918,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": null
+   "canali_controllati_il": null,
+   "valore_stima": null
   },
   {
    "id": "1716362",
@@ -5796,7 +5956,8 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "08/10/2026 18:53",
-   "canali_controllati_il": "26/10/2026 12:21"
+   "canali_controllati_il": "26/10/2026 12:21",
+   "valore_stima": null
   },
   {
    "id": "1716365",
@@ -5833,7 +5994,8 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "08/10/2026 18:54",
-   "canali_controllati_il": "26/10/2026 12:21"
+   "canali_controllati_il": "26/10/2026 12:21",
+   "valore_stima": null
   },
   {
    "id": "1716425",
@@ -5870,7 +6032,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "08/10/2026 18:57",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732733",
@@ -5885,7 +6048,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/99/82/0181998279.jpg",
-   "visite": 29,
+   "visite": 30,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-1-tavolo-in-acciaio-inox-dimensioni-cm-193-5x93-n-1-lavello-a-due-pozzetti-con-gocciolatoio-destro-1732733.html",
    "cloud_pubblicata": "23/10/2026 18:49",
    "prezzo_minimo": 576.0,
@@ -5907,7 +6070,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "23/10/2026 18:22",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732737",
@@ -5922,7 +6086,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/99/82/0181998204.png",
-   "visite": 45,
+   "visite": 46,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-2-macchine-sottovuoto-confezionatrice-marca-effe-packaging-modello-svr-non-sievince-anno-di-costruzione-e-marchio-ce-1732737.html",
    "cloud_pubblicata": "23/10/2026 18:49",
    "prezzo_minimo": 960.0,
@@ -5944,7 +6108,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "23/10/2026 18:23",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1725700",
@@ -5981,7 +6146,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:49",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1725707",
@@ -6018,7 +6184,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:51",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1725712",
@@ -6055,7 +6222,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:53",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1725757",
@@ -6092,7 +6260,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:54",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1706372",
@@ -6127,7 +6296,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1706373",
@@ -6162,7 +6332,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1725834",
@@ -6177,7 +6348,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/63/67/0181636777.png",
-   "visite": 190,
+   "visite": 193,
    "url": "https://cronoaste.fallcoaste.it/vendita/veicolo-fiat-panda-targato-df132my-1725834.html",
    "cloud_pubblicata": "15/10/2026 15:54",
    "prezzo_minimo": null,
@@ -6197,7 +6368,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730397",
@@ -6234,7 +6406,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 16:42",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730491",
@@ -6269,7 +6442,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730414",
@@ -6306,7 +6480,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "20/10/2026 16:43",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730420",
@@ -6343,7 +6518,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "20/10/2026 16:44",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730426",
@@ -6380,7 +6556,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "20/10/2026 16:45",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732262",
@@ -6417,7 +6594,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "23/10/2026 09:13",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732263",
@@ -6454,7 +6632,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "23/10/2026 09:14",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732265",
@@ -6491,7 +6670,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "23/10/2026 09:17",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1732267",
@@ -6506,7 +6686,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/96/96/0181969670.jpg",
-   "visite": 145,
+   "visite": 148,
    "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-yamaha-modello-tt-600-tg-ct-immatricolata-02-07-1985-cilindrata-595-cm3-kw-30-10-km-1732267.html",
    "cloud_pubblicata": "23/10/2026 09:54",
    "prezzo_minimo": null,
@@ -6528,7 +6708,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "23/10/2026 09:19",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1730387",
@@ -6565,7 +6746,8 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "20/10/2026 16:39",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1729958",
@@ -6580,7 +6762,7 @@
    "stato": "attiva",
    "esito": "",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/82/93/0181829316.jpg",
-   "visite": 279,
+   "visite": 282,
    "url": "https://cronoaste.fallcoaste.it/vendita/daimlerchrysler-mercedes-tg-bh875ts-piena-proprieta-ore-16-45autovettura-privata-trasporto-persone-1729958.html",
    "cloud_pubblicata": "20/10/2026 09:52",
    "prezzo_minimo": 9159.39,
@@ -6602,7 +6784,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 09:22",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1729960",
@@ -6639,7 +6822,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 10:07",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1729961",
@@ -6676,7 +6860,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 10:10",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   },
   {
    "id": "1729963",
@@ -6713,7 +6898,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 10:15",
-   "canali_controllati_il": "26/10/2026 12:22"
+   "canali_controllati_il": "26/10/2026 12:22",
+   "valore_stima": null
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T15:43:22+00:00",
+ "aggiornato": "2026-10-26T16:51:01+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -34,7 +34,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1685969",
@@ -49,7 +50,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/04/0175890423.jpg",
-   "visite": 5,
+   "visite": 6,
    "url": "https://cronoaste.fallcoaste.it/vendita/transpallet-elettrico-con-pedana-marca-bt-1685969.html",
    "cloud_pubblicata": null,
    "prezzo_minimo": null,
@@ -69,7 +70,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680630",
@@ -106,7 +108,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:40",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680631",
@@ -143,7 +146,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "30/08/2026 15:42",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680598",
@@ -158,7 +162,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120051.jpg",
-   "visite": 156,
+   "visite": 157,
    "url": "https://cronoaste.fallcoaste.it/vendita/bosch-frigo-freezer-kgn36nlea-1680598.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 163.03,
@@ -180,7 +184,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:12",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680596",
@@ -217,7 +222,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:19",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680629",
@@ -254,7 +260,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:38",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1680624",
@@ -291,7 +298,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:31",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680625",
@@ -328,7 +336,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:33",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680626",
@@ -365,7 +374,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:34",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680627",
@@ -402,7 +412,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:35",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680628",
@@ -439,7 +450,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:37",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680613",
@@ -476,7 +488,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:10",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680614",
@@ -513,7 +526,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:12",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680615",
@@ -550,7 +564,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:14",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680616",
@@ -587,7 +602,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:15",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680617",
@@ -602,7 +618,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/24/0179122403.jpg",
-   "visite": 101,
+   "visite": 102,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-hoover-mod-homcc3u1178in-1680617.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.7,
@@ -624,7 +640,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:17",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680618",
@@ -639,7 +656,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/25/0179122538.jpg",
-   "visite": 118,
+   "visite": 119,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-indest-ifw-5530-ix-1680618.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62.55,
@@ -661,7 +678,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:21",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680619",
@@ -698,7 +716,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:24",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680620",
@@ -735,7 +754,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "30/08/2026 15:25",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680621",
@@ -772,7 +792,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:27",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680622",
@@ -809,7 +830,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:29",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680623",
@@ -846,7 +868,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:30",
-   "canali_controllati_il": "26/10/2026 14:34"
+   "canali_controllati_il": "26/10/2026 14:34",
+   "valore_stima": null
   },
   {
    "id": "1680608",
@@ -883,7 +906,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:55",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680609",
@@ -920,7 +944,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:58",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680610",
@@ -957,7 +982,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:05",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680611",
@@ -994,7 +1020,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:06",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680612",
@@ -1031,7 +1058,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 15:07",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680604",
@@ -1046,7 +1074,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/08/0179120876.jpg",
-   "visite": 115,
+   "visite": 116,
    "url": "https://cronoaste.fallcoaste.it/vendita/candy-mod-chw74wx-piano-cottura-in-acciaio-inox-a-cinque-fuochi-1680604.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 43.89,
@@ -1068,7 +1096,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:37",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680605",
@@ -1105,7 +1134,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:40",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680606",
@@ -1142,7 +1172,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:41",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680607",
@@ -1157,7 +1188,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/11/0179121181.jpg",
-   "visite": 157,
+   "visite": 158,
    "url": "https://cronoaste.fallcoaste.it/vendita/beko-model-hii64210mt-piano-cottura-induzione-4-fuochi-1680607.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 94.06,
@@ -1179,7 +1210,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:45",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685981",
@@ -1214,7 +1246,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1680601",
@@ -1251,7 +1284,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:27",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680603",
@@ -1288,7 +1322,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:30",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680597",
@@ -1325,7 +1360,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:17",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680600",
@@ -1340,7 +1376,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120036.jpg",
-   "visite": 142,
+   "visite": 143,
    "url": "https://cronoaste.fallcoaste.it/vendita/frigorifero-haier-htw5620dnmg-1680600.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 266.5,
@@ -1362,7 +1398,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:09",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680602",
@@ -1399,7 +1436,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 13:58",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1680599",
@@ -1436,7 +1474,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "30/08/2026 14:06",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1699980",
@@ -1473,7 +1512,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "21/09/2026 08:54",
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685970",
@@ -1508,7 +1548,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685971",
@@ -1543,7 +1584,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685972",
@@ -1578,7 +1620,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685973",
@@ -1613,7 +1656,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685974",
@@ -1648,7 +1692,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685975",
@@ -1663,7 +1708,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890923.jpg",
-   "visite": 123,
+   "visite": 124,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-1-1685975.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1683,7 +1728,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685976",
@@ -1698,7 +1744,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/09/0175890999.jpg",
-   "visite": 120,
+   "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredi-per-ufficio-2-1685976.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1718,7 +1764,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685977",
@@ -1753,7 +1800,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685978",
@@ -1788,7 +1836,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685979",
@@ -1823,7 +1872,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685980",
@@ -1858,7 +1908,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685982",
@@ -1893,7 +1944,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:33"
+   "canali_controllati_il": "26/10/2026 14:33",
+   "valore_stima": null
   },
   {
    "id": "1685964",
@@ -1928,7 +1980,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685965",
@@ -1963,7 +2016,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685966",
@@ -1998,7 +2052,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685967",
@@ -2033,7 +2088,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1685968",
@@ -2068,7 +2124,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1680590",
@@ -2105,7 +2162,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "28/08/2026 18:24",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1701396",
@@ -2142,7 +2200,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1701399",
@@ -2179,7 +2238,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1701401",
@@ -2216,7 +2276,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:54",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1701404",
@@ -2253,7 +2314,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 15:55",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1652975",
@@ -2290,7 +2352,8 @@
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "27/07/2026 18:30",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686622",
@@ -2327,7 +2390,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "10/09/2026 16:04",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686617",
@@ -2364,7 +2428,8 @@
     "NAUTICA"
    ],
    "pvp_pubblicata": "10/09/2026 16:02",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686278",
@@ -2401,7 +2466,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:33",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1686323",
@@ -2438,7 +2504,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:09",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686313",
@@ -2475,7 +2542,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:58",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686329",
@@ -2512,7 +2580,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:17",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1686326",
@@ -2549,7 +2618,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:12",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1686327",
@@ -2586,7 +2656,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:14",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686328",
@@ -2623,7 +2694,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:15",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686325",
@@ -2660,7 +2732,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:12",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686315",
@@ -2675,7 +2748,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/00/0179710048.jpg",
-   "visite": 93,
+   "visite": 94,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-di-arredo-presenti-al-primo-piano-camere-triple-piu-bagno-camere124-126-128-consistente-in-1686315.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 877.87,
@@ -2697,7 +2770,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:00",
-   "canali_controllati_il": "26/10/2026 12:25"
+   "canali_controllati_il": "26/10/2026 12:25",
+   "valore_stima": null
   },
   {
    "id": "1686316",
@@ -2734,7 +2808,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:02",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686317",
@@ -2771,7 +2846,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:03",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686318",
@@ -2808,7 +2884,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:04",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686319",
@@ -2845,7 +2922,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:05",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686320",
@@ -2882,7 +2960,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:06",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686321",
@@ -2919,7 +2998,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:07",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686324",
@@ -2956,7 +3036,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:10",
-   "canali_controllati_il": "26/10/2026 14:32"
+   "canali_controllati_il": "26/10/2026 14:32",
+   "valore_stima": null
   },
   {
    "id": "1686284",
@@ -2971,7 +3052,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 156,
+   "visite": 157,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -2979,6 +3060,7 @@
    "termine_bonifico": "08/10/2026 13:00",
    "pubblicata": "09/09/2026 17:37",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 22950.0,
    "offerte": 1,
    "offerenti": 1,
@@ -2993,7 +3075,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "canali_controllati_il": "26/10/2026 16:43",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1686311",
@@ -3030,7 +3112,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:55",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686312",
@@ -3067,7 +3150,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:56",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686299",
@@ -3104,7 +3188,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:02",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686301",
@@ -3141,7 +3226,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:03",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686303",
@@ -3156,7 +3242,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/93/0179709322.jpg",
-   "visite": 110,
+   "visite": 111,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-in-n-7banconi-da-lavoro-in-acciaio-n-1686303.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1028.36,
@@ -3178,7 +3264,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:47",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686305",
@@ -3215,7 +3302,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:48",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686308",
@@ -3230,7 +3318,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/95/0179709516.jpg",
-   "visite": 93,
+   "visite": 94,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistente-in-n-1forno-industriale-1686308.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1672.13,
@@ -3252,7 +3340,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:50",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686309",
@@ -3289,7 +3378,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:52",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686310",
@@ -3304,7 +3394,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/96/0179709655.jpg",
-   "visite": 122,
+   "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-strumentali-presenti-al-piano-terra-cucine-consistenti-n-30pentole-di-varie-misure-n-20-teglie-1686310.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 543.44,
@@ -3326,7 +3416,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:53",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686293",
@@ -3363,7 +3454,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "09/09/2026 17:54",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686294",
@@ -3400,7 +3492,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:56",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686296",
@@ -3437,7 +3530,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:57",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686297",
@@ -3452,7 +3546,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/99/0179709982.jpg",
-   "visite": 91,
+   "visite": 92,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-nella-sala-zona-bar-adiacente-alla-hall-consistenti-in-n-1bancone-bar-con-lavandino-1686297.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 1254.1,
@@ -3474,7 +3568,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 17:59",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686298",
@@ -3489,7 +3584,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/71/00/0179710077.jpg",
-   "visite": 118,
+   "visite": 119,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-beni-presenti-al-piano-terra-ristorante-sala-colazioni-consistenti-in-n-11-tavoli-rotondi-da-quattro-1686298.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2863.52,
@@ -3511,7 +3606,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "09/09/2026 18:01",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686291",
@@ -3548,7 +3644,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "09/09/2026 17:50",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1686290",
@@ -3585,7 +3682,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "09/09/2026 17:49",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686292",
@@ -3622,7 +3720,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "09/09/2026 17:53",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686266",
@@ -3637,7 +3736,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/84/0179708409.jpg",
-   "visite": 115,
+   "visite": 116,
    "url": "https://cronoaste.fallcoaste.it/vendita/terreno-foglio-57-p-lla-720il-terreno-ubicato-all-interno-del-residence-park-hotel-risulta-terrenoagricolo-ed-e-sottoposto-1686266.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 33697.5,
@@ -3659,7 +3758,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:30",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686271",
@@ -3674,7 +3774,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/70/84/0179708463.jpg",
-   "visite": 112,
+   "visite": 113,
    "url": "https://cronoaste.fallcoaste.it/vendita/il-lotto-e-composto-dalle-seguenti-unita-immobili-fabbricato-in-costruzione-foglio-57-p-lla-719-sub-1il-fabbricato-1686271.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 37533.0,
@@ -3696,7 +3796,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:30",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686273",
@@ -3733,7 +3834,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:31",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686280",
@@ -3770,7 +3872,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:34",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686256",
@@ -3807,7 +3910,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:26",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686262",
@@ -3844,7 +3948,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:27",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686264",
@@ -3881,7 +3986,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "09/09/2026 17:29",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1686249",
@@ -3918,7 +4024,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "09/09/2026 17:24",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1679782",
@@ -3955,7 +4062,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "27/08/2026 12:47",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1679784",
@@ -3992,7 +4100,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "27/08/2026 14:52",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1679790",
@@ -4029,7 +4138,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "27/08/2026 14:55",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1679789",
@@ -4066,7 +4176,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "27/08/2026 14:53",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1679794",
@@ -4103,7 +4214,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "27/08/2026 14:58",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1680859",
@@ -4140,7 +4252,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "31/08/2026 17:33",
-   "canali_controllati_il": "26/10/2026 12:24"
+   "canali_controllati_il": "26/10/2026 12:24",
+   "valore_stima": null
   },
   {
    "id": "1678164",
@@ -4155,7 +4268,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/78/86/81/0178868167.jpg",
-   "visite": 174,
+   "visite": 175,
    "url": "https://cronoaste.fallcoaste.it/vendita/ponte-sollevatore-auto-marca-omcn-valore-di-5-000-00-1678164.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -4177,7 +4290,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:25",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1679792",
@@ -4214,7 +4328,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "27/08/2026 14:56",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1637848",
@@ -4251,7 +4366,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "08/07/2026 16:49",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1644952",
@@ -4288,7 +4404,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/07/2026 08:48",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1641783",
@@ -4325,7 +4442,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "13/07/2026 12:57",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1654335",
@@ -4362,7 +4480,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "29/07/2026 16:41",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1654329",
@@ -4399,7 +4518,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "29/07/2026 16:48",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1654326",
@@ -4436,7 +4556,8 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "29/07/2026 16:47",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678165",
@@ -4473,7 +4594,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "25/08/2026 11:26",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678178",
@@ -4510,7 +4632,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:36",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678176",
@@ -4547,7 +4670,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:35",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678175",
@@ -4584,7 +4708,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:33",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678174",
@@ -4621,7 +4746,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:32",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678173",
@@ -4658,7 +4784,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:30",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678171",
@@ -4695,7 +4822,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:29",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1678169",
@@ -4732,7 +4860,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/08/2026 11:27",
-   "canali_controllati_il": "26/10/2026 12:23"
+   "canali_controllati_il": "26/10/2026 12:23",
+   "valore_stima": null
   },
   {
    "id": "1625305",
@@ -4767,7 +4896,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644936",
@@ -4802,7 +4932,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644938",
@@ -4837,7 +4968,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644941",
@@ -4872,7 +5004,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644937",
@@ -4907,7 +5040,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644944",
@@ -4942,7 +5076,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644943",
@@ -4977,7 +5112,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644942",
@@ -5012,7 +5148,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644939",
@@ -5047,7 +5184,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644940",
@@ -5082,7 +5220,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644934",
@@ -5117,7 +5256,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644935",
@@ -5152,7 +5292,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654451",
@@ -5187,7 +5328,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654450",
@@ -5222,7 +5364,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654448",
@@ -5257,7 +5400,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654449",
@@ -5292,7 +5436,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654447",
@@ -5327,7 +5472,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654445",
@@ -5362,7 +5508,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654446",
@@ -5397,7 +5544,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654443",
@@ -5432,7 +5580,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654444",
@@ -5467,7 +5616,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654442",
@@ -5502,7 +5652,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1654441",
@@ -5537,7 +5688,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670949",
@@ -5572,7 +5724,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670947",
@@ -5607,7 +5760,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670948",
@@ -5642,7 +5796,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670944",
@@ -5677,7 +5832,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670946",
@@ -5712,7 +5868,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670943",
@@ -5747,7 +5904,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670942",
@@ -5782,7 +5940,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1670940",
@@ -5817,7 +5976,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658619",
@@ -5851,7 +6011,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658621",
@@ -5885,7 +6046,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658622",
@@ -5919,7 +6081,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658166",
@@ -5953,7 +6116,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658167",
@@ -5987,7 +6151,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658165",
@@ -6021,7 +6186,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658164",
@@ -6055,7 +6221,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658163",
@@ -6089,7 +6256,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668589",
@@ -6123,7 +6291,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1641696",
@@ -6157,7 +6326,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668592",
@@ -6191,7 +6361,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658677",
@@ -6225,7 +6396,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658676",
@@ -6259,7 +6431,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658675",
@@ -6293,7 +6466,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658672",
@@ -6327,7 +6501,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658666",
@@ -6361,7 +6536,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658668",
@@ -6395,7 +6571,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658664",
@@ -6429,7 +6606,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658661",
@@ -6463,7 +6641,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658653",
@@ -6497,7 +6676,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658601",
@@ -6531,7 +6711,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658652",
@@ -6565,7 +6746,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658613",
@@ -6599,7 +6781,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658648",
@@ -6633,7 +6816,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658650",
@@ -6667,7 +6851,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1658644",
@@ -6701,7 +6886,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668661",
@@ -6735,7 +6921,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668683",
@@ -6769,7 +6956,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668671",
@@ -6803,7 +6991,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668686",
@@ -6837,7 +7026,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668691",
@@ -6871,7 +7061,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652947",
@@ -6905,7 +7096,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652956",
@@ -6939,7 +7131,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652960",
@@ -6973,7 +7166,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652961",
@@ -7007,7 +7201,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652963",
@@ -7041,7 +7236,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652965",
@@ -7075,7 +7271,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652966",
@@ -7109,7 +7306,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652968",
@@ -7143,7 +7341,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1652969",
@@ -7177,7 +7376,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668690",
@@ -7211,7 +7411,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668684",
@@ -7245,7 +7446,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668666",
@@ -7279,7 +7481,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1634287",
@@ -7313,7 +7516,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1634252",
@@ -7347,7 +7551,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668693",
@@ -7381,7 +7586,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668694",
@@ -7415,7 +7621,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668692",
@@ -7449,7 +7656,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668687",
@@ -7483,7 +7691,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668688",
@@ -7517,7 +7726,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668689",
@@ -7551,7 +7761,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668685",
@@ -7585,7 +7796,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668682",
@@ -7619,7 +7831,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668677",
@@ -7653,7 +7866,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668678",
@@ -7687,7 +7901,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668679",
@@ -7721,7 +7936,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668680",
@@ -7755,7 +7971,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668681",
@@ -7789,7 +8006,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668676",
@@ -7823,7 +8041,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668670",
@@ -7857,7 +8076,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668672",
@@ -7891,7 +8111,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668673",
@@ -7925,7 +8146,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668674",
@@ -7959,7 +8181,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668675",
@@ -7993,7 +8216,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668660",
@@ -8027,7 +8251,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668663",
@@ -8061,7 +8286,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668664",
@@ -8095,7 +8321,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668668",
@@ -8129,7 +8356,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668657",
@@ -8163,7 +8391,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668652",
@@ -8197,7 +8426,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668656",
@@ -8231,7 +8461,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668658",
@@ -8265,7 +8496,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1668650",
@@ -8299,7 +8531,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   },
   {
    "id": "1644906",
@@ -8333,7 +8566,8 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
-   "cloud_pubblicata": null
+   "cloud_pubblicata": null,
+   "valore_stima": null
   }
  ]
 }
