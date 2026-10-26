@@ -33,9 +33,9 @@ MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
                      "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
-                     "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il")
+                     "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "valore_stima")
 NUOVI_CAMPI = ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
-               "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata")
+               "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata", "valore_stima")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -129,6 +129,45 @@ def parse_stato_asta(html):
     return out
 
 
+VALORE = re.compile(
+    r"Valore\s+(?P<tipo>del\s+lotto|totale|complessivo|di\s+stima|stimato|di)\s*:?\s*€\s*(?P<n>\d{1,3}(?:\.\d{3})*(?:,\d{1,2})?|\d+(?:[.,]\d{1,2})?)",
+    re.I,
+)
+
+def numero(s):
+    if "," in s:
+        return float(s.replace(".", "").replace(",", "."))
+    if re.fullmatch(r"\d{1,3}(?:\.\d{3})+", s):
+        return float(s.replace(".", ""))
+    return float(s)
+
+def parse_valore_stima(soup):
+    """Valore di stima dalla descrizione del lotto, solo se il testo e' chiaro: un solo valore, oppure il totale indicato."""
+    tab = None
+    for th in soup.find_all("th"):
+        if text(th).rstrip(": ") == "Genere":
+            tab = th.find_parent("table")
+            break
+    if tab is None:
+        return None
+    descr = []
+    for th in tab.find_all("th"):
+        if text(th).startswith("Descrizione"):
+            td = th.find_next_sibling("td")
+            if td and text(td) not in descr:
+                descr.append(text(td))
+    trovati = [m for d in descr for m in VALORE.finditer(d)]
+    valori = []
+    for m in trovati:
+        v = numero(m.group("n"))
+        if (re.sub(r"\s+", " ", m.group("tipo").lower()), v) not in valori:
+            valori.append((re.sub(r"\s+", " ", m.group("tipo").lower()), v))
+    if len({v for _, v in valori}) == 1:
+        return valori[0][1]
+    totali = {v for t, v in valori if t in ("del lotto", "totale", "complessivo")}
+    return totali.pop() if len(totali) == 1 and len(valori) > 1 else None
+
+
 def ora_italia():
     return datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
 
@@ -175,6 +214,10 @@ def parse_dettagli(html):
     out.update(parse_offerte(html))
     out.update(parse_stato_asta(html))
     out.update(parse_classificazione(html))
+    soup_v = BeautifulSoup(html, "html.parser")
+    for tag in soup_v(["script", "style"]):
+        tag.decompose()
+    out["valore_stima"] = parse_valore_stima(soup_v)
     out["canali_controllati_il"] = ora_italia()
 
     m = re.search(r"Prezzo base\s*:?\s*€\s*(\d[\d.]*,\d{2})", t, re.I)
@@ -252,6 +295,7 @@ def arricchisci(lotti, cache, budget):
             and "stato_asta" in vecchio
             and "avviso_gara" in vecchio
             and "canali_controllati_il" in vecchio
+            and "valore_stima" in vecchio
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
