@@ -16,6 +16,7 @@ import re
 import sys
 import time
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 import requests
@@ -31,7 +32,10 @@ MAX_PAGES = 60
 MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
-                     "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara")
+                     "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
+                     "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il")
+NUOVI_CAMPI = ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
+               "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -125,6 +129,41 @@ def parse_stato_asta(html):
     return out
 
 
+def ora_italia():
+    return datetime.now(ZoneInfo("Europe/Rome")).strftime("%d/%m/%Y %H:%M")
+
+
+def parse_classificazione(html):
+    """Genere e Categoria del lotto, Tipologia dei beni, data di pubblicazione su PVP (solo testi, nessun dato personale)."""
+    out = {"genere": None, "categoria": None, "beni_tipologie": None, "pvp_pubblicata": None}
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    tip, nel_bene = [], False
+    for th in soup.find_all("th"):
+        k = text(th).rstrip(": ")
+        td = th.find_next_sibling("td")
+        v = text(td) if td else ""
+        if not v:
+            continue
+        if k == "Genere" and out["genere"] is None:
+            out["genere"] = v
+        elif k == "Categoria" and out["categoria"] is None:
+            out["categoria"] = v
+        elif k == "ID Bene":
+            nel_bene = True
+        elif k == "Tipologia" and nel_bene:  # solo la Tipologia che segue "ID Bene" (non quella del gestore)
+            nel_bene = False
+            if v not in tip:
+                tip.append(v)
+    out["beni_tipologie"] = tip or None
+    t = re.sub(r"\s+", " ", soup.get_text(" ", strip=True))
+    m = re.search(r"ID inserzione PVP\s*:?\s*\d+.{0,300}?Data pubblicazione\s*:?\s*" + DATA_ORA, t, re.I)
+    if m:
+        out["pvp_pubblicata"] = f"{m.group(1)} {m.group(2)}"
+    return out
+
+
 def parse_dettagli(html):
     """Dalla pagina di un bene: prezzo minimo e termine di presentazione delle offerte."""
     soup = BeautifulSoup(html, "html.parser")
@@ -135,6 +174,8 @@ def parse_dettagli(html):
            "prezzo_base": None}
     out.update(parse_offerte(html))
     out.update(parse_stato_asta(html))
+    out.update(parse_classificazione(html))
+    out["canali_controllati_il"] = ora_italia()
 
     m = re.search(r"Prezzo base\s*:?\s*€\s*(\d[\d.]*,\d{2})", t, re.I)
     if m:
@@ -184,6 +225,19 @@ def applica_stato(l):
         l["esito"] = "con offerte"
 
 
+def segna_cloud(lotti, cache, storico, nuovi_ok):
+    """Quando il lotto e' comparso su cronoaste.cloud: dato gia' salvato, altrimenti storico, altrimenti ora (solo se nuovo)."""
+    for l in lotti:
+        vecchio = cache.get(l["id"])
+        if vecchio and vecchio.get("cloud_pubblicata"):
+            l["cloud_pubblicata"] = vecchio["cloud_pubblicata"]
+        elif vecchio or not nuovi_ok:
+            l["cloud_pubblicata"] = storico.get(l["id"])
+        else:
+            l["cloud_pubblicata"] = ora_italia()
+    return lotti
+
+
 def arricchisci(lotti, cache, budget):
     """Aggiunge i dettagli ai lotti: li riusa se già letti, altrimenti apre la pagina del bene."""
     for l in lotti:
@@ -197,6 +251,7 @@ def arricchisci(lotti, cache, budget):
             and "offerte" in vecchio
             and "stato_asta" in vecchio
             and "avviso_gara" in vecchio
+            and "canali_controllati_il" in vecchio
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
@@ -275,7 +330,7 @@ def pulisci(lotti):
 def salva(path, lotti):
     lotti = pulisci(lotti)
     for l in lotti:  # dato non disponibile = null
-        for k in ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara"):
+        for k in NUOVI_CAMPI:
             l.setdefault(k, None)
     if carica(path) == lotti:
         print(f"{path.name}: nessuna novità.")
@@ -298,6 +353,10 @@ def main():
     # dettagli già letti in passato (lotti attivi + archivio), per non rileggere le stesse pagine
     cache = {l["id"]: l for l in carica(DATA / "archivio.json")}
     cache.update({l["id"]: l for l in carica(DATA / "lotti.json")})
+    try:  # prima comparsa su cronoaste.cloud ricostruita dalla cronologia (solo per i lotti gia' presenti prima)
+        storico = json.loads((DATA / "cloud_storico.json").read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        storico = {}
 
     # 1) vendite attive: sostituiscono il file precedente
     try:
@@ -307,7 +366,7 @@ def main():
             print(f"Lettura sospetta ({len(attive)} contro {prec}): lascio lotti.json com'è.", file=sys.stderr)
             errori += 1
         elif attive:
-            salva(DATA / "lotti.json", arricchisci(attive, cache, budget))
+            salva(DATA / "lotti.json", arricchisci(segna_cloud(attive, cache, storico, True), cache, budget))
         else:
             print("Nessun lotto attivo letto: lascio lotti.json com'è.", file=sys.stderr)
             errori += 1
@@ -319,7 +378,7 @@ def main():
     try:
         concluse = leggi(2) + leggi(3)
         if concluse:
-            concluse = arricchisci(concluse, cache, budget)
+            concluse = arricchisci(segna_cloud(concluse, cache, storico, False), cache, budget)
             archivio = {l["id"]: l for l in carica(DATA / "archivio.json")}
             for l in concluse:
                 archivio[l["id"]] = l
