@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-26T09:59:16+00:00",
+ "aggiornato": "2026-10-26T10:22:05+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -21,7 +21,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685969",
@@ -43,7 +44,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680630",
@@ -65,7 +67,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680631",
@@ -87,7 +90,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680598",
@@ -109,7 +113,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680596",
@@ -131,7 +136,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680629",
@@ -153,7 +159,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680624",
@@ -175,7 +182,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680625",
@@ -197,7 +205,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680626",
@@ -219,7 +228,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680627",
@@ -241,7 +251,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680628",
@@ -263,7 +274,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680613",
@@ -285,7 +297,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680614",
@@ -307,7 +320,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680615",
@@ -329,7 +343,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680616",
@@ -351,7 +366,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680617",
@@ -373,7 +389,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680618",
@@ -395,7 +412,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680619",
@@ -417,7 +435,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680620",
@@ -439,7 +458,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680621",
@@ -461,7 +481,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680622",
@@ -483,7 +504,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680623",
@@ -505,7 +527,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680608",
@@ -527,7 +550,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680609",
@@ -549,7 +573,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680610",
@@ -571,7 +596,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680611",
@@ -593,7 +619,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680612",
@@ -615,7 +642,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680604",
@@ -637,7 +665,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680605",
@@ -659,7 +688,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680606",
@@ -681,7 +711,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680607",
@@ -703,7 +734,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685981",
@@ -725,7 +757,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680601",
@@ -747,7 +780,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680603",
@@ -769,7 +803,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680597",
@@ -791,7 +826,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680600",
@@ -813,7 +849,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680602",
@@ -835,7 +872,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680599",
@@ -857,7 +895,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1699980",
@@ -879,7 +918,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685970",
@@ -901,7 +941,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685971",
@@ -923,7 +964,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685972",
@@ -945,7 +987,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685973",
@@ -967,7 +1010,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685974",
@@ -989,7 +1033,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685975",
@@ -1011,7 +1056,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685976",
@@ -1033,7 +1079,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685977",
@@ -1055,7 +1102,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685978",
@@ -1077,7 +1125,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685979",
@@ -1099,7 +1148,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685980",
@@ -1121,7 +1171,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685982",
@@ -1143,7 +1194,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685964",
@@ -1165,7 +1217,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685965",
@@ -1187,7 +1240,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685966",
@@ -1209,7 +1263,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685967",
@@ -1231,7 +1286,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1685968",
@@ -1253,7 +1309,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680590",
@@ -1275,7 +1332,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1701396",
@@ -1297,7 +1355,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1701399",
@@ -1319,7 +1378,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1701401",
@@ -1341,7 +1401,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1701404",
@@ -1363,7 +1424,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652975",
@@ -1385,7 +1447,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686622",
@@ -1407,7 +1470,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686617",
@@ -1429,7 +1493,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686278",
@@ -1451,7 +1516,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686323",
@@ -1473,7 +1539,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686313",
@@ -1495,7 +1562,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686329",
@@ -1517,7 +1585,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686326",
@@ -1539,7 +1608,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686327",
@@ -1561,7 +1631,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686328",
@@ -1583,7 +1654,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686325",
@@ -1605,7 +1677,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686315",
@@ -1627,7 +1700,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686316",
@@ -1649,7 +1723,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686317",
@@ -1671,7 +1746,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686318",
@@ -1693,7 +1769,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686319",
@@ -1715,7 +1792,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686320",
@@ -1737,7 +1815,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686321",
@@ -1759,7 +1838,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686324",
@@ -1781,7 +1861,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686284",
@@ -1803,7 +1884,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686311",
@@ -1825,7 +1907,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686312",
@@ -1847,7 +1930,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686299",
@@ -1869,7 +1953,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686301",
@@ -1891,7 +1976,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686303",
@@ -1913,7 +1999,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686305",
@@ -1935,7 +2022,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686308",
@@ -1957,7 +2045,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686309",
@@ -1979,7 +2068,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686310",
@@ -2001,7 +2091,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686293",
@@ -2023,7 +2114,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686294",
@@ -2045,7 +2137,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686296",
@@ -2067,7 +2160,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686297",
@@ -2089,7 +2183,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686298",
@@ -2111,7 +2206,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686291",
@@ -2133,7 +2229,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686290",
@@ -2155,7 +2252,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686292",
@@ -2177,7 +2275,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686266",
@@ -2199,7 +2298,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686271",
@@ -2221,7 +2321,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686273",
@@ -2243,7 +2344,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686280",
@@ -2265,7 +2367,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686256",
@@ -2287,7 +2390,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686262",
@@ -2309,7 +2413,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686264",
@@ -2331,7 +2436,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1686249",
@@ -2353,7 +2459,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679782",
@@ -2375,7 +2482,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679784",
@@ -2397,7 +2505,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679790",
@@ -2419,7 +2528,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679789",
@@ -2441,7 +2551,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679794",
@@ -2463,7 +2574,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1680859",
@@ -2485,7 +2597,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678164",
@@ -2507,7 +2620,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1679792",
@@ -2529,7 +2643,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1637848",
@@ -2551,7 +2666,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644952",
@@ -2573,7 +2689,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1641783",
@@ -2595,7 +2712,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654335",
@@ -2617,7 +2735,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654329",
@@ -2639,7 +2758,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654326",
@@ -2661,7 +2781,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678165",
@@ -2683,7 +2804,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678178",
@@ -2705,7 +2827,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678176",
@@ -2727,7 +2850,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678175",
@@ -2749,7 +2873,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678174",
@@ -2771,7 +2896,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678173",
@@ -2793,7 +2919,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678171",
@@ -2815,7 +2942,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1678169",
@@ -2837,7 +2965,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1625305",
@@ -2865,7 +2994,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644936",
@@ -2893,7 +3023,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644938",
@@ -2921,7 +3052,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644941",
@@ -2949,7 +3081,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644937",
@@ -2977,7 +3110,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644944",
@@ -3005,7 +3139,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644943",
@@ -3033,7 +3168,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644942",
@@ -3061,7 +3197,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644939",
@@ -3089,7 +3226,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644940",
@@ -3117,7 +3255,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644934",
@@ -3145,7 +3284,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644935",
@@ -3173,7 +3313,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654451",
@@ -3201,7 +3342,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654450",
@@ -3229,7 +3371,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654448",
@@ -3257,7 +3400,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654449",
@@ -3285,7 +3429,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654447",
@@ -3313,7 +3458,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654445",
@@ -3341,7 +3487,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654446",
@@ -3369,7 +3516,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654443",
@@ -3397,7 +3545,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654444",
@@ -3425,7 +3574,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654442",
@@ -3453,7 +3603,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1654441",
@@ -3481,7 +3632,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670949",
@@ -3509,7 +3661,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670947",
@@ -3537,7 +3690,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670948",
@@ -3565,7 +3719,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670944",
@@ -3593,7 +3748,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670946",
@@ -3621,7 +3777,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670943",
@@ -3649,7 +3806,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670942",
@@ -3677,7 +3835,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1670940",
@@ -3705,7 +3864,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658619",
@@ -3732,7 +3892,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658621",
@@ -3759,7 +3920,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658622",
@@ -3786,7 +3948,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658166",
@@ -3813,7 +3976,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658167",
@@ -3840,7 +4004,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658165",
@@ -3867,7 +4032,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658164",
@@ -3894,7 +4060,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658163",
@@ -3921,7 +4088,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668589",
@@ -3948,7 +4116,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1641696",
@@ -3975,7 +4144,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668592",
@@ -4002,7 +4172,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658677",
@@ -4029,7 +4200,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658676",
@@ -4056,7 +4228,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658675",
@@ -4083,7 +4256,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658672",
@@ -4110,7 +4284,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658666",
@@ -4137,7 +4312,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658668",
@@ -4164,7 +4340,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658664",
@@ -4191,7 +4368,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658661",
@@ -4218,7 +4396,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658653",
@@ -4245,7 +4424,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658601",
@@ -4272,7 +4452,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658652",
@@ -4299,7 +4480,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658613",
@@ -4326,7 +4508,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658648",
@@ -4353,7 +4536,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658650",
@@ -4380,7 +4564,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1658644",
@@ -4407,7 +4592,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668661",
@@ -4434,7 +4620,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668683",
@@ -4461,7 +4648,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668671",
@@ -4488,7 +4676,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668686",
@@ -4515,7 +4704,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668691",
@@ -4542,7 +4732,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652947",
@@ -4569,7 +4760,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652956",
@@ -4596,7 +4788,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652960",
@@ -4623,7 +4816,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652961",
@@ -4650,7 +4844,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652963",
@@ -4677,7 +4872,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652965",
@@ -4704,7 +4900,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652966",
@@ -4731,7 +4928,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652968",
@@ -4758,7 +4956,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1652969",
@@ -4785,7 +4984,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668690",
@@ -4812,7 +5012,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668684",
@@ -4839,7 +5040,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668666",
@@ -4866,7 +5068,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1634287",
@@ -4893,7 +5096,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1634252",
@@ -4920,7 +5124,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668693",
@@ -4947,7 +5152,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668694",
@@ -4974,7 +5180,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668692",
@@ -5001,7 +5208,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668687",
@@ -5028,7 +5236,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668688",
@@ -5055,7 +5264,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668689",
@@ -5082,7 +5292,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668685",
@@ -5109,7 +5320,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668682",
@@ -5136,7 +5348,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668677",
@@ -5163,7 +5376,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668678",
@@ -5190,7 +5404,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668679",
@@ -5217,7 +5432,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668680",
@@ -5244,7 +5460,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668681",
@@ -5271,7 +5488,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668676",
@@ -5298,7 +5516,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668670",
@@ -5325,7 +5544,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668672",
@@ -5352,7 +5572,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668673",
@@ -5379,7 +5600,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668674",
@@ -5406,7 +5628,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668675",
@@ -5433,7 +5656,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668660",
@@ -5460,7 +5684,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668663",
@@ -5487,7 +5712,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668664",
@@ -5514,7 +5740,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668668",
@@ -5541,7 +5768,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668657",
@@ -5568,7 +5796,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668652",
@@ -5595,7 +5824,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668656",
@@ -5622,7 +5852,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668658",
@@ -5649,7 +5880,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1668650",
@@ -5676,7 +5908,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   },
   {
    "id": "1644906",
@@ -5703,7 +5936,8 @@
    "offerenti": null,
    "rilanci": null,
    "stato_asta": null,
-   "stato_asta_il": null
+   "stato_asta_il": null,
+   "avviso_gara": null
   }
  ]
 }
