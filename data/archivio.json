@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T16:58:25+00:00",
+ "aggiornato": "2026-10-27T17:55:56+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -50,7 +50,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/37/0179333755.png",
-   "visite": 537,
+   "visite": 544,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682544.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 55365.6,
@@ -58,6 +58,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:01",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 71400.0,
    "offerte": 73,
    "offerenti": 8,
@@ -71,9 +72,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:01",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 17:58",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1682545",
@@ -88,7 +88,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/38/0179333838.png",
-   "visite": 413,
+   "visite": 421,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682545.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 58881.0,
@@ -96,6 +96,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:02",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 73000.0,
    "offerte": 78,
    "offerenti": 9,
@@ -109,9 +110,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:02",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 17:58",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1682547",
@@ -126,7 +126,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/39/0179333900.png",
-   "visite": 462,
+   "visite": 468,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682547.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 70688.7,
@@ -134,6 +134,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:03",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 92300.0,
    "offerte": 86,
    "offerenti": 12,
@@ -147,9 +148,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/09/2026 10:03",
-   "valore_stima": 1951.6,
    "canali_controllati_il": "27/10/2026 17:58",
-   "dett": true
+   "valore_stima": 1951.6
   },
   {
    "id": "1682550",
@@ -164,7 +164,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/40/0179334009.png",
-   "visite": 531,
+   "visite": 536,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682550.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 62076.0,
@@ -240,7 +240,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/36/0179333659.png",
-   "visite": 650,
+   "visite": 651,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-immobile-ad-uso-residenziale-posto-al-primo-piano-z-c-1-cat-a-4-cl-4-1682543.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 108388.05,
@@ -278,7 +278,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/28/0181282857.png",
-   "visite": 122,
+   "visite": 123,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714828.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1608,7 +1608,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/78/0180217872.jpg",
-   "visite": 155,
+   "visite": 156,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv693as-imm-12-07-2005-valore-del-lotto-5-1699598.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2996.06,
@@ -4950,7 +4950,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/16/0179121665.jpg",
-   "visite": 128,
+   "visite": 129,
    "url": "https://cronoaste.fallcoaste.it/vendita/n2-larel-stufa-a-gas-raggi-infrarossi-colori-vari-1680609.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 82.14,
@@ -7080,7 +7080,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 182,
+   "visite": 183,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -7102,7 +7102,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "27/10/2026 17:58",
+   "canali_controllati_il": "27/10/2026 18:55",
    "dett": true
   },
   {
