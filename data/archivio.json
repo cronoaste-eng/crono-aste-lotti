@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T08:57:29+00:00",
+ "aggiornato": "2026-10-27T09:53:20+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -38,6 +38,44 @@
    "valore_stima": null
   },
   {
+   "id": "1699637",
+   "titolo": "Piena proprietà del veicolo Ford, modello Transit, Tg. DA074MG, imm. 31/01/2006.Valore del lot...",
+   "tribunale": "Cosenza",
+   "procedura": "30/2023",
+   "tipo": "Asincrona telematica",
+   "prezzo": 1030.0,
+   "etichetta": "Miglior offerta",
+   "inizio": "27/10/2026 09:41",
+   "termine": "27/10/2026 09:41",
+   "stato": "conclusa",
+   "esito": "con offerte",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/92/0180219278.jpg",
+   "visite": 216,
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-ford-modello-transit-tg-da074mg-imm-31-01-2006-valore-del-lotto-1-825-11-1699637.html",
+   "cloud_pubblicata": "02/10/2026 17:31",
+   "prezzo_minimo": 1026.62,
+   "termine_carta": "26/10/2026 13:00",
+   "termine_bonifico": "26/10/2026 13:00",
+   "pubblicata": "17/09/2026 18:59",
+   "lotto": "Lotto 28",
+   "prezzo_base": 1368.83,
+   "offerte": 1,
+   "offerenti": 1,
+   "rilanci": 0,
+   "stato_asta": "Gara chiusa - Gara aggiudicata",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "AUTOVEICOLI E CICLI",
+   "beni_tipologie": [
+    "AUTOVEICOLI E CICLI"
+   ],
+   "pvp_pubblicata": "17/09/2026 18:59",
+   "valore_stima": 1825.11,
+   "canali_controllati_il": "27/10/2026 10:53",
+   "dett": true
+  },
+  {
    "id": "1682556",
    "titolo": "Lotto composto da beni mobili, quali arredo e complementi di arredo, come da stima alla quale e...",
    "tribunale": "Siracusa",
@@ -50,7 +88,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/33/45/0179334526.png",
-   "visite": 165,
+   "visite": 168,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-beni-mobili-quali-arredo-e-complementi-di-arredo-come-da-stimaalla-quale-espressamente-si-rinvia-vedasi-1682556.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 7372.56,
@@ -58,6 +96,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "03/09/2026 10:13",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 9830.08,
    "offerte": 0,
    "offerenti": 0,
@@ -71,9 +110,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "03/09/2026 10:13",
-   "valore_stima": 9830.08,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 9830.08
   },
   {
    "id": "1703855",
@@ -88,7 +126,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/58/0180735898.png",
-   "visite": 84,
+   "visite": 86,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-10-tavolini-quadrati-in-plastica-di-colore-grigio-completo-di-sedie-in-plastica-di-colore-grigio-valore-di-1703855.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -96,6 +134,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 16:37",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 281.25,
    "offerte": 1,
    "offerenti": 1,
@@ -109,9 +148,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "25/09/2026 16:37",
-   "valore_stima": 500.0,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": 500.0
   },
   {
    "id": "1680592",
@@ -126,7 +164,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/04/24/0179042497.jpg",
-   "visite": 582,
+   "visite": 583,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-bene-n-1-autocarro-fiat-iveco-con-cassone-centinato-modello-turbo-daily-35-10-tg-ek-1680592.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -134,6 +172,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "28/08/2026 18:09",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 450.0,
    "offerte": 0,
    "offerenti": 0,
@@ -147,9 +186,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "28/08/2026 18:09",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699978",
@@ -164,7 +202,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/42/73/0180427382.jpg",
-   "visite": 133,
+   "visite": 134,
    "url": "https://cronoaste.fallcoaste.it/vendita/arredamento-strumentazione-ed-attrezzatura-per-negozi-di-abbigliamento-costituito-da-n-7-banconi-espositori-n-70-mensole-in-alluminio-1699978.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -172,6 +210,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "21/09/2026 08:59",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 261.05,
    "offerte": 0,
    "offerenti": 0,
@@ -185,9 +224,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "21/09/2026 08:59",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699644",
@@ -202,7 +240,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/97/0180219730.png",
-   "visite": 86,
+   "visite": 87,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-dell-immobile-sito-a-cosenza-in-viale-dellarepubblica-nr-140g-e-140f-riportato-nel-catasto-1699644.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 42187.5,
@@ -210,6 +248,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:09",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 56250.0,
    "offerte": 0,
    "offerenti": 0,
@@ -223,9 +262,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "17/09/2026 19:09",
-   "valore_stima": 75000.0,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 75000.0
   },
   {
    "id": "1699641",
@@ -240,7 +278,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/95/0180219554.png",
-   "visite": 87,
+   "visite": 88,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-su-terreni-siti-nel-come-di-dipignano-costituitoda-due-particelle-entrambe-al-foglio-21-la-1699641.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 16593.75,
@@ -248,6 +286,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:06",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 22125.0,
    "offerte": 0,
    "offerenti": 0,
@@ -261,9 +300,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 19:06",
-   "valore_stima": 29500.0,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 29500.0
   },
   {
    "id": "1699634",
@@ -278,7 +316,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/91/0180219108.jpg",
-   "visite": 486,
+   "visite": 488,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-iveco-modello-a50c31cng-tg-ge503tg-imm-28-09-2007-valore-del-lotto-3-697-50-1699634.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2079.84,
@@ -286,6 +324,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:56",
    "lotto": "Lotto 26",
+   "dett": true,
    "prezzo_base": 2773.13,
    "offerte": 0,
    "offerenti": 0,
@@ -299,9 +338,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:56",
-   "valore_stima": 3697.5,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 3697.5
   },
   {
    "id": "1699643",
@@ -316,7 +354,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/96/0180219645.png",
-   "visite": 90,
+   "visite": 91,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-dell-immobile-sito-comune-di-cosenza-viagiuseppe-santoro-n-30-piano-2-interno-5-scala-1699643.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 61875.0,
@@ -324,6 +362,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:08",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 82500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -337,9 +376,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "17/09/2026 19:08",
-   "valore_stima": 110000.0,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 110000.0
   },
   {
    "id": "1699640",
@@ -354,7 +392,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/94/0180219499.png",
-   "visite": 78,
+   "visite": 79,
    "url": "https://cronoaste.fallcoaste.it/vendita/diritto-di-piena-proprieta-di-terreno-sito-nel-comune-di-acquappesa-identificato-al-catasto-al-foglio-24-part-235-1699640.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 59062.5,
@@ -362,6 +400,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 19:05",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 78750.0,
    "offerte": 0,
    "offerenti": 0,
@@ -375,9 +414,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 19:05",
-   "valore_stima": 105000.0,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 105000.0
   },
   {
    "id": "1701131",
@@ -392,7 +430,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/50/90/0180509091.jpg",
-   "visite": 321,
+   "visite": 322,
    "url": "https://cronoaste.fallcoaste.it/vendita/furgone-di-colore-bianco-marca-renault-modello-trafic-versione-dci-115-targato-gf634mc-telaio-vf1fla1a6cy434260-immatricolato-il-11-07-1701131.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -400,6 +438,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:24",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 2137.5,
    "offerte": 0,
    "offerenti": 0,
@@ -413,9 +452,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:24",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699636",
@@ -430,7 +468,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/92/0180219222.jpg",
-   "visite": 182,
+   "visite": 183,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-fiat-modello-punto-v-tg-cv716np-imm-10-03-2005-valore-del-lotto-1-223-1699636.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 688.3,
@@ -438,6 +476,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:58",
    "lotto": "Lotto 27",
+   "dett": true,
    "prezzo_base": 917.73,
    "offerte": 0,
    "offerenti": 0,
@@ -451,9 +490,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:58",
-   "valore_stima": 1223.64,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 1223.64
   },
   {
    "id": "1701108",
@@ -468,7 +506,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/50/89/0180508951.jpg",
-   "visite": 212,
+   "visite": 213,
    "url": "https://cronoaste.fallcoaste.it/vendita/autovettura-di-colore-bianco-omologata-furgone-marca-fiat-modello-punto-versione-1-3-mjt-targata-cp179ve-telaio-zfa18800002518654-immatricolata-1701108.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -476,6 +514,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:23",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 450.0,
    "offerte": 0,
    "offerenti": 0,
@@ -489,9 +528,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:23",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699628",
@@ -506,7 +544,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/89/0180218923.jpg",
-   "visite": 168,
+   "visite": 169,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenaibus-modello-vivacity-gu-2p-tg-et773st-imm-11-04-2014-valore-del-lotto-36-1699628.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 20678.91,
@@ -514,6 +552,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:51",
    "lotto": "Lotto 23",
+   "dett": true,
    "prezzo_base": 27571.88,
    "offerte": 0,
    "offerenti": 0,
@@ -527,9 +566,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:51",
-   "valore_stima": 36762.5,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 36762.5
   },
   {
    "id": "1699630",
@@ -544,7 +582,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/89/0180218986.jpg",
-   "visite": 160,
+   "visite": 161,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-evobus-gmhb-modello-530-citaro-tg-ez945sw-imm-16-04-2003-valore-del-lotto-4-1699630.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2764.16,
@@ -552,6 +590,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:52",
    "lotto": "Lotto 24",
+   "dett": true,
    "prezzo_base": 3685.55,
    "offerte": 0,
    "offerenti": 0,
@@ -565,9 +604,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:52",
-   "valore_stima": 4914.06,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 4914.06
   },
   {
    "id": "1699632",
@@ -582,7 +620,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/90/0180219048.jpg",
-   "visite": 161,
+   "visite": 162,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-evobus-gmhb-modello-530-citaro-tg-fa958xh-imm-22-04-2004-valore-del-lotto-4-1699632.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2764.16,
@@ -590,6 +628,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:54",
    "lotto": "Lotto 25",
+   "dett": true,
    "prezzo_base": 3685.55,
    "offerte": 0,
    "offerenti": 0,
@@ -603,9 +642,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:54",
-   "valore_stima": 4914.06,
    "canali_controllati_il": "27/10/2026 09:57",
-   "dett": true
+   "valore_stima": 4914.06
   },
   {
    "id": "1699624",
@@ -620,7 +658,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/87/0180218775.jpg",
-   "visite": 140,
+   "visite": 141,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood-12-cng-tg-fz952wd-imm-24-09-2020-valore-del-lotto-74-1699624.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 41872.75,
@@ -628,6 +666,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:47",
    "lotto": "Lotto 21",
+   "dett": true,
    "prezzo_base": 55830.33,
    "offerte": 0,
    "offerenti": 0,
@@ -641,9 +680,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:47",
-   "valore_stima": 74440.44,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 74440.44
   },
   {
    "id": "1699627",
@@ -658,7 +696,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/88/0180218839.jpg",
-   "visite": 142,
+   "visite": 143,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenaibus-modello-avancity-jrz-nu-3p-tg-et772st-imm-11-04-2014-valore-del-lotto-1699627.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 19125.0,
@@ -666,6 +704,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:49",
    "lotto": "Lotto 22",
+   "dett": true,
    "prezzo_base": 25500.0,
    "offerte": 0,
    "offerenti": 0,
@@ -679,9 +718,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:49",
-   "valore_stima": 34000.0,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 34000.0
   },
   {
    "id": "1701099",
@@ -696,7 +734,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/50/84/0180508418.jpg",
-   "visite": 328,
+   "visite": 329,
    "url": "https://cronoaste.fallcoaste.it/vendita/furgone-di-colore-bianco-marca-fiat-modello-doblo-versione-1-6-mjt-16v-targato-ev020hb-telaio-zfa26300006161055-immatricolato-il-1701099.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -704,6 +742,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "22/09/2026 12:16",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 1237.5,
    "offerte": 0,
    "offerenti": 0,
@@ -717,9 +756,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "22/09/2026 12:16",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699615",
@@ -734,7 +772,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/86/0180218647.jpg",
-   "visite": 157,
+   "visite": 158,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx984mp-imm-18-02-2020-valore-del-lotto-62-769-30avvertenza-1699615.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 35307.73,
@@ -742,6 +780,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:44",
    "lotto": "Lotto 19",
+   "dett": true,
    "prezzo_base": 47076.98,
    "offerte": 0,
    "offerenti": 0,
@@ -755,9 +794,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:44",
-   "valore_stima": 62769.3,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 62769.3
   },
   {
    "id": "1703929",
@@ -772,7 +810,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/96/0180739645.jpg",
-   "visite": 90,
+   "visite": 91,
    "url": "https://cronoaste.fallcoaste.it/vendita/50-cinquanta-abiti-da-cerimonia-contrassegnati-dal-marchio-impero-modelli-e-colori-assortiti-misure-varie-valore-di-12-000-1703929.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -780,6 +818,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 17:50",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 12000.0,
    "offerte": 0,
    "offerenti": 0,
@@ -793,9 +832,8 @@
     "ABBIGLIAMENTO E CALZATURE"
    ],
    "pvp_pubblicata": "25/09/2026 17:50",
-   "valore_stima": 12000.0,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 12000.0
   },
   {
    "id": "1699623",
@@ -810,7 +848,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/87/0180218716.jpg",
-   "visite": 132,
+   "visite": 133,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx982mp-imm-18-02-2020-valore-del-lotto-65-483-11avvertenza-1699623.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 36834.25,
@@ -818,6 +856,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:46",
    "lotto": "Lotto 20",
+   "dett": true,
    "prezzo_base": 49112.33,
    "offerte": 0,
    "offerenti": 0,
@@ -831,9 +870,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:46",
-   "valore_stima": 65483.11,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 65483.11
   },
   {
    "id": "1699608",
@@ -848,7 +886,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/83/0180218321.jpg",
-   "visite": 137,
+   "visite": 138,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx211kf-imm-01-08-2005-valore-del-lotto-6-1699608.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3585.74,
@@ -856,6 +894,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:38",
    "lotto": "Lotto 15",
+   "dett": true,
    "prezzo_base": 4780.99,
    "offerte": 0,
    "offerenti": 0,
@@ -869,9 +908,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:38",
-   "valore_stima": 6374.65,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6374.65
   },
   {
    "id": "1703895",
@@ -886,7 +924,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/73/0180737371.jpg",
-   "visite": 141,
+   "visite": 142,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-25-gemme-preziose-dal-peso-complessivo-di-6-grammi-equivalenti-a-30-carati-valore-di-8-700-00-1703895.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -894,6 +932,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 17:08",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 8700.0,
    "offerte": 0,
    "offerenti": 0,
@@ -907,9 +946,8 @@
     "ARTE, OREFICERIA, OROLOGERIA, ANTIQUARIATO"
    ],
    "pvp_pubblicata": "25/09/2026 17:08",
-   "valore_stima": 8700.0,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 8700.0
   },
   {
    "id": "1699609",
@@ -924,7 +962,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/84/0180218428.jpg",
-   "visite": 146,
+   "visite": 147,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx212kf-imm-01-08-2005-valore-del-lotto-6-1699609.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3765.23,
@@ -932,6 +970,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:39",
    "lotto": "Lotto 16",
+   "dett": true,
    "prezzo_base": 5020.31,
    "offerte": 0,
    "offerenti": 0,
@@ -945,9 +984,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:39",
-   "valore_stima": 6693.75,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6693.75
   },
   {
    "id": "1699611",
@@ -962,7 +1000,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/84/0180218492.jpg",
-   "visite": 158,
+   "visite": 159,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx985mp-imm-18-02-2020-avvertenza-veicolo-gravato-dal-vincolo-di-1699611.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 36751.61,
@@ -970,6 +1008,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:41",
    "lotto": "Lotto 17",
+   "dett": true,
    "prezzo_base": 49002.15,
    "offerte": 0,
    "offerenti": 0,
@@ -983,9 +1022,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:41",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1699612",
@@ -1000,7 +1038,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/85/0180218581.jpg",
-   "visite": 143,
+   "visite": 144,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-menarinibus-modello-citymood10-tg-fx983mp-imm-18-02-2020-valore-del-lotto-66-031-07avvertenza-1699612.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 37142.48,
@@ -1008,6 +1046,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:43",
    "lotto": "Lotto 18",
+   "dett": true,
    "prezzo_base": 49523.3,
    "offerte": 0,
    "offerenti": 0,
@@ -1021,9 +1060,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:43",
-   "valore_stima": 66031.07,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 66031.07
   },
   {
    "id": "1699601",
@@ -1038,7 +1076,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/80/0180218086.jpg",
-   "visite": 190,
+   "visite": 191,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m240-gncev-a-nu-3p-tg-cx208kf-imm-01-08-2005-valore-del-1699601.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -1046,6 +1084,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:32",
    "lotto": "Lotto 12",
+   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
@@ -1059,9 +1098,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:32",
-   "valore_stima": 6481.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6481.25
   },
   {
    "id": "1699603",
@@ -1076,7 +1114,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/81/0180218194.jpg",
-   "visite": 145,
+   "visite": 146,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx209kf-imm-01-08-2005-valore-del-lotto-5-1699603.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2847.81,
@@ -1084,6 +1122,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:34",
    "lotto": "Lotto 13",
+   "dett": true,
    "prezzo_base": 3797.09,
    "offerte": 0,
    "offerenti": 0,
@@ -1097,9 +1136,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:34",
-   "valore_stima": 5062.78,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 5062.78
   },
   {
    "id": "1699606",
@@ -1114,7 +1152,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/82/0180218258.jpg",
-   "visite": 163,
+   "visite": 164,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cx210kf-imm-01-08-2005-valore-del-lotto-5-1699606.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2928.52,
@@ -1122,6 +1160,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:36",
    "lotto": "Lotto 14",
+   "dett": true,
    "prezzo_base": 3904.69,
    "offerte": 0,
    "offerenti": 0,
@@ -1135,9 +1174,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:36",
-   "valore_stima": 5206.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 5206.25
   },
   {
    "id": "1699600",
@@ -1152,7 +1190,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/79/0180217939.jpg",
-   "visite": 158,
+   "visite": 159,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m240-gncev-a-nu-3p-tg-cx207kf-imm-01-08-2005-valore-del-1699600.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3167.58,
@@ -1160,6 +1198,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:30",
    "lotto": "Lotto 11",
+   "dett": true,
    "prezzo_base": 4223.44,
    "offerte": 0,
    "offerenti": 0,
@@ -1173,9 +1212,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:30",
-   "valore_stima": 5631.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 5631.25
   },
   {
    "id": "1699594",
@@ -1190,7 +1228,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/76/0180217607.jpg",
-   "visite": 210,
+   "visite": 212,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv689as-imm-12-07-2005-valore-del-lotto-6-1699594.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -1198,6 +1236,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:22",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
@@ -1211,9 +1250,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:22",
-   "valore_stima": 6481.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6481.25
   },
   {
    "id": "1699595",
@@ -1228,7 +1266,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/76/0180217676.jpg",
-   "visite": 185,
+   "visite": 187,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv690as-imm-12-07-2005-valore-del-lotto-6-1699595.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -1236,6 +1274,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:24",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
@@ -1249,9 +1288,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:24",
-   "valore_stima": 6481.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6481.25
   },
   {
    "id": "1699596",
@@ -1266,7 +1304,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/77/0180217743.jpg",
-   "visite": 170,
+   "visite": 171,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv691as-imm-12-07-2005-valore-del-lotto-6-1699596.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -1274,6 +1312,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:26",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
@@ -1287,9 +1326,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:26",
-   "valore_stima": 6481.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6481.25
   },
   {
    "id": "1699598",
@@ -1304,7 +1342,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/78/0180217872.jpg",
-   "visite": 152,
+   "visite": 153,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv693as-imm-12-07-2005-valore-del-lotto-5-1699598.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2996.06,
@@ -1312,6 +1350,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:29",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 3994.75,
    "offerte": 0,
    "offerenti": 0,
@@ -1325,9 +1364,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:29",
-   "valore_stima": 5326.33,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 5326.33
   },
   {
    "id": "1699586",
@@ -1342,7 +1380,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/72/0180217282.png",
-   "visite": 135,
+   "visite": 137,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-autoricambi-rep-105-i-cui-beni-sono-stati-inventariati-per-singola-tipologia-di-automezzo-presso-il-magazzino-1699586.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 28236.45,
@@ -1350,6 +1388,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:14",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 37648.61,
    "offerte": 0,
    "offerenti": 0,
@@ -1363,9 +1402,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 18:14",
-   "valore_stima": 50198.14,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 50198.14
   },
   {
    "id": "1699590",
@@ -1380,7 +1418,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/73/0180217347.png",
-   "visite": 113,
+   "visite": 115,
    "url": "https://cronoaste.fallcoaste.it/vendita/stock-di-strumenti-per-il-pagamento-della-sosta-rep-108-i-cui-beni-sono-stati-inventariati-ma-non-visionati-1699590.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 16411.64,
@@ -1388,6 +1426,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:19",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 21882.19,
    "offerte": 0,
    "offerenti": 0,
@@ -1401,9 +1440,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "17/09/2026 18:19",
-   "valore_stima": 29176.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 29176.25
   },
   {
    "id": "1699593",
@@ -1418,7 +1456,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/75/0180217538.jpg",
-   "visite": 224,
+   "visite": 226,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv687as-imm-12-07-2005-valore-del-lotto-6-1699593.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -1426,6 +1464,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:21",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 4860.94,
    "offerte": 0,
    "offerenti": 0,
@@ -1439,9 +1478,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:21",
-   "valore_stima": 6481.25,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 6481.25
   },
   {
    "id": "1699584",
@@ -1456,7 +1494,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/71/0180217160.jpg",
-   "visite": 287,
+   "visite": 289,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-parco-automezzi-da-rottamare-si-invita-a-prendere-visione-dell-avviso-di-vendita-per-l-elenco-1699584.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 9999.71,
@@ -1464,6 +1502,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "17/09/2026 18:13",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 13332.95,
    "offerte": 0,
    "offerenti": 0,
@@ -1477,9 +1516,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "17/09/2026 18:13",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1693624",
@@ -1494,7 +1532,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/83/70/0179837033.jpg",
-   "visite": 189,
+   "visite": 191,
    "url": "https://cronoaste.fallcoaste.it/vendita/compendio-composto-da-a-fabbricati-aziendali-b-terreni-di-pertinenza-c-arredi-interni-d-attrezzatura-informatica-ed-elettronica-e-1693624.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 2121886.36,
@@ -1502,6 +1540,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "11/09/2026 16:32",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 2829181.81,
    "offerte": 0,
    "offerenti": 0,
@@ -1515,9 +1554,8 @@
     "IMMOBILE INDUSTRIALE"
    ],
    "pvp_pubblicata": "11/09/2026 16:32",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714792",
@@ -1532,7 +1570,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/25/0181282599.jpg",
-   "visite": 65,
+   "visite": 66,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-games-gear-150-attacco-snow-xgb1-11-m-bianco-xgb1f-09fl081205-games-gear-150-attacco-snow-1714792.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1540,6 +1578,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:37",
    "lotto": "Lotto 66",
+   "dett": true,
    "prezzo_base": 192.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1553,9 +1592,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:37",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714826",
@@ -1570,7 +1608,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/32/0181283237.jpg",
-   "visite": 58,
+   "visite": 59,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-koala-220-cod-202552-verde-mckinley-tenda-1714826.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1578,6 +1616,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:45",
    "lotto": "Lotto 67",
+   "dett": true,
    "prezzo_base": 106.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1591,9 +1630,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:45",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714791",
@@ -1608,7 +1646,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/24/0181282463.jpg",
-   "visite": 71,
+   "visite": 72,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-lange-skiboots-misura-24-0-colore-trasparente-3607681129838-lange-skiboots-misura-23-5-colore-nero-bianchi-1714791.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1616,6 +1654,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:35",
    "lotto": "Lotto 64",
+   "dett": true,
    "prezzo_base": 389.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1629,9 +1668,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:35",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714809",
@@ -1646,7 +1684,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/99/0181289911.jpg",
-   "visite": 67,
+   "visite": 68,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-head-scarponi-sci-pearl-792460865090-head-skiboots-dream-80hf-mp-235-beige-792460865106-head-ski-boots-1714809.html",
    "cloud_pubblicata": "07/10/2026 12:34",
    "prezzo_minimo": null,
@@ -1654,6 +1692,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 11:51",
    "lotto": "Lotto 65",
+   "dett": true,
    "prezzo_base": 429.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1667,9 +1706,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 11:51",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1703814",
@@ -1684,7 +1722,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/58/0180735819.jpg",
-   "visite": 72,
+   "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/forno-industriale-tecnoinox-dimensioni-1-mt-per-1-mt-da-8-ripiani-in-acciaio-inox-funzionante-valore-di-5-1703814.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1692,6 +1730,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 16:36",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 2812.5,
    "offerte": 0,
    "offerenti": 0,
@@ -1705,9 +1744,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/09/2026 16:36",
-   "valore_stima": 5000.0,
    "canali_controllati_il": "27/10/2026 09:56",
-   "dett": true
+   "valore_stima": 5000.0
   },
   {
    "id": "1714799",
@@ -1722,7 +1760,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/33/0181283365.jpg",
-   "visite": 77,
+   "visite": 78,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-fischer-alpine-skiboots-misura-44-colore-nero-nero-9002971846893-fischer-alpine-skiboots-misura-44-nere-nere-1714799.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1730,6 +1768,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:47",
    "lotto": "Lotto 63",
+   "dett": true,
    "prezzo_base": 604.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1743,9 +1782,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:47",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1703808",
@@ -1760,7 +1798,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/56/0180735677.jpg",
-   "visite": 79,
+   "visite": 80,
    "url": "https://cronoaste.fallcoaste.it/vendita/n-3-celle-frigorifere-marca-aspes-altezza-circa-2-mt-per-80-cm-di-larghezza-codici-seriali-1702101157p-1705253287p-1703808.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1768,6 +1806,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 16:33",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 2531.25,
    "offerte": 0,
    "offerenti": 0,
@@ -1781,9 +1820,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/09/2026 16:33",
-   "valore_stima": 4500.0,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": 4500.0
   },
   {
    "id": "1714803",
@@ -1798,7 +1836,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/39/0181283901.jpg",
-   "visite": 69,
+   "visite": 70,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-scarponi-sci-bianco-grigio-888341177151-nordica-skiboots-misura-uk8-colore-nero-lucida-8033311965487-nordica-skiboots-1714803.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1806,6 +1844,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:52",
    "lotto": "Lotto 62",
+   "dett": true,
    "prezzo_base": 393.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1819,9 +1858,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:52",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714804",
@@ -1836,7 +1874,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/39/0181283958.jpg",
-   "visite": 69,
+   "visite": 70,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-nordica-conquer-xbi-ct-taglia-170cm-verde-0a1070001a6-8126131701-nordica-sci-nero-verde-oliva-8033311970542-nordica-1714804.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1844,6 +1882,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:54",
    "lotto": "Lotto 61",
+   "dett": true,
    "prezzo_base": 844.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1857,9 +1896,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:54",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1703802",
@@ -1874,7 +1912,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/55/0180735561.jpg",
-   "visite": 94,
+   "visite": 95,
    "url": "https://cronoaste.fallcoaste.it/vendita/gelatiera-industriale-marca-frigomat-modello-vibe-in-acciaio-capacita-litri-3-funzionante-valore-di-1-000-00-1703802.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1882,6 +1920,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 16:32",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 562.5,
    "offerte": 0,
    "offerenti": 0,
@@ -1895,9 +1934,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/09/2026 16:32",
-   "valore_stima": 1000.0,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": 1000.0
   },
   {
    "id": "1714789",
@@ -1912,7 +1950,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/19/0181281998.jpg",
-   "visite": 72,
+   "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-taglia-140-x104-140x-x45-b76-raejc05ic05-rossignol-sci-minions-kid-taglia-1714789.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -1920,6 +1958,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:32",
    "lotto": "Lotto 60",
+   "dett": true,
    "prezzo_base": 270.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1933,9 +1972,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1703790",
@@ -1950,7 +1988,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/73/53/0180735389.jpg",
-   "visite": 96,
+   "visite": 97,
    "url": "https://cronoaste.fallcoaste.it/vendita/pastorizzatrice-marca-pastochef-modello-rtx-capacita-litri-12-in-acciaio-funzionante-valore-di-2-000-00-1703790.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -1958,6 +1996,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "25/09/2026 16:30",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 1125.0,
    "offerte": 0,
    "offerenti": 0,
@@ -1971,9 +2010,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/09/2026 16:30",
-   "valore_stima": 2000.0,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": 2000.0
   },
   {
    "id": "1714830",
@@ -1988,7 +2026,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/23/0181282371.png",
-   "visite": 78,
+   "visite": 79,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-toorx-msx-70-stazione-multifunzione-bene-da-assemblare-composto-da-n-6-scatole-jk-fitness-aerobic-1714830.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -1996,6 +2034,7 @@
    "termine_bonifico": "26/10/2026 13:00",
    "pubblicata": "07/10/2026 10:37",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 217.6,
    "offerte": 1,
    "offerenti": 1,
@@ -2009,9 +2048,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "07/10/2026 10:37",
-   "valore_stima": null,
    "canali_controllati_il": "27/10/2026 09:55",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1714802",
@@ -2710,7 +2748,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/26/0181282693.jpg",
-   "visite": 72,
+   "visite": 73,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-elite-long-turn-hero-115-69-96-r16-taglia-162cm-rosso-bianco-e-blurafbr02-br02g-1714793.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -3698,7 +3736,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/30/0181283040.png",
-   "visite": 64,
+   "visite": 65,
    "url": "https://cronoaste.fallcoaste.it/vendita/toorx-msx-60-stazione-multifunzione-bene-da-assemblare-composto-da-n-4-scatole-1714827.html",
    "cloud_pubblicata": "07/10/2026 11:35",
    "prezzo_minimo": null,
@@ -6776,7 +6814,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 172,
+   "visite": 174,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -6798,7 +6836,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "27/10/2026 09:55",
+   "canali_controllati_il": "27/10/2026 10:53",
    "dett": true
   },
   {
