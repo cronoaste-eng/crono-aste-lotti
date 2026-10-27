@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T02:47:18+00:00",
+ "aggiornato": "2026-10-27T03:48:48+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -162,7 +162,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/00/0179120051.jpg",
-   "visite": 158,
+   "visite": 159,
    "url": "https://cronoaste.fallcoaste.it/vendita/bosch-frigo-freezer-kgn36nlea-1680598.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 163.03,
@@ -1888,7 +1888,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/89/12/0175891267.jpg",
-   "visite": 121,
+   "visite": 122,
    "url": "https://cronoaste.fallcoaste.it/vendita/pesa-piattaforma-1500kg-2012-1685980.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -3052,7 +3052,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 167,
+   "visite": 168,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -3074,7 +3074,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "27/10/2026 03:47",
+   "canali_controllati_il": "27/10/2026 04:48",
    "dett": true
   },
   {
