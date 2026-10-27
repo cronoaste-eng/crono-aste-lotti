@@ -1,19 +1,6 @@
 {
- "aggiornato": "2026-10-27T14:30:12+00:00",
+ "aggiornato": "2026-10-27T14:31:09+00:00",
  "lotti": [
-  {
-   "id": "1682544",
-   "offerte": 66,
-   "offerenti": 8,
-   "rilanci": 58,
-   "prezzo": 152000.0,
-   "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 15:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 525
-  },
   {
    "id": "1682545",
    "offerte": 72,
@@ -25,20 +12,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 399
-  },
-  {
-   "id": "1682550",
-   "offerte": 86,
-   "offerenti": 12,
-   "rilanci": 74,
-   "prezzo": 200000.0,
-   "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 15:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 517
+   "visite": 400
   },
   {
    "id": "1682552",
@@ -51,20 +25,46 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 584
+   "visite": 585
   },
   {
-   "id": "1682547",
-   "offerte": 80,
-   "offerenti": 12,
-   "rilanci": 68,
-   "prezzo": 181000.0,
+   "id": "1682544",
+   "offerte": 67,
+   "offerenti": 8,
+   "rilanci": 59,
+   "prezzo": 153000.0,
    "etichetta": "Miglior offerta",
    "termine": "27/10/2026 16:00",
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 453
+   "visite": 526
+  },
+  {
+   "id": "1682547",
+   "offerte": 81,
+   "offerenti": 12,
+   "rilanci": 69,
+   "prezzo": 182000.0,
+   "etichetta": "Miglior offerta",
+   "termine": "27/10/2026 16:00",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": "",
+   "visite": 454
+  },
+  {
+   "id": "1682550",
+   "offerte": 87,
+   "offerenti": 12,
+   "rilanci": 75,
+   "prezzo": 201000.0,
+   "etichetta": "Miglior offerta",
+   "termine": "27/10/2026 16:00",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": "",
+   "visite": 518
   },
   {
    "id": "1732819",
@@ -77,7 +77,7 @@
    "stato_asta": "Gara aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 84
+   "visite": 85
   },
   {
    "id": "1706372",
@@ -90,7 +90,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 77
+   "visite": 78
   },
   {
    "id": "1706373",
@@ -103,7 +103,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 74
+   "visite": 75
   },
   {
    "id": "1725834",
@@ -116,7 +116,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 226
+   "visite": 227
   }
  ]
 }
