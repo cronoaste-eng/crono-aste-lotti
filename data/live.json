@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T12:06:54+00:00",
+ "aggiornato": "2026-10-27T12:07:51+00:00",
  "lotti": [
   {
    "id": "1714828",
@@ -12,7 +12,7 @@
    "stato_asta": "Gara chiusa - Gara aggiudicata",
    "stato": "conclusa",
    "esito": "con offerte",
-   "visite": 112
+   "visite": 113
   },
   {
    "id": "1682542",
@@ -25,7 +25,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 572
+   "visite": 573
   },
   {
    "id": "1682543",
@@ -38,7 +38,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 630
+   "visite": 631
   },
   {
    "id": "1682544",
@@ -51,7 +51,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 504
+   "visite": 505
   },
   {
    "id": "1682545",
@@ -64,7 +64,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 374
+   "visite": 375
   },
   {
    "id": "1682547",
@@ -77,7 +77,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 431
+   "visite": 432
   },
   {
    "id": "1682550",
@@ -90,7 +90,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 486
+   "visite": 487
   },
   {
    "id": "1682552",
@@ -103,7 +103,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 553
+   "visite": 554
   },
   {
    "id": "1732819",
@@ -116,7 +116,7 @@
    "stato_asta": "Gara aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 73
+   "visite": 74
   },
   {
    "id": "1706372",
@@ -129,7 +129,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 68
+   "visite": 70
   },
   {
    "id": "1706373",
@@ -142,7 +142,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 65
+   "visite": 67
   },
   {
    "id": "1725834",
@@ -155,7 +155,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 214
+   "visite": 216
   }
  ]
 }
