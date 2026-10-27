@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T01:02:09+00:00",
+ "aggiornato": "2026-10-27T01:53:47+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -884,7 +884,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/15/0179121544.jpg",
-   "visite": 115,
+   "visite": 116,
    "url": "https://cronoaste.fallcoaste.it/vendita/philips-television-6800-series-43-pollici-1680608.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 78.38,
@@ -922,7 +922,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/79/12/16/0179121665.jpg",
-   "visite": 126,
+   "visite": 127,
    "url": "https://cronoaste.fallcoaste.it/vendita/n2-larel-stufa-a-gas-raggi-infrarossi-colori-vari-1680609.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 82.14,
@@ -3052,7 +3052,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 165,
+   "visite": 166,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -3074,7 +3074,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "27/10/2026 02:02",
+   "canali_controllati_il": "27/10/2026 02:53",
    "dett": true
   },
   {
