@@ -92,7 +92,11 @@ def leggi_pagina(html):
             break
     out["avviso"] = avviso
     out["termine"] = None
-    for th in soup.find_all("th"):
+    # Termine reale (con i prolungamenti): lo script della pagina; la cella "Termine vendita" e il file dei lotti sono solo ripieghi.
+    df = re.search(r"data_fine_vendita\s*=\s*'(\d{2}/\d{2}/\d{4})\s+(\d{1,2}):(\d{2})'", html)
+    if df:
+        out["termine"] = f"{df.group(1)} {int(df.group(2)):02d}:{df.group(3)}"
+    for th in ([] if df else soup.find_all("th")):
         if text(th).rstrip(": ") == "Termine vendita":
             d = re.search(r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})", text(th.find_next_sibling("td")))
             if d:
