@@ -135,7 +135,7 @@ def main():
     ora = datetime.now(ROMA)
     if not (ORE[0] <= ora.hour <= ORE[1]) and "--sempre" not in sys.argv:
         print(f"Fuori dalle ore d'asta ({ora:%H:%M}): non aggiorno.")
-        return 0
+        return 3  # il ciclo del workflow si ferma
     precedente = carica(LIVE)
     voci = candidati(ora, precedente)
     # url delle pagine: dai file dei lotti
