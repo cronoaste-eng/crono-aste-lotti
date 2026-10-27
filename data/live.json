@@ -1,19 +1,6 @@
 {
- "aggiornato": "2026-10-27T14:29:00+00:00",
+ "aggiornato": "2026-10-27T14:30:12+00:00",
  "lotti": [
-  {
-   "id": "1682552",
-   "offerte": 112,
-   "offerenti": 14,
-   "rilanci": 98,
-   "prezzo": 252000.0,
-   "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 15:30",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 584
-  },
   {
    "id": "1682544",
    "offerte": 66,
@@ -29,10 +16,10 @@
   },
   {
    "id": "1682545",
-   "offerte": 70,
+   "offerte": 72,
    "offerenti": 9,
-   "rilanci": 61,
-   "prezzo": 150000.0,
+   "rilanci": 63,
+   "prezzo": 152000.0,
    "etichetta": "Miglior offerta",
    "termine": "27/10/2026 15:45",
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
@@ -41,30 +28,43 @@
    "visite": 399
   },
   {
-   "id": "1682547",
-   "offerte": 78,
-   "offerenti": 12,
-   "rilanci": 66,
-   "prezzo": 179000.0,
-   "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 15:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 453
-  },
-  {
    "id": "1682550",
-   "offerte": 84,
+   "offerte": 86,
    "offerenti": 12,
-   "rilanci": 72,
-   "prezzo": 198000.0,
+   "rilanci": 74,
+   "prezzo": 200000.0,
    "etichetta": "Miglior offerta",
    "termine": "27/10/2026 15:45",
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
    "visite": 517
+  },
+  {
+   "id": "1682552",
+   "offerte": 113,
+   "offerenti": 14,
+   "rilanci": 99,
+   "prezzo": 253000.0,
+   "etichetta": "Miglior offerta",
+   "termine": "27/10/2026 15:45",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": "",
+   "visite": 584
+  },
+  {
+   "id": "1682547",
+   "offerte": 80,
+   "offerenti": 12,
+   "rilanci": 68,
+   "prezzo": 181000.0,
+   "etichetta": "Miglior offerta",
+   "termine": "27/10/2026 16:00",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": "",
+   "visite": 453
   },
   {
    "id": "1732819",
