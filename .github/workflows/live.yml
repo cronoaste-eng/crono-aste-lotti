@@ -1,0 +1,30 @@
+name: Monitoraggio live
+on:
+  schedule:
+    - cron: "*/5 5-20 * * *"   # UTC; lo script lavora solo 07:00-21:00 ora di Roma
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live
+  cancel-in-progress: true
+
+jobs:
+  live:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests==2.34.2 beautifulsoup4==4.15.0 soupsieve==2.9.2 urllib3==2.8.0 certifi==2026.7.22 idna==3.20 charset-normalizer==3.5.1 typing-extensions==4.16.0
+      - run: python live.py
+      - name: Salva se cambiato
+        run: |
+          git config user.name "monitoraggio-live"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/live.json || true
+          git diff --staged --quiet || (git commit -m "Live" && (git push || (git pull --rebase -X theirs && git push)))
