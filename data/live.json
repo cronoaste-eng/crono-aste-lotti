@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T15:52:05+00:00",
+ "aggiornato": "2026-10-27T15:53:52+00:00",
  "lotti": [
   {
    "id": "1682550",
@@ -38,7 +38,7 @@
    "stato_asta": "Gara chiusa - Gara aggiudicata",
    "stato": "conclusa",
    "esito": "con offerte",
-   "visite": 412
+   "visite": 413
   },
   {
    "id": "1682547",
