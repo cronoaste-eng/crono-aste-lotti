@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T14:45:05+00:00",
+ "aggiornato": "2026-10-27T14:46:53+00:00",
  "lotti": [
   {
    "id": "1682544",
@@ -25,20 +25,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 402
-  },
-  {
-   "id": "1682547",
-   "offerte": 82,
-   "offerenti": 12,
-   "rilanci": 70,
-   "prezzo": 185000.0,
-   "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 16:00",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 454
+   "visite": 403
   },
   {
    "id": "1682550",
@@ -54,17 +41,30 @@
    "visite": 518
   },
   {
-   "id": "1682552",
-   "offerte": 114,
-   "offerenti": 14,
-   "rilanci": 100,
-   "prezzo": 254000.0,
+   "id": "1682547",
+   "offerte": 83,
+   "offerenti": 12,
+   "rilanci": 71,
+   "prezzo": 186000.0,
    "etichetta": "Miglior offerta",
-   "termine": "27/10/2026 16:00",
+   "termine": "27/10/2026 16:15",
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 587
+   "visite": 454
+  },
+  {
+   "id": "1682552",
+   "offerte": 115,
+   "offerenti": 14,
+   "rilanci": 101,
+   "prezzo": 256000.0,
+   "etichetta": "Miglior offerta",
+   "termine": "27/10/2026 16:15",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": "",
+   "visite": 588
   },
   {
    "id": "1732819",
