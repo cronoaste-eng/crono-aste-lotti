@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-27T15:44:12+00:00",
+ "aggiornato": "2026-10-27T15:45:10+00:00",
  "lotti": [
   {
    "id": "1682550",
@@ -20,12 +20,12 @@
    "offerenti": 8,
    "rilanci": 65,
    "prezzo": 175000.0,
-   "etichetta": "Miglior offerta",
+   "etichetta": "Prezzo di aggiudicazione",
    "termine": "27/10/2026 16:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
-   "visite": 533
+   "stato_asta": "Gara chiusa - Gara aggiudicata",
+   "stato": "conclusa",
+   "esito": "con offerte",
+   "visite": 535
   },
   {
    "id": "1682545",
@@ -33,11 +33,11 @@
    "offerenti": 9,
    "rilanci": 69,
    "prezzo": 174000.0,
-   "etichetta": "Miglior offerta",
+   "etichetta": "Prezzo di aggiudicazione",
    "termine": "27/10/2026 16:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
+   "stato_asta": "Gara chiusa - Gara aggiudicata",
+   "stato": "conclusa",
+   "esito": "con offerte",
    "visite": 411
   },
   {
@@ -46,11 +46,11 @@
    "offerenti": 12,
    "rilanci": 74,
    "prezzo": 192000.0,
-   "etichetta": "Miglior offerta",
+   "etichetta": "Prezzo di aggiudicazione",
    "termine": "27/10/2026 16:45",
-   "stato_asta": "Gara aperta - Iscrizioni chiuse",
-   "stato": "attiva",
-   "esito": "",
+   "stato_asta": "Gara chiusa - Gara aggiudicata",
+   "stato": "conclusa",
+   "esito": "con offerte",
    "visite": 460
   },
   {
@@ -64,7 +64,7 @@
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": "",
-   "visite": 599
+   "visite": 600
   },
   {
    "id": "1732819",
