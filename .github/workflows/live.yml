@@ -1,30 +1,42 @@
 name: Monitoraggio live
 on:
   schedule:
-    - cron: "*/5 5-20 * * *"   # UTC; lo script lavora solo 07:00-21:00 ora di Roma
+    - cron: "*/20 5-20 * * *"   # UTC; riavvio di sicurezza (il ciclo si rilancia da solo)
   workflow_dispatch: {}
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: live
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   live:
     runs-on: ubuntu-24.04
-    timeout-minutes: 8
+    timeout-minutes: 32
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install requests==2.34.2 beautifulsoup4==4.15.0 soupsieve==2.9.2 urllib3==2.8.0 certifi==2026.7.22 idna==3.20 charset-normalizer==3.5.1 typing-extensions==4.16.0
-      - run: python live.py
-      - name: Salva se cambiato
+      - name: Ciclo live (una lettura circa al minuto per 25 minuti)
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "monitoraggio-live"
           git config user.email "actions@users.noreply.github.com"
-          git add data/live.json || true
-          git diff --staged --quiet || (git commit -m "Live" && (git push || (git pull --rebase -X theirs && git push)))
+          fine=$((SECONDS + 1500))
+          fuori=0
+          while [ $SECONDS -lt $fine ]; do
+            rc=0
+            python live.py || rc=$?
+            if [ "$rc" -eq 3 ]; then fuori=1; break; fi
+            git add data/live.json || true
+            git diff --staged --quiet || (git commit -q -m "Live" && (git push -q || (git pull -q --rebase -X theirs && git push -q)))
+            sleep 40
+            git pull -q --rebase -X theirs || true   # dati freschi di lotti.json / archivio.json
+          done
+          if [ "$fuori" -eq 0 ]; then gh workflow run live.yml || true; fi   # riparte subito, senza aspettare il cron
