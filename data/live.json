@@ -1,57 +1,57 @@
 {
- "aggiornato": "2026-10-28T15:22:46+00:00",
+ "aggiornato": "2026-10-28T15:24:16+00:00",
  "lotti": [
   {
    "id": "1732819",
-   "offerte": null,
-   "offerenti": null,
-   "rilanci": null,
+   "offerte": 0,
+   "offerenti": 0,
+   "rilanci": 0,
    "prezzo": 150.0,
    "etichetta": "Miglior offerta",
    "termine": "13/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Gara aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 143
+   "visite": 145
   },
   {
    "id": "1706372",
-   "offerte": null,
-   "offerenti": null,
-   "rilanci": null,
+   "offerte": 0,
+   "offerenti": 0,
+   "rilanci": 0,
    "prezzo": 68828.91,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 114
+   "visite": 115
   },
   {
    "id": "1706373",
-   "offerte": null,
-   "offerenti": null,
-   "rilanci": null,
+   "offerte": 0,
+   "offerenti": 0,
+   "rilanci": 0,
    "prezzo": 13183.59,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 111
+   "visite": 112
   },
   {
    "id": "1725834",
-   "offerte": null,
-   "offerenti": null,
-   "rilanci": null,
+   "offerte": 0,
+   "offerenti": 0,
+   "rilanci": 0,
    "prezzo": 150.0,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 276
+   "visite": 277
   }
  ]
 }
