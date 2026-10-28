@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28T19:04:12+00:00",
+ "aggiornato": "2026-10-28T19:58:57+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -2254,7 +2254,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/19/0181281998.jpg",
-   "visite": 74,
+   "visite": 75,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-minions-kid-taglia-140-x104-140x-x45-b76-raejc05ic05-rossignol-sci-minions-kid-taglia-1714789.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -3622,7 +3622,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/07/0181280722.png",
-   "visite": 94,
+   "visite": 95,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714780.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -7118,7 +7118,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 208,
+   "visite": 209,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -7140,7 +7140,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "28/10/2026 20:04",
+   "canali_controllati_il": "28/10/2026 20:58",
    "dett": true
   },
   {
