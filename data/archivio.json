@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-28T22:53:24+00:00",
+ "aggiornato": "2026-10-28T23:50:33+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -1608,7 +1608,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/21/77/0180217743.jpg",
-   "visite": 173,
+   "visite": 174,
    "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-veicolo-bredamenainibus-modello-m-231-gv-tg-cv691as-imm-12-07-2005-valore-del-lotto-6-1699596.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 3645.7,
@@ -3166,7 +3166,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/29/02/0181290267.jpg",
-   "visite": 222,
+   "visite": 223,
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-costituito-da-rossignol-sci-hero-elite-long-turn-taglia-162cm-rosso-e-bianco-raddr02-dr02d-look-fcic006-spx-1714807.html",
    "cloud_pubblicata": "07/10/2026 12:34",
    "prezzo_minimo": null,
@@ -3622,7 +3622,7 @@
    "stato": "conclusa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/28/07/0181280722.png",
-   "visite": 96,
+   "visite": 97,
    "url": "https://cronoaste.fallcoaste.it/vendita/everfit-ellittica-efk-500-1714780.html",
    "cloud_pubblicata": "07/10/2026 10:36",
    "prezzo_minimo": null,
@@ -6026,7 +6026,7 @@
    "stato": "conclusa",
    "esito": "senza offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/75/88/98/0175889882.jpg",
-   "visite": 266,
+   "visite": 267,
    "url": "https://cronoaste.fallcoaste.it/vendita/nissan-v-i-tk-56-35-atleon-1685964.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": null,
@@ -7118,7 +7118,7 @@
    "stato": "sospesa",
    "esito": "con offerte",
    "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/80/90/02/0180900211.jpg",
-   "visite": 212,
+   "visite": 213,
    "url": "https://cronoaste.fallcoaste.it/vendita/appartamento-comune-di-paola-foglio-15-p-lla-100-sub-4trattasi-di-un-appartamento-per-civile-abitazione-ubicato-al-1686284.html",
    "cloud_pubblicata": "02/10/2026 17:31",
    "prezzo_minimo": 18360.0,
@@ -7140,7 +7140,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "28/10/2026 23:53",
+   "canali_controllati_il": "29/10/2026 00:50",
    "dett": true
   },
   {
