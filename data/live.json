@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-29T08:42:33+00:00",
+ "aggiornato": "2026-10-29T08:51:55+00:00",
  "lotti": [
   {
    "id": "1732819",
@@ -12,7 +12,7 @@
    "stato_asta": "Gara aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 182
+   "visite": 183
   },
   {
    "id": "1706372",
@@ -25,7 +25,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 134
+   "visite": 135
   },
   {
    "id": "1706373",
@@ -38,7 +38,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 131
+   "visite": 132
   },
   {
    "id": "1725834",
@@ -51,7 +51,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 303
+   "visite": 304
   }
  ]
 }
