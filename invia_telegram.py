@@ -15,6 +15,7 @@ import re
 import sys
 import time
 from datetime import datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 import requests
@@ -22,7 +23,8 @@ import requests
 DATA = Path(__file__).parent / "data"
 LOTTI = DATA / "lotti.json"
 INVIATI = DATA / "inviati.json"
-MAX_PER_ESECUZIONE = 5   # al massimo 5 beni nuovi per ogni giro (ogni ora)
+MAX_PER_ESECUZIONE = 2   # al massimo 2 beni nuovi per ogni giro (ogni ora): messaggi scaglionati
+ORA_DA, ORA_A = 9, 19    # si invia solo lun-ven dalle 9:00 alle 19:00 (ora italiana); fuori orario i beni aspettano
 MAX_MEMORIA = 3000       # quanti id ricordare
 PIATTAFORMA = "https://cronoaste.fallcoaste.it"
 
@@ -104,6 +106,11 @@ def main():
     chat = os.environ.get("TELEGRAM_CHAT_ID", "").strip()
     if not dry and not (token and chat):
         print("Telegram: codici non impostati, non faccio nulla.")
+        return
+    adesso = datetime.now(ZoneInfo("Europe/Rome"))
+    ora = adesso.hour
+    if not dry and (adesso.weekday() >= 5 or not (ORA_DA <= ora < ORA_A)):
+        print(f"Telegram: fuori orario (giorno {adesso.weekday()}, {ora}:xx), i beni nuovi aspettano.")
         return
     dati = carica(LOTTI)
     lotti = [l for l in (dati or {}).get("lotti", []) if l.get("id")]
