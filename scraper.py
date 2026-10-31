@@ -34,7 +34,7 @@ HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
                      "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
                      "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "valore_stima")
-NUOVI_CAMPI = ("prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
+NUOVI_CAMPI = ("prezzo_base", "offerte", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
                "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata", "valore_stima")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
@@ -371,8 +371,14 @@ def pulisci(lotti):
     return lotti
 
 
+CAMPI_RISERVATI = ("visite", "offerenti")  # dati interni: non vanno nei file pubblici (li legge il Gestionale dal Worker con chiave)
+
+
 def salva(path, lotti):
     lotti = pulisci(lotti)
+    for l in lotti:
+        for k in CAMPI_RISERVATI:
+            l.pop(k, None)
     for l in lotti:  # dato non disponibile = null
         for k in NUOVI_CAMPI:
             l.setdefault(k, None)
