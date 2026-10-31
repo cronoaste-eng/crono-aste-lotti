@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-10-31T09:09:55+00:00",
+ "aggiornato": "2026-10-31T09:13:08+00:00",
  "lotti": [
   {
    "id": "1732819",
@@ -51,7 +51,7 @@
    "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": "",
-   "visite": 403
+   "visite": 404
   }
  ]
 }
