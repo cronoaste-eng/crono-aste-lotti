@@ -184,7 +184,6 @@ def main():
             {
                 "id": i,
                 "offerte": pag["offerte"],
-                "offerenti": pag["offerenti"],
                 "rilanci": pag["rilanci"],
                 "prezzo": pag["prezzo"] if pag["prezzo"] is not None else l.get("prezzo"),
                 "etichetta": pag["etichetta"] or l.get("etichetta", ""),
@@ -192,7 +191,6 @@ def main():
                 "stato_asta": pag["stato_asta"],
                 "stato": stato,
                 "esito": esito,
-                "visite": pag["visite"] if pag["visite"] is not None else l.get("visite"),
             }
         )
     risultato.sort(key=lambda x: (quando(x["termine"]) or ora, x["id"]))
