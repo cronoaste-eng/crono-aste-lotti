@@ -15,9 +15,10 @@ jobs:
         env:
           CHIAVE_EVENTI: ${{ secrets.CHIAVE_EVENTI }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID_PRIVATA }}
         run: |
           set -eu
+          [ -n "$TELEGRAM_CHAT_ID" ] || { echo "manca TELEGRAM_CHAT_ID_PRIVATA"; exit 1; }
           curl -fsS -H "X-Chiave-Eventi: $CHIAVE_EVENTI" https://cronoaste.cloud/api/eventi -o eventi.json
           OGGI=$(TZ=Europe/Rome date -d yesterday +%F)
           python3 - "$OGGI" > messaggio.txt <<'PY'
