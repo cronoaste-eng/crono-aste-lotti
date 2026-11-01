@@ -1,0 +1,17 @@
+name: Cancella messaggio Telegram (una tantum)
+
+on:
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  cancella:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cancella il messaggio 135
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/deleteMessage" -d chat_id="$TELEGRAM_CHAT_ID" -d message_id=135 | python3 -c "import sys,json; r=json.load(sys.stdin); print('ok' if r.get('ok') else 'errore: '+str(r.get('description')))"
