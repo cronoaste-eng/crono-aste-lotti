@@ -1,0 +1,30 @@
+name: Promemoria email scadenze
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # ogni giorno, circa le 9 in Italia (ora solare; con l ora legale le 10)
+  workflow_dispatch:
+    inputs:
+      prova:
+        description: "prova = calcola senza inviare"
+        type: choice
+        options: ["si", "no"]
+        default: "si"
+
+permissions: {}
+
+jobs:
+  invia:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Chiama il sito per i promemoria
+        env:
+          CHIAVE_PROMEMORIA: ${{ secrets.CHIAVE_PROMEMORIA }}
+          PROVA: ${{ github.event_name == 'workflow_dispatch' && inputs.prova || 'no' }}
+        run: |
+          set -eu
+          [ -n "$CHIAVE_PROMEMORIA" ] || { echo "manca CHIAVE_PROMEMORIA"; exit 1; }
+          URL=https://cronoaste.cloud/api/invia-promemoria
+          [ "$PROVA" = "si" ] && URL="$URL?prova=1"
+          curl -fsS -X POST -H "X-Chiave-Promemoria: $CHIAVE_PROMEMORIA" "$URL"
+          echo
