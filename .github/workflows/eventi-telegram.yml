@@ -1,0 +1,36 @@
+name: Contatore eventi su Telegram
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # ogni giorno, circa le 9 in Italia (ora solare; con l ora legale le 10)
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  invia:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Leggi i numeri e manda il riepilogo
+        env:
+          CHIAVE_EVENTI: ${{ secrets.CHIAVE_EVENTI }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -eu
+          curl -fsS -H "X-Chiave-Eventi: $CHIAVE_EVENTI" https://cronoaste.cloud/api/eventi -o eventi.json
+          OGGI=$(TZ=Europe/Rome date -d yesterday +%F)
+          python3 - "$OGGI" > messaggio.txt <<'PY'
+          import json, sys
+          oggi = sys.argv[1]
+          g = json.load(open("eventi.json")).get("giorni", {})
+          nomi = [("salva_asta", "Salvati (cuore)"), ("rimuovi_asta", "Tolti"), ("apri_mie_aste", "Aperture Le mie aste")]
+          def n(d, k): return int(g.get(d, {}).get(k, 0))
+          righe = ["Crono Aste - contatore di ieri (%s)" % oggi]
+          for k, t in nomi:
+              tot = sum(int(v.get(k, 0)) for v in g.values())
+              righe.append("%s: ieri %d, totale %d" % (t, n(oggi, k), tot))
+          print("\n".join(righe))
+          PY
+          curl -fsS "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" --data-urlencode text@messaggio.txt -o /dev/null
