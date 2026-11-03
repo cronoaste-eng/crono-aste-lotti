@@ -39,4 +39,13 @@ jobs:
             sleep 40
             git pull -q --rebase -X theirs || true   # dati freschi di lotti.json / archivio.json
           done
+          # Avvio affidabile degli altri workflow (i cron di GitHub saltano): si agganciano al ciclo live
+          h=$(date -u +%H); g=$(date -u +%u); oggi=$(date -u +%F)
+          if [ "$g" -le 5 ] && [ "$h" -ge 7 ] && [ "$h" -le 18 ]; then gh workflow run social.yml || true; fi
+          if [ "$h" -ge 8 ] && [ "$h" -le 10 ]; then
+            for w in eventi-telegram.yml promemoria.yml; do
+              n=$(gh run list --workflow "$w" --created "$oggi" -L 1 --json databaseId --jq length 2>/dev/null || echo 1)
+              if [ "$n" = "0" ]; then gh workflow run "$w" || true; fi
+            done
+          fi
           if [ "$fuori" -eq 0 ]; then gh workflow run live.yml || true; fi   # riparte subito, senza aspettare il cron
