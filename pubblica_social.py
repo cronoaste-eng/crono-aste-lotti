@@ -34,6 +34,7 @@ BASE = Path(__file__).parent
 LOTTI = BASE / "data" / "lotti.json"
 STATO = BASE / "state_social" / "stato.json"
 USCITA = BASE / "out_social"
+REGISTRO = BASE / "data" / "social_log.json"  # registro permanente dei post (letto dal Gestionale)
 MODE = (os.environ.get("SOCIAL_MODE") or "dry").strip().lower()
 FORCE = os.environ.get("SOCIAL_FORCE") == "1"
 STORIE = os.environ.get("SOCIAL_STORIE", "1") != "0"
@@ -293,6 +294,7 @@ def main():
     token_ig = rinnova_token(stato) if MODE in ("uno", "send", "storia") else IG_TOKEN
     errori = 0
     nuove_storie = []
+    registro = carica(REGISTRO) or []
     for l in da_fare:
         l["titolo"] = titolo_completo(l)
         if MODE == "storia":
@@ -312,6 +314,9 @@ def main():
             errori += 1
             break  # nulla pubblicato: riproveremo alla prossima esecuzione
         print("Facebook ok: bene %s (foto %s)." % (l["id"], foto_id))
+        voce = {"id": l["id"], "titolo": l.get("titolo"), "tribunale": l.get("tribunale"), "asta": l.get("inizio"),
+                "facebook": adesso.isoformat(timespec="seconds"), "instagram": None}
+        registro.append(voce)
         visti.add(l["id"])  # su Facebook e' uscito: non lo ripubblichiamo mai piu'
         stato.setdefault("giorni", {})[oggi] = stato.get("giorni", {}).get(oggi, 0) + 1
         try:
@@ -319,6 +324,7 @@ def main():
                 raise RuntimeError("manca il token Instagram o l'immagine")
             post = pubblica_instagram(url_img, didascalia(l, True), token_ig)
             print("Instagram ok: bene %s (post %s)." % (l["id"], post))
+            voce["instagram"] = adesso.isoformat(timespec="seconds")
         except Exception as e:  # noqa: BLE001
             print("ERRORE Instagram, bene %s: %s" % (l["id"], e), file=sys.stderr)
             errori += 1
@@ -346,6 +352,9 @@ def main():
         stato["giorni"] = {k: v for k, v in stato.get("giorni", {}).items() if k >= oggi[:8] + "01"}
         STATO.parent.mkdir(exist_ok=True)
         STATO.write_text(json.dumps(stato), encoding="utf-8")
+        if MODE in ("uno", "send"):
+            REGISTRO.parent.mkdir(exist_ok=True)
+            REGISTRO.write_text(json.dumps(registro, ensure_ascii=False, indent=1), encoding="utf-8")
     return 1 if errori else 0
 
 
