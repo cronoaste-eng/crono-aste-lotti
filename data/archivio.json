@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-03T13:42:40+00:00",
+ "aggiornato": "2026-11-03T18:28:40+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -55,6 +55,7 @@
    "termine_bonifico": "02/11/2026 13:00",
    "pubblicata": "01/10/2026 11:11",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 13.0,
    "offerte": 1,
    "rilanci": 0,
@@ -67,9 +68,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "01/10/2026 11:11",
-   "valore_stima": null,
    "canali_controllati_il": "03/11/2026 14:42",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1685918",
@@ -8094,7 +8094,7 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
-   "canali_controllati_il": "03/11/2026 14:42",
+   "canali_controllati_il": "03/11/2026 19:28",
    "dett": true
   },
   {
