@@ -1,40 +1,6 @@
 {
- "aggiornato": "2026-11-03T10:55:07+00:00",
+ "aggiornato": "2026-11-03T13:41:53+00:00",
  "lotti": [
-  {
-   "id": "1705993",
-   "titolo": "N°1 Aspirapolvere a traino con sacco marca ROWENTA, modello RO6455EA; - N°1 Scaletta a due gr...",
-   "tribunale": "Catania",
-   "procedura": "226/2021",
-   "tipo": "Asincrona telematica",
-   "prezzo": 13.0,
-   "etichetta": "Prezzo base",
-   "inizio": "03/11/2026 12:00",
-   "termine": "05/11/2026 12:00",
-   "stato": "attiva",
-   "esito": "",
-   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/81/03/60/0181036017.jpg",
-   "url": "https://cronoaste.fallcoaste.it/vendita/n-1-aspirapolvere-a-traino-con-sacco-marca-rowenta-modello-ro6455ea-n-1-scaletta-a-due-gradini-in-metallo-1705993.html",
-   "cloud_pubblicata": "02/10/2026 17:31",
-   "prezzo_minimo": null,
-   "termine_carta": "02/11/2026 13:00",
-   "termine_bonifico": "02/11/2026 13:00",
-   "pubblicata": "01/10/2026 11:11",
-   "lotto": "Lotto 2",
-   "dett": true,
-   "prezzo_base": 13.0,
-   "offerte": 0,
-   "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
-   "stato_asta_il": null,
-   "avviso_gara": null,
-   "genere": null,
-   "categoria": null,
-   "beni_tipologie": null,
-   "pvp_pubblicata": null,
-   "canali_controllati_il": null,
-   "valore_stima": null
-  },
   {
    "id": "1609379",
    "titolo": "Quota indivisa pari a 1/9 del diritto di piena proprietà dell'immobile sito in Rende (CS), c.d...",
@@ -2965,6 +2931,7 @@
    "termine_bonifico": "19/01/2027 23:59",
    "pubblicata": "03/11/2026 08:49",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 6000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -2977,9 +2944,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "03/11/2026 08:49",
-   "valore_stima": null,
    "canali_controllati_il": "03/11/2026 11:55",
-   "dett": true
+   "valore_stima": null
   }
  ]
 }
