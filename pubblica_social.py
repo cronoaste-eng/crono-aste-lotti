@@ -48,7 +48,7 @@ IG_USER = os.environ.get("IG_USER_ID") or "17841445610038092"
 GRAPH_FB = "https://graph.facebook.com"
 GRAPH_IG = "https://graph.instagram.com"
 PIATTAFORMA = "https://cronoaste.fallcoaste.it"
-SITO_BENI = "https://cronoaste.cloud/beni/?utm_source=facebook&utm_medium=social&utm_campaign=bene_nuovo"
+SITO_BENI = "https://cronoaste.cloud/beni-in-vendita/?utm_source=facebook&utm_medium=social&utm_campaign=bene_nuovo"
 RINNOVO_GIORNI = 30   # il token Instagram dura 60 giorni: lo rinnoviamo dopo 30
 
 
