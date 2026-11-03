@@ -48,6 +48,7 @@ IG_USER = os.environ.get("IG_USER_ID") or "17841445610038092"
 GRAPH_FB = "https://graph.facebook.com"
 GRAPH_IG = "https://graph.instagram.com"
 PIATTAFORMA = "https://cronoaste.fallcoaste.it"
+SITO_BENI = "https://cronoaste.cloud/beni/?utm_source=facebook&utm_medium=social&utm_campaign=bene_nuovo"
 RINNOVO_GIORNI = 30   # il token Instagram dura 60 giorni: lo rinnoviamo dopo 30
 
 
@@ -122,6 +123,8 @@ def didascalia(l, instagram):
         righe.append("#asteGiudiziarie #venditeGiudiziarie #cronoaste")
     else:
         righe.append("Vedi il bene e partecipa: %s" % (l.get("url") or PIATTAFORMA))
+        righe.append("")
+        righe.append("Tutti i beni in vendita: %s" % SITO_BENI)
     return "\n".join(righe)
 
 
