@@ -101,19 +101,66 @@ def titolo_completo(l):
     return t
 
 
+REGIONI = {"catania": "Sicilia", "siracusa": "Sicilia", "caltagirone": "Sicilia", "patti": "Sicilia", "enna": "Sicilia",
+           "barcellona pozzo di gotto": "Sicilia", "messina": "Sicilia", "palermo": "Sicilia", "cosenza": "Calabria",
+           "paola": "Calabria", "castrovillari": "Calabria", "milano": "Lombardia", "teramo": "Abruzzo"}
+TEMI = [  # (parole nel titolo, etichetta, hashtag)
+    (("veicolo", "autovettura", "auto ", "autocarro", "camion", "motociclo", "motoveicolo", "scooter", "rimorchio"), "Veicolo", "#autousate #motousate"),
+    (("villa", "appartamento", "immobile", "abitazione", "fabbricato", "quota indivisa", "locale"), "Immobile", "#immobili #casaallasta"),
+    (("terreno", "terreni"), "Terreno", "#terreni #terrenoinvendita"),
+    (("azienda", "punto vendita", "compendio"), "Azienda", "#aziendainvendita #cessioneazienda"),
+    (("imbarcazione",), "Imbarcazione", "#barche #nautica"),
+    (("arred", "mobilio", "divano", "letto", "tavolo", "armadio", "vetrina", "elettrodomestic", "pianoforte", "biliardo", "calcio balilla"), "Arredi", "#arredamento #occasione"),
+    (("bancone", "macchin", "attrezzature", "gruppo elettrogeno", "gru", "frigo", "utensileria"), "Attrezzature", "#attrezzature #macchinari"),
+]
+
+
+def tema(l):
+    t = ((l.get("titolo") or "") + " " + (l.get("categoria") or "")).lower()
+    for parole, nome, tag in TEMI:
+        if any(p in t for p in parole):
+            return nome, tag
+    return "Bene", "#occasione"
+
+
+def giorni_a(l):
+    d = scadenza(l)
+    return max(0, (d - datetime.now(ZoneInfo("Europe/Rome")).replace(tzinfo=None)).days)
+
+
+def hashtag(l):
+    reg = REGIONI.get((l.get("tribunale") or "").strip().lower())
+    tag = ["#asteGiudiziarie", "#venditeGiudiziarie", "#cronoaste"]
+    if reg:
+        tag.append("#" + reg.replace(" ", ""))
+    cit = re.sub(r"[^a-z]", "", (l.get("tribunale") or "").lower())
+    if cit:
+        tag.append("#" + cit)
+    tag.append(tema(l)[1])
+    return " ".join(tag)
+
+
 def didascalia(l, instagram):
     min_ = l.get("prezzo_minimo")
     prezzo = min_ if min_ is not None else l.get("prezzo")
     etichetta = "Offerta minima" if min_ is not None else "Prezzo base"
+    nome, _ = tema(l)
+    dep = l.get("termine_carta") or l.get("termine_bonifico") or ""
+    ini = (l.get("inizio") or "").split(" ")
+    if prezzo is not None and prezzo >= 100:
+        gancio = "%s da € %s" % (nome, euro(prezzo))
+    else:
+        gancio = "%s all'asta" % nome
+    if l.get("tribunale"):
+        gancio += " - " + l["tribunale"]
+    n = giorni_a(l)
+    scad = ("ULTIMI GIORNI: offerte entro il %s" % dep.split(" ")[0]) if (dep and n <= 7) else ""
     testa = "Trib. %s - Proc. %s" % (l.get("tribunale") or "-", l.get("procedura") or "-")
     if l.get("lotto"):
         testa += " - " + l["lotto"]
-    titolo = l.get("titolo") or ""
-    righe = ["Nuovo bene in vendita", testa, "", titolo, ""]
+    righe = [gancio] + ([scad] if scad else []) + ["", l.get("titolo") or "", "", testa]
     if prezzo is not None:
         righe.append("%s: € %s" % (etichetta, euro(prezzo)))
-    dep = l.get("termine_carta") or l.get("termine_bonifico") or ""
-    ini = (l.get("inizio") or "").split(" ")
     if dep:
         righe.append("Offerte entro %s" % dep)
     if ini[0]:
@@ -121,7 +168,7 @@ def didascalia(l, instagram):
     righe.append("")
     if instagram:
         righe.append("Dettagli e offerte: link in bio")
-        righe.append("#asteGiudiziarie #venditeGiudiziarie #cronoaste")
+        righe.append(hashtag(l))
     else:
         righe.append("Vedi il bene e partecipa: %s" % (l.get("url") or PIATTAFORMA))
         righe.append("")
