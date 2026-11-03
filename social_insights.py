@@ -16,7 +16,7 @@ from zoneinfo import ZoneInfo
 import requests
 
 MODE = (os.environ.get("SOCIAL_INSIGHTS_MODE") or "permessi").strip().lower()
-FB_TOKEN = os.environ.get("FB_PAGE_TOKEN", "")
+FB_TOKEN = os.environ.get("FB_INSIGHTS_TOKEN") or os.environ.get("FB_PAGE_TOKEN", "")  # token di sola lettura se presente
 FB_PAGE = os.environ.get("FB_PAGE_ID", "")
 IG_TOKEN = os.environ.get("INSTAGRAM_TOKEN", "")
 IG_USER = os.environ.get("IG_USER_ID") or "17841445610038092"
@@ -187,6 +187,9 @@ def raccogli(scrivi):
                 print("  extra FB %s somma %d giorni: %s" % (nome, GIORNI, sum((s_.get(g) or 0) for g in giorni)))
         print("Ultimi 3 giorni:", json.dumps(doc["giorni"][-3:]))
         return 0
+    if not any(serie.values()):
+        print("Facebook non ha restituito dati (manca il permesso read_insights?): file NON aggiornato.", file=sys.stderr)
+        return 1
     if e1 or e2:
         print("Errori nelle chiamate (%d): file NON aggiornato." % (e1 + e2), file=sys.stderr)
         return 1
