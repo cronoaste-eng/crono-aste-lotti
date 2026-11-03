@@ -17,8 +17,8 @@ jobs:
     runs-on: ubuntu-24.04
     timeout-minutes: 32
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: "3.12"
       - run: pip install requests==2.34.2 beautifulsoup4==4.15.0 soupsieve==2.9.2 urllib3==2.8.0 certifi==2026.7.22 idna==3.20 charset-normalizer==3.5.1 typing-extensions==4.16.0
@@ -33,6 +33,7 @@ jobs:
           while [ $SECONDS -lt $fine ]; do
             rc=0
             python live.py || rc=$?
+            python check_pubblici.py || { git checkout -- data/live.json; echo "STOP: campi riservati nei dati"; exit 1; }
             if [ "$rc" -eq 3 ]; then fuori=1; break; fi
             git add data/live.json || true
             git diff --staged --quiet || (git commit -q -m "Live" && (git push -q || (git pull -q --rebase -X theirs && git push -q)))
@@ -42,10 +43,11 @@ jobs:
           # Avvio affidabile degli altri workflow (i cron di GitHub saltano): si agganciano al ciclo live
           h=$(date -u +%H); g=$(date -u +%u); oggi=$(date -u +%F)
           if [ "$g" -le 5 ] && [ "$h" -ge 7 ] && [ "$h" -le 18 ]; then gh workflow run social.yml || true; fi
-          if [ "$h" -ge 8 ] && [ "$h" -le 10 ]; then
+          if [ "$h" -ge 8 ] && [ "$h" -le 17 ]; then
+            declare -A ARG=([promemoria.yml]="-f prova=no")   # senza questo il promemoria girerebbe in prova e non invierebbe
             for w in eventi-telegram.yml promemoria.yml; do
               n=$(gh run list --workflow "$w" --created "$oggi" -L 1 --json databaseId --jq length 2>/dev/null || echo 1)
-              if [ "$n" = "0" ]; then gh workflow run "$w" || true; fi
+              if [ "$n" = "0" ]; then gh workflow run "$w" ${ARG[$w]:-} || true; fi
             done
           fi
           if [ "$fuori" -eq 0 ]; then gh workflow run live.yml || true; fi   # riparte subito, senza aspettare il cron

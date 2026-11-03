@@ -13,6 +13,10 @@ on:
 
 permissions: {}
 
+concurrency:
+  group: promemoria
+  cancel-in-progress: false
+
 jobs:
   invia:
     runs-on: ubuntu-latest
