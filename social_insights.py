@@ -2,6 +2,10 @@
 """Statistiche Facebook/Instagram in sola lettura. Solo ASCII. Non stampa mai i token.
 
 SOCIAL_INSIGHTS_MODE=permessi : prova permessi e metriche disponibili (nessuna scrittura)
+SOCIAL_INSIGHTS_MODE=prova    : raccoglie gli ultimi 28 giorni e stampa i totali (nessuna scrittura)
+SOCIAL_INSIGHTS_MODE=raccogli : come prova, e scrive data/social_insights.json (solo se i dati sono completi)
+
+Solo conteggi aggregati per giorno, mai dati di persone. I giorni sono quelli di Meta (fuso Pacifico), non Europe/Rome.
 """
 import json
 import os
@@ -91,8 +95,113 @@ def permessi():
     return 0
 
 
+GIORNI = 28
+FB_METRICHE = {"visualizzazioni": "page_media_view", "interazioni": "page_post_engagements", "clic": "page_total_actions",
+               "visualizzazioni_profilo": "page_views_total", "nuovi_follower": "page_daily_follows"}
+FB_EXTRA = ["page_total_media_view_unique", "page_actions_post_reactions_total", "page_follows"]
+IG_METRICHE = {"visualizzazioni": "views", "interazioni": "total_interactions", "clic": "profile_links_taps",
+               "visualizzazioni_profilo": "profile_views"}
+
+
+def vuoto():
+    return {k: None for k in list(FB_METRICHE)}
+
+
+def somma_valore(v):
+    if isinstance(v, dict):  # alcune metriche danno un dettaglio (es. reazioni per tipo)
+        return sum(x for x in v.values() if isinstance(x, (int, float)))
+    return v
+
+
+def facebook(giorni, extra=False):
+    """{giorno: {metrica: valore}} dalla Pagina. Il giorno e' quello che finisce a end_time (data di Meta, fuso Pacifico)."""
+    oggi = datetime.now(ZoneInfo("Europe/Rome")).date()
+    out, errori = {g: vuoto() for g in giorni}, 0
+    elenco = dict(FB_METRICHE)
+    if extra:
+        elenco.update({m: m for m in FB_EXTRA})
+    serie = {}
+    for nome, m in elenco.items():
+        c, j = chiama("%s/%s/insights" % (GRAPH_FB, FB_PAGE),
+                      {"metric": m, "period": "day", "since": (oggi - timedelta(days=GIORNI + 2)).isoformat(),
+                       "until": (oggi + timedelta(days=1)).isoformat()}, FB_TOKEN)
+        if c != 200 or not j.get("data"):
+            print("  Facebook %s: %s" % (m, esito(c, j)), file=sys.stderr)
+            errori += 1
+            continue
+        for v in j["data"][0].get("values", []):
+            fine = datetime.fromisoformat(v["end_time"].replace("Z", "+00:00").replace("+0000", "+00:00"))
+            g = (fine - timedelta(hours=12)).date().isoformat()
+            serie.setdefault(nome, {})[g] = somma_valore(v.get("value"))
+    for nome, s_ in serie.items():
+        for g in giorni:
+            if nome in FB_METRICHE:
+                out[g][nome] = s_.get(g)
+    return out, errori, serie
+
+
+def instagram(giorni):
+    out, errori = {g: vuoto() for g in giorni}, 0
+    for g in giorni:
+        d = datetime.fromisoformat(g).date()
+        c, j = chiama("%s/%s/insights" % (GRAPH_IG, IG_USER),
+                      {"metric": ",".join(IG_METRICHE.values()), "metric_type": "total_value", "period": "day",
+                       "since": g, "until": (d + timedelta(days=1)).isoformat()}, IG_TOKEN)
+        if c != 200 or not j.get("data"):
+            print("  Instagram %s: %s" % (g, esito(c, j)), file=sys.stderr)
+            errori += 1
+            continue
+        per_metrica = {x["name"]: x.get("total_value", {}).get("value") for x in j["data"]}
+        for nome, m in IG_METRICHE.items():
+            out[g][nome] = per_metrica.get(m)
+    c, j = chiama("%s/%s/insights" % (GRAPH_IG, IG_USER),
+                  {"metric": "follower_count", "period": "day", "since": giorni[0], "until": (datetime.fromisoformat(giorni[-1]).date() + timedelta(days=1)).isoformat()}, IG_TOKEN)
+    if c == 200 and j.get("data"):
+        for v in j["data"][0].get("values", []):
+            g = v["end_time"][:10]
+            # end_time e' l'inizio del giorno dopo quello misurato
+            g = (datetime.fromisoformat(g).date() - timedelta(days=1)).isoformat()
+            if g in out:
+                out[g]["nuovi_follower"] = v.get("value")
+    else:
+        print("  Instagram follower_count: %s" % esito(c, j), file=sys.stderr)
+        errori += 1
+    return out, errori
+
+
+def raccogli(scrivi):
+    oggi = datetime.now(ZoneInfo("Europe/Rome"))
+    giorni = [(oggi.date() - timedelta(days=i)).isoformat() for i in range(GIORNI, 0, -1)]
+    fb, e1, serie = facebook(giorni, extra=not scrivi)
+    ig, e2 = instagram(giorni)
+    doc = {"aggiornato": oggi.isoformat(timespec="seconds"),
+           "giorni": [{"giorno": g, "facebook": fb[g], "instagram": ig[g]} for g in giorni]}
+    print("Totali %d giorni (%s - %s):" % (GIORNI, giorni[0], giorni[-1]))
+    for piat, dati in (("facebook", fb), ("instagram", ig)):
+        tot = {k: sum((dati[g][k] or 0) for g in giorni) for k in vuoto()}
+        vuoti = sum(1 for g in giorni for k in vuoto() if dati[g][k] is None)
+        print("  %-10s %s  (valori mancanti: %d)" % (piat, json.dumps(tot), vuoti))
+    if not scrivi:
+        for nome, s_ in serie.items():
+            if nome in FB_EXTRA:
+                print("  extra FB %s somma %d giorni: %s" % (nome, GIORNI, sum((s_.get(g) or 0) for g in giorni)))
+        print("Ultimi 3 giorni:", json.dumps(doc["giorni"][-3:]))
+        return 0
+    if e1 or e2:
+        print("Errori nelle chiamate (%d): file NON aggiornato." % (e1 + e2), file=sys.stderr)
+        return 1
+    p = os.path.join("data", "social_insights.json")
+    os.makedirs("data", exist_ok=True)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(doc, f, ensure_ascii=False, indent=1)
+    print("Scritto", p)
+    return 0
+
+
 if __name__ == "__main__":
     if MODE == "permessi":
         sys.exit(permessi())
+    if MODE in ("prova", "raccogli"):
+        sys.exit(raccogli(MODE == "raccogli"))
     print("Modalita' sconosciuta:", MODE)
     sys.exit(1)
