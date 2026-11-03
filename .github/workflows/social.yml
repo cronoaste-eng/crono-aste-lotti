@@ -14,7 +14,7 @@ on:
         default: "0"
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: social
@@ -54,3 +54,15 @@ jobs:
           SOCIAL_STORIE: "1"
           SOCIAL_FORCE: ${{ github.event.inputs.force || '0' }}
         run: python3 pubblica_social.py
+
+      - name: Salva registro post
+        if: always()
+        run: |
+          if [ -f data/social_log.json ] && [ -n "$(git status --porcelain data/social_log.json)" ]; then
+            git config user.name "crono-aste-bot"
+            git config user.email "bot@cronoaste.cloud"
+            git add data/social_log.json
+            git commit -m "Registro post social"
+            git pull --rebase -q origin main
+            git push -q origin HEAD:main
+          fi
