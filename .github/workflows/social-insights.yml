@@ -31,6 +31,7 @@ jobs:
       - name: Statistiche
         env:
           FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          FB_INSIGHTS_TOKEN: ${{ secrets.FB_INSIGHTS_TOKEN }}
           FB_PAGE_ID: "174779944210177"
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
           SOCIAL_INSIGHTS_MODE: ${{ github.event.inputs.mode || 'raccogli' }}
