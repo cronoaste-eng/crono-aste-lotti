@@ -201,6 +201,13 @@ def raccogli(scrivi):
 if __name__ == "__main__":
     if MODE == "permessi":
         sys.exit(permessi())
+    if MODE == "debugfb":
+        for m, per in [("page_media_view", "day"), ("page_media_view", "days_28"), ("page_views_total", "day"), ("page_follows", "day")]:
+            c, j = chiama("%s/%s/insights" % (GRAPH_FB, FB_PAGE), {"metric": m, "period": per}, FB_TOKEN)
+            print(m, per, c, mask(json.dumps(j))[:600])
+        c, j = chiama("%s/%s/insights" % (GRAPH_FB, FB_PAGE), {"metric": "page_media_view", "period": "day", "date_preset": "last_7d"}, FB_TOKEN)
+        print("date_preset", c, mask(json.dumps(j))[:600])
+        sys.exit(0)
     if MODE in ("prova", "raccogli"):
         sys.exit(raccogli(MODE == "raccogli"))
     print("Modalita' sconosciuta:", MODE)
