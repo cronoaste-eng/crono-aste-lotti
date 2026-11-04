@@ -219,6 +219,28 @@ if __name__ == "__main__":
     usa_token_insights()
     if MODE == "permessi":
         sys.exit(permessi())
+    if MODE == "debugclic":
+        oggi = datetime.now(ZoneInfo("Europe/Rome")).date()
+        da = (oggi - timedelta(days=30)).isoformat()
+        c, j = chiama("%s/%s/posts" % (GRAPH_FB, FB_PAGE), {"fields": "id,created_time", "since": da, "limit": 100}, FB_TOKEN)
+        post = j.get("data", []) if c == 200 else []
+        print("post ultimi 30 giorni:", len(post), esito(c, j))
+        for m in ["post_clicks", "post_clicks_by_type", "post_engaged_users", "post_impressions", "post_media_view", "post_total_media_view_unique"]:
+            tot, ok, err = 0, 0, ""
+            for p in post[:60]:
+                c, j = chiama("%s/%s/insights" % (GRAPH_FB, p["id"]), {"metric": m}, FB_TOKEN)
+                if c == 200 and j.get("data"):
+                    v = j["data"][0].get("values", [{}])[0].get("value")
+                    tot += sum(v.values()) if isinstance(v, dict) else (v or 0)
+                    ok += 1
+                elif not err:
+                    err = esito(c, j)
+            print("  %-34s post con dato=%d totale=%s %s" % (m, ok, tot, err))
+        for m in ["page_total_actions", "page_website_clicks_logged_in_unique", "page_call_phone_clicks_logged_in_unique", "page_get_directions_clicks_logged_in_unique", "page_places_checkin_total"]:
+            c, j = chiama("%s/%s/insights" % (GRAPH_FB, FB_PAGE), {"metric": m, "period": "day", "since": da, "until": (oggi + timedelta(days=1)).isoformat()}, FB_TOKEN)
+            val = sum(somma_valore(v.get("value")) or 0 for v in j["data"][0].get("values", [])) if c == 200 and j.get("data") else None
+            print("  page %-45s %s totale=%s" % (m, esito(c, j), val))
+        sys.exit(0)
     if MODE == "debugfb":
         for m, per in [("page_media_view", "day"), ("page_media_view", "days_28"), ("page_views_total", "day"), ("page_follows", "day")]:
             c, j = chiama("%s/%s/insights" % (GRAPH_FB, FB_PAGE), {"metric": m, "period": per}, FB_TOKEN)
