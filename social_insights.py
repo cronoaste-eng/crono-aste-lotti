@@ -189,7 +189,9 @@ def instagram(giorni):
 
 def raccogli(scrivi):
     oggi = datetime.now(ZoneInfo("Europe/Rome"))
-    giorni = [(oggi.date() - timedelta(days=i)).isoformat() for i in range(GIORNI, 0, -1)]
+    # Il giorno di Meta (fuso Pacifico) finisce alle 07-08 UTC: prima delle 09 UTC "ieri" e' ancora incompleto, lo escludiamo
+    fine = 1 if datetime.now(ZoneInfo("UTC")).hour >= 9 else 2
+    giorni = [(oggi.date() - timedelta(days=i)).isoformat() for i in range(GIORNI + fine - 1, fine - 1, -1)]
     fb, e1, serie = facebook(giorni, extra=not scrivi)
     ig, e2 = instagram(giorni)
     doc = {"aggiornato": oggi.isoformat(timespec="seconds"),
