@@ -16,7 +16,8 @@ from zoneinfo import ZoneInfo
 import requests
 
 MODE = (os.environ.get("SOCIAL_INSIGHTS_MODE") or "permessi").strip().lower()
-FB_TOKEN = os.environ.get("FB_INSIGHTS_TOKEN") or os.environ.get("FB_PAGE_TOKEN", "")  # token di sola lettura se presente
+FB_USER_TOKEN = os.environ.get("FB_INSIGHTS_TOKEN", "")  # token utente di sola lettura (read_insights), se presente
+FB_TOKEN = os.environ.get("FB_PAGE_TOKEN", "")
 FB_PAGE = os.environ.get("FB_PAGE_ID", "")
 IG_TOKEN = os.environ.get("INSTAGRAM_TOKEN", "")
 IG_USER = os.environ.get("IG_USER_ID") or "17841445610038092"
@@ -26,7 +27,7 @@ GRAPH_IG = "https://graph.instagram.com/v23.0"
 
 def mask(s):
     s = str(s)
-    for t in (FB_TOKEN, IG_TOKEN):
+    for t in (FB_TOKEN, IG_TOKEN, FB_USER_TOKEN):
         if t:
             s = s.replace(t, "***")
     return s
@@ -44,6 +45,19 @@ def chiama(url, params, token):
         return r.status_code, j
     except Exception as e:  # noqa: BLE001
         return 0, {"error": {"message": mask(e)}}
+
+
+def usa_token_insights():
+    """Se c'e' il token utente di sola lettura, ne ricava il token della Pagina (non scade) e lo usa per le statistiche."""
+    global FB_TOKEN
+    if not FB_USER_TOKEN:
+        return
+    c, j = chiama("%s/%s" % (GRAPH_FB, FB_PAGE), {"fields": "access_token"}, FB_USER_TOKEN)
+    if c == 200 and j.get("access_token"):
+        FB_TOKEN = j["access_token"]
+        print("Facebook: uso il token di sola lettura (statistiche).")
+    else:
+        print("Facebook: token di sola lettura non valido (%s): uso quello di pubblicazione." % esito(c, j), file=sys.stderr)
 
 
 def esito(code, j):
@@ -202,6 +216,7 @@ def raccogli(scrivi):
 
 
 if __name__ == "__main__":
+    usa_token_insights()
     if MODE == "permessi":
         sys.exit(permessi())
     if MODE == "debugfb":
