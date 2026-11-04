@@ -2,7 +2,7 @@ name: Statistiche social
 
 on:
   schedule:
-    - cron: "20 6 * * *"
+    - cron: "20 9 * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -51,6 +51,10 @@ jobs:
             git config user.email "bot@cronoaste.cloud"
             git add data/social_insights.json
             git commit -m "Statistiche social"
-            git pull --rebase -q origin main
-            git push -q origin HEAD:main
+            for i in 1 2 3; do
+              git pull --rebase -q -X theirs origin main && git push -q origin HEAD:main && exit 0
+              sleep $((i * 5))
+            done
+            echo "Push non riuscito dopo 3 tentativi" >&2
+            exit 1
           fi
