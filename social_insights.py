@@ -110,15 +110,19 @@ def permessi():
 
 
 GIORNI = 28
-FB_METRICHE = {"visualizzazioni": "page_media_view", "interazioni": "page_post_engagements", "clic": "page_total_actions",
+# clic Facebook: l'API non li fornisce (le metriche dei clic danno sempre 0): restano null = "non disponibile"
+FB_METRICHE = {"visualizzazioni": "page_media_view", "interazioni": "page_post_engagements",
                "visualizzazioni_profilo": "page_views_total", "nuovi_follower": "page_daily_follows"}
 FB_EXTRA = ["page_total_media_view_unique", "page_actions_post_reactions_total", "page_follows"]
 IG_METRICHE = {"visualizzazioni": "views", "interazioni": "total_interactions", "clic": "profile_links_taps",
                "visualizzazioni_profilo": "profile_views"}
 
 
+CAMPI = ["visualizzazioni", "interazioni", "clic", "visualizzazioni_profilo", "nuovi_follower"]
+
+
 def vuoto():
-    return {k: None for k in list(FB_METRICHE)}
+    return {k: None for k in CAMPI}
 
 
 def somma_valore(v):
@@ -192,8 +196,8 @@ def raccogli(scrivi):
            "giorni": [{"giorno": g, "facebook": fb[g], "instagram": ig[g]} for g in giorni]}
     print("Totali %d giorni (%s - %s):" % (GIORNI, giorni[0], giorni[-1]))
     for piat, dati in (("facebook", fb), ("instagram", ig)):
-        tot = {k: sum((dati[g][k] or 0) for g in giorni) for k in vuoto()}
-        vuoti = sum(1 for g in giorni for k in vuoto() if dati[g][k] is None)
+        tot = {k: sum((dati[g][k] or 0) for g in giorni) for k in CAMPI}
+        vuoti = sum(1 for g in giorni for k in CAMPI if dati[g][k] is None)
         print("  %-10s %s  (valori mancanti: %d)" % (piat, json.dumps(tot), vuoti))
     if not scrivi:
         for nome, s_ in serie.items():
