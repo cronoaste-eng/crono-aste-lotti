@@ -1,11 +1,13 @@
 name: Statistiche social
 
 on:
+  schedule:
+    - cron: "20 6 * * *"
   workflow_dispatch:
     inputs:
       mode:
-        description: "permessi (prova token e metriche, sola lettura) o raccogli"
-        default: "permessi"
+        description: "raccogli (aggiorna data/social_insights.json), prova (solo totali) o permessi (prova token, sola lettura)"
+        default: "raccogli"
 
 permissions:
   contents: write
@@ -36,3 +38,19 @@ jobs:
           INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
           SOCIAL_INSIGHTS_MODE: ${{ github.event.inputs.mode || 'raccogli' }}
         run: python3 social_insights.py
+
+      - name: Controllo campi riservati
+        if: ${{ (github.event.inputs.mode || 'raccogli') == 'raccogli' }}
+        run: python3 check_pubblici.py
+
+      - name: Salva statistiche
+        if: ${{ (github.event.inputs.mode || 'raccogli') == 'raccogli' }}
+        run: |
+          if [ -n "$(git status --porcelain data/social_insights.json)" ]; then
+            git config user.name "crono-aste-bot"
+            git config user.email "bot@cronoaste.cloud"
+            git add data/social_insights.json
+            git commit -m "Statistiche social"
+            git pull --rebase -q origin main
+            git push -q origin HEAD:main
+          fi
