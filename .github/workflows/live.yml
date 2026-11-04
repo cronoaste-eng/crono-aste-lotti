@@ -45,7 +45,7 @@ jobs:
           if [ "$g" -le 5 ] && [ "$h" -ge 7 ] && [ "$h" -le 18 ]; then gh workflow run social.yml || true; fi
           if [ "$h" -ge 8 ] && [ "$h" -le 17 ]; then
             declare -A ARG=([promemoria.yml]="-f prova=no")   # senza questo il promemoria girerebbe in prova e non invierebbe
-            for w in eventi-telegram.yml promemoria.yml; do
+            for w in eventi-telegram.yml promemoria.yml social-insights.yml; do
               n=$(gh run list --workflow "$w" --created "$oggi" -L 1 --json databaseId --jq length 2>/dev/null || echo 1)
               if [ "$n" = "0" ]; then gh workflow run "$w" ${ARG[$w]:-} || true; fi
             done
