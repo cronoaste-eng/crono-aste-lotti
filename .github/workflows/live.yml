@@ -46,7 +46,10 @@ jobs:
           if [ "$h" -ge 8 ] && [ "$h" -le 17 ]; then
             declare -A ARG=([promemoria.yml]="-f prova=no")   # senza questo il promemoria girerebbe in prova e non invierebbe
             for w in eventi-telegram.yml promemoria.yml social-insights.yml; do
-              n=$(gh run list --workflow "$w" --created "$oggi" -L 1 --json databaseId --jq length 2>/dev/null || echo 1)
+              # statistiche social: un run fallito non conta (si riprova al ciclo dopo); promemoria e Telegram: qualsiasi run conta (niente doppi invii)
+              [ "$w" = "social-insights.yml" ] && [ "$h" -lt 9 ] && continue   # prima delle 09 UTC il giorno di Meta non e' ancora chiuso
+              f='length'; [ "$w" = "social-insights.yml" ] && f='[.[]|select(.conclusion!="failure")]|length'
+              n=$(gh run list --workflow "$w" --created "$oggi" -L 10 --json databaseId,conclusion --jq "$f" 2>/dev/null || echo 1)
               if [ "$n" = "0" ]; then gh workflow run "$w" ${ARG[$w]:-} || true; fi
             done
           fi
