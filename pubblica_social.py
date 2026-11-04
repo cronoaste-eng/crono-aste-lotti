@@ -105,21 +105,32 @@ REGIONI = {"catania": "Sicilia", "siracusa": "Sicilia", "caltagirone": "Sicilia"
            "barcellona pozzo di gotto": "Sicilia", "messina": "Sicilia", "palermo": "Sicilia", "cosenza": "Calabria",
            "paola": "Calabria", "castrovillari": "Calabria", "milano": "Lombardia", "teramo": "Abruzzo"}
 TEMI = [  # (parole nel titolo, etichetta, hashtag)
-    (("veicolo", "autovettura", "auto ", "autocarro", "camion", "motociclo", "motoveicolo", "scooter", "rimorchio"), "Veicolo", "#autousate #motousate"),
-    (("villa", "appartamento", "immobile", "abitazione", "fabbricato", "quota indivisa", "locale"), "Immobile", "#immobili #casaallasta"),
+    (("veicolo", "autovettura", r"auto\b", "autocarro", "camion", "motociclo", "motoveicolo", "scooter", "rimorchio"), "Veicolo", "#autousate #motousate"),
+    (("villa", "appartamento", "immobile", "abitazione", "fabbricato", "quota indivisa", r"local[ei]\b"), "Immobile", "#immobili #casaallasta"),
     (("terreno", "terreni"), "Terreno", "#terreni #terrenoinvendita"),
     (("azienda", "punto vendita", "compendio"), "Azienda", "#aziendainvendita #cessioneazienda"),
     (("imbarcazione",), "Imbarcazione", "#barche #nautica"),
-    (("arred", "mobilio", "divano", "letto", "tavolo", "armadio", "vetrina", "elettrodomestic", "pianoforte", "biliardo", "calcio balilla"), "Arredi", "#arredamento #occasione"),
-    (("bancone", "macchin", "attrezzature", "gruppo elettrogeno", "gru", "frigo", "utensileria"), "Attrezzature", "#attrezzature #macchinari"),
+    (("arred", "mobilio", "divano", r"lett[oi]\b", "tavolo", "armadio", "vetrina", "elettrodomestic", "pianoforte", "biliardo", "calcio balilla"), "Arredi", "#arredamento #occasione"),
+    (("bancone", "macchin", "attrezzature", "gruppo elettrogeno", r"gru\b", "frigo", "utensileria"), "Attrezzature", "#attrezzature #macchinari"),
 ]
 
 
+def _pos(testo, parole):
+    """Posizione della prima parola (a inizio parola) trovata nel testo, o None."""
+    p = [m.start() for w in parole for m in [re.search(r"(?<![a-zàèéìòù])" + w, testo)] if m]
+    return min(p) if p else None
+
+
 def tema(l):
-    t = ((l.get("titolo") or "") + " " + (l.get("categoria") or "")).lower()
-    for parole, nome, tag in TEMI:
-        if any(p in t for p in parole):
-            return nome, tag
+    """Vince il tema la cui parola compare per prima nel titolo (poi la categoria): 'arredi ... in villa' = Arredi."""
+    for testo in ((l.get("titolo") or "").lower(), (l.get("categoria") or "").lower()):
+        best = None
+        for parole, nome, tag in TEMI:
+            p = _pos(testo, parole)
+            if p is not None and (best is None or p < best[0]):
+                best = (p, nome, tag)
+        if best:
+            return best[1], best[2]
     return "Bene", "#occasione"
 
 
@@ -154,11 +165,18 @@ def didascalia(l, instagram):
     if l.get("tribunale"):
         gancio += " - " + l["tribunale"]
     n = giorni_a(l)
-    scad = ("ULTIMI GIORNI: offerte entro il %s" % dep.split(" ")[0]) if (dep and n <= 7) else ""
-    testa = "Trib. %s - Proc. %s" % (l.get("tribunale") or "-", l.get("procedura") or "-")
+    # solo se la scadenza e' futura (una data gia' passata non e' "ultimi giorni")
+    futura = scadenza(l) >= datetime.now(ZoneInfo("Europe/Rome")).replace(tzinfo=None)
+    scad = ("ULTIMI GIORNI: offerte entro il %s" % dep.split(" ")[0]) if (dep and futura and n <= 7) else ""
+    parti = []
+    if l.get("tribunale"):
+        parti.append("Trib. " + l["tribunale"])
+    if l.get("procedura"):
+        parti.append("Proc. " + l["procedura"])
     if l.get("lotto"):
-        testa += " - " + l["lotto"]
-    righe = [gancio] + ([scad] if scad else []) + ["", l.get("titolo") or "", "", testa]
+        parti.append(l["lotto"])
+    testa = " - ".join(parti)
+    righe = [gancio] + ([scad] if scad else []) + [""] + ([l["titolo"], ""] if l.get("titolo") else []) + ([testa] if testa else [])
     if prezzo is not None:
         righe.append("%s: € %s" % (etichetta, euro(prezzo)))
     if dep:
