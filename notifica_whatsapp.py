@@ -94,7 +94,7 @@ def email(beni, saltati):
         testo.append("--- Messaggio %d di %d ---\n%s\n" % (i, n, m))
         box.append(
             '<p style="margin:16px 0 4px;font-size:12px;color:#5f6368"><b>Messaggio %d di %d</b></p>'
-            '<pre style="white-space:pre-wrap;word-break:break-word;background:#f7f9fb;border:1px solid #dde5ec;'
+            '<pre style="-webkit-user-select:all;user-select:all;cursor:copy;white-space:pre-wrap;word-break:break-word;background:#f7f9fb;border:1px solid #dde5ec;'
             'border-radius:8px;padding:12px;font-family:Arial,sans-serif;font-size:14px;line-height:1.5;margin:0">%s</pre>'
             % (i, n, html.escape(m))
         )
@@ -104,7 +104,7 @@ def email(beni, saltati):
     corpo = (
         '<div style="font-family:Arial,sans-serif;max-width:560px;margin:0 auto">'
         '<p style="font-size:18px;font-weight:bold;color:#002d59;margin:0 0 8px">%s</p>'
-        "<p style=\"margin:0 0 4px\">Un riquadro per ogni bene: copia il testo e incollalo nel canale WhatsApp, "
+        "<p style=\"margin:0 0 4px\">Un riquadro per ogni bene: <b>clicca una volta sul riquadro</b> (si seleziona tutto), premi Cmd+C e incollalo nel canale WhatsApp, "
         "<b>un messaggio per volta</b> (cosi' ogni messaggio mostra la sua foto).</p>%s"
         '<p style="color:#5f6368;font-size:12px;margin:16px 0 0">%s</p></div>'
         % (html.escape(oggetto), "".join(box), html.escape(nota))
