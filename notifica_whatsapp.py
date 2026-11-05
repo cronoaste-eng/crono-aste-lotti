@@ -142,7 +142,13 @@ def main():
     stato = carica(STATO)
 
     if MODE == "test":
-        recenti = sorted(lotti, key=lambda l: quando(l.get("pubblicata")) or datetime(2000, 1, 1), reverse=True)[:5]
+        recenti = sorted(lotti, key=lambda l: quando(l.get("pubblicata")) or datetime(2000, 1, 1), reverse=True)
+        dal = os.environ.get("WA_DAL", "").strip()  # es. 2026-11-03: tutti i beni pubblicati da quel giorno
+        if re.fullmatch(r"\d{4}-\d{2}-\d{2}", dal):
+            lim = datetime.strptime(dal, "%Y-%m-%d")
+            recenti = [l for l in recenti if (quando(l.get("pubblicata")) or datetime(2000, 1, 1)) >= lim]
+        else:
+            recenti = recenti[:5]
         oggetto, corpo, testo = email(recenti, 0)
         invia("[PROVA] " + oggetto, corpo, testo)
         print("Email di prova inviata con %d beni." % len(recenti))

@@ -12,6 +12,9 @@ on:
       force:
         description: "1 = ignora orario e controllo di oggi"
         default: "0"
+      dal:
+        description: "solo con mode=test: data AAAA-MM-GG, include tutti i beni pubblicati da quel giorno (vuoto = ultimi 5)"
+        default: ""
 
 permissions:
   contents: read
@@ -43,4 +46,5 @@ jobs:
           NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
           WA_MODE: ${{ github.event.inputs.mode || 'send' }}
           WA_FORCE: ${{ github.event.inputs.force || '0' }}
+          WA_DAL: ${{ github.event.inputs.dal || '' }}
         run: python3 notifica_whatsapp.py
