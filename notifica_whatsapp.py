@@ -29,7 +29,7 @@ MODE = (os.environ.get("WA_MODE") or "send").strip().lower()
 FORCE = os.environ.get("WA_FORCE") == "1"
 ORA_INVIO = 8            # ora italiana da cui si puo' inviare (una volta al giorno)
 ORA_FINE = 18            # ultima ora italiana valida (i cron di GitHub ritardano)
-MAX_BENI = 10            # al massimo 10 beni per email
+MAX_BENI = 500           # tutti i beni nuovi (tetto alto solo di sicurezza)
 BASE = Path(__file__).parent
 LOTTI = BASE / "data" / "lotti.json"
 STATO = BASE / "state_wa" / "stato.json"
