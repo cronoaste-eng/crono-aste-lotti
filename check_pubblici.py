@@ -28,7 +28,9 @@ def scorri(x, percorso, trovati):
 
 def main():
     trovati = []
-    for f in sorted(glob.glob("data/**/*.json", recursive=True)):
+    # --solo-live: nel ciclo live controlla solo live.json (un falso positivo altrove non deve fermare il live)
+    files = ["data/live.json"] if "--solo-live" in sys.argv else sorted(glob.glob("data/**/*.json", recursive=True))
+    for f in files:
         try:
             scorri(json.load(open(f, encoding="utf-8")), f, trovati)
         except Exception as e:  # noqa: BLE001

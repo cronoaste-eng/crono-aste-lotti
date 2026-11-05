@@ -27,7 +27,8 @@ SENDER_NAME = os.environ.get("SENDER_NAME") or "Crono Aste"
 TO = os.environ.get("NOTIFY_EMAIL") or "cronoaste@gmail.com"
 MODE = (os.environ.get("WA_MODE") or "send").strip().lower()
 FORCE = os.environ.get("WA_FORCE") == "1"
-ORA_INVIO = 8            # ora italiana dell'invio
+ORA_INVIO = 8            # ora italiana da cui si puo' inviare (una volta al giorno)
+ORA_FINE = 18            # ultima ora italiana valida (i cron di GitHub ritardano)
 MAX_BENI = 10            # al massimo 10 beni per email
 BASE = Path(__file__).parent
 LOTTI = BASE / "data" / "lotti.json"
@@ -159,8 +160,8 @@ def main():
         if adesso.weekday() >= 5:
             print("Sabato o domenica: nessuna email (i beni nuovi arrivano lunedi').")
             return 0
-        if adesso.hour != ORA_INVIO:
-            print("Non sono le %d in Italia (sono le %s): non faccio nulla." % (ORA_INVIO, adesso.strftime("%H:%M")))
+        if not (ORA_INVIO <= adesso.hour <= ORA_FINE):
+            print("Fuori dalla finestra %d-%d in Italia (sono le %s): non faccio nulla." % (ORA_INVIO, ORA_FINE, adesso.strftime("%H:%M")))
             return 0
         if stato.get("ultimo_invio") == oggi:
             print("Email di oggi gia' inviata.")

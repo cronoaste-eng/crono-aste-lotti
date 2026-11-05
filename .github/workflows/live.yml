@@ -1,7 +1,7 @@
 name: Monitoraggio live
 on:
   schedule:
-    - cron: "*/20 5-20 * * *"   # UTC; riavvio di sicurezza (il ciclo si rilancia da solo)
+    - cron: "*/10 5-20 * * *"   # UTC; riavvio di sicurezza piu' fitto (i cron di GitHub saltano; il ciclo si rilancia anche da solo)
   workflow_dispatch: {}
 
 permissions:
@@ -33,7 +33,7 @@ jobs:
           while [ $SECONDS -lt $fine ]; do
             rc=0
             python live.py || rc=$?
-            python check_pubblici.py || { git checkout -- data/live.json; echo "STOP: campi riservati nei dati"; exit 1; }
+            python check_pubblici.py --solo-live || { git checkout -- data/live.json; echo "ATTENZIONE: campi riservati in live.json, non salvo questo giro"; sleep 40; continue; }
             if [ "$rc" -eq 3 ]; then fuori=1; break; fi
             git add data/live.json || true
             git diff --staged --quiet || (git commit -q -m "Live" && (git push -q || (git pull -q --rebase -X theirs && git push -q)))
@@ -42,10 +42,10 @@ jobs:
           done
           # Avvio affidabile degli altri workflow (i cron di GitHub saltano): si agganciano al ciclo live
           h=$(date -u +%H); g=$(date -u +%u); oggi=$(date -u +%F)
-          if [ "$g" -le 5 ] && [ "$h" -ge 7 ] && [ "$h" -le 18 ]; then gh workflow run social.yml || true; fi
+          if [ "$g" -le 5 ] && [ "$h" -ge 7 ] && [ "$h" -le 18 ]; then gh workflow run social.yml -f mode=send || true; fi   # senza mode=send gira in dry e non pubblica
           if [ "$h" -ge 8 ] && [ "$h" -le 17 ]; then
-            declare -A ARG=([promemoria.yml]="-f prova=no")   # senza questo il promemoria girerebbe in prova e non invierebbe
-            for w in eventi-telegram.yml promemoria.yml social-insights.yml; do
+            declare -A ARG=([promemoria.yml]="-f prova=no" [whatsapp.yml]="-f mode=send")   # senza questi i workflow girerebbero in prova/test
+            for w in eventi-telegram.yml promemoria.yml social-insights.yml whatsapp.yml; do
               # statistiche social: un run fallito non conta (si riprova al ciclo dopo); promemoria e Telegram: qualsiasi run conta (niente doppi invii)
               [ "$w" = "social-insights.yml" ] && [ "$h" -lt 9 ] && continue   # prima delle 09 UTC il giorno di Meta non e' ancora chiuso
               f='length'; [ "$w" = "social-insights.yml" ] && f='[.[]|select(.conclusion!="failure")]|length'
