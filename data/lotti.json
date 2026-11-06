@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-06T15:57:36+00:00",
+ "aggiornato": "2026-11-06T21:30:36+00:00",
  "lotti": [
   {
    "id": "1609379",
@@ -3979,6 +3979,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:26",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -3991,9 +3992,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:26",
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738430",
@@ -4015,6 +4015,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:34",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4027,9 +4028,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:34",
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738432",
@@ -4051,6 +4051,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:36",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4063,9 +4064,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:36",
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738434",
@@ -4087,6 +4087,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:39",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 500.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4099,9 +4100,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:39",
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738436",
@@ -4123,6 +4123,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:42",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 1200.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4135,9 +4136,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:42",
-   "valore_stima": 1200.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 1200.0
   },
   {
    "id": "1738437",
@@ -4159,6 +4159,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:44",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 250.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4171,9 +4172,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:44",
-   "valore_stima": 250.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 250.0
   },
   {
    "id": "1738438",
@@ -4195,6 +4195,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:45",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 150.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4207,9 +4208,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:45",
-   "valore_stima": 150.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 150.0
   },
   {
    "id": "1738439",
@@ -4231,6 +4231,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:46",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 100.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4243,9 +4244,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:46",
-   "valore_stima": 100.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 100.0
   },
   {
    "id": "1738440",
@@ -4267,6 +4267,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:47",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 1700.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4279,9 +4280,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:47",
-   "valore_stima": 1700.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 1700.0
   },
   {
    "id": "1738441",
@@ -4303,6 +4303,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:48",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 1000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -4315,9 +4316,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "06/11/2026 09:48",
-   "valore_stima": 1000.0,
    "canali_controllati_il": "06/11/2026 16:56",
-   "dett": true
+   "valore_stima": 1000.0
   },
   {
    "id": "1730387",
@@ -5311,6 +5311,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:08",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 6075.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5321,9 +5322,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738930",
@@ -5345,6 +5345,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:10",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 8775.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5355,9 +5356,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738931",
@@ -5379,6 +5379,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:12",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 1350.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5389,9 +5390,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738932",
@@ -5413,6 +5413,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:13",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 6300.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5423,9 +5424,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738933",
@@ -5447,6 +5447,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:14",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 4725.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5457,9 +5458,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738934",
@@ -5481,6 +5481,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:15",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 2700.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5491,9 +5492,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738935",
@@ -5515,6 +5515,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:16",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 303.75,
    "offerte": 0,
    "rilanci": 0,
@@ -5525,9 +5526,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738936",
@@ -5549,6 +5549,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:18",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 675.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5559,9 +5560,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738937",
@@ -5583,6 +5583,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:19",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 10125.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5593,9 +5594,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738938",
@@ -5617,6 +5617,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:20",
    "lotto": "Lotto 10",
+   "dett": true,
    "prezzo_base": 540.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5627,9 +5628,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738939",
@@ -5651,6 +5651,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:21",
    "lotto": "Lotto 11",
+   "dett": true,
    "prezzo_base": 472.5,
    "offerte": 0,
    "rilanci": 0,
@@ -5661,9 +5662,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738940",
@@ -5685,6 +5685,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:22",
    "lotto": "Lotto 12",
+   "dett": true,
    "prezzo_base": 3375.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5695,9 +5696,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738941",
@@ -5719,6 +5719,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:23",
    "lotto": "Lotto 13",
+   "dett": true,
    "prezzo_base": 1012.5,
    "offerte": 0,
    "rilanci": 0,
@@ -5729,9 +5730,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738942",
@@ -5753,6 +5753,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:24",
    "lotto": "Lotto 14",
+   "dett": true,
    "prezzo_base": 1248.75,
    "offerte": 0,
    "rilanci": 0,
@@ -5763,9 +5764,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738943",
@@ -5787,6 +5787,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:26",
    "lotto": "Lotto 15",
+   "dett": true,
    "prezzo_base": 16875.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5797,9 +5798,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738944",
@@ -5821,6 +5821,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:27",
    "lotto": "Lotto 16",
+   "dett": true,
    "prezzo_base": 30375.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5831,9 +5832,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738945",
@@ -5855,6 +5855,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:28",
    "lotto": "Lotto 17",
+   "dett": true,
    "prezzo_base": 675.0,
    "offerte": 0,
    "rilanci": 0,
@@ -5865,9 +5866,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1738946",
@@ -5889,6 +5889,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "06/11/2026 16:29",
    "lotto": "Lotto 19",
+   "dett": true,
    "prezzo_base": 202.5,
    "offerte": 0,
    "rilanci": 0,
@@ -5899,8 +5900,43 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
+   "valore_stima": null
+  },
+  {
+   "id": "1739000",
+   "titolo": "Piena proprietà del carrello elevatore elettrico frontale marca Maximal, modello FB30AC, matri...",
+   "tribunale": "Cosenza",
+   "procedura": "30/2023",
+   "tipo": "Asincrona telematica",
+   "prezzo": 9800.0,
+   "etichetta": "Prezzo base",
+   "inizio": "15/12/2026 10:00",
+   "termine": "15/12/2026 13:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/62/36/0182623626.png",
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-del-carrello-elevatore-elettrico-frontale-marca-maximal-modello-fb30ac-matricola-0830b1413-portata-3-000-kg-anno-di-1739000.html",
+   "cloud_pubblicata": "06/11/2026 22:30",
+   "prezzo_minimo": 7350.0,
+   "termine_carta": "14/12/2026 13:00",
+   "termine_bonifico": "14/12/2026 13:00",
+   "pubblicata": "06/11/2026 17:32",
+   "lotto": "Lotto 32",
+   "prezzo_base": 9800.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
+   "beni_tipologie": [
+    "MACCHINARI, UTENSILI, MATERIE PRIME"
+   ],
+   "pvp_pubblicata": "06/11/2026 17:32",
+   "valore_stima": null,
+   "canali_controllati_il": "06/11/2026 22:30",
    "dett": true
   },
   {
@@ -6067,6 +6103,7 @@
    "termine_bonifico": "07/12/2026 13:00",
    "pubblicata": "06/11/2026 09:24",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 2812.5,
    "offerte": 0,
    "rilanci": 0,
@@ -6079,9 +6116,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "06/11/2026 09:24",
-   "valore_stima": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1734981",
