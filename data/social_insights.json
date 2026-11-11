@@ -1,23 +1,6 @@
 {
- "aggiornato": "2026-11-10T18:08:48+01:00",
+ "aggiornato": "2026-11-11T13:59:29+01:00",
  "giorni": [
-  {
-   "giorno": "2026-10-13",
-   "facebook": {
-    "visualizzazioni": 18,
-    "interazioni": 0,
-    "clic": null,
-    "visualizzazioni_profilo": 7,
-    "nuovi_follower": 1
-   },
-   "instagram": {
-    "visualizzazioni": 13,
-    "interazioni": 0,
-    "clic": 0,
-    "visualizzazioni_profilo": 1,
-    "nuovi_follower": 0
-   }
-  },
   {
    "giorno": "2026-10-14",
    "facebook": {
@@ -471,6 +454,23 @@
    },
    "instagram": {
     "visualizzazioni": 325,
+    "interazioni": 8,
+    "clic": 0,
+    "visualizzazioni_profilo": 0,
+    "nuovi_follower": 0
+   }
+  },
+  {
+   "giorno": "2026-11-10",
+   "facebook": {
+    "visualizzazioni": 101,
+    "interazioni": 0,
+    "clic": null,
+    "visualizzazioni_profilo": 6,
+    "nuovi_follower": 0
+   },
+   "instagram": {
+    "visualizzazioni": 400,
     "interazioni": 8,
     "clic": 0,
     "visualizzazioni_profilo": 0,
