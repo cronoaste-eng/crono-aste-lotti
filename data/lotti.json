@@ -1,40 +1,6 @@
 {
- "aggiornato": "2026-11-11T22:42:57+00:00",
+ "aggiornato": "2026-11-13T17:45:52+00:00",
  "lotti": [
-  {
-   "id": "1732819",
-   "titolo": "Autocarro, marca Mercedes-Benz, modello Vito 112 CDl",
-   "tribunale": "Barcellona Pozzo di Gotto",
-   "procedura": "2/2026",
-   "tipo": "Raccolta offerte",
-   "prezzo": 150.0,
-   "etichetta": "Miglior offerta",
-   "inizio": "26/10/2026 12:00",
-   "termine": "13/11/2026 12:00",
-   "stato": "attiva",
-   "esito": "",
-   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/08/20/0182082040.jpg",
-   "url": "https://cronoaste.fallcoaste.it/vendita/autocarro-marca-mercedes-benz-modello-vito-112-cdl-1732819.html",
-   "cloud_pubblicata": "26/10/2026 11:22",
-   "prezzo_minimo": 160.0,
-   "termine_carta": "13/11/2026 12:00",
-   "termine_bonifico": "13/11/2026 12:00",
-   "pubblicata": "26/10/2026 11:14",
-   "lotto": "",
-   "dett": true,
-   "prezzo_base": 150.0,
-   "offerte": 0,
-   "rilanci": 0,
-   "stato_asta": "Gara non avviata - Iscrizioni aperte",
-   "stato_asta_il": null,
-   "avviso_gara": null,
-   "genere": null,
-   "categoria": null,
-   "beni_tipologie": null,
-   "pvp_pubblicata": null,
-   "canali_controllati_il": null,
-   "valore_stima": null
-  },
   {
    "id": "1715039",
    "titolo": "Composto da attrezzature tecniche, utensileria, DPI, minuteria, materiale da lavoro ed arredi v...",
@@ -6052,6 +6018,42 @@
    "valore_stima": null
   },
   {
+   "id": "1747843",
+   "titolo": "Motoveicolo, marca Kove, modello 510 X, Tg.Fk***, immatricolata 10/06/2024, cilindrata498 cc, K...",
+   "tribunale": "Catania",
+   "procedura": "1166/2026",
+   "tipo": "Asincrona telematica",
+   "prezzo": 1000.0,
+   "etichetta": "Prezzo base",
+   "inizio": "15/12/2026 12:00",
+   "termine": "23/12/2026 12:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/93/24/0182932474.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/motoveicolo-marca-kove-modello-510-x-tg-fk-immatricolata-10-06-2024-cilindrata498-cc-kw-35-k-m-21-1747843.html",
+   "cloud_pubblicata": "13/11/2026 18:45",
+   "prezzo_minimo": null,
+   "termine_carta": "14/12/2026 13:00",
+   "termine_bonifico": "14/12/2026 13:00",
+   "pubblicata": "13/11/2026 15:49",
+   "lotto": "Lotto unico",
+   "prezzo_base": 1000.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "AUTOVEICOLI E CICLI",
+   "beni_tipologie": [
+    "AUTOVEICOLI E CICLI"
+   ],
+   "pvp_pubblicata": "13/11/2026 15:49",
+   "valore_stima": null,
+   "canali_controllati_il": "13/11/2026 18:45",
+   "dett": true
+  },
+  {
    "id": "1743725",
    "titolo": "Piena proprietà per 1000/1000 di immobile sito in Mendicino, Viale Omero 50, piano T-1, foglio...",
    "tribunale": "Cosenza",
@@ -6071,6 +6073,7 @@
    "termine_bonifico": "11/01/2027 13:00",
    "pubblicata": "11/11/2026 17:25",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 35878.81,
    "offerte": 0,
    "rilanci": 0,
@@ -6083,9 +6086,8 @@
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "11/11/2026 17:25",
-   "valore_stima": 136866.8,
    "canali_controllati_il": "11/11/2026 23:42",
-   "dett": true
+   "valore_stima": 136866.8
   },
   {
    "id": "1743728",
@@ -6107,6 +6109,7 @@
    "termine_bonifico": "11/01/2027 13:00",
    "pubblicata": "11/11/2026 17:26",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 5714.22,
    "offerte": 0,
    "rilanci": 0,
@@ -6119,9 +6122,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "11/11/2026 17:26",
-   "valore_stima": 21798.0,
    "canali_controllati_il": "11/11/2026 23:42",
-   "dett": true
+   "valore_stima": 21798.0
   },
   {
    "id": "1734981",

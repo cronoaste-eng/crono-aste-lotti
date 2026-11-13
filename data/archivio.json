@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-10T20:54:05+00:00",
+ "aggiornato": "2026-11-13T17:48:34+00:00",
  "lotti": [
   {
    "id": "1730487",
@@ -36,6 +36,40 @@
    "valore_stima": null
   },
   {
+   "id": "1732819",
+   "titolo": "Autocarro, marca Mercedes-Benz, modello Vito 112 CDl",
+   "tribunale": "Barcellona Pozzo di Gotto",
+   "procedura": "2/2026",
+   "tipo": "Raccolta offerte",
+   "prezzo": 150.0,
+   "etichetta": "Miglior offerta",
+   "inizio": "26/10/2026 12:00",
+   "termine": "13/11/2026 12:00",
+   "stato": "conclusa",
+   "esito": "senza offerte",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/08/20/0182082040.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/autocarro-marca-mercedes-benz-modello-vito-112-cdl-1732819.html",
+   "cloud_pubblicata": "26/10/2026 11:22",
+   "prezzo_minimo": 160.0,
+   "termine_carta": "13/11/2026 12:00",
+   "termine_bonifico": "13/11/2026 12:00",
+   "pubblicata": "26/10/2026 11:14",
+   "lotto": "",
+   "prezzo_base": 150.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara chiusa",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "valore_stima": null,
+   "canali_controllati_il": "13/11/2026 18:48",
+   "dett": true
+  },
+  {
    "id": "1609379",
    "titolo": "Quota indivisa pari a 1/9 del diritto di piena proprietà dell'immobile sito in Rende (CS), c.d...",
    "tribunale": "Cosenza",
@@ -55,6 +89,7 @@
    "termine_bonifico": "09/11/2026 13:00",
    "pubblicata": "08/06/2026 18:25",
    "lotto": "",
+   "dett": true,
    "prezzo_base": 4218.75,
    "offerte": 0,
    "rilanci": 0,
@@ -65,9 +100,8 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "10/11/2026 21:54",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1703906",
@@ -89,6 +123,7 @@
    "termine_bonifico": "09/11/2026 13:00",
    "pubblicata": "25/09/2026 17:19",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 3468.92,
    "offerte": 0,
    "rilanci": 0,
@@ -101,9 +136,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "25/09/2026 17:19",
-   "valore_stima": null,
    "canali_controllati_il": "10/11/2026 21:54",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1705993",
