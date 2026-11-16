@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-14T19:12:24+00:00",
+ "aggiornato": "2026-11-16T22:06:05+00:00",
  "lotti": [
   {
    "id": "1715039",
@@ -5857,6 +5857,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:07",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 200.16,
    "offerte": 0,
    "rilanci": 0,
@@ -5869,9 +5870,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:07",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747880",
@@ -5893,6 +5893,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:11",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 195.84,
    "offerte": 0,
    "rilanci": 0,
@@ -5905,9 +5906,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:11",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747881",
@@ -5929,6 +5929,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:13",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 164.16,
    "offerte": 0,
    "rilanci": 0,
@@ -5941,9 +5942,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:13",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747884",
@@ -5965,6 +5965,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:15",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 157.68,
    "offerte": 0,
    "rilanci": 0,
@@ -5977,9 +5978,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:15",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747886",
@@ -6001,6 +6001,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:16",
    "lotto": "Lotto 11",
+   "dett": true,
    "prezzo_base": 54.72,
    "offerte": 0,
    "rilanci": 0,
@@ -6013,9 +6014,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:16",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747897",
@@ -6037,6 +6037,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:18",
    "lotto": "Lotto 12",
+   "dett": true,
    "prezzo_base": 64.8,
    "offerte": 0,
    "rilanci": 0,
@@ -6049,9 +6050,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:18",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747904",
@@ -6073,6 +6073,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:18",
    "lotto": "Lotto 14",
+   "dett": true,
    "prezzo_base": 59.04,
    "offerte": 0,
    "rilanci": 0,
@@ -6085,9 +6086,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:18",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747906",
@@ -6109,6 +6109,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:19",
    "lotto": "Lotto 15",
+   "dett": true,
    "prezzo_base": 54.72,
    "offerte": 0,
    "rilanci": 0,
@@ -6121,9 +6122,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:19",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747907",
@@ -6145,6 +6145,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:20",
    "lotto": "Lotto 16",
+   "dett": true,
    "prezzo_base": 54.72,
    "offerte": 0,
    "rilanci": 0,
@@ -6157,9 +6158,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:20",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747908",
@@ -6181,6 +6181,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:21",
    "lotto": "Lotto 17",
+   "dett": true,
    "prezzo_base": 54.72,
    "offerte": 0,
    "rilanci": 0,
@@ -6193,9 +6194,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:21",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747909",
@@ -6217,6 +6217,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:21",
    "lotto": "Lotto 19",
+   "dett": true,
    "prezzo_base": 47.52,
    "offerte": 0,
    "rilanci": 0,
@@ -6229,9 +6230,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:21",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747912",
@@ -6253,6 +6253,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:22",
    "lotto": "Lotto 21",
+   "dett": true,
    "prezzo_base": 47.52,
    "offerte": 0,
    "rilanci": 0,
@@ -6265,9 +6266,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:22",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747913",
@@ -6289,6 +6289,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:24",
    "lotto": "Lotto 22",
+   "dett": true,
    "prezzo_base": 47.52,
    "offerte": 0,
    "rilanci": 0,
@@ -6301,9 +6302,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:24",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747915",
@@ -6325,6 +6325,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:25",
    "lotto": "Lotto 23",
+   "dett": true,
    "prezzo_base": 47.52,
    "offerte": 0,
    "rilanci": 0,
@@ -6337,9 +6338,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:25",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:11",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747916",
@@ -6361,6 +6361,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:26",
    "lotto": "Lotto 24",
+   "dett": true,
    "prezzo_base": 47.52,
    "offerte": 0,
    "rilanci": 0,
@@ -6373,9 +6374,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:26",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747917",
@@ -6397,6 +6397,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:26",
    "lotto": "Lotto 27",
+   "dett": true,
    "prezzo_base": 30.96,
    "offerte": 0,
    "rilanci": 0,
@@ -6409,9 +6410,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:26",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747918",
@@ -6433,6 +6433,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:27",
    "lotto": "Lotto 29",
+   "dett": true,
    "prezzo_base": 18.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6445,9 +6446,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:27",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747920",
@@ -6469,6 +6469,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:28",
    "lotto": "Lotto 30",
+   "dett": true,
    "prezzo_base": 18.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6481,9 +6482,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:28",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747921",
@@ -6505,6 +6505,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:29",
    "lotto": "Lotto 31",
+   "dett": true,
    "prezzo_base": 23.04,
    "offerte": 0,
    "rilanci": 0,
@@ -6517,9 +6518,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:29",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747922",
@@ -6541,6 +6541,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:32",
    "lotto": "Lotto 32",
+   "dett": true,
    "prezzo_base": 17.28,
    "offerte": 0,
    "rilanci": 0,
@@ -6553,9 +6554,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:32",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747923",
@@ -6577,6 +6577,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:34",
    "lotto": "Lotto 36",
+   "dett": true,
    "prezzo_base": 151.92,
    "offerte": 0,
    "rilanci": 0,
@@ -6589,9 +6590,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:34",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1747924",
@@ -6613,6 +6613,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:36",
    "lotto": "Lotto 68",
+   "dett": true,
    "prezzo_base": 8794.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6625,9 +6626,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:36",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1748227",
@@ -6641,7 +6641,7 @@
    "termine": "15/12/2026 13:00",
    "stato": "attiva",
    "esito": "",
-   "foto": "https://cronoaste.fallcoaste.it/resources/img/doc_img.jpg?v=53182767",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/05/33/0183053326.jpg",
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-attrezzi-e-accessori-per-l-allenamento-con-i-pesi-e-il-fitness-manubri-vinilici-gommati-e-1748227.html",
    "cloud_pubblicata": "14/11/2026 20:11",
    "prezzo_minimo": null,
@@ -6649,6 +6649,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:38",
    "lotto": "Lotto 69",
+   "dett": true,
    "prezzo_base": 14280.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6661,9 +6662,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:38",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1748817",
@@ -6685,6 +6685,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:58",
    "lotto": "Lotto 71",
+   "dett": true,
    "prezzo_base": 9242.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6697,9 +6698,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:58",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1748818",
@@ -6713,7 +6713,7 @@
    "termine": "15/12/2026 13:00",
    "stato": "attiva",
    "esito": "",
-   "foto": "https://cronoaste.fallcoaste.it/resources/img/doc_img.jpg?v=53182767",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/05/49/0183054931.jpg",
    "url": "https://cronoaste.fallcoaste.it/vendita/lotto-composto-da-un-ingente-quantitativo-di-abbigliamento-e-accessori-sportivi-e-per-il-tempo-libero-per-adulto-e-1748818.html",
    "cloud_pubblicata": "14/11/2026 20:11",
    "prezzo_minimo": null,
@@ -6721,6 +6721,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 17:00",
    "lotto": "Lotto 72",
+   "dett": true,
    "prezzo_base": 63915.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6733,9 +6734,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 17:00",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1748819",
@@ -6757,6 +6757,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 16:09",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 167.04,
    "offerte": 0,
    "rilanci": 0,
@@ -6769,9 +6770,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 16:09",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1748824",
@@ -6793,6 +6793,7 @@
    "termine_bonifico": "14/12/2026 13:00",
    "pubblicata": "14/11/2026 17:02",
    "lotto": "Lotto 70",
+   "dett": true,
    "prezzo_base": 1271.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6805,9 +6806,8 @@
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "14/11/2026 17:02",
-   "valore_stima": null,
    "canali_controllati_il": "14/11/2026 20:12",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1729958",
