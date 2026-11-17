@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:27:49+00:00",
+ "aggiornato": "2026-11-17T22:54:33+00:00",
  "lotti": [
   {
    "id": "1734051",
@@ -6582,6 +6582,42 @@
    "valore_stima": null
   },
   {
+   "id": "1752371",
+   "titolo": "Vendita del ramo di azienda esercente l’attività di supermercato, corrente in Praia a Mare, ...",
+   "tribunale": "Paola",
+   "procedura": "11/2020",
+   "tipo": "Asincrona telematica",
+   "prezzo": 400000.0,
+   "etichetta": "Prezzo base",
+   "inizio": "18/12/2026 10:00",
+   "termine": "18/12/2026 13:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/11/89/0183118943.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/vendita-del-ramo-di-azienda-esercente-l-attivita-di-supermercato-corrente-in-praia-a-mare-via-san-paolo-attualmente-1752371.html",
+   "cloud_pubblicata": "17/11/2026 23:54",
+   "prezzo_minimo": null,
+   "termine_carta": "17/12/2026 13:00",
+   "termine_bonifico": "17/12/2026 13:00",
+   "pubblicata": "17/11/2026 17:41",
+   "lotto": "Lotto unico",
+   "prezzo_base": 400000.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "AZIENDE",
+   "categoria": "CESSIONE E AFFITTO D'AZIENDA",
+   "beni_tipologie": [
+    "CESSIONE E AFFITTO D'AZIENDA"
+   ],
+   "pvp_pubblicata": "17/11/2026 17:41",
+   "valore_stima": null,
+   "canali_controllati_il": "17/11/2026 23:54",
+   "dett": true
+  },
+  {
    "id": "1747843",
    "titolo": "Motoveicolo, marca Kove, modello 510 X, Tg.Fk***, immatricolata 10/06/2024, cilindrata498 cc, K...",
    "tribunale": "Catania",
@@ -6724,6 +6760,42 @@
    "pvp_pubblicata": "03/11/2026 08:49",
    "canali_controllati_il": "03/11/2026 11:55",
    "valore_stima": null
+  },
+  {
+   "id": "1749107",
+   "titolo": "Il fabbricato, con struttura portante in cemento armato precompresso, tamponature e copertura c...",
+   "tribunale": "Teramo",
+   "procedura": "234/2025",
+   "tipo": "Asincrona telematica",
+   "prezzo": 172000.0,
+   "etichetta": "Prezzo base",
+   "inizio": "24/02/2027 15:00",
+   "termine": "25/02/2027 15:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/11/21/0183112176.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/il-fabbricato-con-struttura-portante-in-cemento-armato-precompresso-tamponature-e-copertura-con-elementi-prefabbricati-si-sviluppa-su-due-1749107.html",
+   "cloud_pubblicata": "17/11/2026 23:54",
+   "prezzo_minimo": 129000.0,
+   "termine_carta": "",
+   "termine_bonifico": "23/02/2027 14:00",
+   "pubblicata": "17/11/2026 15:49",
+   "lotto": "Lotto unico",
+   "prezzo_base": 172000.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "IMMOBILI",
+   "categoria": "IMMOBILE INDUSTRIALE",
+   "beni_tipologie": [
+    "IMMOBILE INDUSTRIALE"
+   ],
+   "pvp_pubblicata": "17/11/2026 15:49",
+   "valore_stima": null,
+   "canali_controllati_il": "17/11/2026 23:54",
+   "dett": true
   }
  ]
 }
