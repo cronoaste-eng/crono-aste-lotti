@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T22:54:33+00:00",
+ "aggiornato": "2026-11-18T14:01:41+00:00",
  "lotti": [
   {
    "id": "1734051",
@@ -6601,6 +6601,7 @@
    "termine_bonifico": "17/12/2026 13:00",
    "pubblicata": "17/11/2026 17:41",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 400000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6613,8 +6614,79 @@
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "17/11/2026 17:41",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 23:54",
+   "valore_stima": null
+  },
+  {
+   "id": "1754064",
+   "titolo": "Piena proprietà per 1000/1000 di autovettura BMW 318D targa FL468RZ, anno 2017, 264.138 km cir...",
+   "tribunale": "Forli",
+   "procedura": "31/2026",
+   "tipo": "Asincrona telematica",
+   "prezzo": 9000.0,
+   "etichetta": "Prezzo base",
+   "inizio": "22/12/2026 10:00",
+   "termine": "22/12/2026 13:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/14/91/0183149149.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-per-1000-1000-di-autovettura-bmw-318d-targa-fl468rz-anno-2017-264-138-km-circa-colore-blu-1754064.html",
+   "cloud_pubblicata": "18/11/2026 15:01",
+   "prezzo_minimo": 6750.0,
+   "termine_carta": "21/12/2026 13:00",
+   "termine_bonifico": "21/12/2026 13:00",
+   "pubblicata": "18/11/2026 11:21",
+   "lotto": "Lotto 1",
+   "prezzo_base": 9000.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "AUTOVEICOLI E CICLI",
+   "beni_tipologie": [
+    "AUTOVEICOLI E CICLI"
+   ],
+   "pvp_pubblicata": "18/11/2026 11:21",
+   "valore_stima": null,
+   "canali_controllati_il": "18/11/2026 15:01",
+   "dett": true
+  },
+  {
+   "id": "1754067",
+   "titolo": "Gru, marca ALFAGRU, a torre tradizionale con cuspide e tiranti, con torre a montaggio rapido co...",
+   "tribunale": "Siracusa",
+   "procedura": "55/2024",
+   "tipo": "Asincrona telematica",
+   "prezzo": 2601.69,
+   "etichetta": "Prezzo base",
+   "inizio": "22/12/2026 10:00",
+   "termine": "22/12/2026 13:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/14/93/0183149301.jpg",
+   "url": "https://cronoaste.fallcoaste.it/vendita/gru-marca-alfagru-a-torre-tradizionale-con-cuspide-e-tiranti-con-torre-a-montaggio-rapido-con-rotazione-in-alto-1754067.html",
+   "cloud_pubblicata": "18/11/2026 15:01",
+   "prezzo_minimo": 1951.27,
+   "termine_carta": "21/12/2026 13:00",
+   "termine_bonifico": "21/12/2026 13:00",
+   "pubblicata": "18/11/2026 11:25",
+   "lotto": "Lotto 2",
+   "prezzo_base": 2601.69,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
+   "beni_tipologie": [
+    "MACCHINARI, UTENSILI, MATERIE PRIME"
+   ],
+   "pvp_pubblicata": "18/11/2026 11:25",
+   "valore_stima": null,
+   "canali_controllati_il": "18/11/2026 15:01",
    "dett": true
   },
   {
@@ -6781,6 +6853,7 @@
    "termine_bonifico": "23/02/2027 14:00",
    "pubblicata": "17/11/2026 15:49",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 172000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6793,9 +6866,8 @@
     "IMMOBILE INDUSTRIALE"
    ],
    "pvp_pubblicata": "17/11/2026 15:49",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 23:54",
-   "dett": true
+   "valore_stima": null
   }
  ]
 }
