@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-17T14:28:53+00:00",
+ "aggiornato": "2026-11-20T12:56:37+00:00",
  "lotti": [
   {
    "id": "1748522",
@@ -72,6 +72,40 @@
    "valore_stima": null
   },
   {
+   "id": "1734051",
+   "titolo": "compendio aziendale esercente il commercio al dettaglio di abbigliamento, calzature e accessori...",
+   "tribunale": "Catania",
+   "procedura": "112/2026",
+   "tipo": "Pubblicità",
+   "prezzo": 1225000.0,
+   "etichetta": "Prezzo base",
+   "inizio": "12/11/2026 12:00",
+   "termine": "20/11/2026 12:00",
+   "stato": "conclusa",
+   "esito": "senza offerte",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/82/22/02/0182220275.jpg",
+   "url": "https://cronoaste.fallcoaste.it/avviso-vendita/compendio-aziendale-esercente-il-commercio-al-dettaglio-di-abbigliamento-calzature-e-accessori-di-marca-in-catania-e-siracusa-1734051.html",
+   "cloud_pubblicata": "28/10/2026 18:01",
+   "prezzo_minimo": null,
+   "termine_carta": "20/11/2026 12:00",
+   "termine_bonifico": "20/11/2026 12:00",
+   "pubblicata": "28/10/2026 17:36",
+   "lotto": "",
+   "prezzo_base": 1225000.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara chiusa",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": null,
+   "categoria": null,
+   "beni_tipologie": null,
+   "pvp_pubblicata": null,
+   "valore_stima": null,
+   "canali_controllati_il": "20/11/2026 13:56",
+   "dett": true
+  },
+  {
    "id": "1722495",
    "titolo": "Rimorchio per trasporto stradale, marca Pedretti, 2 assi, targato AB 34416.",
    "tribunale": "Patti",
@@ -91,6 +125,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:10",
    "lotto": "Lotto 5",
+   "dett": true,
    "prezzo_base": 1530.0,
    "offerte": 1,
    "rilanci": 0,
@@ -103,9 +138,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "13/10/2026 18:10",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722506",
@@ -127,6 +161,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:18",
    "lotto": "Lotto 9",
+   "dett": true,
    "prezzo_base": 3060.0,
    "offerte": 1,
    "rilanci": 0,
@@ -139,9 +174,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "13/10/2026 18:18",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722490",
@@ -163,6 +197,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:06",
    "lotto": "Lotto 4",
+   "dett": true,
    "prezzo_base": 3442.5,
    "offerte": 0,
    "rilanci": 0,
@@ -175,9 +210,8 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "13/10/2026 18:06",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722499",
@@ -199,6 +233,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:14",
    "lotto": "Lotto 6",
+   "dett": true,
    "prezzo_base": 765.0,
    "offerte": 0,
    "rilanci": 0,
@@ -211,9 +246,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "13/10/2026 18:14",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722502",
@@ -235,6 +269,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:15",
    "lotto": "Lotto 7",
+   "dett": true,
    "prezzo_base": 1721.25,
    "offerte": 0,
    "rilanci": 0,
@@ -247,9 +282,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "13/10/2026 18:15",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722504",
@@ -271,6 +305,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:16",
    "lotto": "Lotto 8",
+   "dett": true,
    "prezzo_base": 2295.0,
    "offerte": 0,
    "rilanci": 0,
@@ -283,9 +318,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "13/10/2026 18:16",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722468",
@@ -307,6 +341,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 17:37",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 5385.66,
    "offerte": 0,
    "rilanci": 0,
@@ -319,9 +354,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "13/10/2026 17:37",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1715039",
@@ -343,6 +377,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "07/10/2026 10:32",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 1908.45,
    "offerte": 0,
    "rilanci": 0,
@@ -355,9 +390,8 @@
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722567",
@@ -379,6 +413,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 18:22",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 9557.25,
    "offerte": 0,
    "rilanci": 0,
@@ -391,9 +426,8 @@
     "MARCHI"
    ],
    "pvp_pubblicata": "13/10/2026 18:22",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722479",
@@ -415,6 +449,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 17:47",
    "lotto": "Lotto 1",
+   "dett": true,
    "prezzo_base": 2486.25,
    "offerte": 0,
    "rilanci": 0,
@@ -427,9 +462,8 @@
     "NAUTICA"
    ],
    "pvp_pubblicata": "13/10/2026 17:47",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722482",
@@ -451,6 +485,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 17:53",
    "lotto": "Lotto 2",
+   "dett": true,
    "prezzo_base": 2827.39,
    "offerte": 0,
    "rilanci": 0,
@@ -463,9 +498,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "13/10/2026 17:53",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1722484",
@@ -487,6 +521,7 @@
    "termine_bonifico": "16/11/2026 13:00",
    "pubblicata": "13/10/2026 17:56",
    "lotto": "Lotto 3",
+   "dett": true,
    "prezzo_base": 13539.74,
    "offerte": 0,
    "rilanci": 0,
@@ -499,9 +534,8 @@
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "13/10/2026 17:56",
-   "valore_stima": null,
    "canali_controllati_il": "17/11/2026 15:28",
-   "dett": true
+   "valore_stima": null
   },
   {
    "id": "1732819",
