@@ -371,11 +371,30 @@ def pulisci(lotti):
     return lotti
 
 
-CAMPI_RISERVATI = ("visite", "offerenti")  # dati interni: non vanno nei file pubblici (li legge il Gestionale dal Worker con chiave)
+CAMPI_RISERVATI = ("visite", "offerenti")  # non vanno in lotti.json/archivio.json; le sole visite vanno in data/visite.json, gli offerenti restano riservati (li legge il Gestionale dal Worker con chiave)
+
+
+def salva_visite(lotti):
+    """Numero di visite di ogni lotto, in un file a parte (data/visite.json): e' l'unico dato 'riservato' ora pubblico.
+    Gli offerenti restano riservati. File separato per non far cambiare lotti.json a ogni lettura."""
+    path = DATA / "visite.json"
+    try:
+        vecchio = json.loads(path.read_text(encoding="utf-8")) if path.exists() else {}
+    except (ValueError, OSError):
+        vecchio = {}
+    nuovo = dict(vecchio)
+    for l in lotti:
+        v = l.get("visite")
+        if l.get("id") and isinstance(v, int) and v > 0:
+            nuovo[str(l["id"])] = v
+    if nuovo != vecchio:
+        DATA.mkdir(exist_ok=True)
+        path.write_text(json.dumps(nuovo, sort_keys=True, separators=(",", ":")), encoding="utf-8")
 
 
 def salva(path, lotti):
     lotti = pulisci(lotti)
+    salva_visite(lotti)
     for l in lotti:
         for k in CAMPI_RISERVATI:
             l.pop(k, None)
