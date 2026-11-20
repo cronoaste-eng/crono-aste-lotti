@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-20T15:16:52+00:00",
+ "aggiornato": "2026-11-20T15:19:02+00:00",
  "lotti": [
   {
    "id": "1734051",
-   "offerte": null,
-   "rilanci": null,
-   "prezzo": null,
-   "etichetta": "",
+   "offerte": 0,
+   "rilanci": 0,
+   "prezzo": 1225000.0,
+   "etichetta": "Prezzo base",
    "termine": "",
    "stato_asta": null,
    "stato": "attiva",
@@ -25,23 +25,23 @@
   },
   {
    "id": "1706373",
-   "offerte": null,
-   "rilanci": null,
+   "offerte": 0,
+   "rilanci": 0,
    "prezzo": 13183.59,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": ""
   },
   {
    "id": "1725834",
-   "offerte": null,
-   "rilanci": null,
+   "offerte": 1,
+   "rilanci": 0,
    "prezzo": 150.0,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
-   "stato_asta": null,
+   "stato_asta": "Manifestazione aperta",
    "stato": "attiva",
    "esito": ""
   }
