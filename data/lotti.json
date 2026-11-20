@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T12:56:03+00:00",
+ "aggiornato": "2026-11-20T21:07:41+00:00",
  "lotti": [
   {
    "id": "1672891",
@@ -6868,6 +6868,42 @@
    "pvp_pubblicata": "11/11/2026 17:26",
    "canali_controllati_il": "11/11/2026 23:42",
    "valore_stima": 21798.0
+  },
+  {
+   "id": "1755496",
+   "titolo": "Piena proprietà dell’autoveicolo Toyota Auris, Targa DJ***MS, immatricolato in data 25.07.20...",
+   "tribunale": "Cosenza",
+   "procedura": "10/2026",
+   "tipo": "Asincrona telematica",
+   "prezzo": 1020.0,
+   "etichetta": "Prezzo base",
+   "inizio": "12/01/2027 12:00",
+   "termine": "14/01/2027 12:00",
+   "stato": "attiva",
+   "esito": "",
+   "foto": "https://d3h8bn4njg0vla.cloudfront.net/01/83/26/93/0183269356.png",
+   "url": "https://cronoaste.fallcoaste.it/vendita/piena-proprieta-dell-autoveicolo-toyota-auris-targa-dj-ms-immatricolato-in-data-25-07-2007-1755496.html",
+   "cloud_pubblicata": "20/11/2026 22:07",
+   "prezzo_minimo": 765.0,
+   "termine_carta": "11/01/2027 13:00",
+   "termine_bonifico": "11/01/2027 13:00",
+   "pubblicata": "20/11/2026 17:16",
+   "lotto": "Lotto unico",
+   "prezzo_base": 1020.0,
+   "offerte": 0,
+   "rilanci": 0,
+   "stato_asta": "Gara non avviata - Iscrizioni aperte",
+   "stato_asta_il": null,
+   "avviso_gara": null,
+   "genere": "MOBILI",
+   "categoria": "AUTOVEICOLI E CICLI",
+   "beni_tipologie": [
+    "AUTOVEICOLI E CICLI"
+   ],
+   "pvp_pubblicata": "20/11/2026 17:16",
+   "valore_stima": null,
+   "canali_controllati_il": "20/11/2026 22:07",
+   "dett": true
   },
   {
    "id": "1734981",
