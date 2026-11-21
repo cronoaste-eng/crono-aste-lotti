@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-21T08:19:17+00:00",
+ "aggiornato": "2026-11-21T08:24:54+00:00",
  "lotti": [
   {
    "id": "1672891",
@@ -30,6 +30,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -37,7 +38,7 @@
    ],
    "pvp_pubblicata": "24/08/2026 11:12",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -69,6 +70,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE COMMERCIALE",
    "beni_tipologie": [
@@ -76,7 +78,7 @@
    ],
    "pvp_pubblicata": "08/10/2026 18:53",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -108,6 +110,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE COMMERCIALE",
    "beni_tipologie": [
@@ -115,7 +118,7 @@
    ],
    "pvp_pubblicata": "08/10/2026 18:54",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -147,6 +150,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
@@ -154,7 +158,7 @@
    ],
    "pvp_pubblicata": "08/10/2026 18:57",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -186,6 +190,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
    "beni_tipologie": [
@@ -193,7 +198,7 @@
    ],
    "pvp_pubblicata": "23/10/2026 18:22",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -225,6 +230,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
    "beni_tipologie": [
@@ -232,7 +238,7 @@
    ],
    "pvp_pubblicata": "23/10/2026 18:23",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -264,6 +270,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -271,7 +278,7 @@
    ],
    "pvp_pubblicata": "04/11/2026 17:36",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -303,6 +310,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -310,7 +318,7 @@
    ],
    "pvp_pubblicata": "04/11/2026 17:38",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -342,6 +350,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
@@ -349,7 +358,7 @@
    ],
    "pvp_pubblicata": "15/10/2026 09:49",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:16",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -381,6 +390,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
@@ -388,7 +398,7 @@
    ],
    "pvp_pubblicata": "15/10/2026 09:51",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -420,6 +430,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
@@ -427,7 +438,7 @@
    ],
    "pvp_pubblicata": "15/10/2026 09:53",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -459,6 +470,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
@@ -466,7 +478,7 @@
    ],
    "pvp_pubblicata": "15/10/2026 09:54",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -498,6 +510,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
@@ -505,7 +518,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:07",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -537,6 +550,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -544,7 +558,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:09",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -576,6 +590,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -583,7 +598,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:10",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -615,6 +630,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -622,7 +638,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:11",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -654,6 +670,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -661,7 +678,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:13",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:22",
    "dett": true
   },
   {
@@ -693,6 +710,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -700,7 +718,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:15",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -732,6 +750,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -739,7 +758,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:16",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -771,6 +790,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
@@ -778,7 +798,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:17",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -810,6 +830,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
@@ -817,7 +838,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:18",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -849,6 +870,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
@@ -856,7 +878,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:19",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -888,6 +910,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -895,7 +918,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:24",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -927,6 +950,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -934,7 +958,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:25",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -966,6 +990,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -973,7 +998,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:26",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1005,6 +1030,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1012,7 +1038,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:27",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1044,6 +1070,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1051,7 +1078,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:29",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1083,6 +1110,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1090,7 +1118,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:30",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1122,6 +1150,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1129,7 +1158,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:31",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1161,6 +1190,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1168,7 +1198,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:32",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1200,6 +1230,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1207,7 +1238,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:33",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1239,6 +1270,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1246,7 +1278,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:34",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1278,6 +1310,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1285,7 +1318,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:35",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1317,6 +1350,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1324,7 +1358,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:36",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1356,6 +1390,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1363,7 +1398,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:38",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1395,6 +1430,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1402,7 +1438,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:39",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1434,6 +1470,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1441,7 +1478,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:40",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1473,6 +1510,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1480,7 +1518,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:41",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:17",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1512,6 +1550,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1519,7 +1558,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:42",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1551,6 +1590,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1558,7 +1598,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:43",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1590,6 +1630,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1597,7 +1638,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:44",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1629,6 +1670,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1636,7 +1678,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:45",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1668,6 +1710,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1675,7 +1718,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:46",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1707,6 +1750,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1714,7 +1758,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:47",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1746,6 +1790,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1753,7 +1798,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:49",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1785,6 +1830,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1792,7 +1838,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:51",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1824,6 +1870,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1831,7 +1878,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:52",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1863,6 +1910,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1870,7 +1918,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:53",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:23",
    "dett": true
   },
   {
@@ -1902,6 +1950,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1909,7 +1958,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:54",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -1941,6 +1990,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1948,7 +1998,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:56",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -1980,6 +2030,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
@@ -1987,7 +2038,7 @@
    ],
    "pvp_pubblicata": "26/10/2026 19:57",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2019,12 +2070,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2056,12 +2108,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2093,12 +2146,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2130,6 +2184,7 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
@@ -2137,7 +2192,7 @@
    ],
    "pvp_pubblicata": "20/10/2026 16:42",
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2169,12 +2224,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2206,12 +2262,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2243,12 +2300,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2280,12 +2338,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2317,12 +2376,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2354,12 +2414,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2391,12 +2452,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2428,12 +2490,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2465,12 +2528,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2502,12 +2566,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2539,12 +2604,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2576,12 +2642,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2613,12 +2680,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2650,12 +2718,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2687,12 +2756,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:18",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2724,12 +2794,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2761,12 +2832,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2798,12 +2870,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2835,12 +2908,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2872,12 +2946,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2909,12 +2984,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2946,12 +3022,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -2983,12 +3060,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -3020,12 +3098,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
@@ -3057,12 +3136,13 @@
    "tipo_evento": null,
    "data_evento": null,
    "nota_evento": null,
+   "storico_letto": true,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "valore_stima": null,
-   "canali_controllati_il": "21/11/2026 09:19",
+   "canali_controllati_il": "21/11/2026 09:24",
    "dett": true
   },
   {
