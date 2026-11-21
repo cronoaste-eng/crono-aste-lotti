@@ -33,9 +33,11 @@ MAX_DETTAGLI = 80  # pagine dei beni lette al massimo in una esecuzione
 HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
                      "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
-                     "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "valore_stima")
+                     "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "valore_stima",
+                     "tipo_evento", "data_evento", "nota_evento")
 NUOVI_CAMPI = ("prezzo_base", "offerte", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
-               "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata", "valore_stima")
+               "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata", "valore_stima",
+               "tipo_evento", "data_evento", "nota_evento")
 DATA_ORA = r"(\d{2}/\d{2}/\d{4})\s*(\d{1,2}:\d{2})"
 
 
@@ -203,6 +205,22 @@ def parse_classificazione(html):
     return out
 
 
+def parse_evento(html):
+    """Ultimo evento dello 'Storico Eventi' della pagina del bene: tipologia, data, nota (solo testo, mai dati di offerenti)."""
+    soup = BeautifulSoup(html, "html.parser")
+    eventi = {}
+    for td in soup.find_all("td", id=re.compile(r"^pvpVars_eventi_(idEvento|tipologia|dataPubblicazione|nota)_\d+$")):
+        m = re.match(r"^pvpVars_eventi_([A-Za-z]+)_(\d+)$", td.get("id", ""))
+        eventi.setdefault(int(m.group(2)), {})[m.group(1)] = re.sub(r"\s+", " ", td.get_text(" ", strip=True))
+    out = {"tipo_evento": None, "data_evento": None, "nota_evento": None}
+    if eventi:
+        e = eventi[max(eventi, key=lambda i: ((eventi[i].get("dataPubblicazione") or ""), i))]
+        out["tipo_evento"] = e.get("tipologia") or None
+        out["data_evento"] = e.get("dataPubblicazione") or None
+        out["nota_evento"] = (e.get("nota") or None)
+    return out
+
+
 def parse_dettagli(html):
     """Dalla pagina di un bene: prezzo minimo e termine di presentazione delle offerte."""
     soup = BeautifulSoup(html, "html.parser")
@@ -213,6 +231,7 @@ def parse_dettagli(html):
            "prezzo_base": None}
     out.update(parse_offerte(html))
     out.update(parse_stato_asta(html))
+    out.update(parse_evento(html))
     out.update(parse_classificazione(html))
     soup_v = BeautifulSoup(html, "html.parser")
     for tag in soup_v(["script", "style"]):
@@ -296,6 +315,7 @@ def arricchisci(lotti, cache, budget):
             and "avviso_gara" in vecchio
             and "canali_controllati_il" in vecchio
             and "valore_stima" in vecchio
+            and "nota_evento" in vecchio
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
