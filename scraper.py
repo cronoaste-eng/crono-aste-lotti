@@ -34,7 +34,7 @@ HEADERS = {"User-Agent": "CronoAste-Vetrina/1.0 (+https://cronoaste.cloud)"}
 CHIAVI_DETTAGLIO = ("prezzo_minimo", "termine_carta", "termine_bonifico", "pubblicata", "lotto", "dett",
                      "prezzo_base", "offerte", "offerenti", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
                      "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "valore_stima",
-                     "tipo_evento", "data_evento", "nota_evento")
+                     "tipo_evento", "data_evento", "nota_evento", "storico_letto")
 NUOVI_CAMPI = ("prezzo_base", "offerte", "rilanci", "stato_asta", "stato_asta_il", "avviso_gara",
                "genere", "categoria", "beni_tipologie", "pvp_pubblicata", "canali_controllati_il", "cloud_pubblicata", "valore_stima",
                "tipo_evento", "data_evento", "nota_evento")
@@ -212,7 +212,7 @@ def parse_evento(html):
     for td in soup.find_all("td", id=re.compile(r"^pvpVars_eventi_(idEvento|tipologia|dataPubblicazione|nota)_\d+$")):
         m = re.match(r"^pvpVars_eventi_([A-Za-z]+)_(\d+)$", td.get("id", ""))
         eventi.setdefault(int(m.group(2)), {})[m.group(1)] = re.sub(r"\s+", " ", td.get_text(" ", strip=True))
-    out = {"tipo_evento": None, "data_evento": None, "nota_evento": None}
+    out = {"tipo_evento": None, "data_evento": None, "nota_evento": None, "storico_letto": True}
     if eventi:
         e = eventi[max(eventi, key=lambda i: ((eventi[i].get("dataPubblicazione") or ""), i))]
         out["tipo_evento"] = e.get("tipologia") or None
@@ -315,7 +315,7 @@ def arricchisci(lotti, cache, budget):
             and "avviso_gara" in vecchio
             and "canali_controllati_il" in vecchio
             and "valore_stima" in vecchio
-            and "nota_evento" in vecchio
+            and vecchio.get("storico_letto")
             and not (vecchio.get("offerte") is None and vecchio.get("prezzo_base") is None)
             and vecchio.get("stato") == l["stato"]
             and vecchio.get("prezzo") == l["prezzo"]
