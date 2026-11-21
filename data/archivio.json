@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T12:56:37+00:00",
+ "aggiornato": "2026-11-21T08:19:50+00:00",
  "lotti": [
   {
    "id": "1748522",
@@ -35,7 +35,10 @@
    ],
    "pvp_pubblicata": "13/11/2026 18:43",
    "canali_controllati_il": "14/11/2026 20:13",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1730487",
@@ -69,7 +72,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1734051",
@@ -91,6 +97,7 @@
    "termine_bonifico": "20/11/2026 12:00",
    "pubblicata": "28/10/2026 17:36",
    "lotto": "",
+   "dett": true,
    "prezzo_base": 1225000.0,
    "offerte": 0,
    "rilanci": 0,
@@ -101,9 +108,11 @@
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "valore_stima": null,
    "canali_controllati_il": "20/11/2026 13:56",
-   "dett": true
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722495",
@@ -139,7 +148,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:10",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722506",
@@ -175,7 +187,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:18",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722490",
@@ -211,7 +226,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:06",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722499",
@@ -247,7 +265,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:14",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722502",
@@ -283,7 +304,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:15",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722504",
@@ -319,7 +343,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:16",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722468",
@@ -355,7 +382,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 17:37",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1715039",
@@ -391,7 +421,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722567",
@@ -427,7 +460,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 18:22",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722479",
@@ -463,7 +499,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 17:47",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722482",
@@ -499,7 +538,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 17:53",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1722484",
@@ -535,7 +577,10 @@
    ],
    "pvp_pubblicata": "13/10/2026 17:56",
    "canali_controllati_il": "17/11/2026 15:28",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1732819",
@@ -569,7 +614,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "13/11/2026 18:48",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1609379",
@@ -603,7 +651,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "10/11/2026 21:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703906",
@@ -639,7 +690,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 17:19",
    "canali_controllati_il": "10/11/2026 21:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705993",
@@ -675,7 +729,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:11",
    "canali_controllati_il": "03/11/2026 14:42",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685918",
@@ -711,7 +768,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 09:31",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 136866.8
+   "valore_stima": 136866.8,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685920",
@@ -747,7 +807,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 09:32",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 21798.0
+   "valore_stima": 21798.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704644",
@@ -783,7 +846,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:16",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1706003",
@@ -819,7 +885,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:19",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1706005",
@@ -855,7 +924,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:20",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1706010",
@@ -891,7 +963,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:23",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705999",
@@ -927,7 +1002,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:15",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705996",
@@ -963,7 +1041,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:13",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1706001",
@@ -999,7 +1080,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:18",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704716",
@@ -1035,7 +1119,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:48",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 6000.0
+   "valore_stima": 6000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704715",
@@ -1071,7 +1158,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:47",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 17000.0
+   "valore_stima": 17000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704710",
@@ -1107,7 +1197,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:45",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 4000.0
+   "valore_stima": 4000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704714",
@@ -1143,7 +1236,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:46",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 10000.0
+   "valore_stima": 10000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704709",
@@ -1179,7 +1275,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:44",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 8000.0
+   "valore_stima": 8000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704708",
@@ -1215,7 +1314,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:42",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705988",
@@ -1251,7 +1353,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 11:09",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704725",
@@ -1287,7 +1392,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:54",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704672",
@@ -1323,7 +1431,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:24",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 500.0
+   "valore_stima": 500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704663",
@@ -1359,7 +1470,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:23",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 500.0
+   "valore_stima": 500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704661",
@@ -1395,7 +1509,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:22",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 100.0
+   "valore_stima": 100.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704660",
@@ -1431,7 +1548,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:20",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 20.0
+   "valore_stima": 20.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704655",
@@ -1467,7 +1587,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:19",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 100.0
+   "valore_stima": 100.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704652",
@@ -1503,7 +1626,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:18",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 3000.0
+   "valore_stima": 3000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704630",
@@ -1539,7 +1665,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:11",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 20.0
+   "valore_stima": 20.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704640",
@@ -1575,7 +1704,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:13",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 50.0
+   "valore_stima": 50.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704626",
@@ -1611,7 +1743,10 @@
    ],
    "pvp_pubblicata": "29/09/2026 17:09",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705901",
@@ -1647,7 +1782,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:01",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1704722",
@@ -1683,7 +1821,10 @@
    ],
    "pvp_pubblicata": "30/09/2026 09:52",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705947",
@@ -1719,7 +1860,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:14",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 1500.0
+   "valore_stima": 1500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705921",
@@ -1755,7 +1899,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:12",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 4000.0
+   "valore_stima": 4000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705936",
@@ -1791,7 +1938,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:13",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 8000.0
+   "valore_stima": 8000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705916",
@@ -1827,7 +1977,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:10",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": 80.0
+   "valore_stima": 80.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705917",
@@ -1863,7 +2016,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:11",
    "canali_controllati_il": "03/11/2026 11:56",
-   "valore_stima": 250.0
+   "valore_stima": 250.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705914",
@@ -1899,7 +2055,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:08",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": 180.0
+   "valore_stima": 180.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705910",
@@ -1935,7 +2094,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:07",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": 350.0
+   "valore_stima": 350.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1705905",
@@ -1971,7 +2133,10 @@
    ],
    "pvp_pubblicata": "01/10/2026 10:06",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": 1500.0
+   "valore_stima": 1500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682552",
@@ -2007,7 +2172,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:07",
    "canali_controllati_il": "27/10/2026 19:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682544",
@@ -2043,7 +2211,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:01",
    "canali_controllati_il": "27/10/2026 17:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682545",
@@ -2079,7 +2250,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:02",
    "canali_controllati_il": "27/10/2026 17:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682547",
@@ -2115,7 +2289,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:03",
    "canali_controllati_il": "27/10/2026 17:58",
-   "valore_stima": 1951.6
+   "valore_stima": 1951.6,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682550",
@@ -2151,7 +2328,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:05",
    "canali_controllati_il": "27/10/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682542",
@@ -2187,7 +2367,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 09:58",
    "canali_controllati_il": "27/10/2026 15:02",
-   "valore_stima": 33600.0
+   "valore_stima": 33600.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682543",
@@ -2223,7 +2406,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 09:59",
    "canali_controllati_il": "27/10/2026 15:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714828",
@@ -2259,7 +2445,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:43",
    "canali_controllati_il": "27/10/2026 14:00",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699637",
@@ -2295,7 +2484,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:59",
    "canali_controllati_il": "27/10/2026 10:53",
-   "valore_stima": 1825.11
+   "valore_stima": 1825.11,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1682556",
@@ -2331,7 +2523,10 @@
    ],
    "pvp_pubblicata": "03/09/2026 10:13",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 9830.08
+   "valore_stima": 9830.08,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703855",
@@ -2367,7 +2562,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 16:37",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": 500.0
+   "valore_stima": 500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680592",
@@ -2403,7 +2601,10 @@
    ],
    "pvp_pubblicata": "28/08/2026 18:09",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699978",
@@ -2439,7 +2640,10 @@
    ],
    "pvp_pubblicata": "21/09/2026 08:59",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699644",
@@ -2475,7 +2679,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 19:09",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 75000.0
+   "valore_stima": 75000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699641",
@@ -2511,7 +2718,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 19:06",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 29500.0
+   "valore_stima": 29500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699634",
@@ -2547,7 +2757,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:56",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 3697.5
+   "valore_stima": 3697.5,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699643",
@@ -2583,7 +2796,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 19:08",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 110000.0
+   "valore_stima": 110000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699640",
@@ -2619,7 +2835,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 19:05",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 105000.0
+   "valore_stima": 105000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701131",
@@ -2655,7 +2874,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 12:24",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699636",
@@ -2691,7 +2913,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:58",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 1223.64
+   "valore_stima": 1223.64,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701108",
@@ -2727,7 +2952,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 12:23",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699628",
@@ -2763,7 +2991,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:51",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 36762.5
+   "valore_stima": 36762.5,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699630",
@@ -2799,7 +3030,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:52",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 4914.06
+   "valore_stima": 4914.06,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699632",
@@ -2835,7 +3069,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:54",
    "canali_controllati_il": "27/10/2026 09:57",
-   "valore_stima": 4914.06
+   "valore_stima": 4914.06,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699624",
@@ -2871,7 +3108,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:47",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 74440.44
+   "valore_stima": 74440.44,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699627",
@@ -2907,7 +3147,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:49",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 34000.0
+   "valore_stima": 34000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701099",
@@ -2943,7 +3186,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 12:16",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699615",
@@ -2979,7 +3225,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:44",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 62769.3
+   "valore_stima": 62769.3,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703929",
@@ -3015,7 +3264,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 17:50",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 12000.0
+   "valore_stima": 12000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699623",
@@ -3051,7 +3303,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:46",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 65483.11
+   "valore_stima": 65483.11,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699608",
@@ -3087,7 +3342,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:38",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6374.65
+   "valore_stima": 6374.65,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703895",
@@ -3123,7 +3381,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 17:08",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 8700.0
+   "valore_stima": 8700.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699609",
@@ -3159,7 +3420,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:39",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6693.75
+   "valore_stima": 6693.75,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699611",
@@ -3195,7 +3459,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:41",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699612",
@@ -3231,7 +3498,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:43",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 66031.07
+   "valore_stima": 66031.07,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699601",
@@ -3267,7 +3537,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:32",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699603",
@@ -3303,7 +3576,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:34",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 5062.78
+   "valore_stima": 5062.78,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699606",
@@ -3339,7 +3615,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:36",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 5206.25
+   "valore_stima": 5206.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699600",
@@ -3375,7 +3654,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:30",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 5631.25
+   "valore_stima": 5631.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699594",
@@ -3411,7 +3693,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:22",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699595",
@@ -3447,7 +3732,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:24",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699596",
@@ -3483,7 +3771,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:26",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699598",
@@ -3519,7 +3810,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:29",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 5326.33
+   "valore_stima": 5326.33,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699586",
@@ -3555,7 +3849,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:14",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 50198.14
+   "valore_stima": 50198.14,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699590",
@@ -3591,7 +3888,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:19",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 29176.25
+   "valore_stima": 29176.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699593",
@@ -3627,7 +3927,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:21",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699584",
@@ -3663,7 +3966,10 @@
    ],
    "pvp_pubblicata": "17/09/2026 18:13",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1693624",
@@ -3699,7 +4005,10 @@
    ],
    "pvp_pubblicata": "11/09/2026 16:32",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714792",
@@ -3735,7 +4044,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:37",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714826",
@@ -3771,7 +4083,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:45",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714791",
@@ -3807,7 +4122,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:35",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714809",
@@ -3843,7 +4161,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:51",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703814",
@@ -3879,7 +4200,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 16:36",
    "canali_controllati_il": "27/10/2026 09:56",
-   "valore_stima": 5000.0
+   "valore_stima": 5000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714799",
@@ -3915,7 +4239,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:47",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703808",
@@ -3951,7 +4278,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 16:33",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": 4500.0
+   "valore_stima": 4500.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714803",
@@ -3987,7 +4317,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:52",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714804",
@@ -4023,7 +4356,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:54",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703802",
@@ -4059,7 +4395,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 16:32",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": 1000.0
+   "valore_stima": 1000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714789",
@@ -4095,7 +4434,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1703790",
@@ -4131,7 +4473,10 @@
    ],
    "pvp_pubblicata": "25/09/2026 16:30",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": 2000.0
+   "valore_stima": 2000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714830",
@@ -4167,7 +4512,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:37",
    "canali_controllati_il": "27/10/2026 09:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714802",
@@ -4203,7 +4551,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:51",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714790",
@@ -4239,7 +4590,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:33",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714786",
@@ -4275,7 +4629,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:28",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714783",
@@ -4311,7 +4668,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:24",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714815",
@@ -4347,7 +4707,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:13",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714834",
@@ -4383,7 +4746,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:20",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714822",
@@ -4419,7 +4785,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:50",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714832",
@@ -4455,7 +4824,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:32",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714810",
@@ -4491,7 +4863,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:50",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714808",
@@ -4527,7 +4902,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:53",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714833",
@@ -4563,7 +4941,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:22",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714831",
@@ -4599,7 +4980,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:33",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714813",
@@ -4635,7 +5019,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:16",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714798",
@@ -4671,7 +5058,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:45",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714811",
@@ -4707,7 +5097,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:49",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714797",
@@ -4743,7 +5136,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:44",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714812",
@@ -4779,7 +5175,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:17",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714817",
@@ -4815,7 +5214,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:10",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714793",
@@ -4851,7 +5253,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:40",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714782",
@@ -4887,7 +5292,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:22",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714784",
@@ -4923,7 +5331,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:25",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714807",
@@ -4959,7 +5370,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:54",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714788",
@@ -4995,7 +5409,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:30",
    "canali_controllati_il": "27/10/2026 08:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714829",
@@ -5031,7 +5448,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:40",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714821",
@@ -5067,7 +5487,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:52",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714824",
@@ -5103,7 +5526,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:48",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714801",
@@ -5139,7 +5565,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:50",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714800",
@@ -5175,7 +5604,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:48",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714819",
@@ -5211,7 +5643,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:01",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714818",
@@ -5247,7 +5682,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:02",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714795",
@@ -5283,7 +5721,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:41",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714816",
@@ -5319,7 +5760,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:12",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714785",
@@ -5355,7 +5799,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:27",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714780",
@@ -5391,7 +5838,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:16",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714806",
@@ -5427,7 +5877,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:56",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714805",
@@ -5463,7 +5916,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:55",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714779",
@@ -5499,7 +5955,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:15",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714781",
@@ -5535,7 +5994,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:20",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714787",
@@ -5571,7 +6033,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:29",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714820",
@@ -5607,7 +6072,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:58",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714778",
@@ -5643,7 +6111,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:09",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714825",
@@ -5679,7 +6150,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:47",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714814",
@@ -5715,7 +6189,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 11:14",
    "canali_controllati_il": "27/10/2026 08:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714796",
@@ -5751,7 +6228,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:43",
    "canali_controllati_il": "27/10/2026 07:59",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714827",
@@ -5787,7 +6267,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:44",
    "canali_controllati_il": "27/10/2026 07:59",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1714823",
@@ -5823,7 +6306,10 @@
    ],
    "pvp_pubblicata": "07/10/2026 10:49",
    "canali_controllati_il": "27/10/2026 07:59",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685969",
@@ -5857,7 +6343,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680630",
@@ -5893,7 +6382,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:40",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680631",
@@ -5929,7 +6421,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:42",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680598",
@@ -5965,7 +6460,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:12",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680596",
@@ -6001,7 +6499,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:19",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680629",
@@ -6037,7 +6538,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:38",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680624",
@@ -6073,7 +6577,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:31",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680625",
@@ -6109,7 +6616,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:33",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680626",
@@ -6145,7 +6655,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:34",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680627",
@@ -6181,7 +6694,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:35",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680628",
@@ -6217,7 +6733,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:37",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680613",
@@ -6253,7 +6772,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:10",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680614",
@@ -6289,7 +6811,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:12",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680615",
@@ -6325,7 +6850,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:14",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680616",
@@ -6361,7 +6889,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:15",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680617",
@@ -6397,7 +6928,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:17",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680618",
@@ -6433,7 +6967,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:21",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680619",
@@ -6469,7 +7006,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:24",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680620",
@@ -6505,7 +7045,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:25",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680621",
@@ -6541,7 +7084,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:27",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680622",
@@ -6577,7 +7123,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:29",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680623",
@@ -6613,7 +7162,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:30",
    "canali_controllati_il": "26/10/2026 14:34",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680608",
@@ -6649,7 +7201,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:55",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680609",
@@ -6685,7 +7240,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:58",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680610",
@@ -6721,7 +7279,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:05",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680611",
@@ -6757,7 +7318,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:06",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680612",
@@ -6793,7 +7357,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 15:07",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680604",
@@ -6829,7 +7396,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:37",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680605",
@@ -6865,7 +7435,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:40",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680606",
@@ -6901,7 +7474,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:41",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680607",
@@ -6937,7 +7513,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:45",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685981",
@@ -6971,7 +7550,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680601",
@@ -7007,7 +7589,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:27",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680603",
@@ -7043,7 +7628,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:30",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680597",
@@ -7079,7 +7667,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:17",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680600",
@@ -7115,7 +7706,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:09",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680602",
@@ -7151,7 +7745,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 13:58",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680599",
@@ -7187,7 +7784,10 @@
    ],
    "pvp_pubblicata": "30/08/2026 14:06",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1699980",
@@ -7223,7 +7823,10 @@
    ],
    "pvp_pubblicata": "21/09/2026 08:54",
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685970",
@@ -7257,7 +7860,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685971",
@@ -7291,7 +7897,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685972",
@@ -7325,7 +7934,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685973",
@@ -7359,7 +7971,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685974",
@@ -7393,7 +8008,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685975",
@@ -7427,7 +8045,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685976",
@@ -7461,7 +8082,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685977",
@@ -7495,7 +8119,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685978",
@@ -7529,7 +8156,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685979",
@@ -7563,7 +8193,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685980",
@@ -7597,7 +8230,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685982",
@@ -7631,7 +8267,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:33",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685964",
@@ -7665,7 +8304,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685965",
@@ -7699,7 +8341,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685966",
@@ -7733,7 +8378,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685967",
@@ -7767,7 +8415,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1685968",
@@ -7801,7 +8452,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680590",
@@ -7837,7 +8491,10 @@
    ],
    "pvp_pubblicata": "28/08/2026 18:24",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701396",
@@ -7873,7 +8530,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701399",
@@ -7909,7 +8569,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 15:53",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701401",
@@ -7945,7 +8608,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 15:54",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1701404",
@@ -7981,7 +8647,10 @@
    ],
    "pvp_pubblicata": "22/09/2026 15:55",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652975",
@@ -8017,7 +8686,10 @@
    ],
    "pvp_pubblicata": "27/07/2026 18:30",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686622",
@@ -8053,7 +8725,10 @@
    ],
    "pvp_pubblicata": "10/09/2026 16:04",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686617",
@@ -8089,7 +8764,10 @@
    ],
    "pvp_pubblicata": "10/09/2026 16:02",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686278",
@@ -8125,7 +8803,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:33",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686323",
@@ -8161,7 +8842,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:09",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686313",
@@ -8197,7 +8881,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:58",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686329",
@@ -8233,7 +8920,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:17",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686326",
@@ -8269,7 +8959,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:12",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686327",
@@ -8305,7 +8998,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:14",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686328",
@@ -8341,7 +9037,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:15",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686325",
@@ -8377,7 +9076,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:12",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686315",
@@ -8413,7 +9115,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:00",
    "canali_controllati_il": "26/10/2026 12:25",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686316",
@@ -8449,7 +9154,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:02",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686317",
@@ -8485,7 +9193,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:03",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686318",
@@ -8521,7 +9232,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:04",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686319",
@@ -8557,7 +9271,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:05",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686320",
@@ -8593,7 +9310,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:06",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686321",
@@ -8629,7 +9349,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:07",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686324",
@@ -8665,7 +9388,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:10",
    "canali_controllati_il": "26/10/2026 14:32",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686284",
@@ -8701,7 +9427,10 @@
    "pvp_pubblicata": "09/09/2026 17:37",
    "valore_stima": null,
    "canali_controllati_il": "09/11/2026 03:42",
-   "dett": true
+   "dett": true,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686311",
@@ -8737,7 +9466,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:55",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686312",
@@ -8773,7 +9505,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:56",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686299",
@@ -8809,7 +9544,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:02",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686301",
@@ -8845,7 +9583,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:03",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686303",
@@ -8881,7 +9622,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:47",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686305",
@@ -8917,7 +9661,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:48",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686308",
@@ -8953,7 +9700,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:50",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686309",
@@ -8989,7 +9739,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:52",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686310",
@@ -9025,7 +9778,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:53",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686293",
@@ -9061,7 +9817,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:54",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686294",
@@ -9097,7 +9856,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:56",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686296",
@@ -9133,7 +9895,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:57",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686297",
@@ -9169,7 +9934,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:59",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686298",
@@ -9205,7 +9973,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 18:01",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686291",
@@ -9241,7 +10012,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:50",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686290",
@@ -9277,7 +10051,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:49",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686292",
@@ -9313,7 +10090,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:53",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686266",
@@ -9349,7 +10129,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:30",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686271",
@@ -9385,7 +10168,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:30",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686273",
@@ -9421,7 +10207,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:31",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686280",
@@ -9457,7 +10246,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:34",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686256",
@@ -9493,7 +10285,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:26",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686262",
@@ -9529,7 +10324,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:27",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686264",
@@ -9565,7 +10363,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:29",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1686249",
@@ -9601,7 +10402,10 @@
    ],
    "pvp_pubblicata": "09/09/2026 17:24",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679782",
@@ -9637,7 +10441,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 12:47",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679784",
@@ -9673,7 +10480,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 14:52",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679790",
@@ -9709,7 +10519,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 14:55",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679789",
@@ -9745,7 +10558,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 14:53",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679794",
@@ -9781,7 +10597,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 14:58",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1680859",
@@ -9817,7 +10636,10 @@
    ],
    "pvp_pubblicata": "31/08/2026 17:33",
    "canali_controllati_il": "26/10/2026 12:24",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678164",
@@ -9853,7 +10675,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:25",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1679792",
@@ -9889,7 +10714,10 @@
    ],
    "pvp_pubblicata": "27/08/2026 14:56",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1637848",
@@ -9925,7 +10753,10 @@
    ],
    "pvp_pubblicata": "08/07/2026 16:49",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644952",
@@ -9961,7 +10792,10 @@
    ],
    "pvp_pubblicata": "17/07/2026 08:48",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1641783",
@@ -9997,7 +10831,10 @@
    ],
    "pvp_pubblicata": "13/07/2026 12:57",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654335",
@@ -10033,7 +10870,10 @@
    ],
    "pvp_pubblicata": "29/07/2026 16:41",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654329",
@@ -10069,7 +10909,10 @@
    ],
    "pvp_pubblicata": "29/07/2026 16:48",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654326",
@@ -10105,7 +10948,10 @@
    ],
    "pvp_pubblicata": "29/07/2026 16:47",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678165",
@@ -10141,7 +10987,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:26",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678178",
@@ -10177,7 +11026,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:36",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678176",
@@ -10213,7 +11065,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:35",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678175",
@@ -10249,7 +11104,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:33",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678174",
@@ -10285,7 +11143,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:32",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678173",
@@ -10321,7 +11182,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:30",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678171",
@@ -10357,7 +11221,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:29",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1678169",
@@ -10393,7 +11260,10 @@
    ],
    "pvp_pubblicata": "25/08/2026 11:27",
    "canali_controllati_il": "26/10/2026 12:23",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1625305",
@@ -10427,7 +11297,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644936",
@@ -10461,7 +11334,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644938",
@@ -10495,7 +11371,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644941",
@@ -10529,7 +11408,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644937",
@@ -10563,7 +11445,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644944",
@@ -10597,7 +11482,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644943",
@@ -10631,7 +11519,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644942",
@@ -10665,7 +11556,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644939",
@@ -10699,7 +11593,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644940",
@@ -10733,7 +11630,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644934",
@@ -10767,7 +11667,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644935",
@@ -10801,7 +11704,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654451",
@@ -10835,7 +11741,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654450",
@@ -10869,7 +11778,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654448",
@@ -10903,7 +11815,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654449",
@@ -10937,7 +11852,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654447",
@@ -10971,7 +11889,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654445",
@@ -11005,7 +11926,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654446",
@@ -11039,7 +11963,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654443",
@@ -11073,7 +12000,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654444",
@@ -11107,7 +12037,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654442",
@@ -11141,7 +12074,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1654441",
@@ -11175,7 +12111,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670949",
@@ -11209,7 +12148,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670947",
@@ -11243,7 +12185,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670948",
@@ -11277,7 +12222,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670944",
@@ -11311,7 +12259,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670946",
@@ -11345,7 +12296,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670943",
@@ -11379,7 +12333,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670942",
@@ -11413,7 +12370,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1670940",
@@ -11447,7 +12407,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658619",
@@ -11480,7 +12443,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658621",
@@ -11513,7 +12479,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658622",
@@ -11546,7 +12515,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658166",
@@ -11579,7 +12551,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658167",
@@ -11612,7 +12587,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658165",
@@ -11645,7 +12623,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658164",
@@ -11678,7 +12659,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658163",
@@ -11711,7 +12695,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668589",
@@ -11744,7 +12731,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1641696",
@@ -11777,7 +12767,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668592",
@@ -11810,7 +12803,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658677",
@@ -11843,7 +12839,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658676",
@@ -11876,7 +12875,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658675",
@@ -11909,7 +12911,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658672",
@@ -11942,7 +12947,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658666",
@@ -11975,7 +12983,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658668",
@@ -12008,7 +13019,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658664",
@@ -12041,7 +13055,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658661",
@@ -12074,7 +13091,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658653",
@@ -12107,7 +13127,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658601",
@@ -12140,7 +13163,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658652",
@@ -12173,7 +13199,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658613",
@@ -12206,7 +13235,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658648",
@@ -12239,7 +13271,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658650",
@@ -12272,7 +13307,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1658644",
@@ -12305,7 +13343,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668661",
@@ -12338,7 +13379,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668683",
@@ -12371,7 +13415,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668671",
@@ -12404,7 +13451,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668686",
@@ -12437,7 +13487,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668691",
@@ -12470,7 +13523,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652947",
@@ -12503,7 +13559,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652956",
@@ -12536,7 +13595,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652960",
@@ -12569,7 +13631,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652961",
@@ -12602,7 +13667,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652963",
@@ -12635,7 +13703,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652965",
@@ -12668,7 +13739,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652966",
@@ -12701,7 +13775,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652968",
@@ -12734,7 +13811,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1652969",
@@ -12767,7 +13847,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668690",
@@ -12800,7 +13883,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668684",
@@ -12833,7 +13919,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668666",
@@ -12866,7 +13955,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1634287",
@@ -12899,7 +13991,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1634252",
@@ -12932,7 +14027,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668693",
@@ -12965,7 +14063,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668694",
@@ -12998,7 +14099,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668692",
@@ -13031,7 +14135,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668687",
@@ -13064,7 +14171,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668688",
@@ -13097,7 +14207,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668689",
@@ -13130,7 +14243,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668685",
@@ -13163,7 +14279,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668682",
@@ -13196,7 +14315,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668677",
@@ -13229,7 +14351,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668678",
@@ -13262,7 +14387,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668679",
@@ -13295,7 +14423,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668680",
@@ -13328,7 +14459,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668681",
@@ -13361,7 +14495,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668676",
@@ -13394,7 +14531,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668670",
@@ -13427,7 +14567,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668672",
@@ -13460,7 +14603,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668673",
@@ -13493,7 +14639,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668674",
@@ -13526,7 +14675,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668675",
@@ -13559,7 +14711,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668660",
@@ -13592,7 +14747,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668663",
@@ -13625,7 +14783,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668664",
@@ -13658,7 +14819,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668668",
@@ -13691,7 +14855,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668657",
@@ -13724,7 +14891,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668652",
@@ -13757,7 +14927,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668656",
@@ -13790,7 +14963,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668658",
@@ -13823,7 +14999,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1668650",
@@ -13856,7 +15035,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1644906",
@@ -13889,7 +15071,10 @@
    "pvp_pubblicata": null,
    "canali_controllati_il": null,
    "cloud_pubblicata": null,
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   }
  ]
 }

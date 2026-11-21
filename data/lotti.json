@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-20T21:07:41+00:00",
+ "aggiornato": "2026-11-21T08:19:17+00:00",
  "lotti": [
   {
    "id": "1672891",
@@ -21,19 +21,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "24/08/2026 11:12",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 16200.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
-   "genere": null,
-   "categoria": null,
-   "beni_tipologie": null,
-   "pvp_pubblicata": null,
-   "canali_controllati_il": null,
-   "valore_stima": null
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
+   "genere": "IMMOBILI",
+   "categoria": "ALTRA CATEGORIA",
+   "beni_tipologie": [
+    "ALTRA CATEGORIA"
+   ],
+   "pvp_pubblicata": "24/08/2026 11:12",
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1716362",
@@ -55,21 +60,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "08/10/2026 18:53",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 1784362.5,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE COMMERCIALE",
    "beni_tipologie": [
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "08/10/2026 18:53",
-   "canali_controllati_il": "26/10/2026 12:21",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1716365",
@@ -91,21 +99,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "08/10/2026 18:54",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 337062.3,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE COMMERCIALE",
    "beni_tipologie": [
     "IMMOBILE COMMERCIALE"
    ],
    "pvp_pubblicata": "08/10/2026 18:54",
-   "canali_controllati_il": "26/10/2026 12:21",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1716425",
@@ -127,21 +138,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "08/10/2026 18:57",
    "lotto": "Lotto unico",
-   "dett": true,
    "prezzo_base": 62298.81,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "08/10/2026 18:57",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1732733",
@@ -163,21 +177,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "23/10/2026 18:22",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 768.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
    "beni_tipologie": [
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "23/10/2026 18:22",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1732737",
@@ -199,21 +216,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "23/10/2026 18:23",
    "lotto": "Lotto 7",
-   "dett": true,
    "prezzo_base": 1280.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "MACCHINARI, UTENSILI, MATERIE PRIME",
    "beni_tipologie": [
     "MACCHINARI, UTENSILI, MATERIE PRIME"
    ],
    "pvp_pubblicata": "23/10/2026 18:23",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1736634",
@@ -235,21 +255,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "04/11/2026 17:36",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 1000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "04/11/2026 17:36",
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1736646",
@@ -271,21 +294,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "04/11/2026 17:38",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 4000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "04/11/2026 17:38",
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1725700",
@@ -307,21 +333,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "15/10/2026 09:49",
    "lotto": "Lotto unico",
-   "dett": true,
    "prezzo_base": 537637.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:49",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:16",
+   "dett": true
   },
   {
    "id": "1725707",
@@ -343,21 +372,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "15/10/2026 09:51",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 161367.19,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:51",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1725712",
@@ -379,21 +411,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "15/10/2026 09:53",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 106787.1,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:53",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1725757",
@@ -415,21 +450,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "15/10/2026 09:54",
    "lotto": "Lotto unico",
-   "dett": true,
    "prezzo_base": 87802.73,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "AZIENDE",
    "categoria": "CESSIONE E AFFITTO D'AZIENDA",
    "beni_tipologie": [
     "CESSIONE E AFFITTO D'AZIENDA"
    ],
    "pvp_pubblicata": "15/10/2026 09:54",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732961",
@@ -451,21 +489,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:07",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 536000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "26/10/2026 19:07",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732963",
@@ -487,21 +528,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:09",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 5096.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:09",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732965",
@@ -523,21 +567,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:10",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 10450.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:10",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732966",
@@ -559,21 +606,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:11",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 3068.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:11",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732969",
@@ -595,21 +645,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:13",
    "lotto": "Lotto 5",
-   "dett": true,
    "prezzo_base": 44930.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:13",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1732974",
@@ -631,21 +684,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:15",
    "lotto": "Lotto 6",
-   "dett": true,
    "prezzo_base": 50044.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:15",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733010",
@@ -667,21 +723,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:16",
    "lotto": "Lotto 7",
-   "dett": true,
    "prezzo_base": 46592.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:16",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733013",
@@ -703,21 +762,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:17",
    "lotto": "Lotto 9",
-   "dett": true,
    "prezzo_base": 4160.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "ALTRA CATEGORIA",
    "beni_tipologie": [
     "ALTRA CATEGORIA"
    ],
    "pvp_pubblicata": "26/10/2026 19:17",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733018",
@@ -739,21 +801,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:18",
    "lotto": "Lotto 10",
-   "dett": true,
    "prezzo_base": 24300.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "26/10/2026 19:18",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733024",
@@ -775,21 +840,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:19",
    "lotto": "Lotto 11",
-   "dett": true,
    "prezzo_base": 19125.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "IMMOBILI",
    "categoria": "IMMOBILE RESIDENZIALE",
    "beni_tipologie": [
     "IMMOBILE RESIDENZIALE"
    ],
    "pvp_pubblicata": "26/10/2026 19:19",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733026",
@@ -811,21 +879,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:24",
    "lotto": "Lotto 12",
-   "dett": true,
    "prezzo_base": 1773.47,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "26/10/2026 19:24",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733027",
@@ -847,21 +918,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:25",
    "lotto": "Lotto 14",
-   "dett": true,
    "prezzo_base": 506.71,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "26/10/2026 19:25",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733029",
@@ -883,21 +957,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:26",
    "lotto": "Lotto 15",
-   "dett": true,
    "prezzo_base": 1013.41,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "26/10/2026 19:26",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733030",
@@ -919,21 +996,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:27",
    "lotto": "Lotto 16",
-   "dett": true,
    "prezzo_base": 2533.54,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:27",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733032",
@@ -955,21 +1035,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:29",
    "lotto": "Lotto 17",
-   "dett": true,
    "prezzo_base": 2837.54,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:29",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733034",
@@ -991,21 +1074,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:30",
    "lotto": "Lotto 18",
-   "dett": true,
    "prezzo_base": 1520.12,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:30",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733035",
@@ -1027,21 +1113,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:31",
    "lotto": "Lotto 19",
-   "dett": true,
    "prezzo_base": 3471.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:31",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733036",
@@ -1063,21 +1152,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:32",
    "lotto": "Lotto 20",
-   "dett": true,
    "prezzo_base": 896.89,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:32",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733037",
@@ -1099,21 +1191,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:33",
    "lotto": "Lotto 21",
-   "dett": true,
    "prezzo_base": 6080.47,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:33",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733039",
@@ -1135,21 +1230,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:34",
    "lotto": "Lotto 22",
-   "dett": true,
    "prezzo_base": 1246.5,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:34",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733040",
@@ -1171,21 +1269,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:35",
    "lotto": "Lotto 23",
-   "dett": true,
    "prezzo_base": 2508.2,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:35",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733041",
@@ -1207,21 +1308,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:36",
    "lotto": "Lotto 24",
-   "dett": true,
    "prezzo_base": 2026.82,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:36",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733042",
@@ -1243,21 +1347,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:38",
    "lotto": "Lotto 25",
-   "dett": true,
    "prezzo_base": 1773.47,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:38",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733043",
@@ -1279,21 +1386,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:39",
    "lotto": "Lotto 26",
-   "dett": true,
    "prezzo_base": 658.72,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:39",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733045",
@@ -1315,21 +1425,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:40",
    "lotto": "Lotto 27",
-   "dett": true,
    "prezzo_base": 2280.18,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:40",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733048",
@@ -1351,21 +1464,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:41",
    "lotto": "Lotto 28",
-   "dett": true,
    "prezzo_base": 760.06,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:41",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:17",
+   "dett": true
   },
   {
    "id": "1733049",
@@ -1387,21 +1503,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:42",
    "lotto": "Lotto 29",
-   "dett": true,
    "prezzo_base": 12667.63,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:42",
-   "canali_controllati_il": "26/10/2026 20:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733050",
@@ -1423,21 +1542,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:43",
    "lotto": "Lotto 30",
-   "dett": true,
    "prezzo_base": 1064.08,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:43",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733051",
@@ -1459,21 +1581,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:44",
    "lotto": "Lotto 31",
-   "dett": true,
    "prezzo_base": 1938.7,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:44",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733052",
@@ -1495,21 +1620,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:45",
    "lotto": "Lotto 32",
-   "dett": true,
    "prezzo_base": 12667.63,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:45",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733053",
@@ -1531,21 +1659,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:46",
    "lotto": "Lotto 33",
-   "dett": true,
    "prezzo_base": 1064.08,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:46",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733054",
@@ -1567,21 +1698,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:47",
    "lotto": "Lotto 34",
-   "dett": true,
    "prezzo_base": 1938.7,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:47",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733055",
@@ -1603,21 +1737,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:49",
    "lotto": "Lotto 35",
-   "dett": true,
    "prezzo_base": 6834.5,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:49",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733056",
@@ -1639,21 +1776,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:51",
    "lotto": "Lotto 36",
-   "dett": true,
    "prezzo_base": 11350.22,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:51",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733057",
@@ -1675,21 +1815,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:52",
    "lotto": "Lotto 37",
-   "dett": true,
    "prezzo_base": 10134.13,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:52",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733058",
@@ -1711,21 +1854,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:53",
    "lotto": "Lotto 38",
-   "dett": true,
    "prezzo_base": 1165.43,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:53",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733059",
@@ -1747,21 +1893,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:54",
    "lotto": "Lotto 39",
-   "dett": true,
    "prezzo_base": 1368.11,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:54",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733060",
@@ -1783,21 +1932,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:56",
    "lotto": "Lotto 41",
-   "dett": true,
    "prezzo_base": 760.03,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:56",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1733061",
@@ -1819,21 +1971,24 @@
    "termine_bonifico": "25/11/2026 13:00",
    "pubblicata": "26/10/2026 19:57",
    "lotto": "Lotto 42",
-   "dett": true,
    "prezzo_base": 1266.76,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "ARREDAMENTO ED ELETTRODOMESTICI",
    "beni_tipologie": [
     "ARREDAMENTO ED ELETTRODOMESTICI"
    ],
    "pvp_pubblicata": "26/10/2026 19:57",
-   "canali_controllati_il": "26/10/2026 20:02",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1706372",
@@ -1855,19 +2010,22 @@
    "termine_bonifico": "27/11/2026 12:00",
    "pubblicata": "01/10/2026 17:48",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": null,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Manifestazione aperta",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1706373",
@@ -1889,19 +2047,22 @@
    "termine_bonifico": "27/11/2026 12:00",
    "pubblicata": "01/10/2026 17:48",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": null,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Manifestazione aperta",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1725834",
@@ -1923,19 +2084,22 @@
    "termine_bonifico": "27/11/2026 12:00",
    "pubblicata": "15/10/2026 15:04",
    "lotto": "",
-   "dett": true,
    "prezzo_base": null,
-   "offerte": 0,
+   "offerte": 1,
    "rilanci": 0,
    "stato_asta": "Manifestazione aperta",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1730397",
@@ -1957,21 +2121,24 @@
    "termine_bonifico": "23/11/2026 13:00",
    "pubblicata": "20/10/2026 16:42",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 131.25,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": "MOBILI",
    "categoria": "AUTOVEICOLI E CICLI",
    "beni_tipologie": [
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/10/2026 16:42",
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1730491",
@@ -1993,19 +2160,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "22/10/2026 10:11",
    "lotto": "Lotto 6",
-   "dett": true,
    "prezzo_base": 4000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736534",
@@ -2027,19 +2197,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 1",
-   "dett": true,
    "prezzo_base": 3500.0,
-   "offerte": 0,
+   "offerte": 1,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736535",
@@ -2061,19 +2234,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 2",
-   "dett": true,
    "prezzo_base": 7000.0,
-   "offerte": 0,
+   "offerte": 1,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736536",
@@ -2095,19 +2271,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 3",
-   "dett": true,
    "prezzo_base": 1500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736537",
@@ -2129,19 +2308,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 4",
-   "dett": true,
    "prezzo_base": 5000.0,
-   "offerte": 0,
+   "offerte": 1,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736538",
@@ -2163,19 +2345,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 6",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736539",
@@ -2197,19 +2382,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 7",
-   "dett": true,
    "prezzo_base": 800.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736540",
@@ -2231,19 +2419,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 8",
-   "dett": true,
    "prezzo_base": 500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736541",
@@ -2265,19 +2456,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 9",
-   "dett": true,
    "prezzo_base": 2500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736542",
@@ -2299,19 +2493,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 10",
-   "dett": true,
    "prezzo_base": 500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736543",
@@ -2333,19 +2530,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 11",
-   "dett": true,
    "prezzo_base": 2500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736544",
@@ -2367,19 +2567,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 13",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736545",
@@ -2401,19 +2604,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 14",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736546",
@@ -2435,19 +2641,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 15",
-   "dett": true,
    "prezzo_base": 1500.0,
-   "offerte": 0,
+   "offerte": 1,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736547",
@@ -2469,19 +2678,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 16",
-   "dett": true,
    "prezzo_base": 1500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:18",
+   "dett": true
   },
   {
    "id": "1736548",
@@ -2503,19 +2715,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 17",
-   "dett": true,
    "prezzo_base": 2500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736549",
@@ -2537,19 +2752,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 18",
-   "dett": true,
    "prezzo_base": 1000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736550",
@@ -2571,19 +2789,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 20",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736551",
@@ -2605,19 +2826,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 21",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736552",
@@ -2639,19 +2863,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 22",
-   "dett": true,
    "prezzo_base": 2500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736553",
@@ -2673,19 +2900,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 23",
-   "dett": true,
    "prezzo_base": 1500.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736554",
@@ -2707,19 +2937,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 24",
-   "dett": true,
    "prezzo_base": 1850.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736555",
@@ -2741,19 +2974,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 25",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736556",
@@ -2775,19 +3011,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 26",
-   "dett": true,
    "prezzo_base": 2000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736557",
@@ -2809,19 +3048,22 @@
    "termine_bonifico": "30/11/2026 13:00",
    "pubblicata": "04/11/2026 16:34",
    "lotto": "Lotto 27",
-   "dett": true,
    "prezzo_base": 4000.0,
    "offerte": 0,
    "rilanci": 0,
    "stato_asta": "Gara non avviata - Iscrizioni aperte",
    "stato_asta_il": null,
    "avviso_gara": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null,
    "genere": null,
    "categoria": null,
    "beni_tipologie": null,
    "pvp_pubblicata": null,
-   "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "canali_controllati_il": "21/11/2026 09:19",
+   "dett": true
   },
   {
    "id": "1736558",
@@ -2855,7 +3097,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736559",
@@ -2889,7 +3134,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736560",
@@ -2923,7 +3171,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736561",
@@ -2957,7 +3208,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736562",
@@ -2991,7 +3245,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736563",
@@ -3025,7 +3282,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736564",
@@ -3059,7 +3319,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736565",
@@ -3093,7 +3356,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736566",
@@ -3127,7 +3393,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736567",
@@ -3161,7 +3430,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1730414",
@@ -3197,7 +3469,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 16:43",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1730420",
@@ -3233,7 +3508,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 16:44",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1730426",
@@ -3269,7 +3547,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 16:45",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1732262",
@@ -3305,7 +3586,10 @@
    ],
    "pvp_pubblicata": "23/10/2026 09:13",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1732263",
@@ -3341,7 +3625,10 @@
    ],
    "pvp_pubblicata": "23/10/2026 09:14",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1732265",
@@ -3377,7 +3664,10 @@
    ],
    "pvp_pubblicata": "23/10/2026 09:17",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1732267",
@@ -3413,7 +3703,10 @@
    ],
    "pvp_pubblicata": "23/10/2026 09:19",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738428",
@@ -3449,7 +3742,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:26",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738430",
@@ -3485,7 +3781,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:34",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738432",
@@ -3521,7 +3820,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:36",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738434",
@@ -3557,7 +3859,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:39",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738436",
@@ -3593,7 +3898,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:42",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 1200.0
+   "valore_stima": 1200.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738437",
@@ -3629,7 +3937,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:44",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 250.0
+   "valore_stima": 250.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738438",
@@ -3665,7 +3976,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:45",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 150.0
+   "valore_stima": 150.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738439",
@@ -3701,7 +4015,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:46",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 100.0
+   "valore_stima": 100.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738440",
@@ -3737,7 +4054,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:47",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 1700.0
+   "valore_stima": 1700.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738441",
@@ -3773,7 +4093,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:48",
    "canali_controllati_il": "06/11/2026 16:56",
-   "valore_stima": 1000.0
+   "valore_stima": 1000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1730387",
@@ -3809,7 +4132,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 16:39",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736531",
@@ -3845,7 +4171,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 18:49",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736578",
@@ -3881,7 +4210,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 18:59",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736588",
@@ -3917,7 +4249,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:00",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 50198.14
+   "valore_stima": 50198.14,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736596",
@@ -3953,7 +4288,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:04",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 29176.25
+   "valore_stima": 29176.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736603",
@@ -3989,7 +4327,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:06",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736613",
@@ -4025,7 +4366,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:09",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736616",
@@ -4061,7 +4405,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:10",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736619",
@@ -4097,7 +4444,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:11",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736624",
@@ -4133,7 +4483,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:13",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 5326.33
+   "valore_stima": 5326.33,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736625",
@@ -4169,7 +4522,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:15",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 5631.25
+   "valore_stima": 5631.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736629",
@@ -4205,7 +4561,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:17",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6481.25
+   "valore_stima": 6481.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736633",
@@ -4241,7 +4600,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:18",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 5062.78
+   "valore_stima": 5062.78,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736643",
@@ -4277,7 +4639,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:19",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 5206.25
+   "valore_stima": 5206.25,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736644",
@@ -4313,7 +4678,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:21",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6374.65
+   "valore_stima": 6374.65,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736645",
@@ -4349,7 +4717,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:23",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 6693.75
+   "valore_stima": 6693.75,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736647",
@@ -4385,7 +4756,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:26",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736649",
@@ -4421,7 +4795,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:27",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 66031.07
+   "valore_stima": 66031.07,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736651",
@@ -4457,7 +4834,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:28",
    "canali_controllati_il": "04/11/2026 22:55",
-   "valore_stima": 62769.3
+   "valore_stima": 62769.3,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736652",
@@ -4493,7 +4873,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:30",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 65483.11
+   "valore_stima": 65483.11,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736653",
@@ -4529,7 +4912,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:31",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 74440.44
+   "valore_stima": 74440.44,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736655",
@@ -4565,7 +4951,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:32",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 34000.0
+   "valore_stima": 34000.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736657",
@@ -4601,7 +4990,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:33",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 36762.5
+   "valore_stima": 36762.5,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736659",
@@ -4637,7 +5029,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:34",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 4914.06
+   "valore_stima": 4914.06,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736660",
@@ -4673,7 +5068,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:35",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 4914.06
+   "valore_stima": 4914.06,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736663",
@@ -4709,7 +5107,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:37",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 3697.5
+   "valore_stima": 3697.5,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1736665",
@@ -4745,7 +5146,10 @@
    ],
    "pvp_pubblicata": "04/11/2026 19:38",
    "canali_controllati_il": "04/11/2026 22:56",
-   "valore_stima": 1223.64
+   "valore_stima": 1223.64,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738929",
@@ -4779,7 +5183,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738930",
@@ -4813,7 +5220,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738931",
@@ -4847,7 +5257,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738932",
@@ -4881,7 +5294,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738933",
@@ -4915,7 +5331,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738934",
@@ -4949,7 +5368,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738935",
@@ -4983,7 +5405,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738936",
@@ -5017,7 +5442,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738937",
@@ -5051,7 +5479,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738938",
@@ -5085,7 +5516,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738939",
@@ -5119,7 +5553,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738940",
@@ -5153,7 +5590,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738941",
@@ -5187,7 +5627,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738942",
@@ -5221,7 +5664,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738943",
@@ -5255,7 +5701,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738944",
@@ -5289,7 +5738,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738945",
@@ -5323,7 +5775,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738946",
@@ -5357,7 +5812,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1739000",
@@ -5393,7 +5851,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 17:32",
    "canali_controllati_il": "06/11/2026 22:30",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747878",
@@ -5429,7 +5890,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:07",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747880",
@@ -5465,7 +5929,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:11",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747881",
@@ -5501,7 +5968,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:13",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747884",
@@ -5537,7 +6007,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:15",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747886",
@@ -5573,7 +6046,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:16",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747897",
@@ -5609,7 +6085,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:18",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747904",
@@ -5645,7 +6124,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:18",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747906",
@@ -5681,7 +6163,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:19",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747907",
@@ -5717,7 +6202,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:20",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747908",
@@ -5753,7 +6241,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:21",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747909",
@@ -5789,7 +6280,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:21",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747912",
@@ -5825,7 +6319,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:22",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747913",
@@ -5861,7 +6358,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:24",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747915",
@@ -5897,7 +6397,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:25",
    "canali_controllati_il": "14/11/2026 20:11",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747916",
@@ -5933,7 +6436,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:26",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747917",
@@ -5969,7 +6475,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:26",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747918",
@@ -6005,7 +6514,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:27",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747920",
@@ -6041,7 +6553,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:28",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747921",
@@ -6077,7 +6592,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:29",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747922",
@@ -6113,7 +6631,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:32",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747923",
@@ -6149,7 +6670,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:34",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747924",
@@ -6185,7 +6709,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:36",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1748227",
@@ -6221,7 +6748,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:38",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1748817",
@@ -6257,7 +6787,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:58",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1748818",
@@ -6293,7 +6826,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 17:00",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1748819",
@@ -6329,7 +6865,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 16:09",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1748824",
@@ -6365,7 +6904,10 @@
    ],
    "pvp_pubblicata": "14/11/2026 17:02",
    "canali_controllati_il": "14/11/2026 20:12",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1729958",
@@ -6401,7 +6943,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 09:22",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1729960",
@@ -6437,7 +6982,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 10:07",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1729961",
@@ -6473,7 +7021,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 10:10",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1729963",
@@ -6509,7 +7060,10 @@
    ],
    "pvp_pubblicata": "20/10/2026 10:15",
    "canali_controllati_il": "26/10/2026 12:22",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1738401",
@@ -6545,7 +7099,10 @@
    ],
    "pvp_pubblicata": "06/11/2026 09:24",
    "canali_controllati_il": "06/11/2026 16:57",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1754804",
@@ -6579,7 +7136,10 @@
    "beni_tipologie": null,
    "pvp_pubblicata": null,
    "canali_controllati_il": "18/11/2026 22:58",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1752371",
@@ -6615,7 +7175,10 @@
    ],
    "pvp_pubblicata": "17/11/2026 17:41",
    "canali_controllati_il": "17/11/2026 23:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1754064",
@@ -6651,7 +7214,10 @@
    ],
    "pvp_pubblicata": "18/11/2026 11:21",
    "canali_controllati_il": "18/11/2026 15:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1754067",
@@ -6687,7 +7253,10 @@
    ],
    "pvp_pubblicata": "18/11/2026 11:25",
    "canali_controllati_il": "18/11/2026 15:01",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1747843",
@@ -6723,7 +7292,10 @@
    ],
    "pvp_pubblicata": "13/11/2026 15:49",
    "canali_controllati_il": "13/11/2026 18:45",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1755173",
@@ -6759,7 +7331,10 @@
    ],
    "pvp_pubblicata": "19/11/2026 17:08",
    "canali_controllati_il": "19/11/2026 22:38",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1755176",
@@ -6795,7 +7370,10 @@
    ],
    "pvp_pubblicata": "19/11/2026 17:10",
    "canali_controllati_il": "19/11/2026 22:38",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1743725",
@@ -6831,7 +7409,10 @@
    ],
    "pvp_pubblicata": "11/11/2026 17:25",
    "canali_controllati_il": "11/11/2026 23:42",
-   "valore_stima": 136866.8
+   "valore_stima": 136866.8,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1743728",
@@ -6867,7 +7448,10 @@
    ],
    "pvp_pubblicata": "11/11/2026 17:26",
    "canali_controllati_il": "11/11/2026 23:42",
-   "valore_stima": 21798.0
+   "valore_stima": 21798.0,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1755496",
@@ -6889,6 +7473,7 @@
    "termine_bonifico": "11/01/2027 13:00",
    "pubblicata": "20/11/2026 17:16",
    "lotto": "Lotto unico",
+   "dett": true,
    "prezzo_base": 1020.0,
    "offerte": 0,
    "rilanci": 0,
@@ -6901,9 +7486,11 @@
     "AUTOVEICOLI E CICLI"
    ],
    "pvp_pubblicata": "20/11/2026 17:16",
-   "valore_stima": null,
    "canali_controllati_il": "20/11/2026 22:07",
-   "dett": true
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1734981",
@@ -6939,7 +7526,10 @@
    ],
    "pvp_pubblicata": "03/11/2026 08:49",
    "canali_controllati_il": "03/11/2026 11:55",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   },
   {
    "id": "1749107",
@@ -6975,7 +7565,10 @@
    ],
    "pvp_pubblicata": "17/11/2026 15:49",
    "canali_controllati_il": "17/11/2026 23:54",
-   "valore_stima": null
+   "valore_stima": null,
+   "tipo_evento": null,
+   "data_evento": null,
+   "nota_evento": null
   }
  ]
 }
