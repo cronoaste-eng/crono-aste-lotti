@@ -436,6 +436,92 @@ def salva(path, lotti):
     print(f"{path.name}: scritti {len(lotti)} lotti.")
 
 
+# Lotti che si vogliono sicuramente in archivio anche se non sono mai passati dalle liste "concluse"
+# (es. gara sospesa mentre era attiva). Si archiviano una sola volta, poi restano.
+RECUPERO_ID = ("1686285",)
+ATTIVA = re.compile(r"non avviata|gara aperta|attesa|iscrizion", re.I)
+
+
+def lotto_da_pagina(id_):
+    """Ricostruisce la scheda di un lotto dalla sola pagina del bene (quando non e' in nessuna lista)."""
+    r = scarica(f"{BASE}/vendita/x-{id_}.html")
+    soup = BeautifulSoup(r.text, "html.parser")
+    canon = soup.select_one("link[rel=canonical]")
+    url = canon.get("href", "") if canon else r.url
+    og = soup.select_one('meta[property="og:image"]')
+    t = text(soup.select_one("title"))
+    for tag in soup(["script", "style"]):
+        tag.decompose()
+    tt = text(soup)
+    m = re.search(r"Tribunale\s*:\s*(.{2,60}?)\s+Referente", tt)
+    proc = re.search(r"Procedura\s*n\.?\s*:?\s*(\d+/\d{4})", tt, re.I)
+    tipo = re.search(r"Tipo vendita\s*:\s*(.+?)\s+Prezzo base", tt)
+    ini = re.search(r"Data vendita\s*:\s*" + DATA_ORA, tt)
+    ter = re.search(r"Termine vendita\s*:\s*" + DATA_ORA, tt)
+    d = parse_dettagli(r.text)
+    l = {
+        "id": str(id_),
+        "titolo": (t[:100].rstrip() + "...") if len(t) > 100 else t,
+        "tribunale": m.group(1).strip(" -") if m else "",
+        "procedura": proc.group(1).strip() if proc else "",
+        "tipo": tipo.group(1).strip() if tipo else "",
+        "prezzo": d.get("prezzo_base"),
+        "etichetta": "Prezzo base",
+        "inizio": f"{ini.group(1)} {ini.group(2)}" if ini else "",
+        "termine": f"{ter.group(1)} {ter.group(2)}" if ter else "",
+        "stato": "conclusa",
+        "esito": "",
+        "foto": og.get("content", "") if og else "",
+        "url": url,
+    }
+    l.update(d)
+    l["dett"] = True
+    applica_stato(l)
+    return l
+
+
+def recupera_scomparsi(prec, attive_ids, concluse_ids, archivio, cache, storico):
+    """Lotti che erano nell'elenco attive e ora non sono ne' tra le attive ne' tra le concluse (es. gara sospesa):
+    legge la loro pagina e li porta in archivio con il loro stato. Restituisce (lotti, errori)."""
+    da_fare = [i for i in prec if i not in attive_ids and i not in concluse_ids and i not in archivio]
+    da_fare += [i for i in RECUPERO_ID if i not in archivio and i not in da_fare and i not in attive_ids and i not in concluse_ids]
+    trovati, errori = [], 0
+    for i in da_fare:
+        try:
+            if i in prec:
+                l = dict(prec[i])
+                r = scarica(l["url"])
+                l.update(parse_dettagli(r.text))
+                l["dett"] = True
+                l["stato"] = "conclusa"
+                l["esito"] = ""
+                applica_stato(l)
+            else:
+                l = lotto_da_pagina(i)
+        except requests.HTTPError as e:
+            if i in prec and e.response is not None and e.response.status_code < 500:
+                l = dict(prec[i])  # pagina non piu' raggiungibile: si tiene quello che si sapeva
+                l["stato"] = "conclusa"
+                l["esito"] = ""
+                applica_stato(l)
+            else:
+                print(f"Recupero lotto {i} non riuscito: {e}", file=sys.stderr)
+                errori += 1
+                continue
+        except Exception as e:  # noqa: BLE001
+            print(f"Recupero lotto {i} non riuscito: {e}", file=sys.stderr)
+            errori += 1
+            continue
+        if l["stato"] != "sospesa" and ATTIVA.search(l.get("stato_asta") or ""):
+            print(f"Lotto {i} non in lista ma ancora attivo ({l.get('stato_asta')}): non archiviato.", file=sys.stderr)
+            continue
+        segna_cloud([l], cache, storico, False)
+        print(f"Lotto {i} ({l.get('lotto')}, {l.get('stato')}, {l.get('stato_asta')}) portato in archivio.")
+        trovati.append(l)
+        time.sleep(1)
+    return trovati, errori
+
+
 def main():
     errori = 0
     budget = [MAX_DETTAGLI]
@@ -447,15 +533,17 @@ def main():
     except (OSError, ValueError):
         storico = {}
 
-    # 1) vendite attive: sostituiscono il file precedente
+    prec = {l["id"]: l for l in carica(DATA / "lotti.json")}  # elenco attive della lettura precedente
+
+    # 1) vendite attive: lette ora, salvate dopo aver controllato i lotti scomparsi
+    attive_pronte = None
     try:
         attive = leggi(1)
-        prec = len(carica(DATA / "lotti.json"))
-        if attive and prec >= 10 and len(attive) < prec * 0.5:
-            print(f"Lettura sospetta ({len(attive)} contro {prec}): lascio lotti.json com'è.", file=sys.stderr)
+        if attive and len(prec) >= 10 and len(attive) < len(prec) * 0.5:
+            print(f"Lettura sospetta ({len(attive)} contro {len(prec)}): lascio lotti.json com'è.", file=sys.stderr)
             errori += 1
         elif attive:
-            salva(DATA / "lotti.json", arricchisci(segna_cloud(attive, cache, storico, True), cache, budget))
+            attive_pronte = arricchisci(segna_cloud(attive, cache, storico, True), cache, budget)
         else:
             print("Nessun lotto attivo letto: lascio lotti.json com'è.", file=sys.stderr)
             errori += 1
@@ -464,6 +552,7 @@ def main():
         errori += 1
 
     # 2) vendite concluse: si accumulano nell'archivio
+    recupero_fallito = False
     try:
         concluse = leggi(2) + leggi(3)
         if concluse:
@@ -471,6 +560,15 @@ def main():
             archivio = {l["id"]: l for l in carica(DATA / "archivio.json")}
             for l in concluse:
                 archivio[l["id"]] = l
+            # lotti spariti dalle attive senza comparire tra le concluse (es. gara sospesa): non vanno persi
+            if attive_pronte is not None:
+                trovati, err = recupera_scomparsi(
+                    prec, {l["id"] for l in attive_pronte}, {l["id"] for l in concluse}, archivio, cache, storico)
+                for l in trovati:
+                    archivio[l["id"]] = l
+                if err:
+                    errori += err
+                    recupero_fallito = True  # riprova alla prossima lettura: lotti.json resta quello di prima
             # dalla più recente alla più vecchia (data di termine gg/mm/aaaa hh:mm)
             def chiave(l):
                 g = re.match(r"(\d+)/(\d+)/(\d+)\s+(\d+):(\d+)", l.get("termine", ""))
@@ -481,6 +579,11 @@ def main():
     except Exception as e:  # noqa: BLE001
         print("Errore archivio:", e, file=sys.stderr)
         errori += 1
+        if attive_pronte is not None and set(prec) - {l["id"] for l in attive_pronte}:
+            recupero_fallito = True  # lotti spariti non ancora controllati: tengo la lista precedente e riprovo
+
+    if attive_pronte is not None and not recupero_fallito:
+        salva(DATA / "lotti.json", attive_pronte)
 
     sys.exit(1 if errori else 0)
 
