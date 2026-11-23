@@ -1,12 +1,12 @@
 {
- "aggiornato": "2026-11-23T18:52:14+00:00",
+ "aggiornato": "2026-11-23T19:02:46+00:00",
  "lotti": [
   {
    "id": "1734051",
-   "offerte": 0,
-   "rilanci": 0,
-   "prezzo": 1225000.0,
-   "etichetta": "Prezzo base",
+   "offerte": null,
+   "rilanci": null,
+   "prezzo": null,
+   "etichetta": "",
    "termine": "",
    "stato_asta": null,
    "stato": "attiva",
