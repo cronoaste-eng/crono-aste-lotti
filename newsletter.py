@@ -357,8 +357,9 @@ def salva(p, obj):
 def main():
     ora = dt.datetime.now(ROMA)
     if MODE == "send" and not FORCE:
-        if ora.weekday() != 2 or ora.hour not in (8, 9):
-            print("Fuori orario (serve mercoledi, ore 8-9 italiane): niente da fare.")
+        # finestra larga: i cron di GitHub arrivano anche con ore di ritardo (11-25 nov saltati); il doppio invio lo blocca il controllo sull'indice
+        if ora.weekday() != 2 or not (8 <= ora.hour <= 19):
+            print("Fuori orario (serve mercoledi, ore 8-19 italiane): niente da fare.")
             return 0
     oggi = ora.strftime("%Y-%m-%d")
     indice = carica(os.path.join(ARCH, "index.json"), [])
