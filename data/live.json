@@ -1,6 +1,17 @@
 {
- "aggiornato": "2026-11-26T08:56:00+00:00",
+ "aggiornato": "2026-11-26T09:00:30+00:00",
  "lotti": [
+  {
+   "id": "1733024",
+   "offerte": 1,
+   "rilanci": 0,
+   "prezzo": 16000.0,
+   "etichetta": "Prezzo di aggiudicazione",
+   "termine": "26/11/2026 09:58",
+   "stato_asta": "Gara chiusa - Gara aggiudicata",
+   "stato": "conclusa",
+   "esito": "con offerte"
+  },
   {
    "id": "1734051",
    "offerte": 0,
@@ -9,6 +20,28 @@
    "etichetta": "Prezzo base",
    "termine": "",
    "stato_asta": null,
+   "stato": "attiva",
+   "esito": ""
+  },
+  {
+   "id": "1733018",
+   "offerte": 2,
+   "rilanci": 0,
+   "prezzo": 19440.0,
+   "etichetta": "Miglior offerta",
+   "termine": "26/11/2026 13:00",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
+   "stato": "attiva",
+   "esito": ""
+  },
+  {
+   "id": "1733029",
+   "offerte": 2,
+   "rilanci": 0,
+   "prezzo": 780.0,
+   "etichetta": "Miglior offerta",
+   "termine": "26/11/2026 13:00",
+   "stato_asta": "Gara aperta - Iscrizioni chiuse",
    "stato": "attiva",
    "esito": ""
   },
