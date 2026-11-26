@@ -24,6 +24,8 @@ DATA = Path(__file__).parent / "data"
 LOTTI = DATA / "lotti.json"
 INVIATI = DATA / "inviati.json"
 MAX_PER_ESECUZIONE = 2   # al massimo 2 beni nuovi per ogni giro (ogni ora): messaggi scaglionati
+MAX_ARRETRATO = 6        # se in coda ci sono piu' di SOGLIA_ARRETRATO beni, fino a 6 per giro (smaltisce in 1-2 giorni)
+SOGLIA_ARRETRATO = 10
 ORA_DA, ORA_A = 9, 19    # si invia solo lun-ven dalle 9:00 alle 19:00 (ora italiana); fuori orario i beni aspettano
 MAX_MEMORIA = 3000       # quanti id ricordare
 PIATTAFORMA = "https://cronoaste.fallcoaste.it"
@@ -46,6 +48,12 @@ def euro(n):
 def data_ora(s):
     m = re.search(r"(\d+)/(\d+)/(\d+)\s+(\d+):(\d+)", s or "")
     return datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)), int(m.group(4)), int(m.group(5))) if m else None
+
+
+def scadenza(l):
+    """Termine di deposito piu' vicino (carta o bonifico); se manca, l'inizio dell'asta."""
+    c = [x for x in (data_ora(l.get("termine_carta")), data_ora(l.get("termine_bonifico"))) if x]
+    return min(c) if c else data_ora(l.get("inizio"))
 
 
 def deposito(l):
@@ -127,10 +135,21 @@ def main():
         return
     visti = list(inviati.get("id", []))
     nuovi = [l for l in lotti if l["id"] not in set(visti)]
-    nuovi.sort(key=lambda l: data_ora(l.get("pubblicata")) or datetime.min)
-    print(f"Telegram: {len(nuovi)} beni nuovi.")
+    # Beni col termine di deposito gia' passato: non si annunciano piu' (si segnano come visti, senza invio).
+    adesso_n = adesso.replace(tzinfo=None)
+    scaduti = [l for l in nuovi if scadenza(l) and scadenza(l) <= adesso_n]
+    if scaduti:
+        print(f"Telegram: {len(scaduti)} beni con termine gia' passato, non li annuncio.")
+        if not dry:
+            visti += [l["id"] for l in scaduti]
+            INVIATI.write_text(json.dumps({"id": visti[-MAX_MEMORIA:]}, indent=1), encoding="utf-8")
+    nuovi = [l for l in nuovi if l not in scaduti]
+    # Prima i beni con il termine di deposito piu' vicino (cosi' nessuno esce a ridosso della vendita), poi i piu' vecchi.
+    nuovi.sort(key=lambda l: (scadenza(l) or datetime.max, data_ora(l.get("pubblicata")) or datetime.min))
+    quanti = MAX_ARRETRATO if len(nuovi) > SOGLIA_ARRETRATO else MAX_PER_ESECUZIONE
+    print(f"Telegram: {len(nuovi)} beni nuovi (questa volta fino a {quanti}).")
     mandati = 0
-    for l in nuovi[:MAX_PER_ESECUZIONE]:
+    for l in nuovi[:quanti]:
         try:
             ok = invia(token, chat, l, dry)
         except Exception as ex:  # noqa: BLE001
