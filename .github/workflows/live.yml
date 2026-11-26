@@ -53,4 +53,8 @@ jobs:
               if [ "$n" = "0" ]; then gh workflow run "$w" ${ARG[$w]:-} || true; fi
             done
           fi
+          if [ "$g" -eq 3 ] && [ "$h" -ge 7 ] && [ "$h" -le 17 ]; then   # bollettino del mercoledi: non dipende dal cron di GitHub
+            n=$(gh run list --workflow bollettino.yml --created "$oggi" --event workflow_dispatch -L 10 --json conclusion --jq '[.[]|select(.conclusion!="failure")]|length' 2>/dev/null || echo 1)
+            if [ "$n" = "0" ]; then gh workflow run bollettino.yml -f mode=send -f force=0 || true; fi   # senza mode=send girerebbe in dry
+          fi
           if [ "$fuori" -eq 0 ]; then gh workflow run live.yml || true; fi   # riparte subito, senza aspettare il cron
