@@ -5,7 +5,8 @@ on:
     - cron: "0 8 * * *"   # ogni giorno, circa le 9 in Italia (ora solare; con l ora legale le 10)
   workflow_dispatch:
 
-permissions: {}
+permissions:
+  actions: read
 
 concurrency:
   group: eventi-telegram
@@ -15,7 +16,17 @@ jobs:
   invia:
     runs-on: ubuntu-latest
     steps:
+      - name: Gia' inviato oggi? (il cron di GitHub puo' partire ore dopo il lancio dal ciclo live)
+        id: gia
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          oggi=$(date -u +%F)
+          n=$(gh run list -R "$GITHUB_REPOSITORY" --workflow eventi-telegram.yml --created "$oggi" --status success -L 10 --json databaseId --jq "[.[]|select(.databaseId != $GITHUB_RUN_ID)]|length" || echo 0)
+          echo "fatto=$([ "$n" != "0" ] && echo si || echo no)" >> "$GITHUB_OUTPUT"
+          [ "$n" != "0" ] && echo "Riepilogo di oggi gia' inviato: non lo rimando." || true
       - name: Leggi i numeri e manda il riepilogo
+        if: steps.gia.outputs.fatto != 'si'
         env:
           CHIAVE_EVENTI: ${{ secrets.CHIAVE_EVENTI }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}

@@ -1,0 +1,46 @@
+name: Controllo notturno
+run-name: Controllo notturno (${{ inputs.mode || 'send' }})
+
+# Avvio principale: Worker Cloudflare avvio-workflows alle 23:00 UTC (mezzanotte in Italia d'inverno, l'1 d'estate),
+# con mode=send. Riserva: questo cron (i cron di GitHub saltano) e il ciclo live al mattino se il report manca.
+# Lo script non rimanda il report se ne e' gia' partito uno nelle ultime 20 ore.
+on:
+  schedule:
+    - cron: "40 23 * * *"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "prova = stampa il report senza inviarlo; send = lo manda alla chat Telegram PRIVATA"
+        type: choice
+        options: ["prova", "send"]
+        default: "prova"
+      giorno:
+        description: "giorno da controllare AAAA-MM-GG (vuoto = ieri, ora italiana)"
+        default: ""
+
+permissions:
+  actions: read
+  contents: read
+
+concurrency:
+  group: controllo-notturno
+  cancel-in-progress: false
+
+jobs:
+  controllo:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Controllo e report
+        env:
+          GH_TOKEN: ${{ github.token }}
+          CONTROLLO_MODE: ${{ inputs.mode || 'send' }}
+          CONTROLLO_GIORNO: ${{ inputs.giorno || '' }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID_PRIVATA: ${{ secrets.TELEGRAM_CHAT_ID_PRIVATA }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          CHIAVE_PROMEMORIA: ${{ secrets.CHIAVE_PROMEMORIA }}
+          NOTIFY_EMAIL: ${{ vars.NOTIFY_EMAIL }}
+          SENDER_EMAIL: ${{ vars.SENDER_EMAIL }}
+        run: python3 controllo_notturno.py

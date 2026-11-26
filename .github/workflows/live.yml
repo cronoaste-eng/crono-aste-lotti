@@ -53,6 +53,11 @@ jobs:
               if [ "$n" = "0" ]; then gh workflow run "$w" ${ARG[$w]:-} || true; fi
             done
           fi
+          if [ "$h" -ge 6 ] && [ "$h" -le 17 ]; then   # controllo del controllo: il report della notte deve esserci (lanciato dal Worker alle 23 UTC)
+            da=$(date -u -d '-20 hours' +%FT%TZ)
+            n=$(gh run list --workflow controllo-notturno.yml --created ">=$da" -L 20 --json conclusion,displayTitle --jq '[.[]|select(.conclusion!="failure" and (.displayTitle|test("send")))]|length' 2>/dev/null || echo 1)
+            if [ "$n" = "0" ]; then gh workflow run controllo-notturno.yml -f mode=send -f giorno= || true; fi   # senza mode=send girerebbe in prova
+          fi
           if [ "$g" -eq 3 ] && [ "$h" -ge 7 ] && [ "$h" -le 17 ]; then   # bollettino del mercoledi: non dipende dal cron di GitHub
             n=$(gh run list --workflow bollettino.yml --created "$oggi" --event workflow_dispatch -L 10 --json conclusion --jq '[.[]|select(.conclusion!="failure")]|length' 2>/dev/null || echo 1)
             if [ "$n" = "0" ]; then gh workflow run bollettino.yml -f mode=send -f force=0 || true; fi   # senza mode=send girerebbe in dry
