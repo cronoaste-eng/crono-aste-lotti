@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-26T17:35:12+00:00",
+ "aggiornato": "2026-11-26T17:41:39+00:00",
  "lotti": [
   {
    "id": "1734051",
@@ -36,9 +36,9 @@
   },
   {
    "id": "1725834",
-   "offerte": 1,
+   "offerte": 2,
    "rilanci": 0,
-   "prezzo": 150.0,
+   "prezzo": 225.0,
    "etichetta": "Prezzo ultimo tentativo",
    "termine": "27/11/2026 12:00",
    "stato_asta": "Manifestazione aperta",
