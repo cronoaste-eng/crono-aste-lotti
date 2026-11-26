@@ -1,5 +1,5 @@
 {
- "aggiornato": "2026-11-26T12:24:47+00:00",
+ "aggiornato": "2026-11-26T12:25:36+00:00",
  "lotti": [
   {
    "id": "1733029",
@@ -25,9 +25,9 @@
   },
   {
    "id": "1733018",
-   "offerte": 13,
-   "rilanci": 11,
-   "prezzo": 26000.0,
+   "offerte": 14,
+   "rilanci": 12,
+   "prezzo": 26500.0,
    "etichetta": "Miglior offerta",
    "termine": "26/11/2026 13:45",
    "stato_asta": "Gara aperta - Iscrizioni chiuse",
