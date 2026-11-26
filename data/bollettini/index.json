@@ -1,5 +1,35 @@
 [
  {
+  "data": "2026-11-25",
+  "data_lunga": "25 novembre 2026",
+  "numero": "n. 48/2026",
+  "oggetto": "Bollettino n. 48/2026 - Beni all'asta: 7 novità, 3 scadenze e altri 6 beni",
+  "nuovi": 7,
+  "scadenze": 3,
+  "altri": 6,
+  "totale": 175
+ },
+ {
+  "data": "2026-11-18",
+  "data_lunga": "18 novembre 2026",
+  "numero": "n. 47/2026",
+  "oggetto": "Bollettino n. 47/2026 - Beni all'asta: 32 novità, 3 scadenze e altri 6 beni",
+  "nuovi": 32,
+  "scadenze": 3,
+  "altri": 6,
+  "totale": 188
+ },
+ {
+  "data": "2026-11-11",
+  "data_lunga": "11 novembre 2026",
+  "numero": "n. 46/2026",
+  "oggetto": "Bollettino n. 46/2026 - Beni all'asta: 92 novità, 3 scadenze e altri 6 beni",
+  "nuovi": 92,
+  "scadenze": 3,
+  "altri": 6,
+  "totale": 169
+ },
+ {
   "data": "2026-11-04",
   "data_lunga": "4 novembre 2026",
   "numero": "n. 45/2026",
