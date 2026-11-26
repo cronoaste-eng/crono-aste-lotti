@@ -1,17 +1,6 @@
 {
- "aggiornato": "2026-11-26T13:05:28+00:00",
+ "aggiornato": "2026-11-26T13:15:38+00:00",
  "lotti": [
-  {
-   "id": "1733018",
-   "offerte": 16,
-   "rilanci": 14,
-   "prezzo": 27500.0,
-   "etichetta": "Prezzo di aggiudicazione",
-   "termine": "26/11/2026 13:45",
-   "stato_asta": "Gara chiusa - Gara aggiudicata",
-   "stato": "conclusa",
-   "esito": "con offerte"
-  },
   {
    "id": "1734051",
    "offerte": 0,
