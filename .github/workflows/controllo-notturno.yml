@@ -1,5 +1,5 @@
 name: Controllo notturno
-run-name: Controllo notturno (${{ inputs.mode || 'send' }})
+run-name: Controllo notturno (${{ inputs.mode || 'send' }}${{ inputs.giorno && format(' {0}', inputs.giorno) || '' }})
 
 # Avvio principale: Worker Cloudflare avvio-workflows alle 23:00 UTC (mezzanotte in Italia d'inverno, l'1 d'estate),
 # con mode=send. Riserva: questo cron (i cron di GitHub saltano) e il ciclo live al mattino se il report manca.

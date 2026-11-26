@@ -629,7 +629,7 @@ def gia_fatto_oggi():
         d = gh("repos/%s/actions/workflows/controllo-notturno.yml/runs?per_page=20&created=%s" % (REPO, urllib.parse.quote(">=" + z(da))))
         mio = os.environ.get("GITHUB_RUN_ID", "")
         for r in d.get("workflow_runs", []):
-            if str(r["id"]) != mio and r.get("conclusion") == "success" and "send" in (r.get("display_title") or ""):
+            if str(r["id"]) != mio and r.get("conclusion") == "success" and (r.get("display_title") or "") == "Controllo notturno (send)":
                 return True
     except Exception:
         pass
